@@ -965,8 +965,7 @@
   {
     "cross_listings" : 
     [
-      "ARCH-4170",
-      "ARCH-4970"
+      "ARCH-4170"
     ]
   },
   "ARCH-6610" : 
@@ -1664,22 +1663,7 @@
     "cross_listings" : 
     [
       "ARTS-6130"
-    ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ARTS 2500",
-          "type" : "course"
-        },
-        {
-          "course" : "ARTS 2540",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    ]
   },
   "ARTS-4160" : 
   {
@@ -3438,8 +3422,18 @@
   {
     "prerequisites" : 
     {
-      "course" : "BIOL 1010",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "BIOL 1010",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 1010",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
     }
   },
   "BIOL-4220" : 
@@ -4576,18 +4570,8 @@
   {
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "PHYS 1200",
-          "type" : "course"
-        },
-        {
-          "course" : "PHYS 1250",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "PHYS 1200",
+      "type" : "course"
     }
   },
   "BMED-2540" : 
@@ -4665,7 +4649,7 @@
       "nested" : 
       [
         {
-          "course" : "MATH 2400",
+          "course" : "MATH 2010",
           "type" : "course"
         },
         {
@@ -4677,6 +4661,20 @@
             },
             {
               "course" : "PHYS 1250",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "BMED 2050",
+              "type" : "course"
+            },
+            {
+              "course" : "BMED 2960",
               "type" : "course"
             }
           ],
@@ -5378,10 +5376,6 @@
           "type" : "course"
         },
         {
-          "course" : "CHEM 1300",
-          "type" : "course"
-        },
-        {
           "course" : "CHEM 1110",
           "type" : "course"
         }
@@ -5516,11 +5510,11 @@
       "nested" : 
       [
         {
-          "course" : "CHEM 1200",
+          "course" : "CHEM 2230",
           "type" : "course"
         },
         {
-          "course" : "MATH 1010",
+          "course" : "CHEM 2260",
           "type" : "course"
         }
       ],
@@ -5553,18 +5547,8 @@
   {
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "CHEM 2250",
-          "type" : "course"
-        },
-        {
-          "course" : "CHEM 2210",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "CHEM 2250",
+      "type" : "course"
     }
   },
   "CHEM-2440" : 
@@ -5881,18 +5865,8 @@
   {
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "CHEM 2210",
-          "type" : "course"
-        },
-        {
-          "course" : "CHEM 2250",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "CHEM 2250",
+      "type" : "course"
     }
   },
   "CHEM-4620" : 
@@ -6382,18 +6356,8 @@
     ],
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "CHME 2010",
-          "type" : "course"
-        },
-        {
-          "course" : "MATH 2400",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
+      "course" : "MATH 2400",
+      "type" : "course"
     }
   },
   "CHME-4011" : 
@@ -6419,11 +6383,11 @@
       "nested" : 
       [
         {
-          "course" : "CHME 4010",
+          "course" : "MATH 2400",
           "type" : "course"
         },
         {
-          "course" : "MATH 2400",
+          "course" : "CHME 4010",
           "type" : "course"
         }
       ],
@@ -7309,6 +7273,14 @@
         }
       ],
       "type" : "and"
+    }
+  },
+  "CIVL-6350" : 
+  {
+    "prerequisites" : 
+    {
+      "course" : "CIVL 4080",
+      "type" : "course"
     }
   },
   "CIVL-6390" : 
@@ -9238,6 +9210,10 @@
             {
               "course" : "MATH 1500",
               "type" : "course"
+            },
+            {
+              "course" : "MATH 2010",
+              "type" : "course"
             }
           ],
           "type" : "or"
@@ -9269,10 +9245,6 @@
       "nested" : 
       [
         {
-          "course" : "MATH 1010",
-          "type" : "course"
-        },
-        {
           "course" : "CSCI 1200",
           "type" : "course"
         },
@@ -9281,6 +9253,20 @@
           [
             {
               "course" : "CSCI 2200",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 2800",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "MATH 1010",
               "type" : "course"
             },
             {
@@ -10312,6 +10298,20 @@
           "nested" : 
           [
             {
+              "course" : "CSCI 1100",
+              "type" : "course"
+            },
+            {
+              "course" : "CSCI 1200",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
+          "nested" : 
+          [
+            {
               "course" : "MATH 2010",
               "type" : "course"
             },
@@ -10323,7 +10323,7 @@
           "type" : "or"
         },
         {
-          "course" : "CSCI 1100",
+          "course" : "MATH 2400",
           "type" : "course"
         }
       ],
@@ -10377,7 +10377,7 @@
     ],
     "prerequisites" : 
     {
-      "course" : "CSCI 2200",
+      "course" : "CSCI 2300",
       "type" : "course"
     }
   },
@@ -10389,22 +10389,8 @@
     ],
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 4150",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 4100",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 6100",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "CSCI 2300",
+      "type" : "course"
     }
   },
   "CSCI-4963" : 
@@ -10438,12 +10424,32 @@
       "nested" : 
       [
         {
-          "course" : "CSCI 2300",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "CSCI 2300",
+              "type" : "course"
+            },
+            {
+              "course" : "CSCI 2600",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         },
         {
-          "course" : "CSCI 2600",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "CSCI 4100",
+              "type" : "course"
+            },
+            {
+              "course" : "CSCI 4150",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
       "type" : "and"
@@ -10509,17 +10515,25 @@
     ],
     "prerequisites" : 
     {
-      "course" : "CSCI 2300",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2500",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 2660",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "CSCI-4968" : 
   {
     "cross_listings" : 
     [
-      "CSCI-6968",
-      "ECSE-4962",
-      "ECSE-6962"
+      "CSCI-6968"
     ],
     "prerequisites" : 
     {
@@ -11186,9 +11200,7 @@
   {
     "cross_listings" : 
     [
-      "CSCI-4968",
-      "ECSE-4962",
-      "ECSE-6962"
+      "CSCI-4968"
     ]
   },
   "CSCI-6969" : 
@@ -11505,19 +11517,39 @@
       "nested" : 
       [
         {
-          "course" : "ECON 1200",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "ECON 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "IHSS 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "IHSS 1975",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         },
         {
-          "course" : "IHSS 1975",
-          "type" : "course"
-        },
-        {
-          "course" : "IHSS 1200",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "MATH 1010",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 1500",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
-      "type" : "or"
+      "type" : "and"
     }
   },
   "ECON-2020" : 
@@ -11531,11 +11563,11 @@
           "type" : "course"
         },
         {
-          "course" : "IHSS 1975",
+          "course" : "IHSS 1200",
           "type" : "course"
         },
         {
-          "course" : "IHSS 1200",
+          "course" : "IHSS 1975",
           "type" : "course"
         }
       ],
@@ -11641,11 +11673,11 @@
           "type" : "course"
         },
         {
-          "course" : "IHSS 1975",
+          "course" : "IHSS 1200",
           "type" : "course"
         },
         {
-          "course" : "IHSS 1200",
+          "course" : "IHSS 1975",
           "type" : "course"
         }
       ],
@@ -11726,6 +11758,10 @@
             {
               "course" : "IHSS 1200",
               "type" : "course"
+            },
+            {
+              "course" : "IHSS 1975",
+              "type" : "course"
             }
           ],
           "type" : "or"
@@ -11768,11 +11804,11 @@
           "type" : "course"
         },
         {
-          "course" : "IHSS 1975",
+          "course" : "IHSS 1200",
           "type" : "course"
         },
         {
-          "course" : "IHSS 1200",
+          "course" : "IHSS 1975",
           "type" : "course"
         }
       ],
@@ -11953,6 +11989,10 @@
           [
             {
               "course" : "ECON 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "IHSS 1975",
               "type" : "course"
             },
             {
@@ -12150,24 +12190,6 @@
       "type" : "or"
     }
   },
-  "ECON-4380" : 
-  {
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "IHSS 1200",
-          "type" : "course"
-        },
-        {
-          "course" : "ECON 1200",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
-  },
   "ECON-4410" : 
   {
     "cross_listings" : 
@@ -12223,34 +12245,12 @@
       "nested" : 
       [
         {
-          "course" : "MATH 2010",
+          "course" : "ECON 2010",
           "type" : "course"
         },
         {
-          "nested" : 
-          [
-            {
-              "course" : "ENGR 2600",
-              "type" : "course"
-            },
-            {
-              "course" : "MGMT 2100",
-              "type" : "course"
-            },
-            {
-              "course" : "MATP 4600",
-              "type" : "course"
-            },
-            {
-              "course" : "PSYC 2310",
-              "type" : "course"
-            },
-            {
-              "course" : "BIOL 4200",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "MATH 2010",
+          "type" : "course"
         }
       ],
       "type" : "and"
@@ -12787,8 +12787,28 @@
     ],
     "prerequisites" : 
     {
-      "course" : "ECSE 2010",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 2010",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1250",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
     }
   },
   "ECSE-2100" : 
@@ -12806,14 +12826,50 @@
           "type" : "course"
         },
         {
-          "course" : "MATH 2010",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "MATH 2010",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 2011",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 2012",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1250",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
       "type" : "and"
     }
   },
   "ECSE-2110" : 
+  {
+    "prerequisites" : 
+    {
+      "course" : "ECSE 2010",
+      "type" : "course"
+    }
+  },
+  "ECSE-2210" : 
   {
     "prerequisites" : 
     {
@@ -12827,11 +12883,11 @@
           "nested" : 
           [
             {
-              "course" : "PHYS 1250",
+              "course" : "PHYS 1200",
               "type" : "course"
             },
             {
-              "course" : "PHYS 1200",
+              "course" : "PHYS 1250",
               "type" : "course"
             }
           ],
@@ -12839,14 +12895,6 @@
         }
       ],
       "type" : "and"
-    }
-  },
-  "ECSE-2210" : 
-  {
-    "prerequisites" : 
-    {
-      "course" : "ECSE 2010",
-      "type" : "course"
     }
   },
   "ECSE-2410" : 
@@ -12880,19 +12928,7 @@
           "type" : "course"
         },
         {
-          "course" : "CSCI 1010",
-          "type" : "course"
-        },
-        {
           "course" : "CSCI 1200",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 1150",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 1250",
           "type" : "course"
         }
       ],
@@ -14331,14 +14367,6 @@
               "type" : "course"
             },
             {
-              "course" : "ECSE 1960",
-              "type" : "course"
-            },
-            {
-              "course" : "ECSE 1961",
-              "type" : "course"
-            },
-            {
               "course" : "ECSE 1010",
               "type" : "course"
             }
@@ -14401,14 +14429,6 @@
             {
               "course" : "ECSE 1010",
               "type" : "course"
-            },
-            {
-              "course" : "ECSE 1960",
-              "type" : "course"
-            },
-            {
-              "course" : "ECSE 1961",
-              "type" : "course"
             }
           ],
           "type" : "or"
@@ -14422,10 +14442,6 @@
             },
             {
               "course" : "PHYS 1150",
-              "type" : "course"
-            },
-            {
-              "course" : "PHYS 1961",
               "type" : "course"
             }
           ],
@@ -14458,14 +14474,6 @@
             },
             {
               "course" : "ECSE 1010",
-              "type" : "course"
-            },
-            {
-              "course" : "ECSE 1960",
-              "type" : "course"
-            },
-            {
-              "course" : "ECSE 1961",
               "type" : "course"
             }
           ],
@@ -14500,41 +14508,33 @@
       "nested" : 
       [
         {
-          "course" : "PHYS 1200",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1250",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         },
         {
-          "course" : "PHYS 1250",
+          "course" : "MATH 2400",
           "type" : "course"
         }
       ],
-      "type" : "or"
+      "type" : "and"
     }
   },
   "ENGR-2350" : 
   {
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 1010",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 1100",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 1190",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 1200",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "CSCI 1100",
+      "type" : "course"
     }
   },
   "ENGR-2530" : 
@@ -16001,21 +16001,11 @@
       "nested" : 
       [
         {
-          "nested" : 
-          [
-            {
-              "course" : "ARTS 1040",
-              "type" : "course"
-            },
-            {
-              "course" : "GSAS 1040",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "CSCI 4540",
+          "type" : "course"
         },
         {
-          "course" : "ARTS 1020",
+          "course" : "GSAS 4540",
           "type" : "course"
         }
       ],
@@ -16082,26 +16072,8 @@
     ],
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 4520",
-          "type" : "course"
-        },
-        {
-          "course" : "GSAS 4520",
-          "type" : "course"
-        },
-        {
-          "course" : "COGS 4520",
-          "type" : "course"
-        },
-        {
-          "course" : "ARTS 4520",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "GSAS 4520",
+      "type" : "course"
     }
   },
   "GSAS-4550" : 
@@ -16531,7 +16503,6 @@
   {
     "attributes" : 
     [
-      "Communication Intensive",
       "Introductory Level Course",
       "HASS Inquiry"
     ]
@@ -16741,6 +16712,13 @@
       "course" : "IHSS 1610",
       "type" : "course"
     }
+  },
+  "IHSS-2960" : 
+  {
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ]
   },
   "IHSS-4960" : 
   {
@@ -17512,8 +17490,7 @@
   {
     "attributes" : 
     [
-      "Communication Intensive",
-      "Writing Intensive"
+      "Communication Intensive"
     ],
     "cross_listings" : 
     [
@@ -17521,18 +17498,8 @@
     ],
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "ITWS 2210",
-          "type" : "course"
-        },
-        {
-          "course" : "ITWS 4310",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
+      "course" : "ITWS 4310",
+      "type" : "course"
     }
   },
   "ITWS-4200" : 
@@ -17582,8 +17549,18 @@
   {
     "prerequisites" : 
     {
-      "course" : "ITWS 2110",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ITWS 2110",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 1200",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
     }
   },
   "ITWS-4350" : 
@@ -17900,30 +17877,7 @@
     "cross_listings" : 
     [
       "ITWS-4960"
-    ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ITWS 4300",
-          "type" : "course"
-        },
-        {
-          "course" : "ITWS 6300",
-          "type" : "course"
-        },
-        {
-          "course" : "ITWS 4100",
-          "type" : "course"
-        },
-        {
-          "course" : "ITWS 6800",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    ]
   },
   "ITWS-6961" : 
   {
@@ -18424,8 +18378,32 @@
     ],
     "prerequisites" : 
     {
-      "course" : "ENGR 1100",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ENGR 1100",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 2400",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1250",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
     }
   },
   "MANE-2220" : 
@@ -18438,36 +18416,50 @@
           "nested" : 
           [
             {
-              "nested" : 
-              [
-                {
-                  "course" : "ENGR 1100",
-                  "type" : "course"
-                },
-                {
-                  "course" : "ECSE 1010",
-                  "type" : "course"
-                }
-              ],
-              "type" : "or"
+              "course" : "ENGR 1100",
+              "type" : "course"
             },
             {
-              "course" : "ENGR 1200",
+              "course" : "ECSE 1010",
               "type" : "course"
             }
           ],
-          "type" : "and"
+          "type" : "or"
         },
         {
-          "course" : "ENGR 1400",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "ENGR 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "CIVL 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "ENGR 1400",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         },
         {
-          "course" : "CIVL 1200",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1250",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
-      "type" : "or"
+      "type" : "and"
     }
   },
   "MANE-2400" : 
@@ -18485,6 +18477,10 @@
       "nested" : 
       [
         {
+          "course" : "MATH 1020",
+          "type" : "course"
+        },
+        {
           "nested" : 
           [
             {
@@ -18497,10 +18493,6 @@
             }
           ],
           "type" : "or"
-        },
-        {
-          "course" : "MATH 1020",
-          "type" : "course"
         }
       ],
       "type" : "and"
@@ -18529,29 +18521,35 @@
               "type" : "course"
             },
             {
-              "course" : "PHYS 1150",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
-        },
-        {
-          "course" : "MATH 2400",
-          "type" : "course"
-        },
-        {
-          "nested" : 
-          [
-            {
-              "course" : "MATH 2010",
-              "type" : "course"
+              "nested" : 
+              [
+                {
+                  "course" : "MATH 2010",
+                  "type" : "course"
+                },
+                {
+                  "course" : "MATH 2011",
+                  "type" : "course"
+                }
+              ],
+              "type" : "or"
             },
             {
-              "course" : "MATH 2011",
-              "type" : "course"
+              "nested" : 
+              [
+                {
+                  "course" : "MATH 2400",
+                  "type" : "course"
+                },
+                {
+                  "course" : "PHYS 1150",
+                  "type" : "course"
+                }
+              ],
+              "type" : "or"
             }
           ],
-          "type" : "or"
+          "type" : "and"
         }
       ],
       "type" : "and"
@@ -18710,21 +18708,11 @@
       "nested" : 
       [
         {
-          "nested" : 
-          [
-            {
-              "course" : "ENGR 2250",
-              "type" : "course"
-            },
-            {
-              "course" : "MANE 2720",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "MANE 2710",
+          "type" : "course"
         },
         {
-          "course" : "MATH 2010",
+          "course" : "MANE 2720",
           "type" : "course"
         }
       ],
@@ -18742,29 +18730,15 @@
       "nested" : 
       [
         {
-          "course" : "MANE 4070",
+          "course" : "MANE 2710",
           "type" : "course"
         },
         {
-          "course" : "MANE 4010",
+          "course" : "MANE 2720",
           "type" : "course"
-        },
-        {
-          "nested" : 
-          [
-            {
-              "course" : "MANE 2710",
-              "type" : "course"
-            },
-            {
-              "course" : "MANE 2720",
-              "type" : "course"
-            }
-          ],
-          "type" : "and"
         }
       ],
-      "type" : "or"
+      "type" : "and"
     }
   },
   "MANE-4090" : 
@@ -19013,11 +18987,11 @@
       "nested" : 
       [
         {
-          "course" : "MANE 2220",
+          "course" : "ENGR 2050",
           "type" : "course"
         },
         {
-          "course" : "ENGR 2050",
+          "course" : "MANE 2220",
           "type" : "course"
         }
       ],
@@ -19057,19 +19031,11 @@
       "nested" : 
       [
         {
-          "course" : "ENGR 2250",
-          "type" : "course"
-        },
-        {
           "course" : "ENGR 2530",
           "type" : "course"
         },
         {
-          "course" : "ECSE 4160",
-          "type" : "course"
-        },
-        {
-          "course" : "MANE 2720",
+          "course" : "BMED 2540",
           "type" : "course"
         }
       ],
@@ -19430,32 +19396,12 @@
       "nested" : 
       [
         {
-          "nested" : 
-          [
-            {
-              "course" : "ENGR 2350",
-              "type" : "course"
-            },
-            {
-              "course" : "MANE 4050",
-              "type" : "course"
-            }
-          ],
-          "type" : "and"
+          "course" : "MANE 4500",
+          "type" : "course"
         },
         {
-          "nested" : 
-          [
-            {
-              "course" : "MANE 4500",
-              "type" : "course"
-            },
-            {
-              "course" : "MANE 4510",
-              "type" : "course"
-            }
-          ],
-          "type" : "and"
+          "course" : "ECSE 2410",
+          "type" : "course"
         }
       ],
       "type" : "or"
@@ -19817,11 +19763,11 @@
       "nested" : 
       [
         {
-          "course" : "MATH 2400",
+          "course" : "MANE 4060",
           "type" : "course"
         },
         {
-          "course" : "MANE 4060",
+          "course" : "MATH 2400",
           "type" : "course"
         }
       ],
@@ -20800,18 +20746,12 @@
           "type" : "course"
         },
         {
-          "nested" : 
-          [
-            {
-              "course" : "MATH 2011",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 2012",
-              "type" : "course"
-            }
-          ],
-          "type" : "and"
+          "course" : "MATH 2011",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 2012",
+          "type" : "course"
         }
       ],
       "type" : "or"
@@ -20852,15 +20792,29 @@
       "nested" : 
       [
         {
-          "course" : "MATH 2010",
+          "course" : "MATH 2400",
           "type" : "course"
         },
         {
-          "course" : "ENGR 1100",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "MATH 2010",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 2011",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 2012",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
-      "type" : "or"
+      "type" : "and"
     }
   },
   "MATH-4820" : 
@@ -21501,12 +21455,32 @@
       "nested" : 
       [
         {
-          "course" : "MATH 1010",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "MATH 1500",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 1010",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         },
         {
-          "course" : "MATH 1500",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "MATH 1520",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 1020",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
       "type" : "or"
@@ -21592,32 +21566,8 @@
   {
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "nested" : 
-          [
-            {
-              "course" : "MGMT 2100",
-              "type" : "course"
-            },
-            {
-              "course" : "MGMT 2150",
-              "type" : "course"
-            },
-            {
-              "course" : "ENGR 2600",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
-        },
-        {
-          "course" : "MGMT 2510",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "MGMT 2100",
+      "type" : "course"
     }
   },
   "MGMT-4110" : 
@@ -22124,7 +22074,7 @@
           "type" : "course"
         },
         {
-          "course" : "MGMT 2430",
+          "course" : "MGMT 2340",
           "type" : "course"
         },
         {
@@ -22132,7 +22082,7 @@
           "type" : "course"
         }
       ],
-      "type" : "and"
+      "type" : "or"
     }
   },
   "MGMT-4900" : 
@@ -22440,7 +22390,7 @@
   {
     "cross_listings" : 
     [
-      "MGMT-4966"
+      "MGMT-4190"
     ]
   },
   "MGMT-6570" : 
@@ -22734,15 +22684,15 @@
           "type" : "course"
         },
         {
+          "course" : "ISCI 1600",
+          "type" : "course"
+        },
+        {
           "course" : "CHEM 1600",
           "type" : "course"
         },
         {
           "course" : "PHYS 1600",
-          "type" : "course"
-        },
-        {
-          "course" : "ISCI 1600",
           "type" : "course"
         }
       ],
@@ -23553,7 +23503,8 @@
   {
     "attributes" : 
     [
-      "Communication Intensive"
+      "Communication Intensive",
+      "PDII Option for Engr Majors"
     ],
     "cross_listings" : 
     [
@@ -23712,6 +23663,10 @@
         {
           "course" : "PHYS 1150",
           "type" : "course"
+        },
+        {
+          "course" : "PHYS 1961",
+          "type" : "course"
         }
       ],
       "type" : "or"
@@ -23848,8 +23803,18 @@
   {
     "prerequisites" : 
     {
-      "course" : "PHYS 2210",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "PHYS 2210",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 2010",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
     }
   },
   "PHYS-2330" : 
@@ -23982,7 +23947,7 @@
   {
     "prerequisites" : 
     {
-      "course" : "PHYS 2220",
+      "course" : "PHYS 2210",
       "type" : "course"
     }
   },
@@ -23997,18 +23962,8 @@
           "type" : "course"
         },
         {
-          "nested" : 
-          [
-            {
-              "course" : "MATH 4600",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 4700",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "MATH 4600",
+          "type" : "course"
         }
       ],
       "type" : "and"
@@ -24075,15 +24030,15 @@
       "nested" : 
       [
         {
-          "course" : "PHYS 2220",
-          "type" : "course"
-        },
-        {
           "course" : "MATH 2400",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 2220",
           "type" : "course"
         }
       ],
@@ -24356,6 +24311,14 @@
       [
         {
           "course" : "PSYC 1200",
+          "type" : "course"
+        },
+        {
+          "course" : "PHIL 2120",
+          "type" : "course"
+        },
+        {
+          "course" : "PSYC 2120",
           "type" : "course"
         },
         {
@@ -24692,22 +24655,16 @@
           "type" : "course"
         },
         {
-          "nested" : 
-          [
-            {
-              "course" : "COGS 2120",
-              "type" : "course"
-            },
-            {
-              "course" : "PHIL 2120",
-              "type" : "course"
-            },
-            {
-              "course" : "PSYC 2120",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "PSYC 2120",
+          "type" : "course"
+        },
+        {
+          "course" : "PHIL 2120",
+          "type" : "course"
+        },
+        {
+          "course" : "COGS 2120",
+          "type" : "course"
         }
       ],
       "type" : "or"
@@ -25831,26 +25788,8 @@
       "nested" : 
       [
         {
-          "nested" : 
-          [
-            {
-              "course" : "STSO 1110",
-              "type" : "course"
-            },
-            {
-              "course" : "IHSS 1110",
-              "type" : "course"
-            },
-            {
-              "course" : "IHSS 1240",
-              "type" : "course"
-            },
-            {
-              "course" : "IHSS 1320",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "STSO 1110",
+          "type" : "course"
         },
         {
           "course" : "STSS 1110",
@@ -25858,6 +25797,18 @@
         },
         {
           "course" : "STSH 1110",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1110",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1240",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1320",
           "type" : "course"
         }
       ],
@@ -26002,10 +25953,6 @@
         },
         {
           "course" : "STSO 2500",
-          "type" : "course"
-        },
-        {
-          "course" : "STSS 2300",
           "type" : "course"
         }
       ],
