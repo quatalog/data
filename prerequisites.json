@@ -10389,8 +10389,22 @@
     ],
     "prerequisites" : 
     {
-      "course" : "CSCI 2300",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 4150",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 4100",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 6100",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "CSCI-4963" : 
