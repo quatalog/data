@@ -19075,7 +19075,10 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "IHSS-1240"
+    ],
     "prerequisites" : null
   },
   "IHSS-1290" : 
@@ -19323,6 +19326,7 @@
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "Introductory Level Course",
       "HASS Inquiry"
     ],
@@ -19357,7 +19361,6 @@
   {
     "attributes" : 
     [
-      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
