@@ -2127,7 +2127,11 @@
   {
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ARTS 2230",
+      "type" : "course"
+    }
   },
   "ARTS-4070" : 
   {
@@ -2314,6 +2318,10 @@
   },
   "ARTS-4410" : 
   {
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -4798,7 +4806,10 @@
       "Culminating Exp/Capstone"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-4960"
+    ],
     "prerequisites" : null
   },
   "BIOL-4940" : 
@@ -4816,7 +4827,10 @@
   "BIOL-4960" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-4910"
+    ],
     "prerequisites" : null
   },
   "BIOL-4961" : 
@@ -6337,7 +6351,21 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CHEM 1100",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 1110",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "CHEM-1210" : 
   {
@@ -6475,7 +6503,21 @@
   {
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CHEM 2230",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 2260",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "CHEM-2250" : 
   {
@@ -6501,7 +6543,11 @@
   {
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CHEM 2250",
+      "type" : "course"
+    }
   },
   "CHEM-2290" : 
   {
@@ -9692,6 +9738,10 @@
   },
   "COMM-2616" : 
   {
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -10247,7 +10297,21 @@
   {
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 1010",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 1100",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "COMM-4930" : 
   {
@@ -13729,7 +13793,25 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECON 1200",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1200",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1975",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECON-4240" : 
   {
@@ -16840,7 +16922,10 @@
   "ENGR-2964" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2964"
+    ],
     "prerequisites" : null
   },
   "ENGR-4010" : 
@@ -18614,7 +18699,11 @@
   {
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "GSAS 4520",
+      "type" : "course"
+    }
   },
   "GSAS-4550" : 
   {
@@ -18646,7 +18735,11 @@
   {
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "GSAS 2510",
+      "type" : "course"
+    }
   },
   "GSAS-4962" : 
   {
@@ -19558,11 +19651,18 @@
   "IHSS-4960" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISCI-4960"
+    ],
     "prerequisites" : null
   },
   "IHSS-4961" : 
   {
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -19685,7 +19785,10 @@
   "ISCI-4960" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "IHSS-4960"
+    ],
     "prerequisites" : null
   },
   "ISCI-6002" : 
@@ -21283,7 +21386,29 @@
   {
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "LANG 1410",
+          "type" : "course"
+        },
+        {
+          "course" : "LANG 2410",
+          "type" : "course"
+        },
+        {
+          "course" : "LANG 4420",
+          "type" : "course"
+        },
+        {
+          "course" : "LANG 4430",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "LANG-4962" : 
   {
@@ -24369,7 +24494,11 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4900",
+      "BIOL-4960"
+    ],
     "prerequisites" : null
   },
   "MATH-4961" : 
@@ -25645,6 +25774,10 @@
   },
   "MGMT-4850" : 
   {
+    "attributes" : 
+    [
+      "Extended term Study Abroad"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -28528,7 +28661,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-2120"
+    ],
     "prerequisites" : null
   },
   "PSYC-2220" : 
@@ -29505,8 +29641,15 @@
   },
   "STSH-4120" : 
   {
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSS-4120"
+    ],
     "prerequisites" : null
   },
   "STSH-4210" : 
@@ -29527,7 +29670,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4500"
+    ],
     "prerequisites" : null
   },
   "STSH-4290" : 
@@ -29880,7 +30026,10 @@
   "STSH-4962" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSS-4962"
+    ],
     "prerequisites" : null
   },
   "STSH-4963" : 
@@ -31079,8 +31228,15 @@
   },
   "STSS-4120" : 
   {
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSH-4120"
+    ],
     "prerequisites" : null
   },
   "STSS-4250" : 
