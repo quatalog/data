@@ -4129,6 +4129,10 @@
   },
   "BIOL-4130" : 
   {
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
