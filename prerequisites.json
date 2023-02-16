@@ -17531,10 +17531,7 @@
   "ENVE-6960" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ENVE-4960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ENVE-6961" : 
