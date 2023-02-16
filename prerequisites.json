@@ -8710,7 +8710,21 @@
   {
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CIVL 4070",
+          "type" : "course"
+        },
+        {
+          "course" : "CIVL 4080",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "CIVL-6961" : 
   {
