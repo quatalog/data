@@ -6324,6 +6324,12 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "BUSN-6305" : 
+  {
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "CHEM-1100" : 
   {
     "attributes" : 
@@ -12204,7 +12210,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6966"
+    ],
     "prerequisites" : null
   },
   "CSCI-4967" : 
@@ -12271,11 +12280,7 @@
   "CSCI-4970" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COGS-4430",
-      "COGS-6430"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CSCI-4971" : 
