@@ -12281,10 +12281,7 @@
   "CSCI-4971" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6971"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -12335,10 +12332,7 @@
   "CSCI-4974" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6971"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -12878,10 +12872,7 @@
   "CSCI-6971" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4971"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CSCI-6972" : 
@@ -25782,6 +25773,12 @@
       "type" : "and"
     }
   },
+  "MGMT-4600" : 
+  {
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "MGMT-4700" : 
   {
     "corequisites" : null,
@@ -27159,13 +27156,19 @@
   "MTLE-4960" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6960"
+    ],
     "prerequisites" : null
   },
   "MTLE-4961" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6961"
+    ],
     "prerequisites" : null
   },
   "MTLE-4962" : 
@@ -27331,13 +27334,19 @@
   "MTLE-6960" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-4960"
+    ],
     "prerequisites" : null
   },
   "MTLE-6961" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-4961"
+    ],
     "prerequisites" : null
   },
   "MTLE-6962" : 
