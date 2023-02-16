@@ -3891,6 +3891,15 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "BIOL-1016" : 
+  {
+    "corequisites" : 
+    [
+      "BIOL-1010"
+    ],
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "BIOL-1940" : 
   {
     "corequisites" : null,
@@ -25317,7 +25326,10 @@
   "MGMT-4080" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6080"
+    ],
     "prerequisites" : null
   },
   "MGMT-4100" : 
@@ -25395,7 +25407,10 @@
   "MGMT-4170" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6570"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -25438,7 +25453,10 @@
   "MGMT-4190" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6560"
+    ],
     "prerequisites" : null
   },
   "MGMT-4220" : 
@@ -25517,7 +25535,10 @@
   "MGMT-4310" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6240"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 2320",
@@ -25570,7 +25591,10 @@
   "MGMT-4340" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6380"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 2320",
@@ -25694,7 +25718,10 @@
   "MGMT-4460" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6800"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 2430",
@@ -25704,7 +25731,10 @@
   "MGMT-4470" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6550"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 2430",
@@ -25737,7 +25767,10 @@
   "MGMT-4510" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6640"
+    ],
     "prerequisites" : null
   },
   "MGMT-4520" : 
@@ -25761,7 +25794,10 @@
   "MGMT-4540" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6260"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -26005,7 +26041,10 @@
   "MGMT-6080" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4080"
+    ],
     "prerequisites" : null
   },
   "MGMT-6090" : 
@@ -26094,7 +26133,10 @@
   "MGMT-6240" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4310"
+    ],
     "prerequisites" : null
   },
   "MGMT-6250" : 
@@ -26106,7 +26148,10 @@
   "MGMT-6260" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4540"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -26183,7 +26228,10 @@
   "MGMT-6380" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4340"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 6310",
@@ -26316,7 +26364,10 @@
   "MGMT-6550" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4470"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 6100",
@@ -26326,13 +26377,19 @@
   "MGMT-6560" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4190"
+    ],
     "prerequisites" : null
   },
   "MGMT-6570" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4170"
+    ],
     "prerequisites" : null
   },
   "MGMT-6580" : 
@@ -26380,7 +26437,10 @@
   "MGMT-6640" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4510"
+    ],
     "prerequisites" : null
   },
   "MGMT-6660" : 
@@ -26450,7 +26510,10 @@
   "MGMT-6800" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4460"
+    ],
     "prerequisites" : null
   },
   "MGMT-6810" : 
