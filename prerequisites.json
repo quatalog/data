@@ -6069,10 +6069,7 @@
   "BMED-6450" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BMED-4450"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "BMED-6460" : 
@@ -9287,11 +9284,7 @@
   "COGS-4960" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COGS-6960",
-      "CSCI-4960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "COGS-4961" : 
@@ -11179,10 +11172,7 @@
   "CSCI-4100" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6100"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -11944,6 +11934,26 @@
       "type" : "and"
     }
   },
+  "CSCI-4560" : 
+  {
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2300",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2600",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
+  },
   "CSCI-4600" : 
   {
     "corequisites" : null,
@@ -12116,28 +12126,11 @@
   "CSCI-4962" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6962"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 4150",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 4100",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 6100",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "CSCI 2300",
+      "type" : "course"
     }
   },
   "CSCI-4963" : 
@@ -12201,25 +12194,8 @@
   "CSCI-4965" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6965"
-    ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 2300",
-          "type" : "course"
-        },
-        {
-          "course" : "MATH 4100",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "CSCI-4966" : 
   {
@@ -12493,10 +12469,7 @@
   "CSCI-6100" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4100"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CSCI-6110" : 
@@ -12751,6 +12724,26 @@
       "type" : "and"
     }
   },
+  "CSCI-6560" : 
+  {
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2300",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2600",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
+  },
   "CSCI-6800" : 
   {
     "corequisites" : null,
@@ -12839,25 +12832,8 @@
   "CSCI-6965" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4965"
-    ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 2300",
-          "type" : "course"
-        },
-        {
-          "course" : "MATH 4100",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "CSCI-6966" : 
   {
@@ -12884,10 +12860,7 @@
   "CSCI-6968" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4968"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CSCI-6969" : 
@@ -15600,7 +15573,21 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ENGR 2050",
+          "type" : "course"
+        },
+        {
+          "course" : "MANE 2220",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-4940" : 
   {
@@ -22545,7 +22532,21 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ENGR 2050",
+          "type" : "course"
+        },
+        {
+          "course" : "MANE 2220",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "MANE-4280" : 
   {
@@ -27129,8 +27130,18 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "MTLE 4910",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ENGR 2050",
+          "type" : "course"
+        },
+        {
+          "course" : "MTLE 4910",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
     }
   },
   "MTLE-4940" : 
