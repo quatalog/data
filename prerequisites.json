@@ -4356,7 +4356,10 @@
   "BIOL-4350" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6350"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -4781,7 +4784,10 @@
   "BIOL-4880" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6880"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5050,7 +5056,10 @@
   "BIOL-6350" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4350"
+    ],
     "prerequisites" : null
   },
   "BIOL-6360" : 
@@ -5240,7 +5249,10 @@
   "BIOL-6880" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4880"
+    ],
     "prerequisites" : 
     {
       "course" : "BIOL 4850",
