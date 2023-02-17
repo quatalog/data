@@ -14817,8 +14817,28 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "ECSE 2010",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 2010",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1250",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
     }
   },
   "ECSE-2210" : 
@@ -15658,7 +15678,10 @@
       "Writing Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6964"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -16290,7 +16313,10 @@
   "ECSE-6964" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4964"
+    ],
     "prerequisites" : null
   },
   "ECSE-6965" : 
@@ -20074,11 +20100,22 @@
   "ISYE-4290" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ISYE-6620"
-    ],
-    "prerequisites" : null
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ISYE 4140",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 1100",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "ISYE-4300" : 
   {
@@ -20386,10 +20423,7 @@
   "ISYE-6620" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ISYE-4290"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ISYE-6760" : 
