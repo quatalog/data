@@ -25955,7 +25955,14 @@
   "MGMT-4962" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4600",
+      "CSCI-4600",
+      "ITWS-4600",
+      "ITWS-6600",
+      "MGMT-6600"
+    ],
     "prerequisites" : null
   },
   "MGMT-4963" : 
