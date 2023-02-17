@@ -960,7 +960,10 @@
   "ARCH-4960" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6966"
+    ],
     "prerequisites" : null
   },
   "ARCH-4961" : 
