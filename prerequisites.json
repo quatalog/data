@@ -23288,7 +23288,10 @@
   "MANE-4960" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSO-4960"
+    ],
     "prerequisites" : null
   },
   "MANE-4961" : 
@@ -30888,7 +30891,10 @@
   "STSO-4960" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4960"
+    ],
     "prerequisites" : null
   },
   "STSO-4961" : 
