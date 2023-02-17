@@ -17069,6 +17069,16 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ENGR-4960" : 
+  {
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "MANE-4960",
+      "STSO-4960"
+    ],
+    "prerequisites" : null
+  },
   "ENGR-4961" : 
   {
     "corequisites" : null,
@@ -23290,6 +23300,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ENGR-4960",
       "STSO-4960"
     ],
     "prerequisites" : null
@@ -30893,6 +30904,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ENGR-4960",
       "MANE-4960"
     ],
     "prerequisites" : null
