@@ -20182,6 +20182,12 @@
       "type" : "and"
     }
   },
+  "ISYE-4440" : 
+  {
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ISYE-4530" : 
   {
     "corequisites" : null,
