@@ -15031,10 +15031,7 @@
   "ECSE-4110" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6110"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "ECSE 2110",
@@ -15540,7 +15537,10 @@
   "ECSE-4810" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6810"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -15650,10 +15650,7 @@
   "ECSE-4961" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-4962" : 
@@ -15665,10 +15662,7 @@
   "ECSE-4963" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6963"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-4964" : 
@@ -15778,10 +15772,7 @@
   "ECSE-6110" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-4110"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-6120" : 
@@ -16243,7 +16234,10 @@
   "ECSE-6810" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4810"
+    ],
     "prerequisites" : null
   },
   "ECSE-6820" : 
@@ -16286,10 +16280,7 @@
   "ECSE-6961" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-4961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-6962" : 
