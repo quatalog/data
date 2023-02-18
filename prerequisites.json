@@ -15976,10 +15976,7 @@
   "ECSE-6440" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-6620"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "ECSE 6400",
