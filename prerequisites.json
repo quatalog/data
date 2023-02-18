@@ -18172,7 +18172,10 @@
   "ERTH-4540" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-6545"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18384,7 +18387,10 @@
   "ERTH-6545" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-4540"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18404,7 +18410,11 @@
   "ERTH-6560" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4560",
+      "ERTH-4560"
+    ],
     "prerequisites" : 
     {
       "course" : "CHEM 1100",
