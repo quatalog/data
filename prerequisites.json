@@ -15672,25 +15672,8 @@
       "Writing Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6964"
-    ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 2200",
-          "type" : "course"
-        },
-        {
-          "course" : "PHYS 1200",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "ECSE-4965" : 
   {
@@ -16304,10 +16287,7 @@
   "ECSE-6964" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-4964"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-6965" : 
