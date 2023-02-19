@@ -15164,10 +15164,7 @@
   "ECSE-4320" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6320"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -15926,10 +15923,7 @@
   "ECSE-6320" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-4320"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
