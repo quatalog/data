@@ -22296,7 +22296,10 @@
   "MANE-4120" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6060"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -22326,10 +22329,7 @@
   "MANE-4130" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-6070"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "MANE 4070",
@@ -22467,26 +22467,11 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "MANE 4120",
-          "type" : "course"
-        },
-        {
-          "course" : "MANE 4130",
-          "type" : "course"
-        },
-        {
-          "course" : "MANE 4090",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "cross_listings" : 
+    [
+      "MANE-6210"
+    ],
+    "prerequisites" : null
   },
   "MANE-4220" : 
   {
@@ -23384,16 +23369,16 @@
   "MANE-6060" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4120"
+    ],
     "prerequisites" : null
   },
   "MANE-6070" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-4130"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-6080" : 
