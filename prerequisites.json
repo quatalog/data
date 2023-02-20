@@ -23752,10 +23752,7 @@
   "MANE-6620" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6440"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -23943,7 +23940,10 @@
   "MANE-6961" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4960"
+    ],
     "prerequisites" : null
   },
   "MANE-6962" : 
