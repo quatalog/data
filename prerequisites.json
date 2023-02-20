@@ -16137,10 +16137,7 @@
   "ECSE-6650" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-4961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-6660" : 
@@ -22613,6 +22610,26 @@
       "type" : "and"
     }
   },
+  "MANE-4290" : 
+  {
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MANE 2110",
+          "type" : "course"
+        },
+        {
+          "course" : "MANE 4480",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
+  },
   "MANE-4330" : 
   {
     "corequisites" : null,
@@ -23479,10 +23496,7 @@
   "MANE-6290" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-4960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-6300" : 
