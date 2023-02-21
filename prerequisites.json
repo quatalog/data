@@ -8285,7 +8285,10 @@
   "CIVL-4240" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4240"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -8478,7 +8481,10 @@
   "CIVL-6170" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6170"
+    ],
     "prerequisites" : null
   },
   "CIVL-6190" : 
@@ -8703,7 +8709,10 @@
   "CIVL-6660" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6660"
+    ],
     "prerequisites" : null
   },
   "CIVL-6670" : 
@@ -15014,7 +15023,10 @@
   "ECSE-4090" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4520"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -15221,7 +15233,10 @@
       "Writing Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4530"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 2410",
@@ -15231,7 +15246,12 @@
   "ECSE-4480" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6470",
+      "MANE-4560",
+      "MANE-6120"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -15952,7 +15972,10 @@
   "ECSE-6400" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6600"
+    ],
     "prerequisites" : null
   },
   "ECSE-6420" : 
@@ -15973,7 +15996,10 @@
   "ECSE-6440" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6620"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 6400",
@@ -15989,7 +16015,12 @@
   "ECSE-6470" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4480",
+      "MANE-4560",
+      "MANE-6120"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -17097,7 +17128,10 @@
   "ENGR-6120" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6230"
+    ],
     "prerequisites" : null
   },
   "ENGR-6200" : 
@@ -20780,7 +20814,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-6800"
+    ],
     "prerequisites" : 
     {
       "course" : "ITWS 4310",
@@ -20796,7 +20833,10 @@
   "ITWS-4250" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-6250"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -21032,7 +21072,10 @@
   "ITWS-6250" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-4250"
+    ],
     "prerequisites" : null
   },
   "ITWS-6300" : 
@@ -21081,7 +21124,10 @@
   "ITWS-6800" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-4100"
+    ],
     "prerequisites" : null
   },
   "ITWS-6940" : 
@@ -22355,7 +22401,10 @@
   "MANE-4130" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6070"
+    ],
     "prerequisites" : 
     {
       "course" : "MANE 4070",
@@ -22550,7 +22599,10 @@
   "MANE-4240" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4240"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -22604,7 +22656,10 @@
   "MANE-4280" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6710"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -22642,7 +22697,10 @@
   "MANE-4290" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6290"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -22698,7 +22756,10 @@
   "MANE-4360" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -22919,7 +22980,10 @@
   "MANE-4520" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4090"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -22939,7 +23003,10 @@
   "MANE-4530" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4440"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -23003,7 +23070,12 @@
   "MANE-4560" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4480",
+      "ECSE-6470",
+      "MANE-6120"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -23469,7 +23541,10 @@
   "MANE-6070" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4130"
+    ],
     "prerequisites" : null
   },
   "MANE-6080" : 
@@ -23487,7 +23562,12 @@
   "MANE-6120" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4480",
+      "ECSE-6470",
+      "MANE-4560"
+    ],
     "prerequisites" : null
   },
   "MANE-6140" : 
@@ -23502,7 +23582,10 @@
   "MANE-6170" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-6170"
+    ],
     "prerequisites" : null
   },
   "MANE-6180" : 
@@ -23532,7 +23615,10 @@
   "MANE-6230" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-6120"
+    ],
     "prerequisites" : null
   },
   "MANE-6250" : 
@@ -23570,7 +23656,10 @@
   "MANE-6290" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4290"
+    ],
     "prerequisites" : null
   },
   "MANE-6300" : 
@@ -23603,7 +23692,10 @@
   "MANE-6360" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -23755,7 +23847,10 @@
   "MANE-6600" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6400"
+    ],
     "prerequisites" : null
   },
   "MANE-6610" : 
@@ -23784,7 +23879,10 @@
   "MANE-6620" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6440"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -23822,7 +23920,10 @@
   "MANE-6660" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-6660"
+    ],
     "prerequisites" : null
   },
   "MANE-6670" : 
@@ -23843,7 +23944,10 @@
   "MANE-6710" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4280"
+    ],
     "prerequisites" : null
   },
   "MANE-6720" : 
