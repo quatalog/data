@@ -3387,7 +3387,14 @@
   "BCBP-4600" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4600",
+      "ITWS-4600",
+      "ITWS-6600",
+      "MGMT-4600",
+      "MGMT-6600"
+    ],
     "prerequisites" : null
   },
   "BCBP-4640" : 
@@ -7875,7 +7882,10 @@
   "CHME-4965" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6965"
+    ],
     "prerequisites" : null
   },
   "CHME-4966" : 
@@ -7894,7 +7904,11 @@
   {
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CHME 4020",
+      "type" : "course"
+    }
   },
   "CHME-4980" : 
   {
@@ -8048,7 +8062,10 @@
   "CHME-6965" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4965"
+    ],
     "prerequisites" : null
   },
   "CHME-6966" : 
@@ -11585,7 +11602,14 @@
   "CSCI-4350" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6350",
+      "ERTH-4350",
+      "ERTH-6350",
+      "ITWS-4350",
+      "ITWS-6350"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
@@ -11996,7 +12020,14 @@
   "CSCI-4600" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4600",
+      "ITWS-4600",
+      "ITWS-6600",
+      "MGMT-4600",
+      "MGMT-6600"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -12616,7 +12647,14 @@
   "CSCI-6350" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4350",
+      "ERTH-4350",
+      "ERTH-6350",
+      "ITWS-4350",
+      "ITWS-6350"
+    ],
     "prerequisites" : null
   },
   "CSCI-6360" : 
@@ -18080,7 +18118,14 @@
   "ERTH-4350" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4350",
+      "CSCI-6350",
+      "ERTH-6350",
+      "ITWS-4350",
+      "ITWS-6350"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18194,7 +18239,11 @@
   "ERTH-4560" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4560",
+      "ERTH-6560"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18345,7 +18394,14 @@
   "ERTH-6350" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4350",
+      "CSCI-6350",
+      "ERTH-4350",
+      "ITWS-4350",
+      "ITWS-6350"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
@@ -20877,7 +20933,14 @@
   "ITWS-4350" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4350",
+      "CSCI-6350",
+      "ERTH-4350",
+      "ERTH-6350",
+      "ITWS-6350"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
@@ -20933,7 +20996,14 @@
   "ITWS-4600" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4600",
+      "CSCI-4600",
+      "ITWS-6600",
+      "MGMT-4600",
+      "MGMT-6600"
+    ],
     "prerequisites" : null
   },
   "ITWS-4700" : 
@@ -21087,7 +21157,14 @@
   "ITWS-6350" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4350",
+      "CSCI-6350",
+      "ERTH-4350",
+      "ERTH-6350",
+      "ITWS-4350"
+    ],
     "prerequisites" : null
   },
   "ITWS-6400" : 
@@ -21112,7 +21189,14 @@
   "ITWS-6600" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4600",
+      "CSCI-4600",
+      "ITWS-4600",
+      "MGMT-4600",
+      "MGMT-6600"
+    ],
     "prerequisites" : null
   },
   "ITWS-6700" : 
@@ -26026,7 +26110,14 @@
   "MGMT-4600" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4600",
+      "CSCI-4600",
+      "ITWS-4600",
+      "ITWS-6600",
+      "MGMT-6600"
+    ],
     "prerequisites" : null
   },
   "MGMT-4700" : 
@@ -26623,7 +26714,14 @@
   "MGMT-6600" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4600",
+      "CSCI-4600",
+      "ITWS-4600",
+      "ITWS-6600",
+      "MGMT-4600"
+    ],
     "prerequisites" : null
   },
   "MGMT-6610" : 
