@@ -20278,7 +20278,10 @@
   "ISYE-4360" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6961"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -20587,7 +20590,10 @@
   "ISYE-6961" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4360"
+    ],
     "prerequisites" : null
   },
   "ISYE-6962" : 
