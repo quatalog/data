@@ -21595,7 +21595,10 @@
   "LGHT-6830" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LGHT-4830"
+    ],
     "prerequisites" : null
   },
   "LGHT-6940" : 
@@ -23957,19 +23960,13 @@
   "MANE-6961" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-4960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-6962" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-4962"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-6963" : 
@@ -23977,10 +23974,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4969",
-      "ECSE-4490",
-      "ECSE-6490",
-      "MANE-4963"
+      "ECSE-6460"
     ],
     "prerequisites" : null
   },
