@@ -14714,7 +14714,10 @@
   "ECSE-1090" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-1090"
+    ],
     "prerequisites" : null
   },
   "ECSE-1961" : 
@@ -17022,7 +17025,10 @@
   "ENGR-4710" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4610"
+    ],
     "prerequisites" : null
   },
   "ENGR-4720" : 
@@ -21846,7 +21852,10 @@
   "MANE-1090" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-1090"
+    ],
     "prerequisites" : null
   },
   "MANE-1100" : 
@@ -23034,7 +23043,10 @@
   "MANE-4610" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4710"
+    ],
     "prerequisites" : 
     {
       "nested" : 
