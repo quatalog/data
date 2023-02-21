@@ -3318,6 +3318,12 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "BCBP-4240" : 
+  {
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "BCBP-4310" : 
   {
     "corequisites" : null,
@@ -3659,6 +3665,12 @@
     [
       "CHEM-6170"
     ],
+    "prerequisites" : null
+  },
+  "BCBP-6240" : 
+  {
+    "corequisites" : null,
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "BCBP-6310" : 
