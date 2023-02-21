@@ -21575,10 +21575,7 @@
   "LGHT-6830" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "LGHT-4830"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "LGHT-6940" : 
