@@ -19935,7 +19935,10 @@
   "ISYE-4210" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6600"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -20069,7 +20072,10 @@
   "ISYE-4290" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6620"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -20228,7 +20234,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6610"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -20295,7 +20304,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ISYE-6960"
+      "ISYE-6960",
+      "MGMT-6960"
     ],
     "prerequisites" : null
   },
@@ -20380,19 +20390,28 @@
   "ISYE-6600" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4210"
+    ],
     "prerequisites" : null
   },
   "ISYE-6610" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4600"
+    ],
     "prerequisites" : null
   },
   "ISYE-6620" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4290"
+    ],
     "prerequisites" : null
   },
   "ISYE-6760" : 
@@ -20452,7 +20471,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ISYE-4960"
+      "ISYE-4960",
+      "MGMT-6960"
     ],
     "prerequisites" : null
   },
@@ -26659,7 +26679,11 @@
   "MGMT-6960" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4960",
+      "ISYE-6960"
+    ],
     "prerequisites" : null
   },
   "MGMT-6961" : 
