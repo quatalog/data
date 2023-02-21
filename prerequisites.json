@@ -21035,7 +21035,21 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2500",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 2610",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ITWS-4961" : 
   {
@@ -21046,11 +21060,23 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4370",
-      "CSCI-6370",
       "ITWS-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ITWS 4100",
+          "type" : "course"
+        },
+        {
+          "course" : "ITWS 6800",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ITWS-4962" : 
   {
@@ -21238,11 +21264,23 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4370",
-      "CSCI-6370",
       "ITWS-4961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ITWS 4100",
+          "type" : "course"
+        },
+        {
+          "course" : "ITWS 6800",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ITWS-6962" : 
   {
