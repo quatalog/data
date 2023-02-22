@@ -1158,7 +1158,10 @@
   "ARCH-4966" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6966"
+    ],
     "prerequisites" : null
   },
   "ARCH-4967" : 
