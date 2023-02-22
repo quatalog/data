@@ -27734,7 +27734,10 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-6460"
+      "CSCI-4969",
+      "ECSE-4490",
+      "ECSE-6490",
+      "MANE-4963"
     ],
     "prerequisites" : null
   },
