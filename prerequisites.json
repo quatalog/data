@@ -1699,7 +1699,10 @@
   "ARCH-6966" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4960"
+    ],
     "prerequisites" : null
   },
   "ARCH-6967" : 
