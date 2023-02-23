@@ -1121,7 +1121,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARCH-6966"
+      "ARCH-6960"
     ],
     "prerequisites" : null
   },
@@ -1442,7 +1442,10 @@
   "ARCH-6380" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4970"
+    ],
     "prerequisites" : null
   },
   "ARCH-6390" : 
@@ -1659,7 +1662,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARCH-4966"
+      "ARCH-4960"
     ],
     "prerequisites" : null
   },
