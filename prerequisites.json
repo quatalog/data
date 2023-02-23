@@ -20046,7 +20046,11 @@
   "ENVE-4560" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-4560",
+      "ERTH-6560"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -21375,10 +21379,7 @@
   "ERTH-6960" : 
   {
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ERTH-4960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ERTH-6961" : 
