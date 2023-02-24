@@ -6611,12 +6611,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BMED-6966",
-      "CHEM-6966",
-      "CHME-6966"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "BIOL-6967" : 
@@ -7692,12 +7687,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BIOL-6966",
-      "CHEM-6966",
-      "CHME-6966"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "BMED-6967" : 
@@ -9367,9 +9357,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "BIOL-6966",
-      "BMED-6966",
-      "CHME-6966"
+      "CHEM-4966"
     ],
     "prerequisites" : null
   },
@@ -10148,12 +10136,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BIOL-6966",
-      "BMED-6966",
-      "CHEM-6966"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHME-6967" : 
