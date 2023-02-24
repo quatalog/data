@@ -4582,7 +4582,10 @@
   "BIOL-2160" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-2160"
+    ],
     "prerequisites" : null
   },
   "BIOL-2200" : 
@@ -20822,7 +20825,10 @@
   "ERTH-2160" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-2160"
+    ],
     "prerequisites" : null
   },
   "ERTH-2200" : 
@@ -22941,7 +22947,10 @@
   "ISCI-4510" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISCI-6510"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -23060,7 +23069,10 @@
   "ISCI-6510" : 
   {
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISCI-4510"
+    ],
     "prerequisites" : null
   },
   "ISCI-6940" : 
