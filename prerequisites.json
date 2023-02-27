@@ -2235,7 +2235,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2020"
+    ],
     "prerequisites" : null
   },
   "ARTS-2030" : 
@@ -2305,6 +2308,13 @@
       ],
       "type" : "or"
     }
+  },
+  "ARTS-2080" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "ARTS-2090" : 
   {
@@ -2549,11 +2559,21 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
-  "ARTS-2700" : 
+  "ARTS-2610" : 
   {
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "ARTS-2700" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2700"
+    ],
     "prerequisites" : null
   },
   "ARTS-2750" : 
