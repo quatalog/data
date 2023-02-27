@@ -2793,18 +2793,8 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "ARTS 4060",
-          "type" : "course"
-        },
-        {
-          "course" : "ARTS 2230",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "ARTS 2230",
+      "type" : "course"
     }
   },
   "ARTS-4080" : 
@@ -2845,7 +2835,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6120"
+    ],
     "prerequisites" : null
   },
   "ARTS-4130" : 
@@ -3034,7 +3027,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6962"
+    ],
     "prerequisites" : null
   },
   "ARTS-4510" : 
@@ -3550,7 +3546,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4120"
+    ],
     "prerequisites" : null
   },
   "ARTS-6130" : 
@@ -3751,7 +3750,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4500"
+    ],
     "prerequisites" : null
   },
   "ARTS-6963" : 
@@ -16836,7 +16838,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6110"
+    ],
     "prerequisites" : 
     {
       "nested" : 
