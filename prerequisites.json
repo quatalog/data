@@ -16974,7 +16974,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4170"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -17048,10 +17051,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-6210"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -17102,10 +17102,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-6220"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -17216,7 +17213,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4270"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -17326,7 +17326,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECON-6290"
+      "ECON-4290"
     ],
     "prerequisites" : null
   },
@@ -17359,10 +17359,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-6320"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECON-4330" : 
@@ -17406,6 +17403,27 @@
     [
       "Communication Intensive"
     ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "IHSS 1200",
+          "type" : "course"
+        },
+        {
+          "course" : "ECON 1200",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
+  },
+  "ECON-4380" : 
+  {
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -17599,31 +17617,10 @@
   },
   "ECON-4962" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ECON 1200",
-          "type" : "course"
-        },
-        {
-          "course" : "IHSS 1975",
-          "type" : "course"
-        },
-        {
-          "course" : "IHSS 1200",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "ECON-4963" : 
   {
