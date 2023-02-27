@@ -17051,7 +17051,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6210"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -17102,7 +17105,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6220"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -17215,7 +17221,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECON-4270"
+      "ECON-4270",
+      "ECON-6270"
     ],
     "prerequisites" : 
     {
@@ -17326,7 +17333,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECON-4290"
+      "ECON-4290",
+      "ECON-6290"
     ],
     "prerequisites" : null
   },
@@ -17359,7 +17367,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6320"
+    ],
     "prerequisites" : null
   },
   "ECON-4330" : 
@@ -17404,7 +17415,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -17734,11 +17748,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-4010"
-    ],
-    "prerequisites" : null
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "MATH 2010",
+      "type" : "course"
+    }
   },
   "ECON-6020" : 
   {
@@ -17772,7 +17787,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4110"
+    ],
     "prerequisites" : null
   },
   "ECON-6120" : 
@@ -17897,14 +17915,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4270"
+    ],
     "prerequisites" : null
   },
   "ECON-6280" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4280"
+    ],
     "prerequisites" : null
   },
   "ECON-6290" : 
@@ -17941,7 +17965,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4360"
+    ],
     "prerequisites" : null
   },
   "ECON-6550" : 
@@ -35529,18 +35556,8 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "PHYS 2210",
-          "type" : "course"
-        },
-        {
-          "course" : "MATH 2010",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
+      "course" : "PHYS 2210",
+      "type" : "course"
     }
   },
   "PHYS-2310" : 
