@@ -2079,14 +2079,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-1020"
+    ],
     "prerequisites" : null
   },
   "ARTS-1030" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-1030"
+    ],
     "prerequisites" : null
   },
   "ARTS-1040" : 
