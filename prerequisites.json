@@ -38722,6 +38722,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "STSO-4510" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "STSO-4530" : 
   {
     "attributes" : 
