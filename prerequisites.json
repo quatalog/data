@@ -24811,6 +24811,17 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "INQR-1240" : 
+  {
+    "attributes" : 
+    [
+      "Communication Intensive",
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "INQR-1300" : 
   {
     "attributes" : 
@@ -24819,6 +24830,31 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "INQR-1350" : 
+  {
+    "attributes" : 
+    [
+      "Communication Intensive",
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "INQR-1610" : 
+  {
+    "attributes" : 
+    [
+      "Communication Intensive",
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "INQR-1610"
+    ],
     "prerequisites" : null
   },
   "INQR-1700" : 
