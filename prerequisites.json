@@ -24758,6 +24758,47 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "INQR-1030" : 
+  {
+    "attributes" : 
+    [
+      "Communication Intensive",
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "INQR-1040" : 
+  {
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "INQR-1180" : 
+  {
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "INQR-1300" : 
+  {
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ISCI-0466" : 
   {
     "attributes" : [],
@@ -38984,6 +39025,13 @@
     "prerequisites" : null
   },
   "STSO-6960" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "STSO-6961" : 
   {
     "attributes" : [],
     "corequisites" : null,
