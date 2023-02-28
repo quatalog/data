@@ -2099,10 +2099,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-1040"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-1050" : 
@@ -23654,7 +23651,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-6200"
+    ],
     "prerequisites" : null
   },
   "GSAS-4961" : 
@@ -23662,11 +23662,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "GSAS 2510",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "GSAS-4962" : 
   {
@@ -23718,7 +23714,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4960"
+    ],
     "prerequisites" : null
   },
   "GSAS-6300" : 
