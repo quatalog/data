@@ -23607,8 +23607,26 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "GSAS 4520",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 4520",
+          "type" : "course"
+        },
+        {
+          "course" : "GSAS 4520",
+          "type" : "course"
+        },
+        {
+          "course" : "COGS 4520",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 4520",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "GSAS-4550" : 
@@ -31573,7 +31591,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-6960"
+    ],
     "prerequisites" : null
   },
   "MATP-6962" : 
