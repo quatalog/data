@@ -25814,7 +25814,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-6600"
+    ],
     "prerequisites" : null
   },
   "ISYE-6820" : 
@@ -31630,7 +31633,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6780"
+    ],
     "prerequisites" : 
     {
       "nested" : 
