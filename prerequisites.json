@@ -15035,8 +15035,18 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "CSCI 2300",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2300",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 1020",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
     }
   },
   "CSCI-4963" : 
@@ -15060,32 +15070,12 @@
       "nested" : 
       [
         {
-          "nested" : 
-          [
-            {
-              "course" : "CSCI 2300",
-              "type" : "course"
-            },
-            {
-              "course" : "CSCI 2600",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "CSCI 2300",
+          "type" : "course"
         },
         {
-          "nested" : 
-          [
-            {
-              "course" : "CSCI 4100",
-              "type" : "course"
-            },
-            {
-              "course" : "CSCI 4150",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "CSCI 2600",
+          "type" : "course"
         }
       ],
       "type" : "and"
@@ -15096,7 +15086,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2300",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 1020",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "CSCI-4966" : 
   {
@@ -15106,7 +15110,11 @@
     [
       "CSCI-6966"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CSCI 2300",
+      "type" : "course"
+    }
   },
   "CSCI-4967" : 
   {
@@ -15169,7 +15177,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CSCI 2200",
+      "type" : "course"
+    }
   },
   "CSCI-4971" : 
   {
@@ -15178,28 +15190,8 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "nested" : 
-          [
-            {
-              "course" : "CSCI 2200",
-              "type" : "course"
-            },
-            {
-              "course" : "CSCI 2300",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
-        },
-        {
-          "course" : "MATH 2010",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
+      "course" : "CSCI 4020",
+      "type" : "course"
     }
   },
   "CSCI-4972" : 
