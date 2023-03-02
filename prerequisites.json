@@ -24787,7 +24787,12 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1100",
+      "INQR-1110",
+      "STSO-1100"
+    ],
     "prerequisites" : null
   },
   "INQR-1110" : 
@@ -24829,7 +24834,10 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1240"
+    ],
     "prerequisites" : null
   },
   "INQR-1300" : 
@@ -24884,6 +24892,13 @@
     [
       "HASS Inquiry"
     ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "INQR-1973" : 
+  {
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -38391,6 +38406,22 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "STSO-1100" : 
+  {
+    "attributes" : 
+    [
+      "Communication Intensive",
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "INQR-1100",
+      "INQR-1110",
+      "STSO-1100"
+    ],
     "prerequisites" : null
   },
   "STSO-1110" : 
