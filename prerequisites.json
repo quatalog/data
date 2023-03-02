@@ -24898,7 +24898,10 @@
   },
   "INQR-1973" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -38517,7 +38520,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSO-2300"
+    ],
     "prerequisites" : 
     {
       "nested" : 
