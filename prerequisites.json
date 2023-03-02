@@ -31737,7 +31737,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-6961"
+    ],
     "prerequisites" : null
   },
   "MATP-6961" : 
