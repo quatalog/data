@@ -8351,7 +8351,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4030"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -8372,7 +8375,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4020"
+    ],
     "prerequisites" : 
     {
       "course" : "CHEM 4410",
@@ -8590,7 +8596,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4440"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 2400",
@@ -8612,7 +8621,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4410"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -35802,7 +35814,7 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "PHYS 2220",
+      "course" : "PHYS 2210",
       "type" : "course"
     }
   },
