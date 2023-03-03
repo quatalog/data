@@ -8936,7 +8936,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6750"
+    ],
     "prerequisites" : null
   },
   "CHEM-4963" : 
