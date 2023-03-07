@@ -11154,7 +11154,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-2120"
+    ],
     "prerequisites" : null
   },
   "COGS-2340" : 
@@ -11270,7 +11273,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4330"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -11366,10 +11372,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4966"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -11496,7 +11499,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6560"
+    ],
     "prerequisites" : 
     {
       "course" : "COGS 2340",
@@ -11584,7 +11590,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6640"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -11686,14 +11695,21 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6961"
+    ],
     "prerequisites" : null
   },
   "COGS-4962" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6964",
+      "CSCI-4969"
+    ],
     "prerequisites" : null
   },
   "COGS-4963" : 
@@ -11882,7 +11898,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4640"
+    ],
     "prerequisites" : null
   },
   "COGS-6780" : 
@@ -11927,7 +11946,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4961"
+    ],
     "prerequisites" : null
   },
   "COGS-6962" : 
@@ -11948,7 +11970,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4962",
+      "CSCI-4969"
+    ],
     "prerequisites" : null
   },
   "COGS-6965" : 
@@ -12074,10 +12100,7 @@
   },
   "COMM-1961" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -12208,7 +12231,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-2520"
+    ],
     "prerequisites" : null
   },
   "COMM-2570" : 
@@ -12252,7 +12278,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-2660"
+    ],
     "prerequisites" : null
   },
   "COMM-2750" : 
@@ -12437,6 +12466,38 @@
     {
       "course" : "COMM 4240",
       "type" : "course"
+    }
+  },
+  "COMM-4288" : 
+  {
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "COMM 2520",
+          "type" : "course"
+        },
+        {
+          "course" : "COMM 2660",
+          "type" : "course"
+        },
+        {
+          "course" : "WRIT 1110",
+          "type" : "course"
+        },
+        {
+          "course" : "WRIT 2110",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "COMM-4300" : 
@@ -12936,7 +12997,10 @@
   },
   "COMM-4960" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -13046,11 +13110,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "COMM 2660",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "COMM-4971" : 
   {
@@ -13412,6 +13472,16 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "COMM-6930" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "COMM-4930"
+    ],
     "prerequisites" : null
   },
   "COMM-6940" : 
@@ -15169,29 +15239,22 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6968"
+      "MATH-4140",
+      "MATH-4961",
+      "PHIL-4140",
+      "PHIL-4961"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 2300",
-          "type" : "course"
-        },
-        {
-          "course" : "MATH 2010",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "CSCI-4969" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4962",
+      "COGS-6964"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -24887,6 +24950,37 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "INQR-1140" : 
+  {
+    "attributes" : 
+    [
+      "Communication Intensive",
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "INQR-1150" : 
+  {
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "INQR-1175" : 
+  {
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "INQR-1180" : 
   {
     "attributes" : 
@@ -24942,6 +25036,37 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "INQR-1550" : 
+  {
+    "attributes" : 
+    [
+      "Communication Intensive",
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "INQR-1560" : 
+  {
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "INQR-1562" : 
+  {
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "INQR-1610" : 
   {
     "attributes" : 
@@ -24971,6 +25096,49 @@
   {
     "attributes" : 
     [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "INQR-1776" : 
+  {
+    "attributes" : 
+    [
+      "Communication Intensive",
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "INQR-1960" : 
+  {
+    "attributes" : 
+    [
+      "Communication Intensive",
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "INQR-1961" : 
+  {
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "INQR-1962" : 
+  {
+    "attributes" : 
+    [
+      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -26914,7 +27082,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LANG-1410"
+    ],
     "prerequisites" : null
   },
   "LANG-1420" : 
@@ -27813,6 +27984,20 @@
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
+  },
+  "LITR-4880" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "LITR-4880"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "LITR 2110",
+      "type" : "course"
+    }
   },
   "LITR-4940" : 
   {
@@ -29202,49 +29387,6 @@
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
-  },
-  "MANE-4660" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ENGR 1600",
-          "type" : "course"
-        },
-        {
-          "nested" : 
-          [
-            {
-              "course" : "ENGR 2350",
-              "type" : "course"
-            },
-            {
-              "course" : "MANE 4500",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
-        },
-        {
-          "course" : "ENGR 2530",
-          "type" : "course"
-        },
-        {
-          "course" : "ENGR 2600",
-          "type" : "course"
-        },
-        {
-          "course" : "MANE 2720",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
   },
   "MANE-4670" : 
   {
@@ -30745,8 +30887,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARCH-4780",
-      "CSCI-4972",
+      "CSCI-4968",
       "MATH-4961",
       "PHIL-4140",
       "PHIL-4961"
@@ -31064,7 +31205,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4972",
+      "CSCI-4968",
+      "MATH-4140",
       "PHIL-4140",
       "PHIL-4961"
     ],
@@ -34939,7 +35081,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-1110"
+    ],
     "prerequisites" : null
   },
   "PHIL-1960" : 
@@ -35043,10 +35188,7 @@
   },
   "PHIL-2830" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -35080,7 +35222,29 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "PHIL 1110",
+          "type" : "course"
+        },
+        {
+          "course" : "PHIL 2100",
+          "type" : "course"
+        },
+        {
+          "course" : "COGS 2120",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1140",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "PHIL-2961" : 
   {
@@ -35164,7 +35328,13 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4968",
+      "MATH-4140",
+      "MATH-4961",
+      "PHIL-4961"
+    ],
     "prerequisites" : 
     {
       "course" : "PHIL 2140",
@@ -35275,7 +35445,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4480"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -35422,7 +35595,13 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4968",
+      "MATH-4140",
+      "MATH-4961",
+      "PHIL-4140"
+    ],
     "prerequisites" : 
     {
       "course" : "PHIL 2140",
@@ -36621,7 +36800,7 @@
           "type" : "course"
         },
         {
-          "course" : "PHIL 2120",
+          "course" : "COGS 2120",
           "type" : "course"
         },
         {
@@ -36629,7 +36808,7 @@
           "type" : "course"
         },
         {
-          "course" : "COGS 2120",
+          "course" : "PHIL 2120",
           "type" : "course"
         }
       ],
@@ -36810,7 +36989,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4110"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -36902,7 +37084,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4310"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 2310",
@@ -36942,7 +37127,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4330"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -37038,7 +37226,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4370"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -37116,7 +37307,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4430"
+    ],
     "prerequisites" : null
   },
   "PSYC-4440" : 
@@ -37311,17 +37505,16 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "PSYC 1200",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "PSYC-4730" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4730"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -41139,7 +41332,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-2330"
+    ],
     "prerequisites" : null
   },
   "WRIT-2340" : 
@@ -41344,10 +41540,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "WRIT-6550"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
