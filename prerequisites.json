@@ -1107,7 +1107,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6840",
+      "MANE-4963",
+      "MANE-6963"
+    ],
     "prerequisites" : null
   },
   "ARCH-4910" : 
@@ -1796,7 +1801,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4890",
+      "MANE-4963",
+      "MANE-6963"
+    ],
     "prerequisites" : null
   },
   "ARCH-6860" : 
@@ -19426,7 +19436,11 @@
     [
       "ECSE-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 1200",
+      "type" : "course"
+    }
   },
   "ECSE-4962" : 
   {
@@ -24812,7 +24826,10 @@
   },
   "IHSS-2960" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -29707,9 +29724,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4969",
-      "ECSE-4490",
-      "ECSE-6490",
+      "ARCH-4890",
+      "ARCH-6840",
       "MANE-6963"
     ],
     "prerequisites" : null
@@ -30428,9 +30444,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4969",
-      "ECSE-4490",
-      "ECSE-6490",
+      "ARCH-4890",
+      "ARCH-6840",
       "MANE-4963"
     ],
     "prerequisites" : null
