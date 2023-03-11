@@ -11633,7 +11633,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4700"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -12406,7 +12409,10 @@
   },
   "COMM-4188" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -12704,6 +12710,16 @@
     [
       "COMM-6530"
     ],
+    "prerequisites" : null
+  },
+  "COMM-4535" : 
+  {
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "COMM-4540" : 
@@ -23590,7 +23606,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARTS-2550"
+      "ARTS-2560"
     ],
     "prerequisites" : null
   },
@@ -28360,11 +28376,21 @@
           "nested" : 
           [
             {
-              "course" : "CHEM 1100",
-              "type" : "course"
+              "nested" : 
+              [
+                {
+                  "course" : "CHEM 1100",
+                  "type" : "course"
+                },
+                {
+                  "course" : "CHEM 1110",
+                  "type" : "course"
+                }
+              ],
+              "type" : "or"
             },
             {
-              "course" : "CHEM 1110",
+              "course" : "PHYS 1150",
               "type" : "course"
             }
           ],
@@ -28386,7 +28412,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MANE 1960",
+      "type" : "course"
+    }
   },
   "MANE-2961" : 
   {
@@ -28556,18 +28586,8 @@
           "type" : "course"
         },
         {
-          "nested" : 
-          [
-            {
-              "course" : "MANE 4050",
-              "type" : "course"
-            },
-            {
-              "course" : "MANE 4500",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "MANE 4500",
+          "type" : "course"
         }
       ],
       "type" : "and"
@@ -28662,33 +28682,29 @@
       "nested" : 
       [
         {
-          "course" : "ENGR 2250",
+          "course" : "MANE 2720",
           "type" : "course"
         },
         {
           "nested" : 
           [
             {
+              "course" : "MATH 2010",
+              "type" : "course"
+            },
+            {
               "nested" : 
               [
                 {
-                  "course" : "MATH 2010",
+                  "course" : "MATH 2012",
                   "type" : "course"
                 },
                 {
                   "course" : "MATH 2011",
                   "type" : "course"
-                },
-                {
-                  "course" : "MATH 2012",
-                  "type" : "course"
                 }
               ],
-              "type" : "or"
-            },
-            {
-              "course" : "MANE 2720",
-              "type" : "course"
+              "type" : "and"
             }
           ],
           "type" : "or"
@@ -28917,14 +28933,6 @@
         {
           "nested" : 
           [
-            {
-              "course" : "CSCI 1190",
-              "type" : "course"
-            },
-            {
-              "course" : "CSCI 1010",
-              "type" : "course"
-            },
             {
               "course" : "MANE 2110",
               "type" : "course"
@@ -29224,7 +29232,31 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATH 2400",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1250",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "MANE-4510" : 
   {
@@ -29275,10 +29307,6 @@
       [
         {
           "course" : "ECSE 2410",
-          "type" : "course"
-        },
-        {
-          "course" : "MANE 4050",
           "type" : "course"
         },
         {
@@ -29354,25 +29382,25 @@
           "nested" : 
           [
             {
+              "course" : "MATH 2010",
+              "type" : "course"
+            },
+            {
               "nested" : 
               [
                 {
-                  "course" : "MATH 2010",
+                  "course" : "MATH 2011",
                   "type" : "course"
                 },
                 {
-                  "course" : "MATH 2011",
+                  "course" : "MATH 2012",
                   "type" : "course"
                 }
               ],
-              "type" : "or"
-            },
-            {
-              "course" : "MATH 2012",
-              "type" : "course"
+              "type" : "and"
             }
           ],
-          "type" : "and"
+          "type" : "or"
         }
       ],
       "type" : "and"
@@ -29386,21 +29414,7 @@
     [
       "ENGR-4710"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ENGR 2090",
-          "type" : "course"
-        },
-        {
-          "course" : "MATH 2400",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "MANE-4640" : 
   {
@@ -29551,15 +29565,15 @@
       "nested" : 
       [
         {
-          "course" : "MANE 4010",
+          "course" : "MANE 2710",
           "type" : "course"
         },
         {
-          "course" : "MANE 4730",
+          "course" : "MANE 2720",
           "type" : "course"
         }
       ],
-      "type" : "or"
+      "type" : "and"
     }
   },
   "MANE-4770" : 
@@ -29835,7 +29849,41 @@
     [
       "MANE-4140"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MANE 2720",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "MATH 2011",
+              "type" : "course"
+            },
+            {
+              "nested" : 
+              [
+                {
+                  "course" : "MATH 2012",
+                  "type" : "course"
+                },
+                {
+                  "course" : "MATH 2011",
+                  "type" : "course"
+                }
+              ],
+              "type" : "and"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "MANE-6170" : 
   {
@@ -29976,21 +30024,7 @@
     [
       "MANE-4360"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "MANE 4050",
-          "type" : "course"
-        },
-        {
-          "course" : "MANE 4500",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "MANE-6370" : 
   {
@@ -34437,7 +34471,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6050"
+    ],
     "prerequisites" : null
   },
   "MTLE-4100" : 
@@ -34789,7 +34826,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-4050"
+    ],
     "prerequisites" : null
   },
   "MTLE-6060" : 
@@ -37491,7 +37531,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4700"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
