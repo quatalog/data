@@ -17880,11 +17880,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "MATH 2010",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "ECON-6020" : 
   {
@@ -20823,10 +20819,7 @@
   "ENGR-2050" : 
   {
     "attributes" : [],
-    "corequisites" : 
-    [
-      "PHYS-1200"
-    ],
+    "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
     {
@@ -25021,6 +25014,7 @@
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -25061,10 +25055,22 @@
     ],
     "prerequisites" : null
   },
+  "INQR-1250" : 
+  {
+    "attributes" : 
+    [
+      "Communication Intensive",
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "INQR-1300" : 
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -25195,6 +25201,7 @@
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -35592,7 +35599,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSO-4250"
+    ],
     "prerequisites" : null
   },
   "PHIL-4520" : 
@@ -37144,8 +37154,22 @@
     ],
     "prerequisites" : 
     {
-      "course" : "PSYC 2310",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "PSYC 2310",
+          "type" : "course"
+        },
+        {
+          "course" : "ENGR 2600",
+          "type" : "course"
+        },
+        {
+          "course" : "MGMT 2100",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "PSYC-4320" : 
@@ -37255,7 +37279,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4360",
+      "PSYC-4360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -39031,6 +39059,7 @@
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
@@ -41584,7 +41613,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-6550"
+    ],
     "prerequisites" : 
     {
       "nested" : 
