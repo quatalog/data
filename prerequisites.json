@@ -11347,7 +11347,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -13507,16 +13510,6 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
-  },
-  "COMM-6930" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COMM-4930"
-    ],
     "prerequisites" : null
   },
   "COMM-6940" : 
@@ -37176,7 +37169,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -37281,8 +37277,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COGS-4360",
-      "PSYC-4360"
+      "COGS-4360"
     ],
     "prerequisites" : 
     {
@@ -37293,11 +37288,7 @@
           "type" : "course"
         },
         {
-          "course" : "PHIL 2120",
-          "type" : "course"
-        },
-        {
-          "course" : "PSYC 2120",
+          "course" : "COGS 2120",
           "type" : "course"
         }
       ],
@@ -37664,7 +37655,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4960"
+    ],
     "prerequisites" : null
   },
   "PSYC-4961" : 
