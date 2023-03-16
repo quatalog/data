@@ -24876,10 +24876,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ISCI-4960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "IHSS-4961" : 
