@@ -19398,7 +19398,11 @@
       "Culminating Exp/Capstone"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4270",
+      "MANE-4260"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -25719,7 +25723,11 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4900",
+      "MANE-4260"
+    ],
     "prerequisites" : 
     {
       "course" : "ENGR 2050",
@@ -28900,7 +28908,11 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4900",
+      "ISYE-4270"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -34733,7 +34745,12 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4900",
+      "ISYE-4270",
+      "MANE-4260"
+    ],
     "prerequisites" : 
     {
       "nested" : 
