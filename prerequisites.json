@@ -12644,7 +12644,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6420"
+    ],
     "prerequisites" : null
   },
   "COMM-4430" : 
@@ -13305,7 +13308,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4420"
+    ],
     "prerequisites" : null
   },
   "COMM-6430" : 
