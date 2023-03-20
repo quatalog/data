@@ -4932,7 +4932,21 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "BIOL 1015",
+          "type" : "course"
+        },
+        {
+          "course" : "BIOL 1016",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "BIOL-1015" : 
   {
@@ -35907,10 +35921,7 @@
   "PHYS-1250" : 
   {
     "attributes" : [],
-    "corequisites" : 
-    [
-      "MATH-1020"
-    ],
+    "corequisites" : null,
     "cross_listings" : 
     [
       "PHYS-1250"
