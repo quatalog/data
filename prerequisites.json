@@ -19888,8 +19888,18 @@
     ],
     "prerequisites" : 
     {
-      "course" : "ECSE 6400",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 6400",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 6600",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "ECSE-6460" : 
@@ -30262,11 +30272,11 @@
       "nested" : 
       [
         {
-          "course" : "ECSE 6400",
+          "course" : "MANE 6600",
           "type" : "course"
         },
         {
-          "course" : "MANE 6600",
+          "course" : "ECSE 6400",
           "type" : "course"
         }
       ],
@@ -35928,8 +35938,28 @@
     ],
     "prerequisites" : 
     {
-      "course" : "PHYS 1100",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1100",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1150",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
+          "course" : "MATH 1020",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
     }
   },
   "PHYS-1260" : 
