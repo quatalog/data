@@ -5185,6 +5185,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "BIOL-2961" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "BIOL-2980" : 
   {
     "attributes" : [],
