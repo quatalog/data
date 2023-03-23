@@ -37237,10 +37237,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "PSYC-4310"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
