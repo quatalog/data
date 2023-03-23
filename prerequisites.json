@@ -39461,31 +39461,10 @@
   },
   "STSO-4961" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "STSS 2210",
-          "type" : "course"
-        },
-        {
-          "course" : "STSO 2210",
-          "type" : "course"
-        },
-        {
-          "course" : "STSH 2210",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "STSO-4962" : 
   {
