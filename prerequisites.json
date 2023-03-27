@@ -9658,7 +9658,25 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CHME 2010",
+          "type" : "course"
+        },
+        {
+          "course" : "CHME 2050",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 2400",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "CHME-4040" : 
   {
