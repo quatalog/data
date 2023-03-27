@@ -32493,11 +32493,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "MGMT 2100",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "MGMT-4130" : 
   {
