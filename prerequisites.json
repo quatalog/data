@@ -12001,8 +12001,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COGS-4960",
-      "CSCI-4960"
+      "PSYC-4960"
     ],
     "prerequisites" : null
   },
@@ -17824,10 +17823,31 @@
   },
   "ECON-4962" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECON 1200",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1975",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1200",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECON-4963" : 
   {
@@ -19417,12 +19437,32 @@
       "nested" : 
       [
         {
-          "course" : "MATH 2010",
+          "course" : "ECSE 2500",
           "type" : "course"
         },
         {
-          "course" : "ECSE 2500",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "nested" : 
+              [
+                {
+                  "course" : "MATH 2010",
+                  "type" : "course"
+                },
+                {
+                  "course" : "MATH 2011",
+                  "type" : "course"
+                }
+              ],
+              "type" : "or"
+            },
+            {
+              "course" : "MATH 2012",
+              "type" : "course"
+            }
+          ],
+          "type" : "and"
         }
       ],
       "type" : "and"
@@ -37764,7 +37804,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6960"
+    ],
     "prerequisites" : null
   },
   "PSYC-4961" : 
