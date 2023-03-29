@@ -17330,10 +17330,6 @@
         {
           "course" : "IHSS 1200",
           "type" : "course"
-        },
-        {
-          "course" : "IHSS 1975",
-          "type" : "course"
         }
       ],
       "type" : "or"
