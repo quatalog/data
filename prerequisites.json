@@ -253,11 +253,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "ARCH 2150",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "ARCH-2200" : 
   {
