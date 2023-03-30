@@ -28148,20 +28148,6 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
-  "LITR-4880" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
-    [
-      "LITR-4880"
-    ],
-    "prerequisites" : 
-    {
-      "course" : "LITR 2110",
-      "type" : "course"
-    }
-  },
   "LITR-4940" : 
   {
     "attributes" : [],
