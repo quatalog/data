@@ -2095,7 +2095,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-1040" : 
