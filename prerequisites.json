@@ -15404,18 +15404,18 @@
       "nested" : 
       [
         {
-          "course" : "CSCI 2300",
+          "course" : "CSCI 4150",
           "type" : "course"
         },
         {
           "nested" : 
           [
             {
-              "course" : "CSCI 2500",
+              "course" : "CSCI 4390",
               "type" : "course"
             },
             {
-              "course" : "ECSE 2660",
+              "course" : "CSCI 6390",
               "type" : "course"
             }
           ],
