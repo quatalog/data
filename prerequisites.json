@@ -30857,7 +30857,11 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MATH 1020",
+      "type" : "course"
+    }
   },
   "MATH-2011" : 
   {
