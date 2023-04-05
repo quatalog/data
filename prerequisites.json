@@ -14021,7 +14021,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-2110"
+    ],
     "prerequisites" : 
     {
       "nested" : 
