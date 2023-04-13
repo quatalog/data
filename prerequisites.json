@@ -15387,7 +15387,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6968"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -16007,7 +16010,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4974"
+    ],
     "prerequisites" : null
   },
   "CSCI-6969" : 
