@@ -13099,12 +13099,12 @@
   },
   "COMM-4962" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6962"
+    ],
     "prerequisites" : null
   },
   "COMM-4963" : 
@@ -13614,7 +13614,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4962"
+    ],
     "prerequisites" : null
   },
   "COMM-6963" : 
@@ -17831,7 +17834,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECON 1200",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1200",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECON-4962" : 
   {
