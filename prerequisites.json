@@ -34650,10 +34650,7 @@
   "MTLE-4250" : 
   {
     "attributes" : [],
-    "corequisites" : 
-    [
-      "MTLE-2500"
-    ],
+    "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
     {
