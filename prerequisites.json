@@ -19582,6 +19582,8 @@
     "cross_listings" : 
     [
       "ECSE-6961",
+      "ENGR-4961",
+      "ENGR-6961",
       "ISCI-4961",
       "ISCI-6961"
     ],
@@ -20385,6 +20387,8 @@
     "cross_listings" : 
     [
       "ECSE-4961",
+      "ENGR-4961",
+      "ENGR-6961",
       "ISCI-4961",
       "ISCI-6961"
     ],
@@ -21540,9 +21544,17 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ISYE-4961"
+      "ECSE-4961",
+      "ECSE-6961",
+      "ENGR-6961",
+      "ISCI-4961",
+      "ISCI-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 1200",
+      "type" : "course"
+    }
   },
   "ENGR-4962" : 
   {
@@ -21689,6 +21701,20 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "ENGR-6961" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4961",
+      "ECSE-6961",
+      "ENGR-4961",
+      "ISCI-4961",
+      "ISCI-6961"
+    ],
     "prerequisites" : null
   },
   "ENGR-6970" : 
@@ -25502,6 +25528,8 @@
     [
       "ECSE-4961",
       "ECSE-6961",
+      "ENGR-4961",
+      "ENGR-6961",
       "ISCI-6961"
     ],
     "prerequisites" : 
@@ -25619,6 +25647,8 @@
     [
       "ECSE-4961",
       "ECSE-6961",
+      "ENGR-4961",
+      "ENGR-6961",
       "ISCI-4961"
     ],
     "prerequisites" : null
