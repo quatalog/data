@@ -19581,7 +19581,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-6961"
+      "ECSE-6961",
+      "ISCI-4961",
+      "ISCI-6961"
     ],
     "prerequisites" : 
     {
@@ -20382,7 +20384,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-4961"
+      "ECSE-4961",
+      "ISCI-4961",
+      "ISCI-6961"
     ],
     "prerequisites" : null
   },
@@ -25494,8 +25498,17 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "ECSE-4961",
+      "ECSE-6961",
+      "ISCI-6961"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "PHYS 1200",
+      "type" : "course"
+    }
   },
   "ISCI-6002" : 
   {
@@ -25602,7 +25615,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4961",
+      "ECSE-6961",
+      "ISCI-4961"
+    ],
     "prerequisites" : null
   },
   "ISCI-6962" : 
@@ -32273,7 +32291,6 @@
   {
     "attributes" : 
     [
-      "Communication Intensive",
       "Introductory Level Course"
     ],
     "corequisites" : null,
