@@ -33220,7 +33220,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4961"
+    ],
     "prerequisites" : null
   },
   "MGMT-4962" : 
