@@ -37076,6 +37076,14 @@
           "type" : "course"
         },
         {
+          "course" : "PHIL 2120",
+          "type" : "course"
+        },
+        {
+          "course" : "PSYC 2120",
+          "type" : "course"
+        },
+        {
           "course" : "COGS 2120",
           "type" : "course"
         }
