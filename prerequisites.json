@@ -27902,7 +27902,10 @@
   "LGHT-6830" : 
   {
     "attributes" : [],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "LGHT-6835"
+    ],
     "cross_listings" : 
     [
       "LGHT-4830"
