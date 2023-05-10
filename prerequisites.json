@@ -14189,7 +14189,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6100"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -14360,7 +14363,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6250"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -14648,7 +14654,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6390"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -14766,7 +14775,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4440"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -15010,7 +15022,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6560"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -15204,7 +15219,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6961"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -15215,7 +15233,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6962"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -15236,7 +15257,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6963"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -15247,7 +15271,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6964"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -15268,7 +15295,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6965"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -15363,7 +15393,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6971"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 4020",
@@ -15555,7 +15588,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4100"
+    ],
     "prerequisites" : null
   },
   "CSCI-6110" : 
@@ -15646,7 +15682,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4250"
+    ],
     "prerequisites" : null
   },
   "CSCI-6270" : 
@@ -15747,7 +15786,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4390"
+    ],
     "prerequisites" : null
   },
   "CSCI-6400" : 
@@ -15879,7 +15921,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4560"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -15965,35 +16010,50 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4961"
+    ],
     "prerequisites" : null
   },
   "CSCI-6962" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4962"
+    ],
     "prerequisites" : null
   },
   "CSCI-6963" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4963"
+    ],
     "prerequisites" : null
   },
   "CSCI-6964" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4964"
+    ],
     "prerequisites" : null
   },
   "CSCI-6965" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4965"
+    ],
     "prerequisites" : null
   },
   "CSCI-6966" : 
@@ -16044,7 +16104,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4971"
+    ],
     "prerequisites" : null
   },
   "CSCI-6972" : 
