@@ -2312,13 +2312,6 @@
       "type" : "or"
     }
   },
-  "ARTS-2080" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
-  },
   "ARTS-2090" : 
   {
     "attributes" : [],
@@ -39671,6 +39664,10 @@
         },
         {
           "course" : "STSO 2500",
+          "type" : "course"
+        },
+        {
+          "course" : "STSO 2210",
           "type" : "course"
         }
       ],
