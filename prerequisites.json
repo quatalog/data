@@ -36933,11 +36933,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ASTR-4961",
-      "PHYS-4961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "PHYS-6965" : 
