@@ -36632,7 +36632,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-6963"
+    ],
     "prerequisites" : 
     {
       "course" : "PHYS 4100",
@@ -36933,7 +36936,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-4620"
+    ],
     "prerequisites" : null
   },
   "PHYS-6965" : 
