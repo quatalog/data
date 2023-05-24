@@ -7906,7 +7906,10 @@
   },
   "CHEM-1200" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Introductory Level Course"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -7915,6 +7918,10 @@
       [
         {
           "course" : "CHEM 1100",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 1300",
           "type" : "course"
         },
         {
@@ -15203,8 +15210,25 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "CSCI-6960"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 4100",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 6100",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "CSCI-4961" : 
   {
@@ -15994,7 +16018,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4960"
+    ],
     "prerequisites" : null
   },
   "CSCI-6961" : 
