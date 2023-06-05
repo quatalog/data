@@ -21176,6 +21176,14 @@
             {
               "course" : "ECSE 1010",
               "type" : "course"
+            },
+            {
+              "course" : "ECSE 1960",
+              "type" : "course"
+            },
+            {
+              "course" : "ECSE 1961",
+              "type" : "course"
             }
           ],
           "type" : "or"
