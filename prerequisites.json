@@ -36122,7 +36122,10 @@
   "PHYS-1140" : 
   {
     "attributes" : [],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "PHYS-1962"
+    ],
     "cross_listings" : null,
     "prerequisites" : null
   },
