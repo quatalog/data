@@ -22000,7 +22000,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ENVE 2110",
+      "type" : "course"
+    }
   },
   "ENVE-4240" : 
   {
@@ -22299,11 +22303,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "ENVE 2110",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "ENVE-4962" : 
   {
