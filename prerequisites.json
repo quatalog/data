@@ -7077,7 +7077,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6450"
+    ],
     "prerequisites" : 
     {
       "course" : "BMED 2100",
@@ -7102,7 +7105,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6470"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -7190,7 +7196,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6550"
+    ],
     "prerequisites" : 
     {
       "course" : "BMED 2540",
@@ -7225,7 +7234,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6580"
+    ],
     "prerequisites" : 
     {
       "course" : "ENGR 2250",
@@ -7545,7 +7557,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4450"
+    ],
     "prerequisites" : null
   },
   "BMED-6460" : 
@@ -7562,7 +7577,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4470"
+    ],
     "prerequisites" : null
   },
   "BMED-6480" : 
@@ -7599,7 +7617,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4550"
+    ],
     "prerequisites" : null
   },
   "BMED-6560" : 
@@ -7616,7 +7637,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4580"
+    ],
     "prerequisites" : null
   },
   "BMED-6590" : 
