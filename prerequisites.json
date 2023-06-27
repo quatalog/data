@@ -7374,7 +7374,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6960"
+    ],
     "prerequisites" : null
   },
   "BMED-4961" : 
@@ -7720,7 +7723,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4960"
+    ],
     "prerequisites" : null
   },
   "BMED-6961" : 
@@ -23533,6 +23539,13 @@
     ],
     "prerequisites" : null
   },
+  "ERTH-6250" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ERTH-6300" : 
   {
     "attributes" : [],
@@ -25349,17 +25362,6 @@
     "prerequisites" : null
   },
   "INQR-1300" : 
-  {
-    "attributes" : 
-    [
-      "Communication Intensive",
-      "HASS Inquiry"
-    ],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
-  },
-  "INQR-1350" : 
   {
     "attributes" : 
     [
@@ -28148,10 +28150,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "LITR-2110"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "LITR-2150" : 
