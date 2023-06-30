@@ -9865,7 +9865,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6430"
+    ],
     "prerequisites" : null
   },
   "CHME-4460" : 
@@ -9913,7 +9916,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6480"
+    ],
     "prerequisites" : 
     {
       "course" : "CHME 4020",
@@ -10105,7 +10111,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4430"
+    ],
     "prerequisites" : null
   },
   "CHME-6440" : 
@@ -10133,7 +10142,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4480"
+    ],
     "prerequisites" : null
   },
   "CHME-6510" : 
@@ -25268,7 +25280,6 @@
     "cross_listings" : 
     [
       "INQR-1100",
-      "INQR-1110",
       "STSO-1100"
     ],
     "prerequisites" : null
@@ -25292,7 +25303,10 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1140"
+    ],
     "prerequisites" : null
   },
   "INQR-1150" : 
@@ -25380,7 +25394,10 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1550"
+    ],
     "prerequisites" : null
   },
   "INQR-1560" : 
@@ -39142,7 +39159,6 @@
     "cross_listings" : 
     [
       "INQR-1100",
-      "INQR-1110",
       "STSO-1100"
     ],
     "prerequisites" : null
