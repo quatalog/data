@@ -33277,6 +33277,13 @@
     ],
     "prerequisites" : null
   },
+  "MGMT-4800" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "MGMT-4850" : 
   {
     "attributes" : [],
