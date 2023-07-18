@@ -12648,7 +12648,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4288"
+    ],
     "prerequisites" : 
     {
       "nested" : 
