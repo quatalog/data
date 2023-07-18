@@ -15227,7 +15227,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-4800"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -31606,7 +31609,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4800"
+    ],
     "prerequisites" : 
     {
       "nested" : 
