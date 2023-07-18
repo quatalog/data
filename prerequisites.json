@@ -4440,7 +4440,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-6800"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -4789,7 +4792,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4800"
+    ],
     "prerequisites" : null
   },
   "BCBP-6810" : 
@@ -17347,7 +17353,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECON-4170"
+      "ECON-4170",
+      "ECON-6170"
     ],
     "prerequisites" : 
     {
@@ -18273,7 +18280,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4170"
+    ],
     "prerequisites" : null
   },
   "ECON-6190" : 
@@ -22318,7 +22328,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-6710",
+      "ERTH-4710"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
@@ -22588,7 +22602,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4710",
+      "ERTH-4710"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
@@ -23501,7 +23519,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4710",
+      "ENVE-6710"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
