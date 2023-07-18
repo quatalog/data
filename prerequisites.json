@@ -4091,7 +4091,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-6961",
+      "PHYS-4966",
+      "PHYS-6961"
+    ],
     "prerequisites" : null
   },
   "ASTR-6250" : 
@@ -4129,7 +4134,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4961",
+      "PHYS-4966",
+      "PHYS-6961"
+    ],
     "prerequisites" : null
   },
   "ASTR-6970" : 
@@ -5289,7 +5299,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6100"
+    ],
     "prerequisites" : 
     {
       "course" : "BIOL 2120",
@@ -5383,7 +5396,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6220"
+    ],
     "prerequisites" : 
     {
       "course" : "BIOL 4200",
@@ -5422,7 +5438,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6260"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5686,7 +5705,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6410"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -6261,7 +6283,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4100"
+    ],
     "prerequisites" : 
     {
       "course" : "BIOL 2120",
@@ -6300,7 +6325,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4220"
+    ],
     "prerequisites" : null
   },
   "BIOL-6240" : 
@@ -6314,7 +6342,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4260"
+    ],
     "prerequisites" : null
   },
   "BIOL-6310" : 
@@ -6374,7 +6405,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4540"
+    ],
     "prerequisites" : null
   },
   "BIOL-6420" : 
@@ -17881,7 +17915,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6030"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18149,7 +18186,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4580"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 2010",
@@ -36957,7 +36997,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4961",
+      "ASTR-6961",
+      "PHYS-6961"
+    ],
     "prerequisites" : null
   },
   "PHYS-6002" : 
@@ -37076,7 +37121,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4961",
+      "ASTR-6961",
+      "PHYS-4966"
+    ],
     "prerequisites" : null
   },
   "PHYS-6962" : 
