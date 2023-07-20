@@ -9848,7 +9848,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4150"
+    ],
     "prerequisites" : 
     {
       "nested" : 
