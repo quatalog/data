@@ -8830,7 +8830,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4530"
+    ],
     "prerequisites" : 
     {
       "course" : "CHEM 2250",
