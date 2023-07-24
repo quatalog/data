@@ -8916,6 +8916,16 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "CHEM-4750" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6750"
+    ],
+    "prerequisites" : null
+  },
   "CHEM-4760" : 
   {
     "attributes" : [],
@@ -9091,10 +9101,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-6750"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHEM-4963" : 
@@ -9427,7 +9434,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CHEM-4962"
+      "CHEM-4750"
     ],
     "prerequisites" : null
   },
