@@ -4379,7 +4379,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4760",
+      "CHEM-4760"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5998,7 +6002,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4760",
+      "CHEM-4760"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -8912,7 +8920,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4760",
+      "BIOL-4760"
+    ],
     "prerequisites" : 
     {
       "nested" : 
