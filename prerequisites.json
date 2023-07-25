@@ -15560,7 +15560,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4780",
+      "MATH-4140",
+      "MATH-4961",
+      "PHIL-4140",
+      "PHIL-4961"
+    ],
     "prerequisites" : 
     {
       "course" : "PHIL 2140",
