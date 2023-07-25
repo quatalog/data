@@ -25384,6 +25384,7 @@
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -25525,6 +25526,7 @@
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -25570,6 +25572,7 @@
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -25621,7 +25624,10 @@
   },
   "INQR-1963" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -36500,7 +36506,7 @@
     "attributes" : [],
     "corequisites" : 
     [
-      "PHYS-1150"
+      "PHYS-1140"
     ],
     "cross_listings" : null,
     "prerequisites" : null
