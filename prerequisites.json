@@ -36325,7 +36325,10 @@
     [
       "Introductory Level Course"
     ],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "PHYS-1960"
+    ],
     "cross_listings" : null,
     "prerequisites" : null
   },
