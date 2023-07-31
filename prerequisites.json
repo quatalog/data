@@ -7137,10 +7137,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BMED-6450"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "BMED 2100",
