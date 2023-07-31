@@ -25512,10 +25512,7 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "INQR-1550"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "INQR-1560" : 
