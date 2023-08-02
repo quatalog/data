@@ -318,7 +318,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5140"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 2510",
@@ -1465,7 +1468,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2330"
+    ],
     "prerequisites" : null
   },
   "ARCH-5150" : 
