@@ -316,10 +316,7 @@
   },
   "ARCH-2330" : 
   {
-    "attributes" : 
-    [
-      "Introductory Level Course"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -35185,6 +35182,20 @@
       "type" : "course"
     }
   },
+  "MTLE-4730" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6730"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "ENGR 2600",
+      "type" : "course"
+    }
+  },
   "MTLE-4850" : 
   {
     "attributes" : [],
@@ -35504,6 +35515,20 @@
       "MTLE-4470"
     ],
     "prerequisites" : null
+  },
+  "MTLE-6730" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "MTLE-4730"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "ENGR 2600",
+      "type" : "course"
+    }
   },
   "MTLE-6830" : 
   {
