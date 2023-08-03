@@ -1308,7 +1308,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6967"
+    ],
     "prerequisites" : null
   },
   "ARCH-4966" : 
@@ -1353,7 +1356,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6965"
+    ],
     "prerequisites" : null
   },
   "ARCH-4972" : 
@@ -1937,7 +1943,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4971"
+    ],
     "prerequisites" : null
   },
   "ARCH-6966" : 
@@ -1954,7 +1963,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4965"
+    ],
     "prerequisites" : null
   },
   "ARCH-6968" : 
@@ -35188,20 +35200,6 @@
       "type" : "course"
     }
   },
-  "MTLE-4730" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MTLE-6730"
-    ],
-    "prerequisites" : 
-    {
-      "course" : "ENGR 2600",
-      "type" : "course"
-    }
-  },
   "MTLE-4850" : 
   {
     "attributes" : [],
@@ -35291,7 +35289,11 @@
     [
       "MTLE-6960"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MTLE 4500",
+      "type" : "course"
+    }
   },
   "MTLE-4961" : 
   {
@@ -35521,20 +35523,6 @@
       "MTLE-4470"
     ],
     "prerequisites" : null
-  },
-  "MTLE-6730" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MTLE-4730"
-    ],
-    "prerequisites" : 
-    {
-      "course" : "ENGR 2600",
-      "type" : "course"
-    }
   },
   "MTLE-6830" : 
   {
