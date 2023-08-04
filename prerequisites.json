@@ -1057,7 +1057,10 @@
   "ARCH-4830" : 
   {
     "attributes" : [],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "ARCH-4540"
+    ],
     "cross_listings" : null,
     "prerequisites" : 
     {
