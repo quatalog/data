@@ -28194,11 +28194,11 @@
   "LGHT-6830" : 
   {
     "attributes" : [],
-    "corequisites" : 
+    "corequisites" : null,
+    "cross_listings" : 
     [
-      "LGHT-6835"
+      "LGHT-4830"
     ],
-    "cross_listings" : null,
     "prerequisites" : null
   },
   "LGHT-6940" : 
