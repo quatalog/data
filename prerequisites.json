@@ -13360,7 +13360,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "COMM 2660",
+      "type" : "course"
+    }
   },
   "COMM-4971" : 
   {
