@@ -28204,10 +28204,14 @@
   "LGHT-6830" : 
   {
     "attributes" : [],
-    "corequisites" : 
-    [
-      "LGHT-6835"
-    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "LGHT-6840" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
   },
