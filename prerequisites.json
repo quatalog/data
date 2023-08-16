@@ -5128,7 +5128,11 @@
       "BIOL-2125"
     ],
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "BIOL 1010",
+      "type" : "course"
+    }
   },
   "BIOL-2125" : 
   {
