@@ -18775,28 +18775,8 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "ECSE 2010",
-          "type" : "course"
-        },
-        {
-          "nested" : 
-          [
-            {
-              "course" : "PHYS 1200",
-              "type" : "course"
-            },
-            {
-              "course" : "PHYS 1250",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
-        }
-      ],
-      "type" : "and"
+      "course" : "ECSE 2010",
+      "type" : "course"
     }
   },
   "ECSE-2210" : 
