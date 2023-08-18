@@ -19781,11 +19781,7 @@
       "Culminating Exp/Capstone"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ISYE-4270",
-      "MANE-4260"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -26178,11 +26174,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-4900",
-      "MANE-4260"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -29370,11 +29362,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-4900",
-      "ISYE-4270"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -31132,7 +31120,11 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MATH 1010",
+      "type" : "course"
+    }
   },
   "MATH-1500" : 
   {
