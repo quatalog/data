@@ -25617,16 +25617,6 @@
   {
     "attributes" : 
     [
-      "HASS Inquiry"
-    ],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
-  },
-  "INQR-1962" : 
-  {
-    "attributes" : 
-    [
       "Communication Intensive",
       "HASS Inquiry"
     ],
@@ -25644,7 +25634,7 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
-  "INQR-1973" : 
+  "INQR-1964" : 
   {
     "attributes" : 
     [
