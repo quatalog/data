@@ -11506,7 +11506,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COGS-4330"
+      "COGS-4330",
+      "PSYC-4330"
     ],
     "prerequisites" : 
     {
@@ -37765,6 +37766,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "COGS-4330",
       "PSYC-4330"
     ],
     "prerequisites" : 
