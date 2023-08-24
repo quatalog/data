@@ -9149,7 +9149,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6964"
+    ],
     "prerequisites" : null
   },
   "CHEM-4965" : 
@@ -9568,9 +9571,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "BMED-6964",
-      "CHME-4400",
-      "CHME-6440"
+      "CHEM-4964"
     ],
     "prerequisites" : null
   },
