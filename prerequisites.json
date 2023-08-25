@@ -13273,7 +13273,10 @@
   },
   "COMM-4962" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -39823,13 +39826,6 @@
       "Communication Intensive",
       "PDII Option for Engr Majors"
     ],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
-  },
-  "STSO-4510" : 
-  {
-    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
