@@ -24306,7 +24306,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "GSAS 2540",
+      "type" : "course"
+    }
   },
   "GSAS-4962" : 
   {
