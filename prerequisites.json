@@ -875,7 +875,10 @@
     [
       "ARCH-4820"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5380"
+    ],
     "prerequisites" : null
   },
   "ARCH-4550" : 
@@ -1572,9 +1575,19 @@
   "ARCH-5380" : 
   {
     "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "corequisites" : 
+    [
+      "ARCH-6610"
+    ],
+    "cross_listings" : 
+    [
+      "ARCH-4540"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "ARCH 5330",
+      "type" : "course"
+    }
   },
   "ARCH-5390" : 
   {
