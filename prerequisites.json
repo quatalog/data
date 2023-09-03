@@ -9788,8 +9788,18 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "MATH 2400",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "MATH 2400",
+          "type" : "course"
+        },
+        {
+          "course" : "CHME 2010",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
     }
   },
   "CHME-4011" : 
@@ -10755,10 +10765,6 @@
         {
           "course" : "ENGR 2530",
           "type" : "course"
-        },
-        {
-          "course" : "ECSE 4160",
-          "type" : "course"
         }
       ],
       "type" : "or"
@@ -10865,7 +10871,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CIVL 2030",
+      "type" : "course"
+    }
   },
   "CIVL-4910" : 
   {
