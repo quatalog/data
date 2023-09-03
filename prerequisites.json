@@ -18799,19 +18799,25 @@
           "nested" : 
           [
             {
-              "course" : "MATH 2010",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 2011",
-              "type" : "course"
+              "nested" : 
+              [
+                {
+                  "course" : "MATH 2010",
+                  "type" : "course"
+                },
+                {
+                  "course" : "MATH 2011",
+                  "type" : "course"
+                }
+              ],
+              "type" : "or"
             },
             {
               "course" : "MATH 2012",
               "type" : "course"
             }
           ],
-          "type" : "or"
+          "type" : "and"
         },
         {
           "nested" : 
@@ -18838,8 +18844,28 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "ECSE 2010",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 2010",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1250",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
     }
   },
   "ECSE-2210" : 
@@ -18905,18 +18931,8 @@
     ],
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 1100",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 1200",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "CSCI 1100",
+      "type" : "course"
     }
   },
   "ECSE-2660" : 
@@ -19077,15 +19093,15 @@
       "nested" : 
       [
         {
-          "course" : "ENGR 2350",
+          "course" : "ECSE 2410",
           "type" : "course"
         },
         {
-          "course" : "ECSE 2410",
+          "course" : "MANE 4500",
           "type" : "course"
         }
       ],
-      "type" : "and"
+      "type" : "or"
     }
   },
   "ECSE-4110" : 
@@ -19368,8 +19384,18 @@
     ],
     "prerequisites" : 
     {
-      "course" : "ECSE 2410",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 2410",
+          "type" : "course"
+        },
+        {
+          "course" : "MANE 4500",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "ECSE-4460" : 
