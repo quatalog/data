@@ -19452,18 +19452,8 @@
           "type" : "course"
         },
         {
-          "nested" : 
-          [
-            {
-              "course" : "MATH 2010",
-              "type" : "course"
-            },
-            {
-              "course" : "ENGR 1100",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "MATH 2010",
+          "type" : "course"
         }
       ],
       "type" : "and"
@@ -19873,18 +19863,8 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "ENGR 2050",
-          "type" : "course"
-        },
-        {
-          "course" : "MANE 2220",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "ENGR 2050",
+      "type" : "course"
     }
   },
   "ECSE-4940" : 
@@ -19964,8 +19944,29 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "ECSE-6964"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 4840",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 4850",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 1100",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-4965" : 
   {
@@ -21486,7 +21487,7 @@
           "type" : "or"
         },
         {
-          "course" : "MATH 2400",
+          "course" : "MATH 1020",
           "type" : "course"
         }
       ],
