@@ -26211,10 +26211,6 @@
         {
           "course" : "ISYE 4760",
           "type" : "course"
-        },
-        {
-          "course" : "MATP 4620",
-          "type" : "course"
         }
       ],
       "type" : "or"
@@ -26241,7 +26237,7 @@
           "type" : "course"
         },
         {
-          "course" : "ISYE 4140",
+          "course" : "ENGR 2700",
           "type" : "course"
         }
       ],
@@ -26425,8 +26421,18 @@
           "type" : "or"
         },
         {
-          "course" : "CSCI 1100",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "CSCI 1100",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 1020",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
       "type" : "and"
@@ -28882,6 +28888,16 @@
               "type" : "course"
             },
             {
+              "course" : "PHYS 1150",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
+          "nested" : 
+          [
+            {
               "nested" : 
               [
                 {
@@ -28896,21 +28912,15 @@
               "type" : "or"
             },
             {
-              "nested" : 
-              [
-                {
-                  "course" : "MATH 2400",
-                  "type" : "course"
-                },
-                {
-                  "course" : "PHYS 1150",
-                  "type" : "course"
-                }
-              ],
-              "type" : "or"
+              "course" : "MATH 2012",
+              "type" : "course"
             }
           ],
           "type" : "and"
+        },
+        {
+          "course" : "MATH 2400",
+          "type" : "course"
         }
       ],
       "type" : "and"
@@ -28926,28 +28936,28 @@
       "nested" : 
       [
         {
-          "course" : "PHYS 1100",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1100",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1150",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         },
         {
           "nested" : 
           [
             {
-              "nested" : 
-              [
-                {
-                  "course" : "CHEM 1100",
-                  "type" : "course"
-                },
-                {
-                  "course" : "CHEM 1110",
-                  "type" : "course"
-                }
-              ],
-              "type" : "or"
+              "course" : "CHEM 1100",
+              "type" : "course"
             },
             {
-              "course" : "PHYS 1150",
+              "course" : "CHEM 1110",
               "type" : "course"
             }
           ],
