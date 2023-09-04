@@ -29256,25 +29256,25 @@
           "nested" : 
           [
             {
-              "course" : "MATH 2010",
-              "type" : "course"
-            },
-            {
               "nested" : 
               [
                 {
-                  "course" : "MATH 2012",
+                  "course" : "MATH 2010",
                   "type" : "course"
                 },
                 {
-                  "course" : "MATH 2011",
+                  "course" : "MATH 2012",
                   "type" : "course"
                 }
               ],
-              "type" : "and"
+              "type" : "or"
+            },
+            {
+              "course" : "MATH 2011",
+              "type" : "course"
             }
           ],
-          "type" : "or"
+          "type" : "and"
         }
       ],
       "type" : "and"
@@ -29770,6 +29770,10 @@
       [
         {
           "course" : "MANE 2110",
+          "type" : "course"
+        },
+        {
+          "course" : "MANE 2400",
           "type" : "course"
         },
         {
@@ -35105,7 +35109,43 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CHEM 1100",
+          "type" : "course"
+        },
+        {
+          "course" : "MTLE 4100",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "ENGR 1600",
+              "type" : "course"
+            },
+            {
+              "course" : "CHEM 1600",
+              "type" : "course"
+            },
+            {
+              "course" : "ISCI 1600",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1600",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "MTLE-4160" : 
   {
