@@ -32451,7 +32451,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-6910"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -32626,6 +32629,46 @@
         }
       ],
       "type" : "and"
+    }
+  },
+  "MATP-6910" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "MATP-4910"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATP 4400",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 4100",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 6100",
+          "type" : "course"
+        },
+        {
+          "course" : "ITWS 4600",
+          "type" : "course"
+        },
+        {
+          "course" : "ITWS 6600",
+          "type" : "course"
+        },
+        {
+          "course" : "BIOL 4200",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "MATP-6940" : 
