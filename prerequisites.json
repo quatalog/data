@@ -30733,7 +30733,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MANE 6520",
+      "type" : "course"
+    }
   },
   "MANE-6540" : 
   {
