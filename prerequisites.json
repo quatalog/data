@@ -568,7 +568,21 @@
     [
       "CIVL-4020"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ARCH 2330",
+          "type" : "course"
+        },
+        {
+          "course" : "ARCH 4330",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "ARCH-4030" : 
   {
@@ -1719,7 +1733,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ARCH 5170",
+          "type" : "course"
+        },
+        {
+          "course" : "ARCH 5210",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "ARCH-6620" : 
   {
