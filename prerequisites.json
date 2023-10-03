@@ -28320,10 +28320,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
-  "LGHT-6840" : 
+  "LGHT-6835" : 
   {
     "attributes" : [],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "LGHT-6830"
+    ],
     "cross_listings" : null,
     "prerequisites" : null
   },
