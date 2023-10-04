@@ -9705,11 +9705,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "PHYS 1200",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CHME-4020" : 
   {
