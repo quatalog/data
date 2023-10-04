@@ -357,7 +357,11 @@
       "ARCH-2830"
     ],
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ARCH 2370",
+      "type" : "course"
+    }
   },
   "ARCH-2370" : 
   {
@@ -578,7 +582,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ARCH 2330",
+          "type" : "course"
+        },
+        {
+          "course" : "ARCH 4330",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "ARCH-4030" : 
   {
@@ -3236,7 +3254,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ARTS 2700",
+      "type" : "course"
+    }
   },
   "ARTS-4840" : 
   {
@@ -3250,7 +3272,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ARTS 4840",
+      "type" : "course"
+    }
   },
   "ARTS-4860" : 
   {
@@ -3695,7 +3721,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "GSAS 4520",
+          "type" : "course"
+        },
+        {
+          "course" : "COGS 4520",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ARTS-6410" : 
   {
@@ -6025,14 +6065,32 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "BIOL 4760",
+      "type" : "course"
+    }
   },
   "BIOL-4850" : 
   {
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "BIOL 1010",
+          "type" : "course"
+        },
+        {
+          "course" : "BIOL 2120",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "BIOL-4860" : 
   {
@@ -7723,7 +7781,31 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "nested" : 
+          [
+            {
+              "course" : "ENGR 2530",
+              "type" : "course"
+            },
+            {
+              "course" : "BMED 2540",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
+          "course" : "ENGR 2250",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "BMED-6660" : 
   {
@@ -8021,7 +8103,25 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CHEM 1100",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 1110",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 1120",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "CHEM-1300" : 
   {
@@ -9062,7 +9162,29 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CHEM 2930",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 2940",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 2950",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 4970",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "CHEM-4960" : 
   {
@@ -10596,7 +10718,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CIVL 2670",
+      "type" : "course"
+    }
   },
   "CIVL-4070" : 
   {
@@ -10806,7 +10932,11 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ENGR 2050",
+      "type" : "course"
+    }
   },
   "CIVL-4940" : 
   {
@@ -10975,7 +11105,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CIVL 2030",
+      "type" : "course"
+    }
   },
   "CIVL-6260" : 
   {
@@ -11032,7 +11166,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CIVL 4070",
+      "type" : "course"
+    }
   },
   "CIVL-6340" : 
   {
@@ -11042,7 +11180,35 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "nested" : 
+          [
+            {
+              "course" : "CIVL 4020",
+              "type" : "course"
+            },
+            {
+              "course" : "ARCH 4020",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
+          "course" : "CIVL 6310",
+          "type" : "course"
+        },
+        {
+          "course" : "CIVL 6320",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "CIVL-6350" : 
   {
@@ -11146,7 +11312,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CIVL 2060",
+          "type" : "course"
+        },
+        {
+          "course" : "CIVL 2630",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "CIVL-6540" : 
   {
@@ -17628,7 +17808,25 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECON 1200",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1200",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1200",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECON-4330" : 
   {
@@ -17670,7 +17868,21 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "INQR 1200",
+          "type" : "course"
+        },
+        {
+          "course" : "ECON 1200",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECON-4380" : 
   {
@@ -18068,7 +18280,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ECON 6030",
+      "type" : "course"
+    }
   },
   "ECON-6110" : 
   {
@@ -28805,7 +29021,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ENGR 2090",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 2400",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "MANE-4180" : 
   {
@@ -29081,7 +29311,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MANE 2830",
+      "type" : "course"
+    }
   },
   "MANE-4360" : 
   {
@@ -29541,7 +29775,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ENGR 2530",
+          "type" : "course"
+        },
+        {
+          "course" : "MANE 4030",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "MANE-4670" : 
   {
@@ -29985,7 +30233,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MANE 4120",
+          "type" : "course"
+        },
+        {
+          "course" : "MANE 4130",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "MANE-6230" : 
   {
@@ -30392,7 +30654,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MANE 6660",
+          "type" : "course"
+        },
+        {
+          "course" : "CIVL 6660",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "MANE-6730" : 
   {
@@ -30927,7 +31203,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MATH 1020",
+      "type" : "course"
+    }
   },
   "MATH-4030" : 
   {
@@ -32628,7 +32908,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MGMT 4100",
+          "type" : "course"
+        },
+        {
+          "course" : "MGMT 4110",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "MGMT-4175" : 
   {
@@ -35836,7 +36130,41 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "STSO 2500",
+          "type" : "course"
+        },
+        {
+          "course" : "STSO 2510",
+          "type" : "course"
+        },
+        {
+          "course" : "STSO 2520",
+          "type" : "course"
+        },
+        {
+          "course" : "STSO 2700",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1110",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1150",
+          "type" : "course"
+        },
+        {
+          "course" : "PHIL 4240",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "PHIL-4520" : 
   {
@@ -37328,7 +37656,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PSYC 1200",
+      "type" : "course"
+    }
   },
   "PSYC-4220" : 
   {
@@ -37803,7 +38135,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PSYC 1200",
+      "type" : "course"
+    }
   },
   "PSYC-4730" : 
   {
@@ -37891,7 +38227,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PSYC 1200",
+      "type" : "course"
+    }
   },
   "PSYC-4961" : 
   {
@@ -39195,7 +39535,41 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "STSO 2500",
+          "type" : "course"
+        },
+        {
+          "course" : "STSO 2510",
+          "type" : "course"
+        },
+        {
+          "course" : "STSO 2520",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1150",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1160",
+          "type" : "course"
+        },
+        {
+          "course" : "PHIL 1110",
+          "type" : "course"
+        },
+        {
+          "course" : "PHIL 4240",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "STSO-4300" : 
   {
@@ -39482,7 +39856,29 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "STSO 2100",
+          "type" : "course"
+        },
+        {
+          "course" : "STSO 2300",
+          "type" : "course"
+        },
+        {
+          "course" : "STSO 2500",
+          "type" : "course"
+        },
+        {
+          "course" : "STSO 2520",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "STSO-4530" : 
   {
