@@ -25684,7 +25684,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MATH 1020",
+      "type" : "course"
+    }
   },
   "ISYE-2530" : 
   {
@@ -25716,7 +25720,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ENGR 2600",
+          "type" : "course"
+        },
+        {
+          "course" : "MATP 4600",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ISYE-4200" : 
   {
