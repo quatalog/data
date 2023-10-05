@@ -6928,18 +6928,8 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "PHYS 1200",
-          "type" : "course"
-        },
-        {
-          "course" : "PHYS 1250",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "PHYS 1200",
+      "type" : "course"
     }
   },
   "BMED-2540" : 
@@ -6947,7 +6937,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ENGR 1100",
+      "type" : "course"
+    }
   },
   "BMED-2800" : 
   {
@@ -7006,7 +7000,25 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "BMED 2100",
+          "type" : "course"
+        },
+        {
+          "course" : "BMED 2300",
+          "type" : "course"
+        },
+        {
+          "course" : "BMED 2540",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "BMED-4110" : 
   {
@@ -7388,7 +7400,11 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "BMED 4260",
+      "type" : "course"
+    }
   },
   "BMED-4650" : 
   {
@@ -7400,10 +7416,6 @@
       "nested" : 
       [
         {
-          "course" : "ENGR 2250",
-          "type" : "course"
-        },
-        {
           "nested" : 
           [
             {
@@ -7413,9 +7425,19 @@
             {
               "course" : "BMED 2540",
               "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "BMED 4250",
+              "type" : "course"
             },
             {
-              "course" : "BMED 4540",
+              "course" : "ENGR 2250",
               "type" : "course"
             }
           ],
@@ -7430,11 +7452,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "BIOL 4290",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "BMED-4710" : 
   {
@@ -10630,7 +10648,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CIVL 2050",
+      "type" : "course"
+    }
   },
   "CIVL-2130" : 
   {
@@ -10861,6 +10883,27 @@
     {
       "course" : "CIVL 2670",
       "type" : "course"
+    }
+  },
+  "CIVL-4530" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CIVL 2060",
+          "type" : "course"
+        },
+        {
+          "course" : "CIVL 2630",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
     }
   },
   "CIVL-4570" : 
@@ -11120,7 +11163,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CIVL 2030",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 2400",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "CIVL-6270" : 
   {
