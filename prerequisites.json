@@ -4315,8 +4315,18 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "BIOL 4620",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "BIOL 4620",
+          "type" : "course"
+        },
+        {
+          "course" : "BCBP 4760",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
     }
   },
   "BCBP-4470" : 
@@ -4446,8 +4456,18 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "BIOL 2120",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "BIOL 2120",
+          "type" : "course"
+        },
+        {
+          "course" : "BIOL 2125",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
     }
   },
   "BCBP-4760" : 
@@ -4490,7 +4510,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "BCBP 4760",
+      "type" : "course"
+    }
   },
   "BCBP-4780" : 
   {
