@@ -8165,6 +8165,10 @@
         {
           "course" : "CHEM 1110",
           "type" : "course"
+        },
+        {
+          "course" : "CHEM 1120",
+          "type" : "course"
         }
       ],
       "type" : "or"
@@ -18688,12 +18692,32 @@
       "nested" : 
       [
         {
-          "course" : "ECSE 2010",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "ECSE 2010",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 2010",
+              "type" : "course"
+            }
+          ],
+          "type" : "and"
         },
         {
-          "course" : "MATH 2010",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1250",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
       "type" : "and"
@@ -18737,8 +18761,28 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "ECSE 2010",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 2010",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1250",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
     }
   },
   "ECSE-2410" : 
@@ -18770,30 +18814,8 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 1100",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 1010",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 1200",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 1150",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 1250",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "CSCI 1100",
+      "type" : "course"
     }
   },
   "ECSE-2660" : 
@@ -18956,7 +18978,7 @@
           "type" : "course"
         }
       ],
-      "type" : "and"
+      "type" : "or"
     }
   },
   "ECSE-4110" : 
@@ -18999,7 +19021,7 @@
           "type" : "course"
         },
         {
-          "course" : "EPOW 4080",
+          "course" : "ECSE 4110",
           "type" : "course"
         }
       ],
@@ -19574,7 +19596,7 @@
           "type" : "course"
         },
         {
-          "course" : "ECSE 4520",
+          "course" : "ECSE 4560",
           "type" : "course"
         }
       ],
@@ -19723,7 +19745,11 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ENGR 2050",
+      "type" : "course"
+    }
   },
   "ECSE-4940" : 
   {
@@ -33496,7 +33522,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6965"
+    ],
     "prerequisites" : null
   },
   "MGMT-4966" : 
@@ -34453,7 +34482,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4965"
+    ],
     "prerequisites" : null
   },
   "MGMT-6966" : 
