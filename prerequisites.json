@@ -21803,6 +21803,13 @@
       "type" : "and"
     }
   },
+  "ENGR-4555" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ENGR-4610" : 
   {
     "attributes" : [],
@@ -21891,8 +21898,19 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "ECSE-4961",
+      "ECSE-6961",
+      "ENGR-6961",
+      "ISCI-4961",
+      "ISCI-6961"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "PHYS 1200",
+      "type" : "course"
+    }
   },
   "ENGR-4962" : 
   {
@@ -26463,6 +26481,13 @@
       "type" : "or"
     }
   },
+  "ISYE-4555" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ISYE-4600" : 
   {
     "attributes" : [],
@@ -26549,7 +26574,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4961"
+    ],
     "prerequisites" : null
   },
   "ISYE-4962" : 
