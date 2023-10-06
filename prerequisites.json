@@ -26269,21 +26269,7 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ENGR 2050",
-          "type" : "course"
-        },
-        {
-          "course" : "MANE 2220",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "ISYE-4280" : 
   {
@@ -29417,21 +29403,7 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ENGR 2050",
-          "type" : "course"
-        },
-        {
-          "course" : "MANE 2220",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "MANE-4280" : 
   {
@@ -35517,26 +35489,11 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-4900",
-      "ISYE-4270",
-      "MANE-4260"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "ENGR 2050",
-          "type" : "course"
-        },
-        {
-          "course" : "MTLE 4910",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
+      "course" : "MTLE 4910",
+      "type" : "course"
     }
   },
   "MTLE-4940" : 
