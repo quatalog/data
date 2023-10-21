@@ -12157,12 +12157,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COGS-6210",
-      "CSCI-4961",
-      "PSYC-4510"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -12562,10 +12557,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COGS-6780"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "COGS 2340",
@@ -12714,12 +12706,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COGS-4210",
-      "CSCI-4961",
-      "PSYC-4510"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "COGS-6240" : 
@@ -16013,12 +16000,12 @@
   },
   "CSCI-4966" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6966"
+    ],
     "prerequisites" : null
   },
   "CSCI-4967" : 
