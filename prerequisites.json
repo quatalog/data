@@ -2944,15 +2944,15 @@
       "nested" : 
       [
         {
-          "course" : "IHSS 1987",
-          "type" : "course"
-        },
-        {
-          "course" : "IHSS 1960",
-          "type" : "course"
-        },
-        {
           "course" : "ARTS 1030",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1030",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1040",
           "type" : "course"
         }
       ],
@@ -3031,6 +3031,27 @@
     [
       "Communication Intensive"
     ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ARTS 2500",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 2540",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
+  },
+  "ARTS-4140" : 
+  {
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -3339,14 +3360,65 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-6640"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "ARTS 1030",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ARTS 1020",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 1030",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 1040",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 1200",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 2020",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 2220",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 2380",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1030",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1040",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1170",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1180",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 4120",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 4140",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "ARTS-4650" : 
@@ -3748,6 +3820,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ARTS-6140" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ARTS-6160" : 
   {
     "attributes" : [],
@@ -3897,10 +3976,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-4640"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-6860" : 
