@@ -3975,10 +3975,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-4160"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-6966" : 
