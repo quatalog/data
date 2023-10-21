@@ -2913,14 +2913,25 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-6040"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "ARTS 1030",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ARTS 1030",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1030",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1040",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "ARTS-4050" : 
@@ -3683,10 +3694,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-4040"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-6050" : 
