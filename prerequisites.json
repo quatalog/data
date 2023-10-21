@@ -2933,15 +2933,15 @@
       "nested" : 
       [
         {
+          "course" : "IHSS 1987",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1960",
+          "type" : "course"
+        },
+        {
           "course" : "ARTS 1030",
-          "type" : "course"
-        },
-        {
-          "course" : "INQR 1030",
-          "type" : "course"
-        },
-        {
-          "course" : "INQR 1040",
           "type" : "course"
         }
       ],
@@ -3428,7 +3428,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ARTS 4220",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 1200",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ARTS-4962" : 
   {
@@ -3914,7 +3928,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ARTS 4220",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 1200",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ARTS-6962" : 
   {
