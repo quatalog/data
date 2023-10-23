@@ -1460,7 +1460,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6961"
+    ],
     "prerequisites" : null
   },
   "ARCH-4968" : 
@@ -1484,7 +1487,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6962"
+    ],
     "prerequisites" : null
   },
   "ARCH-4971" : 
@@ -2083,14 +2089,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4967"
+    ],
     "prerequisites" : null
   },
   "ARCH-6962" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4970"
+    ],
     "prerequisites" : null
   },
   "ARCH-6963" : 
@@ -24543,6 +24555,17 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "GSAS-4230" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "ARTS 2230",
+      "type" : "course"
+    }
+  },
   "GSAS-4240" : 
   {
     "attributes" : 
@@ -28658,24 +28681,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "LGHT-4760"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "LGHT 4230",
-          "type" : "course"
-        },
-        {
-          "course" : "LGHT 6750",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "LGHT 4230",
+      "type" : "course"
     }
   },
   "LGHT-6770" : 
