@@ -23562,10 +23562,7 @@
   "ERTH-1200" : 
   {
     "attributes" : [],
-    "corequisites" : 
-    [
-      "ERTH-1250"
-    ],
+    "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
   },
