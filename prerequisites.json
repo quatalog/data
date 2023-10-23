@@ -23612,7 +23612,25 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ERTH 1100",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 1020",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 1100",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "ERTH-2120" : 
   {
@@ -24018,7 +24036,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CSCI 1100",
+      "type" : "course"
+    }
   },
   "ERTH-4810" : 
   {
