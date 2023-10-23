@@ -25921,11 +25921,30 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "INQR-1160" : 
+  {
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "INQR-1165" : 
+  {
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "INQR-1175" : 
   {
     "attributes" : 
     [
-      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -25988,6 +26007,16 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "INQR-1492" : 
+  {
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "INQR-1550" : 
   {
     "attributes" : 
@@ -26003,7 +26032,6 @@
   {
     "attributes" : 
     [
-      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -30861,9 +30889,13 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MANE-6360"
+      "MANE-6964"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MANE 4100",
+      "type" : "course"
+    }
   },
   "MANE-4965" : 
   {
@@ -31612,7 +31644,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4964"
+    ],
     "prerequisites" : null
   },
   "MANE-6965" : 
