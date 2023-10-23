@@ -15927,8 +15927,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4520",
-      "ITWS-4500"
+      "ITWS-4850"
     ],
     "prerequisites" : null
   },
@@ -30669,16 +30668,14 @@
   },
   "MANE-4860" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-6968"
-    ],
-    "prerequisites" : null
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "MANE 4240",
+      "type" : "course"
+    }
   },
   "MANE-4880" : 
   {
@@ -31446,6 +31443,13 @@
     "prerequisites" : null
   },
   "MANE-6850" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "MANE-6860" : 
   {
     "attributes" : [],
     "corequisites" : null,
