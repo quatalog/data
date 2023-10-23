@@ -1225,7 +1225,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6890"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 4860",
@@ -2017,7 +2020,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4880"
+    ],
     "prerequisites" : null
   },
   "ARCH-6900" : 
@@ -13730,18 +13736,8 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "ITWS 1100",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 1100",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "CSCI 1100",
+      "type" : "course"
     }
   },
   "COMM-4710" : 
@@ -13834,10 +13830,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COMM-6780"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "COMM-4790" : 
@@ -13925,10 +13918,7 @@
   },
   "COMM-4960" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -14374,10 +14364,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COMM-4780"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "COMM-6790" : 
@@ -15716,7 +15703,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4850",
       "ITWS-4500"
     ],
     "prerequisites" : 
@@ -27697,7 +27683,6 @@
     "cross_listings" : 
     [
       "CSCI-4520",
-      "CSCI-4850",
       "ITWS-4500"
     ],
     "prerequisites" : 
