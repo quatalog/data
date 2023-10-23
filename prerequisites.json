@@ -23562,7 +23562,10 @@
   "ERTH-1200" : 
   {
     "attributes" : [],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "ERTH-1250"
+    ],
     "cross_listings" : null,
     "prerequisites" : null
   },
@@ -23587,7 +23590,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISCI-1510"
+    ],
     "prerequisites" : null
   },
   "ERTH-1960" : 
@@ -26101,7 +26107,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-1510"
+    ],
     "prerequisites" : null
   },
   "ISCI-1600" : 
@@ -26187,7 +26196,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISCI-6510"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -26330,7 +26342,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISCI-4510"
+    ],
     "prerequisites" : null
   },
   "ISCI-6940" : 
