@@ -9481,6 +9481,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ENVE-4110",
       "ERTH-4690",
       "ERTH-6690"
     ],
@@ -9493,7 +9494,7 @@
           "type" : "course"
         },
         {
-          "course" : "CHEM 1110",
+          "course" : "ERTH 1110",
           "type" : "course"
         }
       ],
