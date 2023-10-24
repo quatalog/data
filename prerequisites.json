@@ -36903,13 +36903,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4968",
-      "MATH-4140",
-      "MATH-4961",
-      "PHIL-4961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "PHIL 2140",
