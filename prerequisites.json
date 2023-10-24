@@ -7813,10 +7813,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BMED-6660"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "BMED-4710" : 
@@ -8226,10 +8223,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BMED-4660"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "BMED-6700" : 
@@ -8300,10 +8294,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MGMT-6961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "BMED-6962" : 
@@ -16002,10 +15993,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6964"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CSCI-4965" : 
@@ -17700,7 +17688,25 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECON 1200",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1200",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1200",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECON-2950" : 
   {
@@ -36124,12 +36130,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-4900",
-      "ISYE-4270",
-      "MANE-4260"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -38934,7 +38935,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PSYC 1200",
+      "type" : "course"
+    }
   },
   "PSYC-4941" : 
   {
