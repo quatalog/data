@@ -32233,13 +32233,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4968",
-      "MATH-4961",
-      "PHIL-4140",
-      "PHIL-4961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "PHIL 2140",
@@ -36942,10 +36936,7 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "STSO-4340"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "PHIL-4310" : 
