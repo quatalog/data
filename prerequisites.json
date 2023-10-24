@@ -4358,23 +4358,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "PHYS-4960"
+      "ASTR-6960"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ASTR 2050",
-          "type" : "course"
-        },
-        {
-          "course" : "MATH 2400",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "ASTR-4961" : 
   {
@@ -4412,7 +4398,11 @@
     [
       "ASTR-4960"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 4330",
+      "type" : "course"
+    }
   },
   "ASTR-6961" : 
   {
