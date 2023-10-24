@@ -3529,21 +3529,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ARTS 4220",
-          "type" : "course"
-        },
-        {
-          "course" : "ARTS 1200",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "ARTS-4962" : 
   {
@@ -26219,7 +26205,6 @@
   {
     "attributes" : 
     [
-      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -26241,7 +26226,6 @@
   {
     "attributes" : 
     [
-      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -26249,6 +26233,16 @@
     "prerequisites" : null
   },
   "INQR-1961" : 
+  {
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "INQR-1962" : 
   {
     "attributes" : 
     [
@@ -36700,10 +36694,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "PHIL-2100"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "PHIL-2120" : 
@@ -38798,6 +38789,10 @@
           "type" : "course"
         },
         {
+          "course" : "PHIL 2120",
+          "type" : "course"
+        },
+        {
           "course" : "COGS 2120",
           "type" : "course"
         }
@@ -38998,11 +38993,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "PSYC 1200",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "PSYC-4730" : 
   {
@@ -40346,7 +40337,7 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "IHSS 1610",
+      "course" : "INQR 1610",
       "type" : "course"
     }
   },
@@ -40467,10 +40458,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "PHIL-4300"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "STSO-4350" : 
@@ -42981,10 +42969,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "WRIT-6410"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "WRIT-4550" : 
@@ -42994,7 +42979,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-6550"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -43112,17 +43100,17 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "WRIT-4410"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "WRIT-6550" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-4550"
+    ],
     "prerequisites" : null
   },
   "WRIT-6940" : 
