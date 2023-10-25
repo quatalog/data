@@ -20448,7 +20448,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4961"
+    ],
     "prerequisites" : null
   },
   "ECSE-4966" : 
@@ -20809,7 +20812,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6962"
+    ],
     "prerequisites" : null
   },
   "ECSE-6470" : 
@@ -31003,7 +31009,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MANE-6963"
+      "ECSE-4965"
     ],
     "prerequisites" : null
   },
@@ -31768,7 +31774,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6460"
+    ],
     "prerequisites" : null
   },
   "MANE-6963" : 
