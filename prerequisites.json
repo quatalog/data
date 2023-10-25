@@ -3521,7 +3521,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6960"
+    ],
     "prerequisites" : null
   },
   "ARTS-4961" : 
@@ -4008,7 +4011,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4960"
+    ],
     "prerequisites" : null
   },
   "ARTS-6961" : 
@@ -20805,7 +20811,21 @@
     [
       "MANE-6962"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MANE 6600",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 6400",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-6470" : 
   {
@@ -31767,7 +31787,21 @@
     [
       "ECSE-6460"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MANE 6600",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 6400",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "MANE-6963" : 
   {
