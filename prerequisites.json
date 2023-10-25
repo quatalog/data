@@ -4344,7 +4344,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ASTR-6960"
+      "PHYS-6960"
     ],
     "prerequisites" : null
   },
@@ -4384,11 +4384,7 @@
     [
       "ASTR-4960"
     ],
-    "prerequisites" : 
-    {
-      "course" : "PHYS 4330",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "ASTR-6961" : 
   {
