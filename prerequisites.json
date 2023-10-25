@@ -3525,7 +3525,21 @@
     [
       "ARTS-6960"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ARTS 2020",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 2380",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ARTS-4961" : 
   {
@@ -12588,17 +12602,18 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6960",
+      "CSCI-4960"
+    ],
     "prerequisites" : null
   },
   "COGS-4961" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COGS-6961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "COGS-4962" : 
@@ -12827,7 +12842,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4960",
+      "CSCI-4960"
+    ],
     "prerequisites" : null
   },
   "COGS-6961" : 
@@ -15961,7 +15980,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4960",
+      "COGS-6960"
+    ],
     "prerequisites" : null
   },
   "CSCI-4961" : 
@@ -26253,6 +26276,7 @@
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -32910,10 +32934,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6840"
-    ],
+    "cross_listings" : [],
     "prerequisites" : 
     {
       "nested" : 
@@ -37134,7 +37155,10 @@
   },
   "PHIL-4960" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
