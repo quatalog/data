@@ -27679,7 +27679,10 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-1220"
+    ],
     "prerequisites" : null
   },
   "ITWS-2110" : 
