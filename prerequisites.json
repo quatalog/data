@@ -12258,24 +12258,13 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "PSYC-4360"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
       [
         {
           "course" : "PSYC 1200",
-          "type" : "course"
-        },
-        {
-          "course" : "PHIL 2120",
-          "type" : "course"
-        },
-        {
-          "course" : "PSYC 2120",
           "type" : "course"
         },
         {
@@ -38731,10 +38720,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COGS-4360"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
