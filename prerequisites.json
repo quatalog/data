@@ -26094,6 +26094,17 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "INQR-1220" : 
+  {
+    "attributes" : 
+    [
+      "Communication Intensive",
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "INQR-1240" : 
   {
     "attributes" : 
