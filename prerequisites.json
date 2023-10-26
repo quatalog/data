@@ -14638,7 +14638,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-2700",
+      "CSCI-4970"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 1100",
@@ -14853,7 +14857,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-1700",
+      "CSCI-4970"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
@@ -15151,7 +15159,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6230"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -15991,7 +16002,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6961"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -16130,7 +16144,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-1700",
+      "CSCI-2700",
+      "CSCI-4970"
+    ],
     "prerequisites" : null
   },
   "CSCI-4971" : 
@@ -16391,7 +16410,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4230"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -16774,7 +16796,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4961"
+    ],
     "prerequisites" : null
   },
   "CSCI-6962" : 
@@ -26136,7 +26161,11 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1220",
+      "ITWS-1220"
+    ],
     "prerequisites" : null
   },
   "INQR-1240" : 
@@ -27705,6 +27734,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "INQR-1220",
       "ITWS-1220"
     ],
     "prerequisites" : null
