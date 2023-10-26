@@ -35868,6 +35868,17 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "MTLE-2040" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "ENGR 2600",
+      "type" : "course"
+    }
+  },
   "MTLE-2100" : 
   {
     "attributes" : [],
