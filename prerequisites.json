@@ -1460,20 +1460,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-6961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-4968" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-6968"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-4969" : 
@@ -1705,7 +1699,10 @@
     [
       "ARCH-6610"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4540"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 5330",
@@ -1861,21 +1858,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ARCH 6610",
-          "type" : "course"
-        },
-        {
-          "course" : "ARCH 6750",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "ARCH-6630" : 
   {
@@ -1910,11 +1893,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "ARCH 5110",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "ARCH-6690" : 
   {
@@ -16137,7 +16116,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6969",
+      "ECSE-4490",
+      "ECSE-6490"
+    ],
     "prerequisites" : null
   },
   "CSCI-4970" : 
@@ -16876,7 +16860,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4969",
+      "ECSE-4490",
+      "ECSE-6490"
+    ],
     "prerequisites" : null
   },
   "CSCI-6970" : 
@@ -20009,7 +19998,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4969",
+      "CSCI-6969",
+      "ECSE-6490"
+    ],
     "prerequisites" : null
   },
   "ECSE-4500" : 
@@ -20927,7 +20921,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4969",
+      "CSCI-6969",
+      "ECSE-4490"
+    ],
     "prerequisites" : null
   },
   "ECSE-6500" : 
