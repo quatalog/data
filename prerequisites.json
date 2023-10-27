@@ -12586,7 +12586,11 @@
       "COGS-6960",
       "CSCI-4960"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CSCI 2300",
+      "type" : "course"
+    }
   },
   "COGS-4961" : 
   {
@@ -12826,7 +12830,11 @@
       "COGS-4960",
       "CSCI-4960"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CSCI 2300",
+      "type" : "course"
+    }
   },
   "COGS-6961" : 
   {
@@ -31083,13 +31091,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MANE-6964"
+      "MANE-6360"
     ],
-    "prerequisites" : 
-    {
-      "course" : "MANE 4100",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "MANE-4965" : 
   {
@@ -32302,7 +32306,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4140"
+    ],
     "prerequisites" : 
     {
       "course" : "PHIL 2140",
@@ -36971,7 +36978,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-4140"
+    ],
     "prerequisites" : 
     {
       "course" : "PHIL 2140",
@@ -37089,7 +37099,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSO-4250"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -38386,7 +38399,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-2310"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -40449,7 +40465,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4500"
+    ],
     "prerequisites" : 
     {
       "nested" : 
