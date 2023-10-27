@@ -14954,7 +14954,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CSCI 2300",
+      "type" : "course"
+    }
   },
   "CSCI-4030" : 
   {
@@ -15933,7 +15937,21 @@
     [
       "MATH-4820"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 4800",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 4800",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "CSCI-4850" : 
   {
@@ -15975,7 +15993,11 @@
       "COGS-4960",
       "COGS-6960"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CSCI 2300",
+      "type" : "course"
+    }
   },
   "CSCI-4961" : 
   {
