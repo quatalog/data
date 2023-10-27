@@ -27928,8 +27928,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4520",
-      "ITWS-4500"
+      "CSCI-4520"
     ],
     "prerequisites" : 
     {
