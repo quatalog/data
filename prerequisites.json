@@ -16144,7 +16144,11 @@
       "ECSE-4490",
       "ECSE-6490"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ECSE 4480",
+      "type" : "course"
+    }
   },
   "CSCI-4970" : 
   {
@@ -16420,11 +16424,7 @@
     [
       "CSCI-4230"
     ],
-    "prerequisites" : 
-    {
-      "course" : "CSCI 2300",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CSCI-6240" : 
   {
@@ -16454,21 +16454,7 @@
     [
       "CSCI-4270"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 2300",
-          "type" : "course"
-        },
-        {
-          "course" : "MATH 2010",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "CSCI-6280" : 
   {
@@ -16543,11 +16529,7 @@
     [
       "CSCI-4320"
     ],
-    "prerequisites" : 
-    {
-      "course" : "CSCI 4210",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CSCI-6370" : 
   {
@@ -16588,11 +16570,7 @@
       "ITWS-4400",
       "ITWS-6400"
     ],
-    "prerequisites" : 
-    {
-      "course" : "CSCI 1200",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CSCI-6430" : 
   {
@@ -16693,21 +16671,7 @@
     [
       "CSCI-4550"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 2300",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 2600",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "CSCI-6560" : 
   {
