@@ -30006,7 +30006,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6140"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -30146,7 +30149,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6210"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -31288,7 +31294,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4140"
+    ],
     "prerequisites" : null
   },
   "MANE-6170" : 
@@ -31322,7 +31331,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4210"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -33227,7 +33239,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-4400"
+    ],
     "prerequisites" : 
     {
       "nested" : 
