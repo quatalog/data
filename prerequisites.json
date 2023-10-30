@@ -16841,7 +16841,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4966"
+      "ISYE-6550"
     ],
     "prerequisites" : null
   },
@@ -22991,11 +22991,11 @@
       "nested" : 
       [
         {
-          "course" : "ENVE 2110",
+          "course" : "CHEM 1200",
           "type" : "course"
         },
         {
-          "course" : "CHEM 2250",
+          "course" : "ENVE 2110",
           "type" : "course"
         }
       ],
@@ -27414,7 +27414,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6966"
+    ],
     "prerequisites" : null
   },
   "ISYE-6600" : 
@@ -31969,10 +31972,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-4964"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-6965" : 
