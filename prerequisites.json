@@ -27198,10 +27198,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ISYE-6960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ISYE-4961" : 
@@ -27404,7 +27401,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ISYE-4960"
+      "ISYE-4960",
+      "MGMT-6960"
     ],
     "prerequisites" : null
   },
