@@ -12160,7 +12160,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6210"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -12257,7 +12260,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -12486,7 +12492,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4610"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -12703,7 +12712,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4210"
+    ],
     "prerequisites" : null
   },
   "COGS-6240" : 
@@ -12811,7 +12823,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4880"
+    ],
     "prerequisites" : null
   },
   "COGS-6940" : 
