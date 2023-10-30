@@ -17916,7 +17916,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6110"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18053,7 +18056,11 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4170",
+      "ECON-6170"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18102,7 +18109,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6190"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18127,7 +18137,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6210"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18182,7 +18195,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6220"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18297,7 +18313,11 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4270",
+      "ECON-6270"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18342,7 +18362,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6280"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18409,7 +18432,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4290",
+      "ECON-6290"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18459,7 +18486,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6320"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18509,7 +18539,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6340"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18537,7 +18570,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18611,7 +18647,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6130"
+    ],
     "prerequisites" : 
     {
       "course" : "ECON 2020",
@@ -18689,7 +18728,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6040"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18947,7 +18989,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4590"
+    ],
     "prerequisites" : 
     {
       "course" : "ECON 6030",
@@ -18958,7 +19003,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4110"
+    ],
     "prerequisites" : null
   },
   "ECON-6120" : 
@@ -18975,7 +19023,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4430"
+    ],
     "prerequisites" : null
   },
   "ECON-6140" : 
@@ -19012,7 +19063,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4170"
+    ],
     "prerequisites" : null
   },
   "ECON-6190" : 
@@ -19022,21 +19076,30 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4190"
+    ],
     "prerequisites" : null
   },
   "ECON-6210" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4210"
+    ],
     "prerequisites" : null
   },
   "ECON-6220" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4220"
+    ],
     "prerequisites" : null
   },
   "ECON-6230" : 
@@ -19074,42 +19137,60 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4270"
+    ],
     "prerequisites" : null
   },
   "ECON-6280" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4280"
+    ],
     "prerequisites" : null
   },
   "ECON-6290" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4290"
+    ],
     "prerequisites" : null
   },
   "ECON-6320" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4320"
+    ],
     "prerequisites" : null
   },
   "ECON-6340" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4340"
+    ],
     "prerequisites" : null
   },
   "ECON-6360" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4360"
+    ],
     "prerequisites" : null
   },
   "ECON-6550" : 
@@ -20389,7 +20470,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6850"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -21196,7 +21280,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4850"
+    ],
     "prerequisites" : null
   },
   "ECSE-6860" : 
@@ -23751,7 +23838,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-1200"
+    ],
     "prerequisites" : null
   },
   "ERTH-1210" : 
@@ -24226,7 +24316,7 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "CSCI 1100",
+      "course" : "CHEM 1100",
       "type" : "course"
     }
   },
@@ -24949,7 +25039,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-6200"
+    ],
     "prerequisites" : null
   },
   "GSAS-4962" : 
@@ -25002,7 +25095,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4961"
+    ],
     "prerequisites" : null
   },
   "GSAS-6300" : 
