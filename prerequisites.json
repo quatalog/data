@@ -40886,7 +40886,10 @@
   },
   "STSO-4340" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "PDII Option for Engr Majors"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
