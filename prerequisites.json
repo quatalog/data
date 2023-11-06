@@ -3072,7 +3072,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "ARTS-6961"
+    ],
     "prerequisites" : 
     {
       "course" : "ARTS 2020",
@@ -22627,11 +22630,11 @@
       "nested" : 
       [
         {
-          "course" : "ENGR 2020",
+          "course" : "STSO 2020",
           "type" : "course"
         },
         {
-          "course" : "IHSS 2610",
+          "course" : "ENGR 2020",
           "type" : "course"
         }
       ],
@@ -38470,11 +38473,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "PHYS 6210",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "PHYS-6510" : 
   {
@@ -40844,10 +40843,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "STSO-4610"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -41355,12 +41351,22 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "STSO-2610"
+      "ENGR-4610"
     ],
     "prerequisites" : 
     {
-      "course" : "STSO 2020",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "STSO 2020",
+          "type" : "course"
+        },
+        {
+          "course" : "ENGR 2020",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "STSO-4720" : 
@@ -41411,8 +41417,18 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "STSO 2020",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "STSO 2020",
+          "type" : "course"
+        },
+        {
+          "course" : "ENGR 2020",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "STSO-4980" : 
