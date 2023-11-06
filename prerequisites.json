@@ -4742,8 +4742,22 @@
     ],
     "prerequisites" : 
     {
-      "course" : "BCBP 4760",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "CHEM 4760",
+          "type" : "course"
+        },
+        {
+          "course" : "BCBP 4760",
+          "type" : "course"
+        },
+        {
+          "course" : "BIOL 4760",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "BCBP-4780" : 
@@ -5683,8 +5697,18 @@
     ],
     "prerequisites" : 
     {
-      "course" : "BIOL 4110",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "BIOL 4110",
+          "type" : "course"
+        },
+        {
+          "course" : "BMED 4110",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "BIOL-4130" : 
@@ -6217,8 +6241,22 @@
           "type" : "course"
         },
         {
-          "course" : "BIOL 4760",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "BIOL 4760",
+              "type" : "course"
+            },
+            {
+              "course" : "BCBP 4760",
+              "type" : "course"
+            },
+            {
+              "course" : "CHEM 4760",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
       "type" : "and"
@@ -6383,8 +6421,22 @@
     ],
     "prerequisites" : 
     {
-      "course" : "BIOL 4760",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "BIOL 4760",
+          "type" : "course"
+        },
+        {
+          "course" : "BCBP 4760",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 4760",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "BIOL-4850" : 
@@ -10507,10 +10559,6 @@
     {
       "nested" : 
       [
-        {
-          "course" : "CHME 2100",
-          "type" : "course"
-        },
         {
           "course" : "CHME 4040",
           "type" : "course"
@@ -35369,21 +35417,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "MGMT 6510",
-          "type" : "course"
-        },
-        {
-          "course" : "MGMT 6520",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "MGMT-6590" : 
   {
@@ -35421,21 +35455,7 @@
     [
       "MGMT-4520"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "MGMT 6190",
-          "type" : "course"
-        },
-        {
-          "course" : "MGMT 6310",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "MGMT-6630" : 
   {
