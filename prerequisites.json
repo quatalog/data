@@ -37435,6 +37435,14 @@
           "type" : "course"
         },
         {
+          "course" : "IHSS 1110",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1150",
+          "type" : "course"
+        },
+        {
           "course" : "PHIL 1110",
           "type" : "course"
         },
@@ -40730,27 +40738,53 @@
       "nested" : 
       [
         {
-          "course" : "INQR 1100",
+          "nested" : 
+          [
+            {
+              "course" : "INQR 1100",
+              "type" : "course"
+            },
+            {
+              "course" : "STSO 1100",
+              "type" : "course"
+            },
+            {
+              "course" : "INQR 1110",
+              "type" : "course"
+            },
+            {
+              "course" : "INQR 1240",
+              "type" : "course"
+            },
+            {
+              "course" : "INQR 1250",
+              "type" : "course"
+            },
+            {
+              "course" : "INQR 1320",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
+          "course" : "IHSS 1100",
           "type" : "course"
         },
         {
-          "course" : "STSO 1100",
+          "course" : "IHSS 1110",
           "type" : "course"
         },
         {
-          "course" : "INQR 1110",
+          "course" : "IHSS 1240",
           "type" : "course"
         },
         {
-          "course" : "INQR 1240",
+          "course" : "IHSS 1250",
           "type" : "course"
         },
         {
-          "course" : "INQR 1250",
-          "type" : "course"
-        },
-        {
-          "course" : "INQR 1320",
+          "course" : "IHSS 1320",
           "type" : "course"
         }
       ],
@@ -40784,8 +40818,18 @@
     ],
     "prerequisites" : 
     {
-      "course" : "INQR 1610",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "INQR 1610",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1610",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "STSO-2960" : 
@@ -40839,6 +40883,14 @@
         },
         {
           "course" : "INQR 1160",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1150",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1160",
           "type" : "course"
         },
         {
