@@ -28262,7 +28262,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-6370"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -28552,6 +28555,40 @@
     {
       "course" : "CSCI 1200",
       "type" : "course"
+    }
+  },
+  "ITWS-6370" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ITWS-4370"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "nested" : 
+          [
+            {
+              "course" : "CSCI 2500",
+              "type" : "course"
+            },
+            {
+              "course" : "ECSE 2660",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
+          "course" : "CSCI 2300",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
     }
   },
   "ITWS-6400" : 
