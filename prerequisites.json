@@ -1180,7 +1180,7 @@
     "attributes" : [],
     "corequisites" : 
     [
-      "ARCH-4540"
+      "ARCH-4550"
     ],
     "cross_listings" : null,
     "prerequisites" : 
