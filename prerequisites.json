@@ -3440,6 +3440,22 @@
         {
           "course" : "ARTS 4140",
           "type" : "course"
+        },
+        {
+          "course" : "IHSS 1030",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1040",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1170",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1180",
+          "type" : "course"
         }
       ],
       "type" : "or"
@@ -30096,7 +30112,7 @@
           "type" : "course"
         },
         {
-          "course" : "MANE 2110",
+          "course" : "MANE 2710",
           "type" : "course"
         }
       ],
@@ -37119,7 +37135,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "PSYC-2100"
+    ],
     "prerequisites" : null
   },
   "PHIL-2120" : 
@@ -38718,7 +38737,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-2100"
+    ],
     "prerequisites" : null
   },
   "PSYC-2120" : 
