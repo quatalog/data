@@ -41083,6 +41083,22 @@
         {
           "course" : "IHSS 1240",
           "type" : "course"
+        },
+        {
+          "course" : "STSS 1100",
+          "type" : "course"
+        },
+        {
+          "course" : "STSH 1100",
+          "type" : "course"
+        },
+        {
+          "course" : "STSS 2300",
+          "type" : "course"
+        },
+        {
+          "course" : "STSH 1110",
+          "type" : "course"
         }
       ],
       "type" : "or"
