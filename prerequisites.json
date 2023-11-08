@@ -1154,10 +1154,7 @@
   "ARCH-4820" : 
   {
     "attributes" : [],
-    "corequisites" : 
-    [
-      "ARCH-4540"
-    ],
+    "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
     {
@@ -1180,7 +1177,7 @@
     "attributes" : [],
     "corequisites" : 
     [
-      "ARCH-4550"
+      "ARCH-4540"
     ],
     "cross_listings" : null,
     "prerequisites" : 
@@ -4433,8 +4430,15 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "PHYS-6960"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "PHYS 4330",
+      "type" : "course"
+    }
   },
   "ASTR-4961" : 
   {
@@ -38634,7 +38638,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4960"
+    ],
     "prerequisites" : null
   },
   "PHYS-6961" : 
