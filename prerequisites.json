@@ -2960,6 +2960,14 @@
         {
           "course" : "INQR 1040",
           "type" : "course"
+        },
+        {
+          "course" : "IHSS 1030",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1040",
+          "type" : "course"
         }
       ],
       "type" : "or"
@@ -36821,7 +36829,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MTLE-6961"
+      "MTLE-4961"
     ],
     "prerequisites" : null
   },
