@@ -37285,7 +37285,11 @@
   },
   "PHIL-2500" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive",
+      "PDII Option for Engr Majors"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -37339,7 +37343,29 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "PHIL 1110",
+          "type" : "course"
+        },
+        {
+          "course" : "PHIL 2100",
+          "type" : "course"
+        },
+        {
+          "course" : "COGS 2120",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1140",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "PHIL-2961" : 
   {
@@ -41357,6 +41383,14 @@
         },
         {
           "course" : "STSO 1100",
+          "type" : "course"
+        },
+        {
+          "course" : "STSS 2520",
+          "type" : "course"
+        },
+        {
+          "course" : "STSO 2520",
           "type" : "course"
         }
       ],
