@@ -4455,7 +4455,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-4961",
+      "PHYS-6963"
+    ],
     "prerequisites" : null
   },
   "ASTR-6250" : 
@@ -38496,6 +38500,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ASTR-4961",
       "PHYS-6963"
     ],
     "prerequisites" : null
@@ -38687,6 +38692,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ASTR-4961",
       "PHYS-4961"
     ],
     "prerequisites" : null
