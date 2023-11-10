@@ -22750,7 +22750,7 @@
           "type" : "course"
         }
       ],
-      "type" : "and"
+      "type" : "or"
     }
   },
   "ENGR-4750" : 
