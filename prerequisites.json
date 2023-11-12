@@ -41389,6 +41389,10 @@
         {
           "course" : "STSO 2520",
           "type" : "course"
+        },
+        {
+          "course" : "STSO 1110",
+          "type" : "course"
         }
       ],
       "type" : "or"
