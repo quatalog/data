@@ -20807,8 +20807,18 @@
     ],
     "prerequisites" : 
     {
-      "course" : "PHYS 1200",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "PHYS 1200",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 1250",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "ECSE-4962" : 
@@ -20920,8 +20930,18 @@
           "type" : "course"
         },
         {
-          "course" : "PHYS 1200",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1250",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
       "type" : "and"
@@ -21681,11 +21701,7 @@
       "ISCI-4961",
       "ISCI-6961"
     ],
-    "prerequisites" : 
-    {
-      "course" : "PHYS 1200",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "ECSE-6962" : 
   {
@@ -22876,8 +22892,18 @@
     ],
     "prerequisites" : 
     {
-      "course" : "PHYS 1200",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "PHYS 1200",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 1250",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "ENGR-4962" : 
@@ -23039,11 +23065,7 @@
       "ISCI-4961",
       "ISCI-6961"
     ],
-    "prerequisites" : 
-    {
-      "course" : "PHYS 1200",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "ENGR-6963" : 
   {
@@ -26999,8 +27021,18 @@
     ],
     "prerequisites" : 
     {
-      "course" : "PHYS 1200",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "PHYS 1200",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 1250",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "ISCI-6002" : 
@@ -27116,11 +27148,7 @@
       "ENGR-6961",
       "ISCI-4961"
     ],
-    "prerequisites" : 
-    {
-      "course" : "PHYS 1200",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "ISCI-6962" : 
   {
