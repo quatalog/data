@@ -20805,7 +20805,11 @@
       "ISCI-4961",
       "ISCI-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 1200",
+      "type" : "course"
+    }
   },
   "ECSE-4962" : 
   {
@@ -20815,7 +20819,21 @@
     [
       "ECSE-6962"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 2210",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 2620",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-4963" : 
   {
@@ -20825,7 +20843,11 @@
     [
       "ECSE-6090"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ECSE 4080",
+      "type" : "course"
+    }
   },
   "ECSE-4964" : 
   {
@@ -20835,7 +20857,25 @@
     [
       "ECSE-6964"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATH 2800",
+          "type" : "course"
+        },
+        {
+          "course" : "ENGR 2600",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 4840",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-4965" : 
   {
@@ -20845,21 +20885,47 @@
     [
       "MANE-4961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CSCI 1100",
+      "type" : "course"
+    }
   },
   "ECSE-4966" : 
   {
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ECSE 2210",
+      "type" : "course"
+    }
   },
   "ECSE-4967" : 
   {
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATH 2010",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 2400",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 1200",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "ECSE-4968" : 
   {
@@ -21615,7 +21681,11 @@
       "ISCI-4961",
       "ISCI-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 1200",
+      "type" : "course"
+    }
   },
   "ECSE-6962" : 
   {
@@ -22804,7 +22874,11 @@
       "ISCI-4961",
       "ISCI-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 1200",
+      "type" : "course"
+    }
   },
   "ENGR-4962" : 
   {
@@ -22965,7 +23039,11 @@
       "ISCI-4961",
       "ISCI-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 1200",
+      "type" : "course"
+    }
   },
   "ENGR-6963" : 
   {
@@ -26919,7 +26997,11 @@
       "ENGR-6961",
       "ISCI-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 1200",
+      "type" : "course"
+    }
   },
   "ISCI-6002" : 
   {
@@ -27034,7 +27116,11 @@
       "ENGR-6961",
       "ISCI-4961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 1200",
+      "type" : "course"
+    }
   },
   "ISCI-6962" : 
   {
