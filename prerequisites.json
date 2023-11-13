@@ -13060,11 +13060,7 @@
       "COGS-4960",
       "CSCI-4960"
     ],
-    "prerequisites" : 
-    {
-      "course" : "CSCI 2300",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "COGS-6961" : 
   {
