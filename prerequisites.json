@@ -10641,6 +10641,17 @@
       "type" : "and"
     }
   },
+  "CHME-4060" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "CHME 4050",
+      "type" : "course"
+    }
+  },
   "CHME-4100" : 
   {
     "attributes" : [],
