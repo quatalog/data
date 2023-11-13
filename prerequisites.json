@@ -37798,7 +37798,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-6960"
+    ],
     "prerequisites" : null
   },
   "PHIL-4961" : 
@@ -37893,6 +37896,16 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "PHIL-6960" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4960"
+    ],
     "prerequisites" : null
   },
   "PHIL-6961" : 
