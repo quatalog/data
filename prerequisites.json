@@ -38214,7 +38214,31 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATH 1020",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1200",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1250",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "PHYS-2220" : 
   {
