@@ -39834,11 +39834,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "PSYC 1200",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "PSYC-4941" : 
   {
