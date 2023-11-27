@@ -11697,11 +11697,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "CIVL 2030",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CIVL-4910" : 
   {
@@ -11862,22 +11858,14 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "CIVL 2030",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CIVL-6230" : 
   {
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "CIVL 2030",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CIVL-6240" : 
   {
@@ -11954,11 +11942,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "CIVL 4080",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CIVL-6320" : 
   {
@@ -12014,11 +11998,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "CIVL 4080",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CIVL-6360" : 
   {
@@ -12054,11 +12034,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "CIVL 4440",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CIVL-6480" : 
   {
@@ -12083,11 +12059,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "CIVL 4150",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CIVL-6520" : 
   {
