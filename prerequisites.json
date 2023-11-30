@@ -30925,7 +30925,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6410"
+    ],
     "prerequisites" : 
     {
       "course" : "MANE 2830",
@@ -30982,7 +30985,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6380"
+    ],
     "prerequisites" : null
   },
   "MANE-4470" : 
@@ -31549,7 +31555,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6860"
+    ],
     "prerequisites" : 
     {
       "course" : "MANE 4240",
@@ -31958,7 +31967,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4460"
+    ],
     "prerequisites" : 
     {
       "course" : "MANE 4480",
@@ -31990,7 +32002,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4410"
+    ],
     "prerequisites" : null
   },
   "MANE-6420" : 
@@ -32345,7 +32360,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4860"
+    ],
     "prerequisites" : null
   },
   "MANE-6880" : 
