@@ -4586,7 +4586,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-6310"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5042,7 +5045,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4310"
+    ],
     "prerequisites" : null
   },
   "BCBP-6420" : 
