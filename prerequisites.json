@@ -2265,10 +2265,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-1020"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-1030" : 
@@ -2282,10 +2279,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-1040"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-1050" : 
@@ -2295,10 +2289,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-1050"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-1200" : 
@@ -2421,7 +2412,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2020"
+    ],
     "prerequisites" : null
   },
   "ARTS-2030" : 
@@ -2738,6 +2732,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ARTS-2610" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ARTS-2700" : 
   {
     "attributes" : [],
@@ -2984,18 +2985,8 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "ARTS 4060",
-          "type" : "course"
-        },
-        {
-          "course" : "ARTS 2230",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "ARTS 2230",
+      "type" : "course"
     }
   },
   "ARTS-4080" : 
@@ -3342,7 +3333,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6560"
+    ],
     "prerequisites" : null
   },
   "ARTS-4600" : 
@@ -4033,7 +4027,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4560"
+    ],
     "prerequisites" : null
   },
   "ARTS-6570" : 
