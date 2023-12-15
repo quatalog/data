@@ -22528,7 +22528,10 @@
   },
   "ENGR-2600" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
