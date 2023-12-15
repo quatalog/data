@@ -7073,7 +7073,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6700"
+    ],
     "prerequisites" : null
   },
   "BIOL-6640" : 
@@ -7967,7 +7970,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6660"
+    ],
     "prerequisites" : null
   },
   "BMED-4710" : 
@@ -8377,14 +8383,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4660"
+    ],
     "prerequisites" : null
   },
   "BMED-6700" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6550"
+    ],
     "prerequisites" : null
   },
   "BMED-6710" : 
