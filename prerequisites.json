@@ -14132,7 +14132,10 @@
   },
   "COMM-4960" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
