@@ -14670,10 +14670,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COMM-4961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "COMM-6962" : 
@@ -18091,25 +18088,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ECON 1200",
-          "type" : "course"
-        },
-        {
-          "course" : "IHSS 1200",
-          "type" : "course"
-        },
-        {
-          "course" : "INQR 1200",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "ECON-2950" : 
   {
