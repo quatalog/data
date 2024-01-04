@@ -38317,7 +38317,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-4962"
+    ],
     "prerequisites" : 
     {
       "course" : "PHYS 2210",
@@ -38701,7 +38704,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-2350"
+    ],
     "prerequisites" : null
   },
   "PHYS-4963" : 
