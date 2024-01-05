@@ -33454,11 +33454,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "MATH 2400",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "MATH-6740" : 
   {
