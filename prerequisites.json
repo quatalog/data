@@ -11966,11 +11966,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "CIVL 4070",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CIVL-6340" : 
   {
