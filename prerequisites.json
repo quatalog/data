@@ -34199,41 +34199,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "nested" : 
-          [
-            {
-              "course" : "MATH 1500",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 1520",
-              "type" : "course"
-            }
-          ],
-          "type" : "and"
-        },
-        {
-          "nested" : 
-          [
-            {
-              "course" : "MATH 1010",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 1020",
-              "type" : "course"
-            }
-          ],
-          "type" : "and"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "MGMT-2150" : 
   {
