@@ -1455,6 +1455,20 @@
     "description": "",
     "source": "SIS"
   },
+  "ARCH-4320": {
+    "subj": "ARCH",
+    "crse": "4320",
+    "name": "Building Integration 1: Design",
+    "description": "This course provides critical technical knowledge and skills for students to critically address environmental building regulations and the practice of",
+    "source": "SIS"
+  },
+  "ARCH-4325": {
+    "subj": "ARCH",
+    "crse": "4325",
+    "name": "Building Integration 2 - Prtc",
+    "description": "This course provides consultation with experts to prepare students with the necessary leadership skills for collaborative practice through lectures and skill building workshops. This course will provide access to professional disciplines typically engaged in the building design process as consultants, including sustainable practice, structural, mechanical, environmental, and high-performance facade design to support the integration of of technical knowledge and to promote innovation in current and future best practices, and stewardship of resources within architecture.",
+    "source": "SIS"
+  },
   "ARCH-4330": {
     "subj": "ARCH",
     "crse": "4330",
@@ -2049,6 +2063,20 @@
     "name": "Environmental and Ecological Systems",
     "description": "An exploration of the fundamental principles of human physiology, thermal and luminous comfort, and indoor quality. Emphasis is on bioclimatic and psychrometric climate analysis and its relationship to architectural design, understanding the energy exchange between body in space, the natural meaning of enclosures, and nonstructural materials and systems. The focus is on passive heating, cooling, and daylighting systems and their design. Exercises include vital sign analysis of existing spaces (thermal, air, luminous), forming hypotheses of building performance, using scientific instrumentation, tenant survey techniques, and physical modeling and simulation techniques related to daylighting and shading techniques. This course is required of all architecture graduate students in the M.Arch. program.",
     "source": "Acalog"
+  },
+  "ARCH-5320": {
+    "subj": "ARCH",
+    "crse": "5320",
+    "name": "Building Integration 1: Design",
+    "description": "This course provides critical technical knowledge and skills for students to critically address environmental building regulations and the practice of",
+    "source": "SIS"
+  },
+  "ARCH-5325": {
+    "subj": "ARCH",
+    "crse": "5325",
+    "name": "Building Integration 2 - Prtc",
+    "description": "This course provides consultation with experts to prepare students with the necessary leadership skills for collaborative practice through lectures and skill building workshops. This course will provide access to professional disciplines typically engaged in the building design process as consultants, including sustainable practice, structural, mechanical, environmental, and high-performance facade design to support the integration of of technical knowledge and to promote innovation in current and future best practices, and stewardship of resources within architecture.",
+    "source": "SIS"
   },
   "ARCH-5330": {
     "subj": "ARCH",
@@ -2679,6 +2707,13 @@
     "name": "Basic Drawing",
     "description": "An introductory course in drawing designed to develop seeing ability and means of expressing visual ideas through graphic skills. The course consists of exercises in drawing from observation and studies from the history of art.",
     "source": "Acalog"
+  },
+  "ARTS-1220": {
+    "subj": "ARTS",
+    "crse": "1220",
+    "name": "Fundamentals Of 2d Design",
+    "description": "An introductory course which will present basic concepts about composition, line, pictorial space, light, and color in the visual arts in order to help students develop the means for expressing visual ideas effectively. Weekly homework design projects will be complemented by in-class slide lectures, videos, and critiques.",
+    "source": "SIS"
   },
   "ARTS-1320": {
     "subj": "ARTS",
@@ -7125,6 +7160,13 @@
     "description": "Introduction of multivariate statistical methods to model and analyze recorded data from physiological systems in biomedical engineering. Statistical approaches related to applied multivariate statistics, classification and regression. Associated linear methods include principal component analysis, Fisher discriminant analysis, partial least squares, canonical correlation analysis and their nonlinear counterparts. Descriptive tools include scatter diagrams, Hotelling's T2 statistics and contribution plots. The course has a strong emphasis on biomedical applications.",
     "source": "Acalog"
   },
+  "BMED-4490": {
+    "subj": "BMED",
+    "crse": "4490",
+    "name": "Ai For Biomedical Applications",
+    "description": "Introduction of artificial neural networks, rule/case-based reasoning, Bayesian methods, fuzzy-logic, genetic and evolutionary optimization techniques, and agents.  The course presents the evolution of artificial neural networks from its inception to the principles of deep learning, introduces rule/case-based reasoning, fuzzy-logic, genetic algorithms and particle swarm optimization methods.  Besides covering the foundation of associated methods, the course emphasizes biomedical applications and presents associated results from studies to autism, discriminating cancer types, burn severity and tissue engineering problems.",
+    "source": "SIS"
+  },
   "BMED-4500": {
     "subj": "BMED",
     "crse": "4500",
@@ -7419,6 +7461,13 @@
     "description": "This course discusses state-of-the-art techniques in patterning biomolecules, biosensors, machining three-dimensional microstructures and building microfluidic devices (Lab-on-a-Chip). Seminal and current literature will be used to discuss topics in BioMEMs ranging from device fabrication to applications in cell biology and medicine.",
     "source": "Acalog"
   },
+  "BMED-6420": {
+    "subj": "BMED",
+    "crse": "6420",
+    "name": "Clincal Orthopaedics And Research",
+    "description": "The course covers matrix algebra and decompositions, including eigenvalue and generalized eigenvalue problems, solving multivariate constraint and unconstraint optimization problems, gradient-based optimization for solving nonlinear optimization problems, and regression analysis. Concepts that are discussed include solving nonlinear optimization problems, first- and second-order gradient-based methods, estimating parameters for multiple linear regression and mechanistic first-principle models. The course also introduces important data science tasks: data analysis, regression, classification and presents application studies related to biomedical engineering.",
+    "source": "SIS"
+  },
   "BMED-6440": {
     "subj": "BMED",
     "crse": "6440",
@@ -7460,6 +7509,13 @@
     "name": "Biomedical Data Science",
     "description": "Introduction of multivariate statistical methods to model and analyze recorded data from physiological systems in biomedical engineering. Statistical approaches related to applied multivariate statistics, classification, and regression. Associated linear methods include principal component analysis, Fisher discriminant analysis, partial least squares, canonical correlation analysis and their nonlinear counterparts. Descriptive tools include scatter diagrams, Hotelling's T2 statistics and contribution plots. The course has a strong emphasis on biomedical applications.",
     "source": "Acalog"
+  },
+  "BMED-6490": {
+    "subj": "BMED",
+    "crse": "6490",
+    "name": "Ai For Biomedical Applications",
+    "description": "Introduction of artificial neural networks, rule/case-based reasoning, Bayesian methods, fuzzy-logic, genetic and evolutionary optimization techniques, and agents.  The course presents the evolution of artificial neural networks from its inception to the principles of deep learning, introduces rule/case-based reasoning, fuzzy-logic, genetic algorithms and particle swarm optimization methods.  Besides covering the foundation of associated methods, the course emphasizes biomedical applications and presents associated results from studies to autism, discriminating cancer types, burn severity and tissue engineering problems.",
+    "source": "SIS"
   },
   "BMED-6510": {
     "subj": "BMED",
@@ -13106,9 +13162,9 @@
   "CSCI-2960": {
     "subj": "CSCI",
     "crse": "2960",
-    "name": "Mathematical Foundations Of Machine Learning",
-    "description": "In this class, students will delve into the essential building blocks of machine learning, focusing on topics in linear algebra, continuous probability, and statistics. These mathematical foundations are the bedrock upon which machine learning is constructed. By mastering these fundamental concepts, students will gain a powerful understanding of machine learning algorithms and predictive modeling. Moreover, this course is on track to becoming a prerequisite for all machine learning classes in the Computer Science department.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-2961": {
     "subj": "CSCI",
@@ -13369,6 +13425,13 @@
     "description": "Techniques and methods for parallel programming: models of parallel machines and programs, efficiency and complexity of parallel algorithms. Paradigms of parallel programming and corresponding extensions to sequential programming languages. Overview of parallel languages and coordination languages and models; programming on networks of workstations. Basic parallel algorithms: elementary computation, matrix multiplication, sorting; sample scientific application.",
     "source": "Acalog"
   },
+  "CSCI-4330": {
+    "subj": "CSCI",
+    "crse": "4330",
+    "name": "Application Design Using Java",
+    "description": "Java is one of the most popular general purpose modern programming languages used in industry. This course focuses on learning and practicing advanced Java features which are widely used in industry and academia. The first part of the course is dedicated to object-oriented features of Java and how to use them in software design. It also covers all major tools that support development process during the entire software development life cycle. The second part of the course covers parallel programming, how it can be implemented in Java, its advantages and limitations. The third part of the course is dedicated to creating Web applications. Finally, the fourth part of the course discusses different database models and provides specific details on how to create Java applications that can use different databases as a data storage option. Special attention is given to noSQL graph databases which combined with Java allow building solutions that are capable of storing, manipulating, and analyzing billion-node scale networks.",
+    "source": "SIS"
+  },
   "CSCI-4340": {
     "subj": "CSCI",
     "crse": "4340",
@@ -13575,44 +13638,44 @@
   "CSCI-4960": {
     "subj": "CSCI",
     "crse": "4960",
-    "name": "Social Computing",
-    "description": "Cross-listed from: COGS 4960",
-    "source": "CSCI topics"
+    "name": "Topics in Computer Science",
+    "description": "",
+    "source": "Acalog"
   },
   "CSCI-4961": {
     "subj": "CSCI",
     "crse": "4961",
-    "name": "Deep Learning",
-    "description": "This course delves deeply into the transformative world of deep learning. Throughout the semester, we will cover (1) Essential architectures: feedforward neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), generative adversarial networks (GANs), and Transformers. (2) Fundamental concepts and algorithms:  backpropagation, loss functions, optimization strategies, regularization, data augmentation. (3) Diverse applications: computer vision, natural language processing.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4962": {
     "subj": "CSCI",
     "crse": "4962",
-    "name": "Security And Privacy Of Ml",
-    "description": "Machine learning (ML) has demonstrated superior performance in many areas and has increasingly been deployed in real-world critical applications. However, the vulnerabilities and privacy risks of ML models could put public safety and user privacy in danger. Existing studies have shown that the ML applications such as financial analytics and autonomous vehicles are vulnerable to attacks that can manipulate the models to their malicious ends. This course will introduce potential vulnerabilities of ML models, recent research and future directions about the security and privacy problems in real-world machine learning systems. We will cover different types of attacks against computer systems leveraging ML as well as defense techniques, privacy-preserving ML, and robustness and fairness in ML. Students will familiarize themselves with the emerging body of literature on each topic, understand different algorithms, analyze security vulnerabilities, and develop the ability to conduct research projects on related topics.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4963": {
     "subj": "CSCI",
     "crse": "4963",
-    "name": "Graph Mining",
-    "description": "This course will introduce students to data mining, machine learning, and other algorithmic techniques for analyzing social and biological networks, web crawls, and similar real-world graph-based datasets. Course topics will include an introduction to general graph computations, analysis and mining algorithms, graph analysis frameworks, random graph models, graph visualization, and graph computations via matrix operations. Students will learn about research challenges related to the computational study of large graphs on modern systems. Prospective students should have some background knowledge in algorithms and be comfortable with C/C++ and Python-based programming.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4964": {
     "subj": "CSCI",
     "crse": "4964",
-    "name": "Machine Learning Open Source, Open Science -- Ml(Os)^2",
-    "description": "A structured, intensive research experience for students interested in Machine Learning, AI and Data. Students will focus on a single research project through the semester to answer a novel research question within an open source, open science framework. Projects will use data from a variety of application domains including medical (e.g. disease modeling), environment, finance, text, image, etc. The primary outcomes for students will be open source tools and research publications in peer-reviewed venues.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4965": {
     "subj": "CSCI",
     "crse": "4965",
-    "name": "Time Series Analysis",
-    "description": "A time series is a sequence (xt) of data where the subscript t indicates the time at which the data xt was observed. The course provides an introduction to the theory and practice of statistical time series analysis. Topics covered include stationary and non-stationary stochastic processes, autoregressive and moving average (ARMA) models, model selection and estimation, state-space models and the Kalman filter, forecasting and forecast evaluation,  an outline of spectral techniques. While these fundamental techniques are remarkably successful, availability of large time series data sets motivates application of AI/ML methods. Thus we will cover various deep neural networks that are relevant to time series data including RNN, LSTM.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4966": {
     "subj": "CSCI",
@@ -13624,37 +13687,37 @@
   "CSCI-4967": {
     "subj": "CSCI",
     "crse": "4967",
-    "name": "Projects In Mach Learning & Ai",
-    "description": "This course will expose students to applying their knowledge of ML and AI to real-world problems using real-world datasets. Larger focus of the course is on Deep Learning and its applications. Students will learn and implement ML concepts by creating small- and medium-sized projects throughout the course.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4968": {
     "subj": "CSCI",
     "crse": "4968",
-    "name": "Trustworthy Machine Learning",
-    "description": "Machine-learned models now routinely outperform humans at a variety of tasks. That accuracy comes implicitly at the cost of other socially and ethically desirable properties; these trade-offs limit the arenas in which ML may be deployed. This seminar course covers recent approaches towards measuring and ensuring such properties in machine-learned models. The properties considered include (i) fairness: models should not discriminate on the basis of protected attributes; (ii) robustness: models\u2019 predictions should not change irrationally in response to imperceptible changes in their inputs; and (iii) privacy: models should not leak sensitive information on individuals.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4969": {
     "subj": "CSCI",
     "crse": "4969",
-    "name": "Robotics Ii",
-    "description": "Cross-listed from: ECSE 4490",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4970": {
     "subj": "CSCI",
     "crse": "4970",
-    "name": "Rcos",
-    "description": "RCOS (Rensselaer Center for Open Source) is an eclectic group of undergraduate students that embark on individual and team-based open source projects, primarily software, but also open hardware projects. Many new projects are introduced each semester, though many ongoing and \"higher-profile\" projects are also undertaken. Overall, students are required to work on and contribute to open source projects, in particular through multiple commits (commit early, commit often), maintaining a blog, presenting their work and/or specific technical talks, mentoring other projects, etc. This project-based \"course\" may be taken multiple semesters, with grades based on clear effort and contributions rather than a project that meets all of its requirements.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4971": {
     "subj": "CSCI",
     "crse": "4971",
-    "name": "Ai And Blockchain",
-    "description": "This research seminar-oriented course will explore the synergistic combination of Artificial Intelligence (AI) and Blockchain technologies. A primary focus of the course is to identify the disruptors in the two technologies from a research lens. Specifically, we intend to discuss how leveraging blockchain technology can benefit AI and how applying AI can enhance the capabilities of blockchain technology. Furthermore, students are encouraged to think about the impact of these two technologies on society. Topics discussed in the course include blockchain fundamentals, smart contracts, web3, federated machine learning, and decentralized applications that combine AI and blockchain technologies.",
-    "source": "CSCI topics"
+    "name": "Topics Courses In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4972": {
     "subj": "CSCI",
@@ -13880,6 +13943,13 @@
     "description": "This course introduces Linux kernel programming basics and starts by examining how Berkeley sockets bridge the user-kernel gap. The remainder of the course is spent looking into transport layer (e.g., TCP) and network layer (e.g., IP) implementations. Students do both individual and group programming projects. In addition to coding, there are detailed write-ups and peer reviews in this course.",
     "source": "Acalog"
   },
+  "CSCI-6330": {
+    "subj": "CSCI",
+    "crse": "6330",
+    "name": "Do Not Use",
+    "description": "",
+    "source": "SIS"
+  },
   "CSCI-6340": {
     "subj": "CSCI",
     "crse": "6340",
@@ -14051,30 +14121,30 @@
   "CSCI-6960": {
     "subj": "CSCI",
     "crse": "6960",
-    "name": "Ai For Drug Discovery",
-    "description": "TBD",
-    "source": "CSCI topics"
+    "name": "Topics in Computer Science",
+    "description": "",
+    "source": "Acalog"
   },
   "CSCI-6961": {
     "subj": "CSCI",
     "crse": "6961",
-    "name": "Deep Learning",
-    "description": "This course delves deeply into the transformative world of deep learning. Throughout the semester, we will cover (1) Essential architectures: feedforward neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), generative adversarial networks (GANs), and Transformers. (2) Fundamental concepts and algorithms:  backpropagation, loss functions, optimization strategies, regularization, data augmentation. (3) Diverse applications: computer vision, natural language processing.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6962": {
     "subj": "CSCI",
     "crse": "6962",
-    "name": "Security And Privacy Of Ml",
-    "description": "Machine learning (ML) has demonstrated superior performance in many areas and has increasingly been deployed in real-world critical applications. However, the vulnerabilities and privacy risks of ML models could put public safety and user privacy in danger. Existing studies have shown that the ML applications such as financial analytics and autonomous vehicles are vulnerable to attacks that can manipulate the models to their malicious ends. This course will introduce potential vulnerabilities of ML models, recent research and future directions about the security and privacy problems in real-world machine learning systems. We will cover different types of attacks against computer systems leveraging ML as well as defense techniques, privacy-preserving ML, and robustness and fairness in ML. Students will familiarize themselves with the emerging body of literature on each topic, understand different algorithms, analyze security vulnerabilities, and develop the ability to conduct research projects on related topics.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6963": {
     "subj": "CSCI",
     "crse": "6963",
-    "name": "Graph Mining",
-    "description": "This course will introduce students to data mining, machine learning, and other algorithmic techniques for analyzing social and biological networks, web crawls, and similar real-world graph-based datasets. Course topics will include an introduction to general graph computations, analysis and mining algorithms, graph analysis frameworks, random graph models, graph visualization, and graph computations via matrix operations. Students will learn about research challenges related to the computational study of large graphs on modern systems. Prospective students should have some background knowledge in algorithms and be comfortable with C/C++ and Python-based programming.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6964": {
     "subj": "CSCI",
@@ -14086,9 +14156,9 @@
   "CSCI-6965": {
     "subj": "CSCI",
     "crse": "6965",
-    "name": "Time Series Analysis",
-    "description": "A time series is a sequence (xt) of data where the subscript t indicates the time at which the data xt was observed. The course provides an introduction to the theory and practice of statistical time series analysis. Topics covered include stationary and non-stationary stochastic processes, autoregressive and moving average (ARMA) models, model selection and estimation, state-space models and the Kalman filter, forecasting and forecast evaluation,  an outline of spectral techniques. While these fundamental techniques are remarkably successful, availability of large time series data sets motivates application of AI/ML methods. Thus we will cover various deep neural networks that are relevant to time series data including RNN, LSTM.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6966": {
     "subj": "CSCI",
@@ -14100,16 +14170,16 @@
   "CSCI-6967": {
     "subj": "CSCI",
     "crse": "6967",
-    "name": "Projects In Mach Learning & Ai",
-    "description": "This course will expose students to applying their knowledge of ML and AI to real-world problems using real-world datasets. Larger focus of the course is on Deep Learning and its applications. Students will learn and implement ML concepts by creating small- and medium-sized projects throughout the course.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6968": {
     "subj": "CSCI",
     "crse": "6968",
-    "name": "Trustworthy Machine Learning",
-    "description": "Machine-learned models now routinely outperform humans at a variety of tasks. That accuracy comes implicitly at the cost of other socially and ethically desirable properties; these trade-offs limit the arenas in which ML may be deployed. This seminar course covers recent approaches towards measuring and ensuring such properties in machine-learned models. The properties considered include (i) fairness: models should not discriminate on the basis of protected attributes; (ii) robustness: models\u2019 predictions should not change irrationally in response to imperceptible changes in their inputs; and (iii) privacy: models should not leak sensitive information on individuals.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6969": {
     "subj": "CSCI",
@@ -14128,9 +14198,9 @@
   "CSCI-6971": {
     "subj": "CSCI",
     "crse": "6971",
-    "name": "Ai And Blockchain",
-    "description": "This research seminar-oriented course will explore the synergistic combination of Artificial Intelligence (AI) and Blockchain technologies. A primary focus of the course is to identify the disruptors in the two technologies from a research lens. Specifically, we intend to discuss how leveraging blockchain technology can benefit AI and how applying AI can enhance the capabilities of blockchain technology. Furthermore, students are encouraged to think about the impact of these two technologies on society. Topics discussed in the course include blockchain fundamentals, smart contracts, web3, federated machine learning, and decentralized applications that combine AI and blockchain technologies.",
-    "source": "CSCI topics"
+    "name": "Topics In Computer Science",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6972": {
     "subj": "CSCI",
@@ -15160,6 +15230,13 @@
     "name": "Lean Six Sigma II",
     "description": "Building on the experience with DMAIC, students learn to identify the need for a new process, quantify its value and create it so that the quality of the results meet a predefined quality standard. To do so, the Define, Measure, Analyze, Design, Optimize, and Verify (DMADOV) is used. The first three phases of DMAIC lay the foundation, but new tools and skills are learned in the context of new process creation. These include: developing an elevator speech, data collection and statistical methods for design of experiments (DOE), root cause analysis, and developing key performance indicators (KPIs) and dashboards.",
     "source": "Acalog"
+  },
+  "ENGR-6420": {
+    "subj": "ENGR",
+    "crse": "6420",
+    "name": "Engineering Math: Data Science",
+    "description": "The course covers matrix algebra and decompositions, including eigenvalue and generalized eigenvalue problems, solving multivariate constraint and unconstraint optimization problems, gradient-based optimization for solving nonlinear optimization problems, and regression analysis. Concepts that are discussed include solving nonlinear optimization problems, first- and second-order gradient-based methods, estimating parameters for multiple linear regression and mechanistic first-principle models. The course also introduces important data science tasks: data analysis, regression, classification and presents application studies related to biomedical engineering.",
+    "source": "SIS"
   },
   "ENGR-6840": {
     "subj": "ENGR",
@@ -25527,13 +25604,6 @@
     "name": "Physics of Light Laboratory",
     "description": "This laboratory course reiterates the important concepts learned in the Physics of Light class and provides hands on experience to instruct students in the use of different types of light meters and laboratory instruments.",
     "source": "Acalog"
-  },
-  "LGHT-6840": {
-    "subj": "LGHT",
-    "crse": "6840",
-    "name": "The Physics Of Lght Lab",
-    "description": "",
-    "source": "SIS"
   },
   "LGHT-6910": {
     "subj": "LGHT",
@@ -38050,13 +38120,6 @@
     "name": "Science, Technology, and Society",
     "description": "This course examines science and technology in their social, cultural, and political context. Readings are drawn from social sciences, fiction, and contemporary journalism. Case studies will include genetic testing, automation, vaccines, engineering education, AIDS activism, mental health, surveillance, and climate change. The class is designed to give students the freedom to develop and express their own ideas.",
     "source": "Acalog"
-  },
-  "STSO-1110": {
-    "subj": "STSO",
-    "crse": "1110",
-    "name": "Science, Technology & Society",
-    "description": "This course examines science and technology in their social, cultural, and political context. Readings are drawn from social sciences, fiction, and contemporary journalism. Case studies will include genetic testing, automation, vaccines, engineering education, AIDS activism, mental health, surveillance, and climate change. The class is designed to give students the freedom to develop and express their own ideas.",
-    "source": "SIS"
   },
   "STSO-1940": {
     "subj": "STSO",
