@@ -35537,7 +35537,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6962"
+    ],
     "prerequisites" : null
   },
   "MTLE-4440" : 
@@ -35974,7 +35977,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MTLE-4030"
+      "MTLE-4430"
     ],
     "prerequisites" : null
   },
