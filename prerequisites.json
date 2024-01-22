@@ -21981,7 +21981,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4961"
+    ],
     "prerequisites" : null
   },
   "ENGR-4962" : 
