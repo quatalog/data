@@ -21970,7 +21970,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4960",
+      "STSO-4960"
+    ],
     "prerequisites" : null
   },
   "ENGR-4961" : 
@@ -30482,7 +30486,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4960",
+      "STSO-4960"
+    ],
     "prerequisites" : null
   },
   "MANE-4961" : 
