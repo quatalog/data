@@ -38633,7 +38633,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4600"
+    ],
     "prerequisites" : 
     {
       "nested" : 
