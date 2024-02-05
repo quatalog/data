@@ -17887,11 +17887,11 @@
           "type" : "course"
         },
         {
-          "course" : "INQR 1200",
+          "course" : "IHSS 1200",
           "type" : "course"
         },
         {
-          "course" : "IHSS 1200",
+          "course" : "IHSS 1975",
           "type" : "course"
         }
       ],
@@ -18749,10 +18749,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-4280"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECON-6290" : 
@@ -18828,6 +18825,27 @@
     "prerequisites" : null
   },
   "ECON-6600" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "ECON-6710" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "ECON-6730" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "ECON-6770" : 
   {
     "attributes" : [],
     "corequisites" : null,
