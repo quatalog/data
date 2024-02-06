@@ -25945,6 +25945,16 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "INQR-1570" : 
+  {
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "INQR-1610" : 
   {
     "attributes" : 
