@@ -27841,7 +27841,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-6963"
+    ],
     "prerequisites" : null
   },
   "ITWS-6961" : 
