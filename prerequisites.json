@@ -11917,10 +11917,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CIVL-4963"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CIVL-6962" : 
