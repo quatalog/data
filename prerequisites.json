@@ -27506,7 +27506,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-6250"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -27807,7 +27810,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-4250"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -36971,10 +36977,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "PHIL-4960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "PHIL-6961" : 
