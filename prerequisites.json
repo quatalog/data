@@ -11708,7 +11708,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CIVL 4070",
+          "type" : "course"
+        },
+        {
+          "course" : "CIVL 4080",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "CIVL-6390" : 
   {
@@ -11893,7 +11907,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4960"
+    ],
     "prerequisites" : null
   },
   "CIVL-6961" : 
@@ -12116,7 +12133,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6340"
+    ],
     "prerequisites" : 
     {
       "course" : "COGS 2340",
@@ -12196,13 +12216,22 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COGS-6430",
-      "CSCI-4966",
-      "CSCI-6961"
-    ],
-    "prerequisites" : null
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "COGS 4420",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 4150",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "COGS-4440" : 
   {
@@ -12620,7 +12649,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4340"
+    ],
     "prerequisites" : null
   },
   "COGS-6410" : 
