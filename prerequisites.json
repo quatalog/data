@@ -7489,7 +7489,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "BMED 2300",
+      "type" : "course"
+    }
   },
   "BMED-4440" : 
   {
@@ -7963,10 +7967,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BMED-4420"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "BMED-6440" : 
