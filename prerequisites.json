@@ -15931,7 +15931,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6968"
+    ],
     "prerequisites" : null
   },
   "CSCI-4969" : 
@@ -36942,7 +36945,13 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4968",
+      "MATH-4140",
+      "MATH-4961",
+      "PHIL-4140"
+    ],
     "prerequisites" : null
   },
   "PHIL-4962" : 
