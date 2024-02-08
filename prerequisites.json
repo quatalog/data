@@ -8349,6 +8349,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "BUSN-6320" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "CHEM-0960" : 
   {
     "attributes" : [],
@@ -11991,7 +11998,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-2120"
+    ],
     "prerequisites" : null
   },
   "COGS-2340" : 
@@ -12118,7 +12128,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4330",
+      "PSYC-4330"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -12518,7 +12532,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6964"
+    ],
     "prerequisites" : null
   },
   "COGS-4963" : 
@@ -12752,7 +12769,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4960"
+    ],
     "prerequisites" : null
   },
   "COGS-6961" : 
@@ -12780,7 +12800,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4962"
+    ],
     "prerequisites" : null
   },
   "COGS-6965" : 
@@ -36424,7 +36447,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-1110"
+    ],
     "prerequisites" : null
   },
   "PHIL-1960" : 
@@ -36793,7 +36819,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSO-4250"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -36894,7 +36923,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-6960"
+    ],
     "prerequisites" : null
   },
   "PHIL-4961" : 
@@ -36989,7 +37021,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4960"
+    ],
     "prerequisites" : null
   },
   "PHIL-6961" : 
@@ -38120,7 +38155,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-2310"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -38311,7 +38349,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4110"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -38473,7 +38514,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4330",
+      "PSYC-4330"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -38564,7 +38609,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4370"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -38634,7 +38682,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4430"
+    ],
     "prerequisites" : null
   },
   "PSYC-4440" : 
@@ -38854,7 +38905,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4730"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -38935,7 +38989,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6960"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -40253,7 +40310,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4500"
+    ],
     "prerequisites" : 
     {
       "nested" : 
