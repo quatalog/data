@@ -7983,11 +7983,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BMED-4450"
-    ],
-    "prerequisites" : null
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "BMED 2100",
+      "type" : "course"
+    }
   },
   "BMED-6460" : 
   {
