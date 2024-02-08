@@ -25853,7 +25853,10 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1140"
+    ],
     "prerequisites" : null
   },
   "INQR-1150" : 
@@ -32023,7 +32026,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4140"
+    ],
     "prerequisites" : 
     {
       "course" : "PHIL 2140",
@@ -36697,7 +36703,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-4140"
+    ],
     "prerequisites" : 
     {
       "course" : "PHIL 2140",
