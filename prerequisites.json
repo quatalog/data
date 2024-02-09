@@ -32665,7 +32665,21 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATH 4800",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 4800",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "MATH-6840" : 
   {
