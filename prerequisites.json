@@ -3190,10 +3190,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-6962"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-4510" : 
@@ -3878,7 +3875,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4510"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -3982,10 +3982,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-4960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-6961" : 
@@ -24727,10 +24724,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "GSAS-6200"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "GSAS-4963" : 
@@ -27047,6 +27041,13 @@
     [
       "ISYE-4350"
     ],
+    "prerequisites" : null
+  },
+  "ISYE-6360" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ISYE-6370" : 
