@@ -2204,7 +2204,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-1020"
+    ],
     "prerequisites" : null
   },
   "ARTS-1030" : 
@@ -2249,7 +2252,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-1380"
+    ],
     "prerequisites" : null
   },
   "ARTS-1400" : 
@@ -2351,7 +2357,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2020"
+    ],
     "prerequisites" : null
   },
   "ARTS-2030" : 
@@ -2679,7 +2688,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2700"
+    ],
     "prerequisites" : null
   },
   "ARTS-2750" : 
@@ -3265,7 +3277,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6560"
+    ],
     "prerequisites" : null
   },
   "ARTS-4600" : 
@@ -3921,7 +3936,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4560"
+    ],
     "prerequisites" : null
   },
   "ARTS-6570" : 
@@ -4333,7 +4351,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-6960",
+      "PHYS-4961",
+      "PHYS-6963"
+    ],
     "prerequisites" : null
   },
   "ASTR-6250" : 
