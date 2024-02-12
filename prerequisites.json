@@ -14020,14 +14020,20 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6960"
+    ],
     "prerequisites" : null
   },
   "COMM-4961" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6961"
+    ],
     "prerequisites" : null
   },
   "COMM-4962" : 
