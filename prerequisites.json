@@ -2204,10 +2204,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-1020"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "ARTS-1030" : 
@@ -3140,10 +3137,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-6220"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "ARTS 1200",
@@ -3910,10 +3904,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-4220"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-6230" : 
