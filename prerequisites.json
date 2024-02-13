@@ -14850,6 +14850,30 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "CSCI-2110" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ITWS-2110"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ITWS 1100",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 1200",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
+  },
   "CSCI-2200" : 
   {
     "attributes" : [],
@@ -27740,7 +27764,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-2110"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -38023,7 +38050,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-6963"
+    ],
     "prerequisites" : 
     {
       "course" : "PHYS 4100",
