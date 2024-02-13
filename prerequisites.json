@@ -7962,7 +7962,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6960"
+    ],
     "prerequisites" : null
   },
   "BMED-4961" : 
@@ -8346,7 +8349,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4960"
+    ],
     "prerequisites" : null
   },
   "BMED-6961" : 
@@ -10845,7 +10851,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6965"
+    ],
     "prerequisites" : null
   },
   "CHME-4966" : 
@@ -11126,7 +11135,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4965"
+    ],
     "prerequisites" : null
   },
   "CHME-6966" : 
