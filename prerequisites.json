@@ -23236,7 +23236,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-6710"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
@@ -23506,7 +23509,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4710"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
