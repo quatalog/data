@@ -27560,7 +27560,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-6600"
+    ],
     "prerequisites" : null
   },
   "ISYE-6820" : 
@@ -33445,7 +33448,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-6910"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -33547,7 +33553,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6780"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -33647,7 +33656,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-4910"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -34723,14 +34735,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4962"
+    ],
     "prerequisites" : null
   },
   "MGMT-4962" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4961"
+    ],
     "prerequisites" : null
   },
   "MGMT-4963" : 
@@ -36233,7 +36251,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6050"
+    ],
     "prerequisites" : null
   },
   "MTLE-4100" : 
@@ -36609,7 +36630,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6960"
+    ],
     "prerequisites" : null
   },
   "MTLE-4961" : 
@@ -36667,7 +36691,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-4050"
+    ],
     "prerequisites" : null
   },
   "MTLE-6060" : 
@@ -36870,7 +36897,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-4960"
+    ],
     "prerequisites" : null
   },
   "MTLE-6961" : 
@@ -37225,10 +37255,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MATH-4140"
-    ],
+    "cross_listings" : [],
     "prerequisites" : 
     {
       "course" : "PHIL 2140",
