@@ -965,7 +965,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5340"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -1406,7 +1409,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4450"
+    ],
     "prerequisites" : null
   },
   "ARCH-4963" : 
@@ -8590,10 +8596,7 @@
   },
   "CHEM-1200" : 
   {
-    "attributes" : 
-    [
-      "Introductory Level Course"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -9107,6 +9110,13 @@
       "course" : "CHEM 2250",
       "type" : "course"
     }
+  },
+  "CHEM-2961" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "CHEM-4000" : 
   {
@@ -37654,7 +37664,11 @@
     [
       "Introductory Level Course"
     ],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "MATH-1010",
+      "PHYS-1101"
+    ],
     "cross_listings" : null,
     "prerequisites" : null
   },
