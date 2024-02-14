@@ -15599,7 +15599,10 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6350"
+      "CSCI-6350",
+      "ERTH-4350",
+      "ERTH-6350",
+      "ITWS-4350"
     ],
     "prerequisites" : 
     {
@@ -16623,7 +16626,10 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4350"
+      "CSCI-4350",
+      "ERTH-4350",
+      "ERTH-6350",
+      "ITWS-4350"
     ],
     "prerequisites" : 
     {
@@ -23917,7 +23923,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-1100"
+    ],
     "prerequisites" : null
   },
   "ERTH-1150" : 
@@ -24214,7 +24223,13 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4350",
+      "CSCI-6350",
+      "ERTH-6350",
+      "ITWS-4350"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -24546,7 +24561,13 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4350",
+      "CSCI-6350",
+      "ERTH-4350",
+      "ITWS-4350"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
@@ -26237,7 +26258,11 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1100",
+      "STSO-1100"
+    ],
     "prerequisites" : null
   },
   "INQR-1110" : 
@@ -26436,7 +26461,10 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1610"
+    ],
     "prerequisites" : null
   },
   "INQR-1666" : 
@@ -26640,7 +26668,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISCI-6510"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -26776,7 +26807,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISCI-4510"
+    ],
     "prerequisites" : null
   },
   "ISCI-6940" : 
@@ -27075,7 +27109,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6620"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -27354,7 +27391,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6960"
+    ],
     "prerequisites" : null
   },
   "ISYE-4961" : 
@@ -27490,7 +27530,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4290"
+    ],
     "prerequisites" : null
   },
   "ISYE-6760" : 
@@ -27556,7 +27599,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4960"
+    ],
     "prerequisites" : null
   },
   "ISYE-6961" : 
@@ -28017,7 +28063,13 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4350",
+      "CSCI-6350",
+      "ERTH-4350",
+      "ERTH-6350"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
@@ -28566,7 +28618,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LANG-1410"
+    ],
     "prerequisites" : null
   },
   "LANG-1420" : 
@@ -28754,7 +28809,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LANG-4420"
+    ],
     "prerequisites" : 
     {
       "course" : "LANG 1410",
@@ -28881,7 +28939,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LANG-2410"
+    ],
     "prerequisites" : 
     {
       "course" : "LANG 2410",
@@ -40594,7 +40655,11 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1100",
+      "STSO-1100"
+    ],
     "prerequisites" : null
   },
   "STSO-1110" : 
