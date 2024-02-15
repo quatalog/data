@@ -1673,6 +1673,27 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ARCH-5320" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ARCH 5300",
+          "type" : "course"
+        },
+        {
+          "course" : "ARCH 5310",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
+  },
   "ARCH-5330" : 
   {
     "attributes" : [],
@@ -9389,10 +9410,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-6300"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CHEM 2260",
@@ -10045,10 +10063,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-4300"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHEM-6310" : 
@@ -37746,6 +37761,26 @@
     [
       "MATH-1010",
       "PHYS-1101"
+    ],
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "PHYS-1101" : 
+  {
+    "attributes" : [],
+    "corequisites" : 
+    [
+      "PHYS-1100"
+    ],
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "PHYS-1110" : 
+  {
+    "attributes" : [],
+    "corequisites" : 
+    [
+      "MATH-1010"
     ],
     "cross_listings" : null,
     "prerequisites" : null
