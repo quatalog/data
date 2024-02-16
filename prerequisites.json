@@ -9223,7 +9223,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4030"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -9248,7 +9251,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4020"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -9410,7 +9416,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6300"
+    ],
     "prerequisites" : 
     {
       "course" : "CHEM 2260",
@@ -9487,7 +9496,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4440"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 2400",
@@ -9509,7 +9521,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4410"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -10063,7 +10078,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4300"
+    ],
     "prerequisites" : null
   },
   "CHEM-6310" : 
@@ -10828,10 +10846,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHME-4500"
-    ],
+    "cross_listings" : [],
     "prerequisites" : 
     {
       "nested" : 
@@ -10916,10 +10931,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHME-6965"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHME-4966" : 
@@ -14861,11 +14873,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-2700",
-      "CSCI-4970"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CSCI 1100",
@@ -15104,11 +15112,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-1700",
-      "CSCI-4970"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
@@ -15141,29 +15145,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 1200",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 1700",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 2200",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 2700",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "CSCI-2961" : 
   {
@@ -15664,10 +15646,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6340"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -15708,20 +15687,17 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6370"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
       [
         {
-          "course" : "CSCI 4350",
+          "course" : "CSCI 2300",
           "type" : "course"
         },
         {
-          "course" : "ITWS 4350",
+          "course" : "CSCI 2600",
           "type" : "course"
         }
       ],
@@ -15959,10 +15935,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6510"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CSCI 4210",
@@ -16353,7 +16326,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-1700",
+      "CSCI-2700",
+      "CSCI-4970"
+    ],
     "prerequisites" : null
   },
   "CSCI-4971" : 
@@ -16695,11 +16673,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4340"
-    ],
-    "prerequisites" : null
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "CSCI 2300",
+      "type" : "course"
+    }
   },
   "CSCI-6350" : 
   {
@@ -16739,11 +16718,22 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4370"
-    ],
-    "prerequisites" : null
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2300",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2600",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "CSCI-6390" : 
   {
@@ -16801,11 +16791,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4460"
-    ],
-    "prerequisites" : null
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "CSCI 2600",
+      "type" : "course"
+    }
   },
   "CSCI-6470" : 
   {
@@ -16845,10 +16836,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4510"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CSCI 4210",
@@ -16991,10 +16979,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CSCI-6962" : 
@@ -17051,10 +17036,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4967"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CSCI-6968" : 
@@ -17063,7 +17045,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4974"
+      "CSCI-4968"
     ],
     "prerequisites" : null
   },
@@ -22874,10 +22856,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ITWS-6960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ENGR-6970" : 
@@ -26343,7 +26322,11 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1100",
+      "STSO-1100"
+    ],
     "prerequisites" : null
   },
   "INQR-1110" : 
@@ -27458,7 +27441,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ISYE-6960"
+      "ISYE-6960",
+      "MGMT-6960"
     ],
     "prerequisites" : null
   },
@@ -27669,7 +27653,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ISYE-4960"
+      "ISYE-4960",
+      "MGMT-6960"
     ],
     "prerequisites" : null
   },
@@ -28534,10 +28519,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ENGR-6963"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ITWS-6961" : 
@@ -29597,6 +29579,17 @@
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
+  },
+  "LITR-4880" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "LITR 2110",
+      "type" : "course"
+    }
   },
   "LITR-4940" : 
   {
@@ -35764,7 +35757,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4960",
+      "ISYE-6960"
+    ],
     "prerequisites" : null
   },
   "MGMT-6961" : 
@@ -37724,7 +37721,10 @@
       "MATH-1010",
       "PHYS-1101"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-1110"
+    ],
     "prerequisites" : null
   },
   "PHYS-1101" : 
@@ -37744,7 +37744,10 @@
     [
       "MATH-1010"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-1100"
+    ],
     "prerequisites" : null
   },
   "PHYS-1140" : 
