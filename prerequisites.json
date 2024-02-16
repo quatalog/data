@@ -10867,10 +10867,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHME-6964"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHME-4940" : 
@@ -10891,10 +10888,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHME-6961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHME-4962" : 
@@ -11172,20 +11166,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHME-4961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHME-6962" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHME-4962"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHME-6963" : 
