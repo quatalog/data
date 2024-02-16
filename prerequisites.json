@@ -16309,10 +16309,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6968"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CSCI-4969" : 
@@ -26609,6 +26606,16 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "INQR-1965" : 
+  {
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ISCI-0466" : 
   {
     "attributes" : [],
@@ -27010,7 +27017,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6600"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -27281,7 +27291,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -27367,7 +27380,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6610"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -27538,7 +27554,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4360"
+    ],
     "prerequisites" : null
   },
   "ISYE-6370" : 
@@ -27565,14 +27584,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4210"
+    ],
     "prerequisites" : null
   },
   "ISYE-6610" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4600"
+    ],
     "prerequisites" : null
   },
   "ISYE-6620" : 
