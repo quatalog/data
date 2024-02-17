@@ -36652,6 +36652,17 @@
       "type" : "course"
     }
   },
+  "MTLE-4730" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "ENGR 2600",
+      "type" : "course"
+    }
+  },
   "MTLE-4850" : 
   {
     "attributes" : [],
