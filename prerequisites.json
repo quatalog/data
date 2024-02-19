@@ -31643,7 +31643,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4360"
+    ],
     "prerequisites" : null
   },
   "MANE-6370" : 
