@@ -30187,41 +30187,21 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-6060"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "MATH 2400",
-          "type" : "course"
-        },
-        {
-          "nested" : 
-          [
-            {
-              "course" : "MATH 2010",
-              "type" : "course"
-            },
-            {
-              "course" : "ENGR 1100",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
-        }
-      ],
-      "type" : "and"
+      "course" : "MANE 4070",
+      "type" : "course"
     }
   },
   "MANE-4130" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6070"
+    ],
     "prerequisites" : 
     {
       "course" : "MANE 4070",
@@ -31450,17 +31430,17 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-4120"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-6070" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4130"
+    ],
     "prerequisites" : 
     {
       "course" : "MANE 4070",
