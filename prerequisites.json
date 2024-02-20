@@ -4867,7 +4867,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-6800"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5199,7 +5202,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4800"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -6394,7 +6400,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4720"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -10639,7 +10648,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4050"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -11531,7 +11543,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-6550"
+    ],
     "prerequisites" : null
   },
   "CIVL-4150" : 
@@ -11549,7 +11564,13 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4240",
+      "CIVL-6660",
+      "MANE-4240",
+      "MANE-6660"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -12162,14 +12183,23 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4140"
+    ],
     "prerequisites" : null
   },
   "CIVL-6660" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4240",
+      "CIVL-6660",
+      "MANE-4240",
+      "MANE-6660"
+    ],
     "prerequisites" : null
   },
   "CIVL-6670" : 
@@ -30450,7 +30480,13 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4240",
+      "CIVL-6660",
+      "MANE-4240",
+      "MANE-6660"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -31946,7 +31982,13 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4240",
+      "CIVL-6660",
+      "MANE-4240",
+      "MANE-6660"
+    ],
     "prerequisites" : null
   },
   "MANE-6670" : 
