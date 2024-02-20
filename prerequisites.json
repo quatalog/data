@@ -20807,7 +20807,11 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-6961"
+      "ECSE-6961",
+      "ENGR-4961",
+      "ENGR-6961",
+      "ISCI-4961",
+      "ISCI-6961"
     ],
     "prerequisites" : null
   },
@@ -21599,7 +21603,11 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-4961"
+      "ECSE-4961",
+      "ENGR-4961",
+      "ENGR-6961",
+      "ISCI-4961",
+      "ISCI-6961"
     ],
     "prerequisites" : null
   },
@@ -22791,7 +22799,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4961",
+      "ECSE-6961",
+      "ENGR-6961",
+      "ISCI-4961",
+      "ISCI-6961"
+    ],
     "prerequisites" : null
   },
   "ENGR-4962" : 
@@ -22830,7 +22845,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6230"
+    ],
     "prerequisites" : null
   },
   "ENGR-6200" : 
@@ -22942,7 +22960,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4961",
+      "ECSE-6961",
+      "ENGR-4961",
+      "ISCI-4961",
+      "ISCI-6961"
+    ],
     "prerequisites" : null
   },
   "ENGR-6963" : 
@@ -23297,7 +23322,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4370"
+    ],
     "prerequisites" : 
     {
       "course" : "CIVL 2060",
@@ -23401,7 +23429,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ENVE-6710"
+      "ENVE-6710",
+      "ERTH-4710",
+      "ERTH-6710"
     ],
     "prerequisites" : 
     {
@@ -23674,7 +23704,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ENVE-4710"
+      "ENVE-4710",
+      "ERTH-4710",
+      "ERTH-6710"
     ],
     "prerequisites" : 
     {
@@ -24556,7 +24588,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4710",
+      "ENVE-6710",
+      "ERTH-6710"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
@@ -24825,7 +24862,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4710",
+      "ENVE-6710",
+      "ERTH-4710"
+    ],
     "prerequisites" : null
   },
   "ERTH-6730" : 
@@ -26884,7 +26926,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4961",
+      "ECSE-6961",
+      "ENGR-4961",
+      "ENGR-6961",
+      "ISCI-6961"
+    ],
     "prerequisites" : null
   },
   "ISCI-6002" : 
@@ -26992,7 +27041,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4961",
+      "ECSE-6961",
+      "ENGR-4961",
+      "ENGR-6961",
+      "ISCI-4961"
+    ],
     "prerequisites" : null
   },
   "ISCI-6962" : 
@@ -28155,7 +28211,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-6800"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -28629,7 +28688,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-4100"
+    ],
     "prerequisites" : null
   },
   "ITWS-6940" : 
@@ -30307,7 +30369,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6060"
+    ],
     "prerequisites" : 
     {
       "course" : "MANE 4070",
@@ -30650,7 +30715,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6290"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -31605,7 +31673,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4120"
+    ],
     "prerequisites" : null
   },
   "MANE-6070" : 
@@ -31711,7 +31782,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-6120"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -31775,7 +31849,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4290"
+    ],
     "prerequisites" : null
   },
   "MANE-6300" : 
