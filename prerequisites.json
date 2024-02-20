@@ -31437,7 +31437,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MANE-6360"
+      "MANE-6964"
     ],
     "prerequisites" : null
   },
@@ -31445,7 +31445,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6965"
+    ],
     "prerequisites" : null
   },
   "MANE-4966" : 
@@ -32142,10 +32145,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-4960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-6961" : 
@@ -32173,14 +32173,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4964"
+    ],
     "prerequisites" : null
   },
   "MANE-6965" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4965"
+    ],
     "prerequisites" : null
   },
   "MANE-6966" : 
