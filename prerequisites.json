@@ -31245,10 +31245,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-6790"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "MANE 4730",
