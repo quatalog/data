@@ -609,7 +609,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6965"
+    ],
     "prerequisites" : null
   },
   "ARCH-4020" : 
@@ -2113,7 +2116,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4010"
+    ],
     "prerequisites" : null
   },
   "ARCH-6966" : 
@@ -22838,7 +22844,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-6960"
+    ],
     "prerequisites" : null
   },
   "ENGR-6970" : 
@@ -28529,7 +28538,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-6963"
+    ],
     "prerequisites" : null
   },
   "ITWS-6961" : 
@@ -43568,6 +43580,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "WRIT-1769" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "WRIT-1960" : 
   {
     "attributes" : [],
@@ -43622,7 +43641,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-2330"
+    ],
     "prerequisites" : null
   },
   "WRIT-2340" : 
@@ -43827,7 +43849,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-6550"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -43955,7 +43980,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-4550"
+    ],
     "prerequisites" : null
   },
   "WRIT-6940" : 
