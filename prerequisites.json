@@ -31655,11 +31655,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-4610",
-      "MANE-6965"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-5000" : 
@@ -41130,7 +41126,6 @@
   {
     "attributes" : 
     [
-      "Communication Intensive",
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
