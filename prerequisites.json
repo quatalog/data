@@ -20245,7 +20245,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4530"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -31088,7 +31091,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4440"
+    ],
     "prerequisites" : 
     {
       "nested" : 
