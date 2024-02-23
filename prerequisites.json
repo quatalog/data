@@ -318,7 +318,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5140"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 2510",
@@ -864,7 +867,10 @@
     [
       "ARCH-4820"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5320"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -885,7 +891,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5150"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 2510",
@@ -1617,14 +1626,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2330"
+    ],
     "prerequisites" : null
   },
   "ARCH-5150" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4330"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 5140",
@@ -1635,7 +1650,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2540"
+    ],
     "prerequisites" : null
   },
   "ARCH-5170" : 
@@ -1680,7 +1698,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4320"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -12075,7 +12096,7 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "ENVE 4310",
+      "course" : "CIVL 2060",
       "type" : "course"
     }
   },
@@ -26577,10 +26598,7 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "INQR-1240"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "INQR-1250" : 
@@ -26648,6 +26666,16 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "INQR-1570" : 
+  {
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "INQR-1610" : 
   {
     "attributes" : 
@@ -26677,6 +26705,7 @@
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -26698,6 +26727,7 @@
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -30782,7 +30812,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -31604,10 +31637,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ENGR-4960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-4961" : 
@@ -37184,6 +37214,17 @@
     ],
     "prerequisites" : null
   },
+  "MTLE-6730" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "ENGR 2600",
+      "type" : "course"
+    }
+  },
   "MTLE-6830" : 
   {
     "attributes" : [],
@@ -41112,6 +41153,7 @@
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
