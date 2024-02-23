@@ -1028,7 +1028,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6340"
+    ],
     "prerequisites" : null
   },
   "ARCH-4590" : 
@@ -1242,7 +1245,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6860"
+    ],
     "prerequisites" : null
   },
   "ARCH-4870" : 
@@ -1270,7 +1276,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6840",
+      "MANE-4963",
+      "MANE-6963"
+    ],
     "prerequisites" : null
   },
   "ARCH-4910" : 
@@ -1472,7 +1483,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6967"
+    ],
     "prerequisites" : null
   },
   "ARCH-4966" : 
@@ -1816,7 +1830,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4580"
+    ],
     "prerequisites" : null
   },
   "ARCH-6350" : 
@@ -2012,14 +2029,22 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4890",
+      "MANE-4963",
+      "MANE-6963"
+    ],
     "prerequisites" : null
   },
   "ARCH-6860" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4860"
+    ],
     "prerequisites" : null
   },
   "ARCH-6870" : 
@@ -2157,7 +2182,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4965"
+    ],
     "prerequisites" : null
   },
   "ARCH-6968" : 
@@ -31661,7 +31689,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4890",
+      "ARCH-6840",
+      "MANE-6963"
+    ],
     "prerequisites" : null
   },
   "MANE-4964" : 
@@ -32422,7 +32455,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4890",
+      "ARCH-6840",
+      "MANE-4963"
+    ],
     "prerequisites" : null
   },
   "MANE-6964" : 
