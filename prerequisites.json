@@ -22337,6 +22337,10 @@
             {
               "course" : "PHYS 1150",
               "type" : "course"
+            },
+            {
+              "course" : "PHYS 1110",
+              "type" : "course"
             }
           ],
           "type" : "or"
@@ -30098,6 +30102,10 @@
             {
               "course" : "PHYS 1150",
               "type" : "course"
+            },
+            {
+              "course" : "PHYS 1110",
+              "type" : "course"
             }
           ],
           "type" : "or"
@@ -30128,6 +30136,10 @@
             },
             {
               "course" : "PHYS 1150",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1110",
               "type" : "course"
             }
           ],
