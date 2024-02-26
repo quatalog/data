@@ -18969,7 +18969,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6030"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -19240,7 +19243,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4580"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 2010",
@@ -32627,7 +32633,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-1500"
+    ],
     "prerequisites" : null
   },
   "MATH-1520" : 
