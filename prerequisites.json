@@ -4848,7 +4848,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4760"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -4954,7 +4957,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-6870"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5289,7 +5295,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4870"
+    ],
     "prerequisites" : null
   },
   "BCBP-6910" : 
@@ -6515,7 +6524,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4760"
+    ],
     "prerequisites" : 
     {
       "nested" : 
