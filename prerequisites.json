@@ -11428,8 +11428,18 @@
           "type" : "course"
         },
         {
-          "course" : "PHYS 1100",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1100",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1110",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
       "type" : "and"
