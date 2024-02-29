@@ -3390,7 +3390,11 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4500",
+      "ARTS-6960"
+    ],
     "prerequisites" : null
   },
   "ARTS-4510" : 
@@ -4182,7 +4186,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4500"
+    ],
     "prerequisites" : null
   },
   "ARTS-6961" : 
