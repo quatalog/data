@@ -5617,7 +5617,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-2160"
+    ],
     "prerequisites" : null
   },
   "BIOL-2200" : 
@@ -22888,7 +22891,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MANE-4960"
+      "MANE-4960",
+      "STSO-4960"
     ],
     "prerequisites" : null
   },
@@ -24341,7 +24345,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-2160"
+    ],
     "prerequisites" : null
   },
   "ERTH-2200" : 
