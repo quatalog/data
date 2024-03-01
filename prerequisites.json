@@ -4548,6 +4548,18 @@
     ],
     "prerequisites" : null
   },
+  "ASTR-4963" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ASTR-6963",
+      "PHYS-4963",
+      "PHYS-6963"
+    ],
+    "prerequisites" : null
+  },
   "ASTR-6250" : 
   {
     "attributes" : [],
@@ -4590,6 +4602,18 @@
       "ASTR-4961",
       "PHYS-4966",
       "PHYS-6961"
+    ],
+    "prerequisites" : null
+  },
+  "ASTR-6963" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4963",
+      "PHYS-4963",
+      "PHYS-6963"
     ],
     "prerequisites" : null
   },
@@ -38867,7 +38891,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4963",
+      "ASTR-6963",
+      "PHYS-6963"
+    ],
     "prerequisites" : null
   },
   "PHYS-4964" : 
@@ -38891,7 +38920,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4961",
+      "ASTR-6961",
+      "PHYS-6961"
+    ],
     "prerequisites" : null
   },
   "PHYS-6002" : 
@@ -39042,9 +39076,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ASTR-4961",
-      "ASTR-6960",
-      "PHYS-4961"
+      "ASTR-4963",
+      "ASTR-6963",
+      "PHYS-4963"
     ],
     "prerequisites" : null
   },
