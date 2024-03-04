@@ -1909,8 +1909,18 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "ARCH 5210",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ARCH 5210",
+          "type" : "course"
+        },
+        {
+          "course" : "ARCH 5170",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
     }
   },
   "ARCH-6620" : 
@@ -1923,7 +1933,10 @@
   "ARCH-6630" : 
   {
     "attributes" : [],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "ARCH-5380"
+    ],
     "cross_listings" : null,
     "prerequisites" : null
   },
@@ -2151,10 +2164,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-4963"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-6964" : 
@@ -2178,10 +2188,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-4960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-6967" : 
