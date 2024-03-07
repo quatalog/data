@@ -20074,7 +20074,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4520"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -30550,7 +30553,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6140"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -30837,7 +30843,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6710"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -31223,7 +31232,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4090"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -31647,7 +31659,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6790"
+    ],
     "prerequisites" : 
     {
       "course" : "MANE 4730",
@@ -31818,7 +31833,11 @@
     [
       "MANE-6965"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MANE 4080",
+      "type" : "course"
+    }
   },
   "MANE-4966" : 
   {
@@ -31889,7 +31908,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4140"
+    ],
     "prerequisites" : null
   },
   "MANE-6170" : 
@@ -32350,7 +32372,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4280"
+    ],
     "prerequisites" : null
   },
   "MANE-6720" : 
@@ -32423,7 +32448,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4790"
+    ],
     "prerequisites" : null
   },
   "MANE-6800" : 
