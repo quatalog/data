@@ -1255,7 +1255,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6870"
+    ],
     "prerequisites" : null
   },
   "ARCH-4880" : 
@@ -2067,7 +2070,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4870"
+    ],
     "prerequisites" : null
   },
   "ARCH-6880" : 
