@@ -30309,7 +30309,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MANE 1960",
+      "type" : "course"
+    }
   },
   "MANE-2961" : 
   {
@@ -31757,7 +31761,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MANE 2110",
+      "type" : "course"
+    }
   },
   "MANE-4961" : 
   {
@@ -31796,7 +31804,11 @@
     [
       "MANE-6964"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MANE 4480",
+      "type" : "course"
+    }
   },
   "MANE-4965" : 
   {
