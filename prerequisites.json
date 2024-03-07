@@ -38818,11 +38818,7 @@
     [
       "ECSE-4720"
     ],
-    "prerequisites" : 
-    {
-      "course" : "PHYS 2220",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "PHYS-4750" : 
   {
