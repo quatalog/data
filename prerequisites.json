@@ -688,6 +688,16 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ARCH-4065" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6065"
+    ],
+    "prerequisites" : null
+  },
   "ARCH-4070" : 
   {
     "attributes" : [],
@@ -1817,6 +1827,16 @@
     "cross_listings" : 
     [
       "ARCH-4055"
+    ],
+    "prerequisites" : null
+  },
+  "ARCH-6065" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4065"
     ],
     "prerequisites" : null
   },
@@ -15348,7 +15368,11 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CSCI 1200",
+      "type" : "course"
+    }
   },
   "CSCI-2961" : 
   {
@@ -15654,56 +15678,8 @@
     ],
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 2300",
-          "type" : "course"
-        },
-        {
-          "nested" : 
-          [
-            {
-              "course" : "CSCI 4020",
-              "type" : "course"
-            },
-            {
-              "course" : "CSCI 4050",
-              "type" : "course"
-            },
-            {
-              "course" : "CSCI 4260",
-              "type" : "course"
-            },
-            {
-              "course" : "CSCI 4800",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 4100",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 4150",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 4200",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 4210",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 4800",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
-        }
-      ],
-      "type" : "and"
+      "course" : "CSCI 2300",
+      "type" : "course"
     }
   },
   "CSCI-4260" : 
@@ -15849,7 +15825,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6340"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -15890,7 +15869,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6370"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -16879,7 +16861,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4340"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -16924,7 +16909,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4370"
+    ],
     "prerequisites" : 
     {
       "nested" : 
