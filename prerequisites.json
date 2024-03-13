@@ -20164,11 +20164,7 @@
   },
   "ECSE-4120" : 
   {
-    "attributes" : 
-    [
-      "Culminating Exp/Capstone",
-      "Writing Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
