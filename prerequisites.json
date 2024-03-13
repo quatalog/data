@@ -2254,7 +2254,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4966"
+    ],
     "prerequisites" : null
   },
   "ARCH-6967" : 
@@ -12601,6 +12604,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "CSCI-4965",
       "PSYC-4510"
     ],
     "prerequisites" : 
@@ -29244,10 +29248,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "LANG-4420"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "LANG 1410",
@@ -29374,10 +29375,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "LANG-2410"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "LANG 2410",
@@ -39916,7 +39914,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COGS-4210"
+      "COGS-4210",
+      "CSCI-4965"
     ],
     "prerequisites" : 
     {
