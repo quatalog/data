@@ -1530,10 +1530,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-6967"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-4968" : 
