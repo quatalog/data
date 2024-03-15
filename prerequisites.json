@@ -6236,6 +6236,17 @@
       "type" : "and"
     }
   },
+  "BIOL-4340" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "BIOL 1010",
+      "type" : "course"
+    }
+  },
   "BIOL-4350" : 
   {
     "attributes" : [],
@@ -6346,6 +6357,13 @@
       "course" : "BIOL 4270",
       "type" : "course"
     }
+  },
+  "BIOL-4500" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "BIOL-4520" : 
   {
@@ -7244,6 +7262,13 @@
       "course" : "BIOL 4270",
       "type" : "course"
     }
+  },
+  "BIOL-6500" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "BIOL-6510" : 
   {
