@@ -1034,10 +1034,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-5340"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
