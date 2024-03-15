@@ -4814,6 +4814,22 @@
       "type" : "and"
     }
   },
+  "BCBP-4345" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "BCBP-6345",
+      "BIOL-4345",
+      "BIOL-6345"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "BIOL 4310",
+      "type" : "course"
+    }
+  },
   "BCBP-4470" : 
   {
     "attributes" : [],
@@ -5241,6 +5257,18 @@
     "cross_listings" : 
     [
       "BCBP-4310"
+    ],
+    "prerequisites" : null
+  },
+  "BCBP-6345" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4345",
+      "BIOL-4345",
+      "BIOL-6345"
     ],
     "prerequisites" : null
   },
@@ -6247,6 +6275,22 @@
       "type" : "course"
     }
   },
+  "BIOL-4345" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4345",
+      "BCBP-6345",
+      "BIOL-6345"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "BIOL 4310",
+      "type" : "course"
+    }
+  },
   "BIOL-4350" : 
   {
     "attributes" : [],
@@ -6362,7 +6406,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6500"
+    ],
     "prerequisites" : null
   },
   "BIOL-4520" : 
@@ -7144,6 +7191,18 @@
       "type" : "and"
     }
   },
+  "BIOL-6345" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4345",
+      "BCBP-6345",
+      "BIOL-4345"
+    ],
+    "prerequisites" : null
+  },
   "BIOL-6350" : 
   {
     "attributes" : [],
@@ -7267,7 +7326,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4500"
+    ],
     "prerequisites" : null
   },
   "BIOL-6510" : 
