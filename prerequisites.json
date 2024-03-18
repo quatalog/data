@@ -15583,18 +15583,8 @@
     ],
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 2300",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 2210",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
+      "course" : "CSCI 2300",
+      "type" : "course"
     }
   },
   "CSCI-4110" : 
@@ -16112,7 +16102,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6460"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2600",
@@ -16215,7 +16208,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6510"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 4210",
@@ -17085,7 +17081,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4460"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2600",
@@ -17130,7 +17129,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4510"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 4210",
@@ -32350,7 +32352,7 @@
       "nested" : 
       [
         {
-          "course" : "MANE 4050",
+          "course" : "MANE 4500",
           "type" : "course"
         },
         {
