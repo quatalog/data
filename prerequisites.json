@@ -21091,18 +21091,8 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "ECSE 2350",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 1200",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "ENGR 2350",
+      "type" : "course"
     }
   },
   "ECSE-4800" : 
@@ -32235,8 +32225,18 @@
           "type" : "course"
         },
         {
-          "course" : "ENGR 4710",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "ENGR 4710",
+              "type" : "course"
+            },
+            {
+              "course" : "MANE 4610",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
       "type" : "and"
@@ -35699,11 +35699,7 @@
     [
       "MGMT-4080"
     ],
-    "prerequisites" : 
-    {
-      "course" : "MGMT 4100",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "MGMT-6090" : 
   {
