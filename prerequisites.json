@@ -16563,7 +16563,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6964"
+    ],
     "prerequisites" : null
   },
   "CSCI-4965" : 
@@ -38270,14 +38273,17 @@
     ],
     "corequisites" : 
     [
-      "MATH-1010",
       "PHYS-1101"
     ],
     "cross_listings" : 
     [
       "PHYS-1110"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MATH 1010",
+      "type" : "course"
+    }
   },
   "PHYS-1101" : 
   {
@@ -38292,15 +38298,16 @@
   "PHYS-1110" : 
   {
     "attributes" : [],
-    "corequisites" : 
-    [
-      "MATH-1010"
-    ],
+    "corequisites" : null,
     "cross_listings" : 
     [
       "PHYS-1100"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MATH 1010",
+      "type" : "course"
+    }
   },
   "PHYS-1140" : 
   {
