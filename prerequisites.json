@@ -10934,10 +10934,6 @@
       "nested" : 
       [
         {
-          "course" : "CHME 2100",
-          "type" : "course"
-        },
-        {
           "course" : "CHME 4040",
           "type" : "course"
         },
@@ -13169,9 +13165,36 @@
     "cross_listings" : 
     [
       "COGS-6964",
-      "PSYC-4964"
+      "CSCI-4964",
+      "CSCI-6964"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 4150",
+          "type" : "course"
+        },
+        {
+          "course" : "COGS 4430",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 4840",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 4100",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 4850",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "COGS-4965" : 
   {
@@ -41584,7 +41607,6 @@
   {
     "attributes" : 
     [
-      "Communication Intensive",
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
