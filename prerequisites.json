@@ -6185,8 +6185,27 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "BIOL-6140"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "BIOL 4260",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ride 100",
+          "min_grade" : null,
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "BIOL-4150" : 
   {
@@ -13551,8 +13570,8 @@
     ],
     "prerequisites" : 
     {
-      "course" : "D",
-      "min_grade" : null,
+      "course" : "CSCI 2@",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
