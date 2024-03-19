@@ -30524,7 +30524,7 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "LANG 2420",
+      "course" : "LANG 4420",
       "min_grade" : "D",
       "type" : "course"
     }
@@ -43092,6 +43092,11 @@
         },
         {
           "course" : "IHSS 1160",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1150",
           "min_grade" : "D",
           "type" : "course"
         },
