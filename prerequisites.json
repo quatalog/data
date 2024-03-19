@@ -325,6 +325,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 2510",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -346,6 +347,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 2510",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -360,6 +362,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 2370",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -402,6 +405,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 2520",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -413,6 +417,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 2530",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -427,6 +432,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 2540",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -490,10 +496,12 @@
       [
         {
           "course" : "ARCH 2800",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARCH 2520",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -514,10 +522,12 @@
       [
         {
           "course" : "ARCH 2810",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARCH 2530",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -539,10 +549,12 @@
       [
         {
           "course" : "ARCH 2820",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARCH 2540",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -632,10 +644,12 @@
       [
         {
           "course" : "ARCH 2330",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARCH 4330",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -668,6 +682,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 4100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -726,10 +741,12 @@
       [
         {
           "course" : "ARCH 2160",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARCH 2150",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -744,6 +761,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 2150",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -769,6 +787,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 4100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -812,6 +831,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 4120",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -837,6 +857,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 2830",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -907,10 +928,12 @@
       [
         {
           "course" : "ARCH 2350",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARCH 2360",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -928,6 +951,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 2510",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -996,6 +1020,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 4510",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -1010,6 +1035,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 4520",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -1041,10 +1067,12 @@
       [
         {
           "course" : "ARCH 2510",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARCH 2350",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -1153,6 +1181,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 2360",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -1182,6 +1211,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 2830",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -1193,6 +1223,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 4770",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -1204,6 +1235,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 4780",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -1225,14 +1257,17 @@
       [
         {
           "course" : "ARCH 2550",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARCH 2830",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARCH 4540",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -1247,6 +1282,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 4820",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -1265,6 +1301,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 4840",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -1299,6 +1336,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 4860",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -1325,10 +1363,12 @@
       [
         {
           "course" : "ARCH 4780",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARCH 4830",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -1349,10 +1389,12 @@
       [
         {
           "course" : "ARCH 4910",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARCH 4790",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -1687,6 +1729,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 5140",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -1752,10 +1795,12 @@
       [
         {
           "course" : "ARCH 5300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARCH 5310",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -1811,6 +1856,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 5380",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -2169,6 +2215,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 6910",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -2547,6 +2594,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 1030",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -2579,6 +2627,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 1020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -2593,14 +2642,17 @@
       [
         {
           "course" : "ARTS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 1020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 1040",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -2674,6 +2726,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -2759,6 +2812,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 1380",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -3062,22 +3116,27 @@
       [
         {
           "course" : "ARTS 1030",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1030",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1040",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1030",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1040",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -3095,22 +3154,27 @@
       [
         {
           "course" : "ARTS 1030",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1030",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1040",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1030",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1040",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -3125,6 +3189,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 2230",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -3136,6 +3201,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 2230",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -3157,6 +3223,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 1020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -3181,66 +3248,82 @@
       [
         {
           "course" : "ARTS 1020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 1030",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 1040",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 2020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 2380",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 2220",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 4140",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1030",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1040",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1170",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1180",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1030",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1040",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1170",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1180",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -3264,10 +3347,12 @@
       [
         {
           "course" : "ARTS 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 2540",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -3295,6 +3380,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 2020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -3319,6 +3405,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -3330,6 +3417,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 2210",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -3341,6 +3429,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -3366,6 +3455,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -3377,6 +3467,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 2230",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -3388,6 +3479,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 2380",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -3399,6 +3491,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 4380",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -3446,10 +3539,12 @@
       [
         {
           "course" : "ARTS 4060",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 4070",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -3602,70 +3697,87 @@
       [
         {
           "course" : "ARTS 1020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 1030",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 1040",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 2020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 2220",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 2380",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1030",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1040",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1170",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1180",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 4120",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 4140",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1040",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1170",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1180",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1030",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -3687,6 +3799,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 2700",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -3705,6 +3818,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 4840",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -3729,10 +3843,12 @@
       [
         {
           "course" : "ARTS 2380",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARTS 2020",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -4159,10 +4275,12 @@
       [
         {
           "course" : "GSAS 4520",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COGS 4520",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -4455,10 +4573,12 @@
       [
         {
           "course" : "PHYS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "PHYS 1250",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -4518,6 +4638,7 @@
     "prerequisites" : 
     {
       "course" : "ASTR 2050",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -4557,10 +4678,12 @@
       [
         {
           "course" : "PHYS 4330",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 4600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -4784,6 +4907,7 @@
       [
         {
           "course" : "BIOL 4620",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -4791,14 +4915,17 @@
           [
             {
               "course" : "BIOL 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BCBP 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CHEM 4760",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -4821,6 +4948,7 @@
     "prerequisites" : 
     {
       "course" : "BIOL 4310",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -4851,10 +4979,12 @@
       [
         {
           "course" : "MATH 1020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 4620",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -4862,14 +4992,17 @@
           [
             {
               "course" : "BIOL 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CHEM 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BCBP 4760",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -4921,6 +5054,7 @@
       [
         {
           "course" : "BIOL 4620",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -4928,14 +5062,17 @@
           [
             {
               "course" : "BCBP 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BIOL 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CHEM 4760",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -4960,10 +5097,12 @@
       [
         {
           "course" : "BIOL 2120",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 2125",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -4987,10 +5126,12 @@
           [
             {
               "course" : "CHEM 2250",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BIOL 1010",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -4998,6 +5139,7 @@
         },
         {
           "course" : "BIOL 2120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -5016,6 +5158,7 @@
     "prerequisites" : 
     {
       "course" : "BCBP 4760",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -5055,14 +5198,17 @@
       [
         {
           "course" : "BCBP 4760",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 4760",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 4760",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -5096,14 +5242,17 @@
           [
             {
               "course" : "BCBP 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BIOL 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CHEM 4760",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -5111,10 +5260,12 @@
         },
         {
           "course" : "MATH 1020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "PHYS 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -5282,10 +5433,12 @@
       [
         {
           "course" : "MATH 1020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 4620",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -5293,14 +5446,17 @@
           [
             {
               "course" : "BIOL 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CHEM 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BCBP 4760",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -5359,6 +5515,7 @@
       [
         {
           "course" : "BIOL 4620",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -5366,14 +5523,17 @@
           [
             {
               "course" : "BCBP 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BIOL 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CHEM 4760",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -5419,14 +5579,17 @@
       [
         {
           "course" : "BCBP 4760",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 4760",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 4760",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -5587,10 +5750,12 @@
       [
         {
           "course" : "BIOL 1015",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 1016",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -5789,6 +5954,7 @@
     "prerequisites" : 
     {
       "course" : "BIOL 2120",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -5957,10 +6123,12 @@
       [
         {
           "course" : "BIOL 2120",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 1010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -5991,10 +6159,12 @@
       [
         {
           "course" : "BIOL 4110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BMED 4110",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -6032,10 +6202,12 @@
       [
         {
           "course" : "BIOL 4260",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 4100",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -6053,10 +6225,12 @@
       [
         {
           "course" : "BIOL 1010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 1010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -6074,6 +6248,7 @@
     "prerequisites" : 
     {
       "course" : "BIOL 4200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -6095,10 +6270,12 @@
       [
         {
           "course" : "BIOL 2120",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 2500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -6119,6 +6296,7 @@
       [
         {
           "course" : "BIOL 2120",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -6126,10 +6304,12 @@
           [
             {
               "course" : "BIOL 4620",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BIOL 4760",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -6153,10 +6333,12 @@
           [
             {
               "course" : "BIOL 2120",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BIOL 4620",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -6164,6 +6346,7 @@
         },
         {
           "course" : "CHEM 2250",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -6171,10 +6354,12 @@
           [
             {
               "course" : "PHYS 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1110",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -6223,6 +6408,7 @@
     "prerequisites" : 
     {
       "course" : "BIOL 2500",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -6258,6 +6444,7 @@
     "prerequisites" : 
     {
       "course" : "BIOL 1010",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -6274,6 +6461,7 @@
     "prerequisites" : 
     {
       "course" : "BIOL 4310",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -6409,10 +6597,12 @@
       [
         {
           "course" : "MATH 1010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 1010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -6433,14 +6623,17 @@
       [
         {
           "course" : "MATH 1020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 4620",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -6463,10 +6656,12 @@
       [
         {
           "course" : "BIOL 4620",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 1020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -6474,14 +6669,17 @@
           [
             {
               "course" : "BIOL 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BCBP 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CHEM 4760",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -6502,10 +6700,12 @@
       [
         {
           "course" : "BIOL 2120",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 2500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -6526,6 +6726,7 @@
       [
         {
           "course" : "BIOL 4620",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -6533,14 +6734,17 @@
           [
             {
               "course" : "BIOL 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BCBP 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CHEM 4760",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -6578,10 +6782,12 @@
       [
         {
           "course" : "BIOL 4620",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 4760",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -6625,10 +6831,12 @@
       [
         {
           "course" : "BIOL 2120",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 2125",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -6652,14 +6860,17 @@
       [
         {
           "course" : "BIOL 2120",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 2125",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 4620",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -6680,14 +6891,17 @@
       [
         {
           "course" : "BIOL 2120",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 2125",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 2500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -6718,6 +6932,7 @@
       [
         {
           "course" : "CHEM 2250",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -6725,10 +6940,12 @@
           [
             {
               "course" : "BIOL 1010",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BIOL 2120",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -6753,14 +6970,17 @@
       [
         {
           "course" : "BIOL 4760",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BCBP 4760",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 4760",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -6778,10 +6998,12 @@
       [
         {
           "course" : "BIOL 1010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 2120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -6830,10 +7052,12 @@
           [
             {
               "course" : "BIOL 1010",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BIOL 1015",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -6844,10 +7068,12 @@
           [
             {
               "course" : "BIOL 2120",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BIOL 2125",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -7063,10 +7289,12 @@
       [
         {
           "course" : "BIOL 2120",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 1010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -7084,6 +7312,7 @@
     "prerequisites" : 
     {
       "course" : "BIOL 4260",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -7101,10 +7330,12 @@
       [
         {
           "course" : "BIOL 4100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 4260",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -7122,6 +7353,7 @@
     "prerequisites" : 
     {
       "course" : "BIOL 4200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -7143,6 +7375,7 @@
     "prerequisites" : 
     {
       "course" : "BIOL 2120",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -7239,14 +7472,17 @@
       [
         {
           "course" : "MATH 1020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 4620",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -7269,10 +7505,12 @@
       [
         {
           "course" : "MATH 1020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 4620",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -7280,14 +7518,17 @@
           [
             {
               "course" : "BIOL 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BCBP 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CHEM 4760",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -7333,6 +7574,7 @@
     "prerequisites" : 
     {
       "course" : "BIOL 6510",
+      "min_grade" : null,
       "type" : "course"
     }
   },
@@ -7384,6 +7626,7 @@
       [
         {
           "course" : "BIOL 4620",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -7391,14 +7634,17 @@
           [
             {
               "course" : "BCBP 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BIOL 4760",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CHEM 4760",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -7473,10 +7719,12 @@
           [
             {
               "course" : "BIOL 1010",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BIOL 1015",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -7487,10 +7735,12 @@
           [
             {
               "course" : "BIOL 2120",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BIOL 2125",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -7681,6 +7931,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 1100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -7720,6 +7971,7 @@
     "prerequisites" : 
     {
       "course" : "PHYS 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -7731,6 +7983,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 1100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -7800,14 +8053,17 @@
       [
         {
           "course" : "BMED 2100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BMED 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BMED 2540",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -7838,10 +8094,12 @@
       [
         {
           "course" : "BIOL 4110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BMED 4110",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -7869,14 +8127,17 @@
       [
         {
           "course" : "BMED 2050",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "PHYS 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -7915,6 +8176,7 @@
       [
         {
           "course" : "ENGR 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -7922,10 +8184,12 @@
           [
             {
               "course" : "PHYS 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1110",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -7933,6 +8197,7 @@
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -7947,6 +8212,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 2050",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -8003,6 +8269,7 @@
     "prerequisites" : 
     {
       "course" : "BMED 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -8038,6 +8305,7 @@
     "prerequisites" : 
     {
       "course" : "BMED 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -8055,10 +8323,12 @@
       [
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENGR 2600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -8079,10 +8349,12 @@
       [
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENGR 2600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -8104,6 +8376,7 @@
     "prerequisites" : 
     {
       "course" : "BIOL 2120",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -8129,6 +8402,7 @@
     "prerequisites" : 
     {
       "course" : "BMED 2540",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -8143,6 +8417,7 @@
     "prerequisites" : 
     {
       "course" : "BMED 2540",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -8184,10 +8459,12 @@
       [
         {
           "course" : "BMED 4250",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENGR 2250",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -8205,6 +8482,7 @@
     "prerequisites" : 
     {
       "course" : "BMED 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -8219,6 +8497,7 @@
     "prerequisites" : 
     {
       "course" : "BMED 4260",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -8239,10 +8518,12 @@
           [
             {
               "course" : "ENGR 2530",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BMED 2540",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -8253,10 +8534,12 @@
           [
             {
               "course" : "BMED 4250",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ENGR 2250",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -8514,6 +8797,7 @@
     "prerequisites" : 
     {
       "course" : "BMED 2100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -8578,6 +8862,7 @@
     "prerequisites" : 
     {
       "course" : "BMED 2540",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -8605,10 +8890,12 @@
       [
         {
           "course" : "BMED 4250",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENGR 2250",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -8626,6 +8913,7 @@
     "prerequisites" : 
     {
       "course" : "BMED 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -8646,10 +8934,12 @@
           [
             {
               "course" : "ENGR 2530",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BMED 2540",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -8657,6 +8947,7 @@
         },
         {
           "course" : "ENGR 2250",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -8970,14 +9261,17 @@
       [
         {
           "course" : "CHEM 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -8995,14 +9289,17 @@
       [
         {
           "course" : "CHEM 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -9017,6 +9314,7 @@
     "prerequisites" : 
     {
       "course" : "CHEM 1120",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -9062,14 +9360,17 @@
       [
         {
           "course" : "CHEM 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -9122,30 +9423,37 @@
       [
         {
           "course" : "CHEM 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1210",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1220",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENGR 1600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ISCI 1600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "PHYS 1600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -9163,14 +9471,17 @@
       [
         {
           "course" : "CHEM 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1210",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1220",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -9185,6 +9496,7 @@
     "prerequisites" : 
     {
       "course" : "CHEM 2110",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -9249,6 +9561,7 @@
     "prerequisites" : 
     {
       "course" : "CHEM 2250",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -9263,10 +9576,12 @@
       [
         {
           "course" : "CHEM 2230",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 2260",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -9284,14 +9599,17 @@
       [
         {
           "course" : "CHEM 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -9306,6 +9624,7 @@
     "prerequisites" : 
     {
       "course" : "CHEM 2250",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -9505,6 +9824,7 @@
     "prerequisites" : 
     {
       "course" : "CHEM 2030",
+      "min_grade" : null,
       "type" : "course"
     }
   },
@@ -9525,14 +9845,17 @@
       [
         {
           "course" : "CHEM 4010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 4410",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 2120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -9553,10 +9876,12 @@
       [
         {
           "course" : "CHEM 4410",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 2210",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -9591,10 +9916,12 @@
       [
         {
           "course" : "CHEM 2110",
+          "min_grade" : null,
           "type" : "course"
         },
         {
           "course" : "CHEM 2120",
+          "min_grade" : null,
           "type" : "course"
         }
       ],
@@ -9615,10 +9942,12 @@
       [
         {
           "course" : "CHEM 4110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 4420",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -9701,6 +10030,7 @@
     "prerequisites" : 
     {
       "course" : "CHEM 2250",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -9715,6 +10045,7 @@
     "prerequisites" : 
     {
       "course" : "CHEM 2260",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -9795,6 +10126,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 2400",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -9806,6 +10138,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 2400",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -9826,10 +10159,12 @@
           [
             {
               "course" : "CHEM 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CHEM 1220",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -9837,6 +10172,7 @@
         },
         {
           "course" : "MATH 1010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -9899,6 +10235,7 @@
     "prerequisites" : 
     {
       "course" : "CHEM 2250",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -9934,6 +10271,7 @@
     "prerequisites" : 
     {
       "course" : "CHEM 2260",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -10004,6 +10342,7 @@
       [
         {
           "course" : "CHEM 2250",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -10011,10 +10350,12 @@
           [
             {
               "course" : "BIOL 1010",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BIOL 2120",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -10039,14 +10380,17 @@
       [
         {
           "course" : "CHEM 4760",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BCBP 4760",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 4760",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -10118,10 +10462,12 @@
       [
         {
           "course" : "CHEM 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1220",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -10160,18 +10506,22 @@
       [
         {
           "course" : "CHEM 2930",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 2940",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 2950",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 4970",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -10728,10 +11078,12 @@
       [
         {
           "course" : "CHME 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENGR 1100",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -10749,10 +11101,12 @@
       [
         {
           "course" : "CHME 2010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -10767,6 +11121,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 2400",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -10778,6 +11133,7 @@
     "prerequisites" : 
     {
       "course" : "CHME 2020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -10827,10 +11183,12 @@
       [
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHME 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -10858,10 +11216,12 @@
       [
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHME 4010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -10879,14 +11239,17 @@
       [
         {
           "course" : "CHME 2050",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHME 4040",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHME 4500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -10904,14 +11267,17 @@
       [
         {
           "course" : "CHME 2020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHME 4010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHME 4020",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -10935,10 +11301,12 @@
       [
         {
           "course" : "CHME 4040",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHME 4500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -10953,6 +11321,7 @@
     "prerequisites" : 
     {
       "course" : "CHME 4050",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -10967,14 +11336,17 @@
       [
         {
           "course" : "CHME 4020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHME 2050",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -10995,14 +11367,17 @@
       [
         {
           "course" : "CHME 4010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHME 4020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHME 2020",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -11020,14 +11395,17 @@
       [
         {
           "course" : "CHME 4150",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHME 4040",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHME 4500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -11144,18 +11522,22 @@
       [
         {
           "course" : "CHME 2010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHME 2020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHME 4010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHME 4020",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -11346,10 +11728,12 @@
       [
         {
           "course" : "CHME 4010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHME 4020",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -11374,10 +11758,12 @@
       [
         {
           "course" : "CHME 2020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -11392,6 +11778,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 2400",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -11649,6 +12036,7 @@
       [
         {
           "course" : "ENGR 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -11656,10 +12044,12 @@
           [
             {
               "course" : "PHYS 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1110",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -11677,6 +12067,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2050",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -11702,6 +12093,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 2530",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -11720,6 +12112,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 2530",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -11762,6 +12155,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2630",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -11776,6 +12170,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2670",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -11787,6 +12182,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2670",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -11798,6 +12194,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2670",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -11840,6 +12237,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2630",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -11860,10 +12258,12 @@
       [
         {
           "course" : "ENGR 2250",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENGR 2530",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -11888,10 +12288,12 @@
       [
         {
           "course" : "CIVL 4070",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CIVL 4080",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -11906,6 +12308,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2670",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -11920,6 +12323,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2670",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -11937,10 +12341,12 @@
       [
         {
           "course" : "CIVL 2060",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CIVL 2630",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -11969,6 +12375,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2030",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -12005,6 +12412,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2030",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -12026,6 +12434,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 2050",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -12192,6 +12601,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2030",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -12203,6 +12613,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2030",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -12217,10 +12628,12 @@
       [
         {
           "course" : "CIVL 2030",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -12267,6 +12680,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 4080",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -12278,6 +12692,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 4070",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -12298,10 +12713,12 @@
           [
             {
               "course" : "CIVL 4020",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ARCH 4020",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -12309,10 +12726,12 @@
         },
         {
           "course" : "CIVL 6310",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CIVL 6320",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -12341,10 +12760,12 @@
       [
         {
           "course" : "CIVL 4070",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CIVL 4080",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -12359,6 +12780,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2060",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -12381,6 +12803,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 4440",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -12399,6 +12822,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 6450",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -12410,6 +12834,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 4150",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -12448,10 +12873,12 @@
       [
         {
           "course" : "CIVL 2060",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CIVL 2630",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -12679,6 +13106,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -12696,22 +13124,27 @@
       [
         {
           "course" : "PSYC 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "PSYC 4370",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COGS 2120",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COGS 2340",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COGS 4330",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -12754,10 +13187,12 @@
       [
         {
           "course" : "PSYC 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COGS 2120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -12796,10 +13231,12 @@
       [
         {
           "course" : "PSYC 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COGS 2120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -12853,10 +13290,12 @@
       [
         {
           "course" : "COGS 4420",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 4150",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -13034,6 +13473,7 @@
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -13097,6 +13537,7 @@
     "prerequisites" : 
     {
       "course" : "COGS 2340",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -13104,8 +13545,16 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "COGS-6880"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "D",
+      "min_grade" : null,
+      "type" : "course"
+    }
   },
   "COGS-4940" : 
   {
@@ -13174,22 +13623,27 @@
       [
         {
           "course" : "CSCI 4150",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COGS 4430",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 4840",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 4100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 4850",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -13957,18 +14411,22 @@
       [
         {
           "course" : "COMM 2520",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COMM 2660",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "WRIT 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "WRIT 2110",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -14091,10 +14549,12 @@
       [
         {
           "course" : "IHSS 1610",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENGR 2020",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -14133,6 +14593,7 @@
     "prerequisites" : 
     {
       "course" : "COMM 2660",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -14288,6 +14749,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -14329,14 +14791,17 @@
       [
         {
           "course" : "COMM 2660",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COMM 2570",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COMM 2680",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -14429,6 +14894,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -14587,6 +15053,7 @@
     "prerequisites" : 
     {
       "course" : "COMM 2660",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -15195,6 +15662,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1100",
+      "min_grade" : "C-",
       "type" : "course"
     }
   },
@@ -15206,6 +15674,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -15272,10 +15741,12 @@
       [
         {
           "course" : "ITWS 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -15293,6 +15764,7 @@
       [
         {
           "course" : "CSCI 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -15300,18 +15772,22 @@
           [
             {
               "course" : "MATH 1010",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 1500",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 1020",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 2010",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -15353,6 +15829,7 @@
       [
         {
           "course" : "CSCI 1200",
+          "min_grade" : "C-",
           "type" : "course"
         },
         {
@@ -15360,10 +15837,12 @@
           [
             {
               "course" : "CSCI 2200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 2800",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -15374,18 +15853,22 @@
           [
             {
               "course" : "MATH 1010",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 1500",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 1020",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 2010",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -15413,6 +15896,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -15427,10 +15911,12 @@
       [
         {
           "course" : "CSCI 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 2200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -15445,6 +15931,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -15477,6 +15964,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -15548,6 +16036,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -15611,6 +16100,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -15674,6 +16164,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -15695,6 +16186,7 @@
       [
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -15702,10 +16194,12 @@
           [
             {
               "course" : "CSCI 2500",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ECSE 2660",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -15723,6 +16217,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 4210",
+      "min_grade" : null,
       "type" : "course"
     }
   },
@@ -15740,6 +16235,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -15785,6 +16281,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -15805,10 +16302,12 @@
           [
             {
               "course" : "CSCI 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CSCI 1200",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -15819,10 +16318,12 @@
           [
             {
               "course" : "CSCI 2200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 4090",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -15846,10 +16347,12 @@
       [
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -15907,6 +16410,7 @@
       [
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -15914,10 +16418,12 @@
           [
             {
               "course" : "CSCI 2500",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ECSE 2660",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -15938,6 +16444,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -15958,10 +16465,12 @@
       [
         {
           "course" : "CSCI 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 4380",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -15985,10 +16494,12 @@
       [
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 2600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -16003,6 +16514,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -16017,6 +16529,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -16038,10 +16551,12 @@
       [
         {
           "course" : "CSCI 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 4350",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -16084,10 +16599,12 @@
       [
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 2600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -16105,6 +16622,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -16119,6 +16637,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 4430",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -16136,6 +16655,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2600",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -16177,10 +16697,12 @@
       [
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -16242,6 +16764,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 4210",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -16259,10 +16782,12 @@
       [
         {
           "course" : "ITWS 2110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -16327,10 +16852,12 @@
       [
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 2600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -16382,14 +16909,17 @@
       [
         {
           "course" : "ITWS 4350",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 4350",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ERTH 4350",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -16446,6 +16976,7 @@
       [
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -16456,10 +16987,12 @@
               [
                 {
                   "course" : "MATH 2010",
+                  "min_grade" : "D",
                   "type" : "course"
                 },
                 {
                   "course" : "MATH 2011",
+                  "min_grade" : "D",
                   "type" : "course"
                 }
               ],
@@ -16467,6 +17000,7 @@
             },
             {
               "course" : "MATH 2012",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -16490,10 +17024,12 @@
       [
         {
           "course" : "CSCI 4800",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 4800",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -16514,10 +17050,12 @@
       [
         {
           "course" : "CSCI 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 2660",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -16556,6 +17094,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -16567,6 +17106,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 4210",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -16584,10 +17124,12 @@
       [
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -16605,6 +17147,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -16622,14 +17165,17 @@
       [
         {
           "course" : "CSCI 2200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -16650,10 +17196,12 @@
       [
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -16671,6 +17219,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -16699,6 +17248,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -16725,10 +17275,12 @@
       [
         {
           "course" : "CSCI 4100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 6100",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -16789,6 +17341,7 @@
       [
         {
           "course" : "CSCI 4150",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -16796,10 +17349,12 @@
           [
             {
               "course" : "CSCI 4390",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CSCI 6390",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -17000,6 +17555,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -17037,10 +17593,12 @@
       [
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -17095,6 +17653,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -17112,6 +17671,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -17126,6 +17686,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 4210",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -17146,10 +17707,12 @@
       [
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 2600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -17167,6 +17730,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -17185,6 +17749,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -17219,6 +17784,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2600",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -17267,6 +17833,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 4210",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -17297,10 +17864,12 @@
       [
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 2600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -17413,10 +17982,12 @@
       [
         {
           "course" : "CSCI 4100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 6100",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -17484,10 +18055,12 @@
       [
         {
           "course" : "CSCI 4100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 6100",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -18378,14 +18951,17 @@
           [
             {
               "course" : "ECON 1200",
+              "min_grade" : "TR",
               "type" : "course"
             },
             {
               "course" : "INQR 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "IHSS 1200",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -18396,10 +18972,12 @@
           [
             {
               "course" : "MATH 1010",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 1500",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -18423,14 +19001,17 @@
           [
             {
               "course" : "INQR 1200",
+              "min_grade" : "TR",
               "type" : "course"
             },
             {
               "course" : "IHSS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ECON 1200",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -18441,10 +19022,12 @@
           [
             {
               "course" : "MATH 1010",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 1500",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -18465,14 +19048,17 @@
       [
         {
           "course" : "INQR 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECON 1200",
+          "min_grade" : "TR",
           "type" : "course"
         }
       ],
@@ -18525,6 +19111,7 @@
     "prerequisites" : 
     {
       "course" : "ECON 2010",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -18548,14 +19135,17 @@
           [
             {
               "course" : "INQR 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "IHSS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ECON 1200",
+              "min_grade" : "TR",
               "type" : "course"
             }
           ],
@@ -18566,10 +19156,12 @@
           [
             {
               "course" : "MATH 1010",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 1500",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -18601,14 +19193,17 @@
       [
         {
           "course" : "ECON 1200",
+          "min_grade" : "TR",
           "type" : "course"
         },
         {
           "course" : "IHSS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -18689,14 +19284,17 @@
           [
             {
               "course" : "ECON 1200",
+              "min_grade" : "TR",
               "type" : "course"
             },
             {
               "course" : "IHSS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "INQR 1200",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -18707,10 +19305,12 @@
           [
             {
               "course" : "MATH 1010",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 1500",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -18738,14 +19338,17 @@
       [
         {
           "course" : "ECON 1200",
+          "min_grade" : "TR",
           "type" : "course"
         },
         {
           "course" : "IHSS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -18769,14 +19372,17 @@
           [
             {
               "course" : "ECON 1200",
+              "min_grade" : "TR",
               "type" : "course"
             },
             {
               "course" : "IHSS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "INQR 1200",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -18790,10 +19396,12 @@
               [
                 {
                   "course" : "MATH 2010",
+                  "min_grade" : "D",
                   "type" : "course"
                 },
                 {
                   "course" : "MATH 2011",
+                  "min_grade" : null,
                   "type" : "course"
                 }
               ],
@@ -18801,6 +19409,7 @@
             },
             {
               "course" : "MATH 2012",
+              "min_grade" : null,
               "type" : "course"
             }
           ],
@@ -18824,6 +19433,7 @@
       [
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -18831,14 +19441,17 @@
           [
             {
               "course" : "ECON 1200",
+              "min_grade" : "TR",
               "type" : "course"
             },
             {
               "course" : "IHSS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "INQR 1200",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -18863,14 +19476,17 @@
       [
         {
           "course" : "ECON 1200",
+          "min_grade" : "TR",
           "type" : "course"
         },
         {
           "course" : "INQR 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -18946,14 +19562,17 @@
           [
             {
               "course" : "ECON 1200",
+              "min_grade" : "TR",
               "type" : "course"
             },
             {
               "course" : "IHSS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "INQR 1200",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -18964,10 +19583,12 @@
           [
             {
               "course" : "MATH 1010",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 1500",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -18994,14 +19615,17 @@
           [
             {
               "course" : "ECON 1200",
+              "min_grade" : "TR",
               "type" : "course"
             },
             {
               "course" : "IHSS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "INQR 1200",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -19012,10 +19636,12 @@
           [
             {
               "course" : "MATH 1010",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 1500",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -19026,18 +19652,22 @@
           [
             {
               "course" : "ENGR 2600",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MGMT 2100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATP 4600",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PSYC 2310",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -19062,14 +19692,17 @@
       [
         {
           "course" : "ECON 1200",
+          "min_grade" : "TR",
           "type" : "course"
         },
         {
           "course" : "IHSS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -19087,14 +19720,17 @@
       [
         {
           "course" : "ECON 1200",
+          "min_grade" : "TR",
           "type" : "course"
         },
         {
           "course" : "IHSS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -19115,14 +19751,17 @@
       [
         {
           "course" : "ECON 1200",
+          "min_grade" : "TR",
           "type" : "course"
         },
         {
           "course" : "IHSS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -19140,14 +19779,17 @@
       [
         {
           "course" : "ECON 1200",
+          "min_grade" : "TR",
           "type" : "course"
         },
         {
           "course" : "IHSS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -19168,14 +19810,17 @@
       [
         {
           "course" : "ECON 1200",
+          "min_grade" : "TR",
           "type" : "course"
         },
         {
           "course" : "IHSS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -19199,14 +19844,17 @@
       [
         {
           "course" : "INQR 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECON 1200",
+          "min_grade" : "TR",
           "type" : "course"
         }
       ],
@@ -19224,14 +19872,17 @@
       [
         {
           "course" : "INQR 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECON 1200",
+          "min_grade" : "TR",
           "type" : "course"
         }
       ],
@@ -19273,6 +19924,7 @@
     "prerequisites" : 
     {
       "course" : "ECON 2020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -19287,6 +19939,7 @@
       [
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -19294,22 +19947,27 @@
           [
             {
               "course" : "ENGR 2600",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MGMT 2100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATP 4600",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PSYC 2310",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BIOL 4200",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -19333,10 +19991,12 @@
       [
         {
           "course" : "ECON 4570",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -19357,10 +20017,12 @@
       [
         {
           "course" : "ECON 4570",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -19604,6 +20266,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 2010",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -19618,6 +20281,7 @@
     "prerequisites" : 
     {
       "course" : "ECON 6030",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -20029,6 +20693,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 2400",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -20046,6 +20711,7 @@
       [
         {
           "course" : "ECSE 2010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -20053,10 +20719,12 @@
           [
             {
               "course" : "PHYS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1250",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -20098,10 +20766,12 @@
       [
         {
           "course" : "ECSE 2010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -20109,10 +20779,12 @@
           [
             {
               "course" : "PHYS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1250",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -20133,6 +20805,7 @@
       [
         {
           "course" : "ECSE 2010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -20140,10 +20813,12 @@
           [
             {
               "course" : "PHYS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1250",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -20164,6 +20839,7 @@
       [
         {
           "course" : "ECSE 2010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -20171,10 +20847,12 @@
           [
             {
               "course" : "PHYS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1250",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -20192,6 +20870,7 @@
     "prerequisites" : 
     {
       "course" : "ECSE 2010",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -20203,6 +20882,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 1020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -20217,6 +20897,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -20228,6 +20909,7 @@
     "prerequisites" : 
     {
       "course" : "ECSE 2610",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -20309,6 +20991,7 @@
     "prerequisites" : 
     {
       "course" : "ECSE 2050",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -20323,10 +21006,12 @@
       [
         {
           "course" : "ECSE 2050",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 2610",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -20344,6 +21029,7 @@
     "prerequisites" : 
     {
       "course" : "ECSE 2050",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -20362,6 +21048,7 @@
     "prerequisites" : 
     {
       "course" : "ECSE 2050",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -20379,10 +21066,12 @@
       [
         {
           "course" : "ECSE 2410",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 4500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -20411,6 +21100,7 @@
     "prerequisites" : 
     {
       "course" : "ECSE 2110",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -20425,14 +21115,17 @@
       [
         {
           "course" : "ECSE 4120",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 4080",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 4110",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -20450,6 +21143,7 @@
     "prerequisites" : 
     {
       "course" : "ECSE 2110",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -20505,10 +21199,12 @@
       [
         {
           "course" : "ECSE 2050",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 2610",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -20530,6 +21226,7 @@
     "prerequisites" : 
     {
       "course" : "ECSE 2210",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -20593,6 +21290,7 @@
     "prerequisites" : 
     {
       "course" : "ECSE 2050",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -20610,10 +21308,12 @@
       [
         {
           "course" : "ECSE 2660",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 2500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -20673,10 +21373,12 @@
       [
         {
           "course" : "ECSE 2410",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 4500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -20734,10 +21436,12 @@
       [
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -20808,14 +21512,17 @@
       [
         {
           "course" : "ECSE 2410",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -20833,10 +21540,12 @@
       [
         {
           "course" : "ECSE 2410",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -20857,10 +21566,12 @@
       [
         {
           "course" : "ECSE 2410",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 2500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -20925,10 +21636,12 @@
       [
         {
           "course" : "ECSE 2660",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 2500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -20946,10 +21659,12 @@
       [
         {
           "course" : "ECSE 2610",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 2500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -20987,10 +21702,12 @@
       [
         {
           "course" : "PHYS 2220",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "PHYS 4220",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -21043,10 +21760,12 @@
       [
         {
           "course" : "ECSE 4440",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 4520",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -21064,6 +21783,7 @@
     "prerequisites" : 
     {
       "course" : "ECSE 2610",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -21081,6 +21801,7 @@
     "prerequisites" : 
     {
       "course" : "ECSE 4770",
+      "min_grade" : null,
       "type" : "course"
     }
   },
@@ -21092,6 +21813,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 2350",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -21119,10 +21841,12 @@
       [
         {
           "course" : "ECSE 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENGR 2600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -21140,10 +21864,12 @@
       [
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 2500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -21164,14 +21890,17 @@
       [
         {
           "course" : "ECSE 2500",
+          "min_grade" : null,
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : null,
           "type" : "course"
         },
         {
           "course" : "CSCI 1200",
+          "min_grade" : null,
           "type" : "course"
         }
       ],
@@ -21190,6 +21919,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 2050",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -21378,10 +22108,12 @@
       [
         {
           "course" : "ECSE 2110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 4080",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -21528,6 +22260,7 @@
     "prerequisites" : 
     {
       "course" : "ECSE 4250",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -21542,6 +22275,7 @@
     "prerequisites" : 
     {
       "course" : "ECSE 4030",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -21559,10 +22293,12 @@
       [
         {
           "course" : "ECSE 2660",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 2500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -21661,10 +22397,12 @@
       [
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -21883,6 +22621,7 @@
     "prerequisites" : 
     {
       "course" : "ECSE 4770",
+      "min_grade" : null,
       "type" : "course"
     }
   },
@@ -22496,14 +23235,17 @@
       [
         {
           "course" : "CHEM 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -22613,10 +23355,12 @@
           [
             {
               "course" : "ENGR 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ECSE 1010",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -22627,14 +23371,17 @@
           [
             {
               "course" : "CIVL 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ENGR 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ENGR 1400",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -22645,10 +23392,12 @@
           [
             {
               "course" : "PHYS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1250",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -22679,10 +23428,12 @@
           [
             {
               "course" : "ENGR 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ECSE 1010",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -22693,14 +23444,17 @@
           [
             {
               "course" : "PHYS 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1150",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1110",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -22708,6 +23462,7 @@
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -22742,10 +23497,12 @@
           [
             {
               "course" : "PHYS 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1150",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -22756,10 +23513,12 @@
           [
             {
               "course" : "ENGR 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ECSE 1010",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -22767,6 +23526,7 @@
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -22787,10 +23547,12 @@
           [
             {
               "course" : "PHYS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1250",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -22798,6 +23560,7 @@
         },
         {
           "course" : "MATH 1020",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -22815,10 +23578,12 @@
       [
         {
           "course" : "CSCI 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -22854,6 +23619,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 1100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -22865,6 +23631,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 1010",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -22879,6 +23646,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 1020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -22900,10 +23668,12 @@
       [
         {
           "course" : "ENGR 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENGR 1300",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -23137,6 +23907,7 @@
     "prerequisites" : 
     {
       "course" : "STSO 2020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -23171,10 +23942,12 @@
       [
         {
           "course" : "ENGR 4710",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 4610",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -23284,6 +24057,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 6200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -23295,6 +24069,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 6205",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -23306,6 +24081,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 6200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -23317,6 +24093,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 6215",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -23335,6 +24112,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 6220",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -23346,6 +24124,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 6221",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -23364,6 +24143,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 6230",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -23443,10 +24223,12 @@
           [
             {
               "course" : "CHEM 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CHEM 1110",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -23454,10 +24236,12 @@
         },
         {
           "course" : "CIVL 2050",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -23577,14 +24361,17 @@
       [
         {
           "course" : "ENGR 2050",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENVE 4320",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENVE 4340",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -23613,6 +24400,7 @@
     "prerequisites" : 
     {
       "course" : "ENVE 2110",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -23667,10 +24455,12 @@
       [
         {
           "course" : "ENVE 2110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -23685,6 +24475,7 @@
     "prerequisites" : 
     {
       "course" : "ENVE 2110",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -23699,10 +24490,12 @@
       [
         {
           "course" : "CHEM 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENVE 2110",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -23717,6 +24510,7 @@
     "prerequisites" : 
     {
       "course" : "ENVE 4320",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -23747,6 +24541,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2060",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -23854,6 +24649,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 1020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -24129,6 +24925,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 1020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -24544,6 +25341,7 @@
     "prerequisites" : 
     {
       "course" : "ERTH 1100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -24609,14 +25407,17 @@
       [
         {
           "course" : "ERTH 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 1020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "PHYS 1100",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -24631,6 +25432,7 @@
     "prerequisites" : 
     {
       "course" : "ERTH 2210",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -24711,10 +25513,12 @@
       [
         {
           "course" : "ERTH 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ERTH 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -24732,10 +25536,12 @@
       [
         {
           "course" : "ERTH 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ERTH 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -24846,10 +25652,12 @@
       [
         {
           "course" : "CSCI 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 4380",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -24871,6 +25679,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -24885,10 +25694,12 @@
       [
         {
           "course" : "CHEM 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1110",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -24906,10 +25717,12 @@
       [
         {
           "course" : "CHEM 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ERTH 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -25015,6 +25828,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 1020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -25026,6 +25840,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -25043,10 +25858,12 @@
       [
         {
           "course" : "CHEM 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1220",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -25183,6 +26000,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -25201,6 +26019,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -25558,6 +26377,7 @@
     "prerequisites" : 
     {
       "course" : "ARTS 2230",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -25575,10 +26395,12 @@
       [
         {
           "course" : "GSAS 2520",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "WRIT 2330",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -25593,6 +26415,7 @@
     "prerequisites" : 
     {
       "course" : "GSAS 4240",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -25604,6 +26427,7 @@
     "prerequisites" : 
     {
       "course" : "GSAS 2520",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -25618,22 +26442,27 @@
       [
         {
           "course" : "GSAS 1040",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "GSAS 1600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "GSAS 2510",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "GSAS 2520",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "GSAS 2540",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -25651,10 +26480,12 @@
       [
         {
           "course" : "GSAS 4540",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 4540",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -25672,10 +26503,12 @@
       [
         {
           "course" : "GSAS 2540",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "GSAS 2510",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -25719,6 +26552,7 @@
     "prerequisites" : 
     {
       "course" : "GSAS 4520",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -25733,10 +26567,12 @@
       [
         {
           "course" : "CSCI 4530",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 4750",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -25796,6 +26632,7 @@
     "prerequisites" : 
     {
       "course" : "GSAS 4510",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -27231,14 +28068,17 @@
       [
         {
           "course" : "CHEM 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -27308,10 +28148,12 @@
       [
         {
           "course" : "ISCI 1510",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ERTH 1510",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -27545,6 +28387,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 1020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -27556,6 +28399,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -27584,10 +28428,12 @@
       [
         {
           "course" : "ENGR 2600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATP 4600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -27622,10 +28468,12 @@
           [
             {
               "course" : "ISYE 2210",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MGMT 4110",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -27636,10 +28484,12 @@
           [
             {
               "course" : "ENGR 2600",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MGMT 2100",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -27671,10 +28521,12 @@
       [
         {
           "course" : "ISYE 4140",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ISYE 4760",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -27717,6 +28569,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 2600",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -27734,10 +28587,12 @@
       [
         {
           "course" : "ENGR 2050",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 2220",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -27769,10 +28624,12 @@
       [
         {
           "course" : "ISYE 4140",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 1100",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -27852,10 +28709,12 @@
           [
             {
               "course" : "ISYE 4140",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATP 4600",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -27863,6 +28722,7 @@
         },
         {
           "course" : "ISYE 4760",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -27896,10 +28756,12 @@
           [
             {
               "course" : "ENGR 2600",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATP 4600",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -27907,6 +28769,7 @@
         },
         {
           "course" : "CSCI 1100",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -27979,6 +28842,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 2010",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -28600,10 +29464,12 @@
       [
         {
           "course" : "CSCI 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ITWS 1100",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -28648,10 +29514,12 @@
       [
         {
           "course" : "ITWS 4310",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ITWS 2210",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -28679,10 +29547,12 @@
       [
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ITWS 4500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -28712,10 +29582,12 @@
       [
         {
           "course" : "ITWS 2110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -28736,6 +29608,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -28756,10 +29629,12 @@
           [
             {
               "course" : "CSCI 2500",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ECSE 2660",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -28767,6 +29642,7 @@
         },
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -28788,6 +29664,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -28805,10 +29682,12 @@
       [
         {
           "course" : "ITWS 2110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -28850,6 +29729,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 2500",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -28999,10 +29879,12 @@
       [
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ITWS 4500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -29028,6 +29910,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -29048,10 +29931,12 @@
           [
             {
               "course" : "CSCI 2500",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ECSE 2660",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -29059,6 +29944,7 @@
         },
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -29080,6 +29966,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -29479,6 +30366,7 @@
     "prerequisites" : 
     {
       "course" : "LANG 1410",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -29606,6 +30494,7 @@
     "prerequisites" : 
     {
       "course" : "LANG 2410",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -29617,6 +30506,7 @@
     "prerequisites" : 
     {
       "course" : "LANG 2420",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -29631,18 +30521,22 @@
       [
         {
           "course" : "INQR 1492",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1492",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "LANG 1410",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "LANG 2410",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -29668,6 +30562,7 @@
     "prerequisites" : 
     {
       "course" : "LANG 4430",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -29817,6 +30712,7 @@
     "prerequisites" : 
     {
       "course" : "LGHT 4230",
+      "min_grade" : null,
       "type" : "course"
     }
   },
@@ -30176,6 +31072,7 @@
     "prerequisites" : 
     {
       "course" : "LITR 2110",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -30322,10 +31219,12 @@
       [
         {
           "course" : "ENGR 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -30333,10 +31232,12 @@
           [
             {
               "course" : "PHYS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1250",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -30360,10 +31261,12 @@
           [
             {
               "course" : "ENGR 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ECSE 1010",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -30374,10 +31277,12 @@
           [
             {
               "course" : "PHYS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1250",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -30388,14 +31293,17 @@
           [
             {
               "course" : "ENGR 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ENGR 1400",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CIVL 1200",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -30413,6 +31321,7 @@
     "prerequisites" : 
     {
       "course" : "MANE 2830",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -30427,6 +31336,7 @@
       [
         {
           "course" : "MATH 1020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -30434,14 +31344,17 @@
           [
             {
               "course" : "PHYS 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1150",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1110",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -30462,6 +31375,7 @@
       [
         {
           "course" : "ENGR 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -30469,14 +31383,17 @@
           [
             {
               "course" : "PHYS 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1150",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1110",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -30490,10 +31407,12 @@
               [
                 {
                   "course" : "MATH 2010",
+                  "min_grade" : "D",
                   "type" : "course"
                 },
                 {
                   "course" : "MATH 2011",
+                  "min_grade" : "D",
                   "type" : "course"
                 }
               ],
@@ -30501,6 +31420,7 @@
             },
             {
               "course" : "MATH 2012",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -30508,6 +31428,7 @@
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -30528,14 +31449,17 @@
           [
             {
               "course" : "PHYS 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1150",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1110",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -30546,10 +31470,12 @@
           [
             {
               "course" : "CHEM 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CHEM 1110",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -30612,6 +31538,7 @@
       [
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -30619,10 +31546,12 @@
           [
             {
               "course" : "ENGR 2530",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "BMED 2540",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -30640,6 +31569,7 @@
     "prerequisites" : 
     {
       "course" : "MANE 4030",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -30682,6 +31612,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 2530",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -30696,10 +31627,12 @@
       [
         {
           "course" : "MANE 2720",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 2710",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -30717,10 +31650,12 @@
       [
         {
           "course" : "MANE 2710",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 2720",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -30738,10 +31673,12 @@
       [
         {
           "course" : "MANE 4070",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 4500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -30759,10 +31696,12 @@
       [
         {
           "course" : "ENGR 2090",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -30787,6 +31726,7 @@
     "prerequisites" : 
     {
       "course" : "MANE 4070",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -30818,6 +31758,7 @@
       [
         {
           "course" : "MANE 2720",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -30828,10 +31769,12 @@
               [
                 {
                   "course" : "MATH 2010",
+                  "min_grade" : "D",
                   "type" : "course"
                 },
                 {
                   "course" : "MATH 2012",
+                  "min_grade" : "D",
                   "type" : "course"
                 }
               ],
@@ -30839,6 +31782,7 @@
             },
             {
               "course" : "MATH 2011",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -30859,10 +31803,12 @@
       [
         {
           "course" : "ENGR 2090",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -30880,10 +31826,12 @@
       [
         {
           "course" : "ENGR 2090",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -30961,14 +31909,17 @@
       [
         {
           "course" : "MANE 4120",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 4130",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 4090",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -30989,10 +31940,12 @@
       [
         {
           "course" : "MANE 2220",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENGR 2050",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31013,6 +31966,7 @@
       [
         {
           "course" : "MANE 4060",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -31020,10 +31974,12 @@
           [
             {
               "course" : "MANE 4070",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MANE 4090",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -31050,10 +32006,12 @@
       [
         {
           "course" : "ENGR 2530",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BMED 2540",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31084,10 +32042,12 @@
       [
         {
           "course" : "ENGR 2050",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 2220",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31108,6 +32068,7 @@
       [
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -31115,10 +32076,12 @@
           [
             {
               "course" : "CSCI 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MANE 2110",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -31142,10 +32105,12 @@
       [
         {
           "course" : "MANE 2110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 4480",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31163,10 +32128,12 @@
       [
         {
           "course" : "ENGR 2050",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 2220",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31192,6 +32159,7 @@
     "prerequisites" : 
     {
       "course" : "MANE 2830",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -31230,10 +32198,12 @@
       [
         {
           "course" : "ENGR 2600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 2830",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31261,6 +32231,7 @@
     "prerequisites" : 
     {
       "course" : "MANE 4380",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -31272,6 +32243,7 @@
     "prerequisites" : 
     {
       "course" : "MANE 2720",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -31286,6 +32258,7 @@
     "prerequisites" : 
     {
       "course" : "MANE 2830",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -31307,10 +32280,12 @@
       [
         {
           "course" : "MANE 4350",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 4480",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31359,10 +32334,12 @@
           [
             {
               "course" : "MANE 2110",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CSCI 1100",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -31370,6 +32347,7 @@
         },
         {
           "course" : "MANE 2830",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31387,6 +32365,7 @@
       [
         {
           "course" : "MANE 2110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -31397,10 +32376,12 @@
               [
                 {
                   "course" : "MATH 2010",
+                  "min_grade" : "D",
                   "type" : "course"
                 },
                 {
                   "course" : "MATH 2011",
+                  "min_grade" : "D",
                   "type" : "course"
                 }
               ],
@@ -31408,6 +32389,7 @@
             },
             {
               "course" : "MATH 2012",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -31452,6 +32434,7 @@
       [
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -31459,10 +32442,12 @@
           [
             {
               "course" : "PHYS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1250",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -31480,6 +32465,7 @@
     "prerequisites" : 
     {
       "course" : "MANE 4500",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -31497,10 +32483,12 @@
       [
         {
           "course" : "MANE 4500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 2410",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31521,10 +32509,12 @@
       [
         {
           "course" : "ECSE 2410",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 4500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31590,6 +32580,7 @@
       [
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -31600,10 +32591,12 @@
               [
                 {
                   "course" : "MATH 2010",
+                  "min_grade" : "D",
                   "type" : "course"
                 },
                 {
                   "course" : "MATH 2011",
+                  "min_grade" : "D",
                   "type" : "course"
                 }
               ],
@@ -31611,6 +32604,7 @@
             },
             {
               "course" : "MATH 2012",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -31634,10 +32628,12 @@
       [
         {
           "course" : "ENGR 2090",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31658,10 +32654,12 @@
       [
         {
           "course" : "ENGR 4710",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 4610",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31679,10 +32677,12 @@
       [
         {
           "course" : "ENGR 2530",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 4030",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31700,10 +32700,12 @@
       [
         {
           "course" : "ENGR 2530",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BMED 2540",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31760,6 +32762,7 @@
     "prerequisites" : 
     {
       "course" : "MANE 2710",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -31774,14 +32777,17 @@
       [
         {
           "course" : "MANE 2710",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 2720",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 4730",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31832,10 +32838,12 @@
       [
         {
           "course" : "MANE 2710",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 2720",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31878,18 +32886,22 @@
       [
         {
           "course" : "ENGR 1600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENGR 2530",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENGR 2600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 2720",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -31897,10 +32909,12 @@
           [
             {
               "course" : "ENGR 2350",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MANE 4500",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -31921,6 +32935,7 @@
     "prerequisites" : 
     {
       "course" : "MANE 4730",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -31959,6 +32974,7 @@
     "prerequisites" : 
     {
       "course" : "MANE 4240",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -31980,10 +32996,12 @@
       [
         {
           "course" : "MANE 4060",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -31998,6 +33016,7 @@
     "prerequisites" : 
     {
       "course" : "MANE 4070",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -32009,6 +33028,7 @@
     "prerequisites" : 
     {
       "course" : "MANE 4060",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -32198,10 +33218,12 @@
       [
         {
           "course" : "MANE 4120",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 4130",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -32222,6 +33244,7 @@
       [
         {
           "course" : "MANE 4640",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -32229,10 +33252,12 @@
           [
             {
               "course" : "ENGR 4710",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MANE 4610",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -32306,10 +33331,12 @@
       [
         {
           "course" : "MANE 4290",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 6290",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -32371,6 +33398,7 @@
     "prerequisites" : 
     {
       "course" : "MANE 4480",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -32495,6 +33523,7 @@
     "prerequisites" : 
     {
       "course" : "MANE 4070",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -32512,10 +33541,12 @@
       [
         {
           "course" : "MANE 4500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 2410",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -32642,10 +33673,12 @@
       [
         {
           "course" : "MANE 6660",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CIVL 6660",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -32732,10 +33765,12 @@
       [
         {
           "course" : "MANE 4010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 4080",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -32979,6 +34014,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 1010",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -33009,10 +34045,12 @@
       [
         {
           "course" : "MATH 1010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 1500",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -33116,6 +34154,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 1020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -33148,6 +34187,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 1020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -33261,6 +34301,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 4090",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -33275,6 +34316,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 2010",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -33286,6 +34328,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 2010",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -33297,6 +34340,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 2010",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -33311,6 +34355,7 @@
     "prerequisites" : 
     {
       "course" : "PHIL 2140",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -33328,6 +34373,7 @@
       [
         {
           "course" : "CSCI 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -33335,10 +34381,12 @@
           [
             {
               "course" : "CSCI 2200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 4090",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -33366,10 +34414,12 @@
       [
         {
           "course" : "MATH 1020",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 4090",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -33395,6 +34445,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 2010",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -33409,10 +34460,12 @@
       [
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -33430,10 +34483,12 @@
       [
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -33448,6 +34503,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 2010",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -33459,6 +34515,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 2400",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -33498,10 +34555,12 @@
       [
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -33522,10 +34581,12 @@
       [
         {
           "course" : "MATH 4800",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 4800",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -33758,14 +34819,17 @@
       [
         {
           "course" : "MATH 4100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 4200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 4600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -33790,10 +34854,12 @@
       [
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 4600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -33818,10 +34884,12 @@
       [
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 4600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -33861,6 +34929,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 2400",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -33935,10 +35004,12 @@
       [
         {
           "course" : "MATH 4800",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 4800",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -33956,10 +35027,12 @@
       [
         {
           "course" : "MATH 4800",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 4800",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -33977,10 +35050,12 @@
       [
         {
           "course" : "MATH 4800",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 4800",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -34001,10 +35076,12 @@
       [
         {
           "course" : "MATH 4800",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 4800",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -34142,10 +35219,12 @@
       [
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 1100",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -34171,6 +35250,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 1020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -34192,6 +35272,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 2010",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -34209,6 +35290,7 @@
       [
         {
           "course" : "CSCI 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -34216,10 +35298,12 @@
           [
             {
               "course" : "ENGR 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 2010",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -34243,50 +35327,62 @@
       [
         {
           "course" : "MATP 4400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 4100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 6100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 6100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 6610",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 6610",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ITWS 4600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ITWS 6600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ITWS 6600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ISYE 6180",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ISYE 6180",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 4200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -34348,10 +35444,12 @@
       [
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 4090",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -34375,10 +35473,12 @@
           [
             {
               "course" : "MATH 2010",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ENGR 1100",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -34386,6 +35486,7 @@
         },
         {
           "course" : "CSCI 1100",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -34427,10 +35528,12 @@
       [
         {
           "course" : "MATP 4700",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -34451,26 +35554,32 @@
       [
         {
           "course" : "MATP 4400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 4100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 6100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ITWS 4600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ITWS 6600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BIOL 4200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -34656,10 +35765,12 @@
           [
             {
               "course" : "MATH 1500",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 1520",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -34670,10 +35781,12 @@
           [
             {
               "course" : "MATH 1010",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 1020",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -34684,10 +35797,12 @@
           [
             {
               "course" : "MATH 1500",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 1020",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -34698,10 +35813,12 @@
           [
             {
               "course" : "MATH 1010",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 1520",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -34763,6 +35880,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 1100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -34774,6 +35892,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -34868,6 +35987,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 4100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -34889,6 +36009,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 2100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -34951,6 +36072,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 4100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -34968,10 +36090,12 @@
       [
         {
           "course" : "MGMT 4100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MGMT 4110",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -35076,6 +36200,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 2300",
+      "min_grade" : "C",
       "type" : "course"
     }
   },
@@ -35118,6 +36243,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 2320",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -35132,10 +36258,12 @@
       [
         {
           "course" : "MGMT 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MGMT 2320",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -35177,6 +36305,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 2320",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -35258,6 +36387,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 2320",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -35289,6 +36419,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 2430",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -35303,6 +36434,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 2430",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -35317,6 +36449,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 2430",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -35331,6 +36464,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 2430",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -35345,6 +36479,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 1100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -35359,6 +36494,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 1100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -35386,10 +36522,12 @@
       [
         {
           "course" : "MGMT 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MGMT 2320",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -35442,6 +36580,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 1100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -35453,6 +36592,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 1100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -35467,18 +36607,22 @@
       [
         {
           "course" : "MGMT 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MGMT 2320",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MGMT 2430",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MGMT 4110",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -35757,6 +36901,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 6100",
+      "min_grade" : "C",
       "type" : "course"
     }
   },
@@ -35820,6 +36965,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 6020",
+      "min_grade" : "C",
       "type" : "course"
     }
   },
@@ -35844,10 +36990,12 @@
       [
         {
           "course" : "MGMT 6190",
+          "min_grade" : "C",
           "type" : "course"
         },
         {
           "course" : "MGMT 6020",
+          "min_grade" : "C",
           "type" : "course"
         }
       ],
@@ -35938,6 +37086,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 6310",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -35963,6 +37112,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 6020",
+      "min_grade" : "C",
       "type" : "course"
     }
   },
@@ -35980,10 +37130,12 @@
       [
         {
           "course" : "MGMT 6020",
+          "min_grade" : null,
           "type" : "course"
         },
         {
           "course" : "MGMT 6520",
+          "min_grade" : null,
           "type" : "course"
         }
       ],
@@ -36085,6 +37237,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 6020",
+      "min_grade" : "C",
       "type" : "course"
     }
   },
@@ -36119,14 +37272,17 @@
       [
         {
           "course" : "MGMT 6510",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MGMT 6520",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MGMT 6100",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -36381,22 +37537,27 @@
       [
         {
           "course" : "MGMT 6020",
+          "min_grade" : "C",
           "type" : "course"
         },
         {
           "course" : "MGMT 6040",
+          "min_grade" : "C",
           "type" : "course"
         },
         {
           "course" : "MGMT 6580",
+          "min_grade" : "C",
           "type" : "course"
         },
         {
           "course" : "MGMT 7730",
+          "min_grade" : "C",
           "type" : "course"
         },
         {
           "course" : "MGMT 7740",
+          "min_grade" : "C",
           "type" : "course"
         }
       ],
@@ -36811,6 +37972,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 6520",
+      "min_grade" : "C",
       "type" : "course"
     }
   },
@@ -36951,22 +38113,27 @@
       [
         {
           "course" : "ENGR 1600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "PHYS 1600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ISCI 1600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "BMED 2100",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -37053,10 +38220,12 @@
       [
         {
           "course" : "ENGR 2250",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -37064,18 +38233,22 @@
           [
             {
               "course" : "ENGR 1600",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CHEM 1600",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1600",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ISCI 1600",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -37096,10 +38269,12 @@
       [
         {
           "course" : "CHEM 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MTLE 4100",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -37124,10 +38299,12 @@
       [
         {
           "course" : "MTLE 2100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "PHYS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -37135,18 +38312,22 @@
           [
             {
               "course" : "ENGR 1600",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1600",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "CHEM 1600",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "ISCI 1600",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -37195,14 +38376,17 @@
       [
         {
           "course" : "MTLE 4150",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MTLE 4200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MTLE 4250",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -37271,6 +38455,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 1600",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -37331,6 +38516,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 2600",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -37362,10 +38548,12 @@
       [
         {
           "course" : "MTLE 4910",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENGR 2050",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -37513,6 +38701,7 @@
     "prerequisites" : 
     {
       "course" : "ECSE 4250",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -37633,6 +38822,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 2600",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -38033,6 +39223,7 @@
     "prerequisites" : 
     {
       "course" : "PHIL 2140",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -38161,42 +39352,52 @@
       [
         {
           "course" : "STSO 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2510",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2520",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2700",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1150",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1150",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "PHIL 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "PHIL 4240",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -38439,6 +39640,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 1010",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -38463,6 +39665,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 1010",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -38484,6 +39687,7 @@
     "prerequisites" : 
     {
       "course" : "MATH 1010",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -38511,10 +39715,12 @@
           [
             {
               "course" : "PHYS 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1110",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -38522,6 +39728,7 @@
         },
         {
           "course" : "MATH 1020",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -38549,14 +39756,17 @@
           [
             {
               "course" : "PHYS 1100",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1150",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1110",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -38564,6 +39774,7 @@
         },
         {
           "course" : "MATH 1020",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -38614,14 +39825,17 @@
       [
         {
           "course" : "CHEM 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -38725,10 +39939,12 @@
           [
             {
               "course" : "PHYS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1250",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -38736,6 +39952,7 @@
         },
         {
           "course" : "MATH 1020",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -38753,10 +39970,12 @@
       [
         {
           "course" : "PHYS 2210",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -38816,6 +40035,7 @@
     "prerequisites" : 
     {
       "course" : "PHYS 2210",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -38865,10 +40085,12 @@
           [
             {
               "course" : "PHYS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1250",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -38876,6 +40098,7 @@
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -38946,6 +40169,7 @@
     "prerequisites" : 
     {
       "course" : "PHYS 2210",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -38960,6 +40184,7 @@
       [
         {
           "course" : "PHYS 2210",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -38967,10 +40192,12 @@
           [
             {
               "course" : "MATH 4600",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "MATH 4700",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -38995,10 +40222,12 @@
       [
         {
           "course" : "PHYS 4330",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 4600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -39019,10 +40248,12 @@
           [
             {
               "course" : "PHYS 1200",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PHYS 1250",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -39030,10 +40261,12 @@
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -39058,14 +40291,17 @@
       [
         {
           "course" : "PHYS 2210",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -39124,10 +40360,12 @@
       [
         {
           "course" : "PHYS 2220",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "PHYS 4220",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -39152,10 +40390,12 @@
       [
         {
           "course" : "PHYS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "PHYS 1250",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -39281,6 +40521,7 @@
     "prerequisites" : 
     {
       "course" : "PHYS 6210",
+      "min_grade" : null,
       "type" : "course"
     }
   },
@@ -39579,10 +40820,12 @@
       [
         {
           "course" : "PSYC 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COGS 2120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -39617,6 +40860,7 @@
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -39770,6 +41014,7 @@
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -39805,6 +41050,7 @@
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -39822,22 +41068,27 @@
       [
         {
           "course" : "PSYC 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "PSYC 4370",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COGS 2120",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COGS 2340",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COGS 4330",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -39872,14 +41123,17 @@
       [
         {
           "course" : "PSYC 2310",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENGR 2600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MGMT 2100",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -39933,10 +41187,12 @@
       [
         {
           "course" : "PSYC 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COGS 2120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -39964,10 +41220,12 @@
       [
         {
           "course" : "PSYC 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -39975,10 +41233,12 @@
           [
             {
               "course" : "PSYC 4310",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "COGS 2120",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -40003,10 +41263,12 @@
       [
         {
           "course" : "PSYC 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COGS 2120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -40027,10 +41289,12 @@
       [
         {
           "course" : "PSYC 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COGS 2120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -40166,10 +41430,12 @@
               [
                 {
                   "course" : "PSYC 1200",
+                  "min_grade" : "D",
                   "type" : "course"
                 },
                 {
                   "course" : "COGS 2120",
+                  "min_grade" : "D",
                   "type" : "course"
                 }
               ],
@@ -40177,6 +41443,7 @@
             },
             {
               "course" : "CSCI 2300",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -40187,10 +41454,12 @@
           [
             {
               "course" : "CSCI 4150",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
               "course" : "PSYC 4370",
+              "min_grade" : "D",
               "type" : "course"
             }
           ],
@@ -40271,6 +41540,7 @@
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -40310,6 +41580,7 @@
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -40324,6 +41595,7 @@
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -40408,6 +41680,7 @@
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -41553,6 +42826,7 @@
     "prerequisites" : 
     {
       "course" : "STSO 2610",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -41570,18 +42844,22 @@
       [
         {
           "course" : "STSO 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1240",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1320",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -41612,53 +42890,63 @@
       "nested" : 
       [
         {
-          "nested" : 
-          [
-            {
-              "course" : "INQR 1100",
-              "type" : "course"
-            },
-            {
-              "course" : "STSO 1100",
-              "type" : "course"
-            },
-            {
-              "course" : "INQR 1110",
-              "type" : "course"
-            },
-            {
-              "course" : "INQR 1240",
-              "type" : "course"
-            },
-            {
-              "course" : "INQR 1250",
-              "type" : "course"
-            },
-            {
-              "course" : "INQR 1320",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "INQR 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "STSO 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1240",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1250",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1320",
+          "min_grade" : "D",
+          "type" : "course"
         },
         {
           "course" : "IHSS 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1240",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1250",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1320",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "STSO 1110",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -41693,10 +42981,12 @@
       [
         {
           "course" : "IHSS 1610",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1610",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -41738,50 +43028,62 @@
       [
         {
           "course" : "STSO 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2510",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2520",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2510",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2520",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1150",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1160",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 4250",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1160",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "PHIL 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "PHIL 4240",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -41799,42 +43101,52 @@
       [
         {
           "course" : "STSO 2100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2210",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2520",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2210",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2520",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -41862,50 +43174,62 @@
       [
         {
           "course" : "STSO 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1240",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2520",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1240",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -41940,42 +43264,52 @@
       [
         {
           "course" : "STSO 2100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2210",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2520",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2210",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2520",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -41993,26 +43327,32 @@
       [
         {
           "course" : "STSO 2510",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2520",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2510",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2520",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -42033,90 +43373,112 @@
       [
         {
           "course" : "INQR 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1220",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1240",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1250",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1320",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1350",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1570",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1580",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "INQR 1610",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1220",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1240",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1250",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1320",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1350",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1570",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1580",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "IHSS 1610",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2520",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSS 2520",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -42190,18 +43552,22 @@
       [
         {
           "course" : "STSO 2100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2520",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -42299,6 +43665,7 @@
     "prerequisites" : 
     {
       "course" : "STSO 2020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -42316,6 +43683,7 @@
     "prerequisites" : 
     {
       "course" : "STSO 2020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -42368,6 +43736,7 @@
     "prerequisites" : 
     {
       "course" : "STSO 2020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -42392,10 +43761,12 @@
       [
         {
           "course" : "STSS 4980",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 4980",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -44546,14 +45917,17 @@
       [
         {
           "course" : "WRIT 1110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "WRIT 2110",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "COMM 2520",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
