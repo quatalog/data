@@ -21987,7 +21987,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-6964"
+      "ECSE-6964",
+      "ISYE-6964"
     ],
     "prerequisites" : null
   },
@@ -22792,7 +22793,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-4964"
+      "ECSE-4964",
+      "ISYE-6964"
     ],
     "prerequisites" : null
   },
@@ -29166,7 +29168,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4964",
+      "ECSE-6964"
+    ],
     "prerequisites" : null
   },
   "ISYE-6970" : 
