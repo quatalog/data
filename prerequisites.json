@@ -8878,12 +8878,7 @@
     [
       "BMED-4550"
     ],
-    "prerequisites" : 
-    {
-      "course" : "BMED 2540",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "BMED-6560" : 
   {
