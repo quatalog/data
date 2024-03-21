@@ -16626,7 +16626,10 @@
   },
   "CSCI-4450" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
