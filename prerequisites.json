@@ -9966,10 +9966,12 @@
       [
         {
           "course" : "PHYS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 1020",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
