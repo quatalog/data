@@ -25710,7 +25710,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-6545"
+    ],
     "prerequisites" : 
     {
       "nested" : 
