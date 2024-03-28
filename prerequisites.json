@@ -17257,11 +17257,14 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-1700",
-      "CSCI-2700",
-      "CSCI-4970"
+      "CSCI-6970"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CSCI 2300",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "CSCI-4971" : 
   {
@@ -18071,7 +18074,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4970"
+    ],
     "prerequisites" : null
   },
   "CSCI-6971" : 
