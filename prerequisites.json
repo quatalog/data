@@ -26053,10 +26053,12 @@
       [
         {
           "course" : "CHEM 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ERTH 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
