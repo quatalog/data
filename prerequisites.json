@@ -13593,7 +13593,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6961",
+      "CSCI-4972",
+      "PHIL-4961"
+    ],
     "prerequisites" : null
   },
   "COGS-4962" : 
@@ -13879,7 +13884,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4961",
+      "CSCI-4972",
+      "PHIL-4961"
+    ],
     "prerequisites" : null
   },
   "COGS-6962" : 
@@ -17292,17 +17302,11 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARCH-4780",
-      "MATH-4140",
-      "MATH-4961",
-      "PHIL-4140",
+      "COGS-4961",
+      "COGS-6961",
       "PHIL-4961"
     ],
-    "prerequisites" : 
-    {
-      "course" : "PHIL 2140",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CSCI-4973" : 
   {
@@ -39497,10 +39501,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4968",
-      "MATH-4140",
-      "MATH-4961",
-      "PHIL-4140"
+      "COGS-4961",
+      "COGS-6961",
+      "CSCI-4972"
     ],
     "prerequisites" : null
   },
