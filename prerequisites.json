@@ -18060,7 +18060,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4968"
+      "ECSE-4964",
+      "ECSE-6964",
+      "ISYE-6964"
     ],
     "prerequisites" : null
   },
@@ -21995,6 +21997,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "CSCI-6968",
       "ECSE-6964",
       "ISYE-6964"
     ],
@@ -22801,6 +22804,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "CSCI-6968",
       "ECSE-4964",
       "ISYE-6964"
     ],
@@ -29183,6 +29187,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "CSCI-6968",
       "ECSE-4964",
       "ECSE-6964"
     ],
