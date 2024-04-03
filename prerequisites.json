@@ -14178,12 +14178,12 @@
   },
   "COMM-2570" : 
   {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
+    "attributes" : 
     [
-      "COMM-2570"
+      "Data Intensive I"
     ],
+    "corequisites" : null,
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "COMM-2610" : 
