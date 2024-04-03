@@ -624,10 +624,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-6965"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "ARCH-4020" : 
@@ -2284,7 +2281,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARCH-4010"
+      "ARCH-4965"
     ],
     "prerequisites" : null
   },
@@ -3201,7 +3198,6 @@
     "prerequisites" : 
     {
       "course" : "ARTS 2230",
-      "min_grade" : "D",
       "type" : "course"
     }
   },
