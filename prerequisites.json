@@ -28985,7 +28985,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ENGR-4961"
+      "ENGR-4961",
+      "PSYC-4964"
     ],
     "prerequisites" : null
   },
@@ -41805,8 +41806,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COGS-4964",
-      "COGS-6964"
+      "ENGR-4961",
+      "ISYE-4961"
     ],
     "prerequisites" : null
   },
