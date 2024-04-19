@@ -13603,7 +13603,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COGS-6964"
+      "COGS-6964",
+      "CSCI-4969"
     ],
     "prerequisites" : null
   },
@@ -13908,7 +13909,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COGS-4962"
+      "COGS-4964",
+      "CSCI-4964",
+      "CSCI-6964"
     ],
     "prerequisites" : null
   },
