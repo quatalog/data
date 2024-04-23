@@ -13625,41 +13625,9 @@
     "cross_listings" : 
     [
       "COGS-6964",
-      "CSCI-4964",
-      "CSCI-6964"
+      "PSYC-4964"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 4150",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "COGS 4430",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ECSE 4840",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 4100",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ECSE 4850",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "COGS-4965" : 
   {
@@ -13807,9 +13775,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COGS-4430",
-      "CSCI-4966",
-      "CSCI-6961"
+      "COGS-4430"
     ],
     "prerequisites" : null
   },
@@ -13909,9 +13875,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COGS-4964",
-      "CSCI-4964",
-      "CSCI-6964"
+      "COGS-4962",
+      "CSCI-4969"
     ],
     "prerequisites" : null
   },
