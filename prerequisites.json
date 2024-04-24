@@ -17221,13 +17221,15 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "CSCI 2300",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "cross_listings" : 
+    [
+      "CSCI-6969",
+      "ECSE-4490",
+      "ECSE-6490",
+      "MANE-4963",
+      "MANE-6963"
+    ],
+    "prerequisites" : null
   },
   "CSCI-4970" : 
   {
