@@ -17138,7 +17138,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6963"
+      "CSCI-6963",
+      "ECSE-4965",
+      "ECSE-6965"
     ],
     "prerequisites" : 
     {
@@ -17989,7 +17991,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4963"
+      "CSCI-4963",
+      "ECSE-4965",
+      "ECSE-6965"
     ],
     "prerequisites" : null
   },
@@ -22006,9 +22010,16 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MANE-4961"
+      "CSCI-4963",
+      "CSCI-6963",
+      "ECSE-6965"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CSCI 2300",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ECSE-4966" : 
   {
@@ -22811,7 +22822,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4963",
+      "CSCI-6963",
+      "ECSE-4965"
+    ],
     "prerequisites" : null
   },
   "ECSE-6966" : 
