@@ -21986,14 +21986,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-6220"
+      "ECSE-6090"
     ],
-    "prerequisites" : 
-    {
-      "course" : "ECSE 2210",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "ECSE-4964" : 
   {
@@ -22208,7 +22203,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-4963"
+      "ECSE-4962"
     ],
     "prerequisites" : null
   },
