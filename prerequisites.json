@@ -17295,9 +17295,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6973",
-      "MTLE-4960",
-      "MTLE-6960"
+      "CSCI-6973"
     ],
     "prerequisites" : null
   },
@@ -18092,9 +18090,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4973",
-      "MTLE-4960",
-      "MTLE-6960"
+      "CSCI-4973"
     ],
     "prerequisites" : null
   },
@@ -31162,7 +31158,10 @@
   },
   "LITR-4960" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
