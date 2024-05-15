@@ -9799,13 +9799,6 @@
       "type" : "course"
     }
   },
-  "CHEM-2961" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
-  },
   "CHEM-4000" : 
   {
     "attributes" : [],
@@ -10559,10 +10552,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-6610"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHEM-4964" : 
