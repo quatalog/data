@@ -9192,6 +9192,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "BUSN-6500" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "CHEM-0960" : 
   {
     "attributes" : [],
