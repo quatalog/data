@@ -13193,7 +13193,10 @@
   },
   "COGS-4330" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -41241,7 +41244,10 @@
   },
   "PSYC-4330" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -41463,7 +41469,12 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PSYC 1200",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "PSYC-4500" : 
   {
