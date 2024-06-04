@@ -19848,7 +19848,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6380"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -20480,6 +20483,16 @@
     "cross_listings" : 
     [
       "ECON-4360"
+    ],
+    "prerequisites" : null
+  },
+  "ECON-6380" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ECON-4380"
     ],
     "prerequisites" : null
   },
