@@ -32716,23 +32716,7 @@
     [
       "ENGR-4710"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ENGR 2090",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "MATH 2400",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "MANE-4620" : 
   {
