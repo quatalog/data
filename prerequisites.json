@@ -3245,7 +3245,10 @@
   },
   "ARTS-4120" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -13688,7 +13691,10 @@
   },
   "COGS-4990" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -14933,7 +14939,10 @@
   },
   "COMM-4960" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -16462,7 +16471,8 @@
       "CSCI-6350",
       "ERTH-4350",
       "ERTH-6350",
-      "ITWS-4350"
+      "ITWS-4350",
+      "ITWS-6350"
     ],
     "prerequisites" : 
     {
@@ -17657,7 +17667,8 @@
       "CSCI-4350",
       "ERTH-4350",
       "ERTH-6350",
-      "ITWS-4350"
+      "ITWS-4350",
+      "ITWS-6350"
     ],
     "prerequisites" : 
     {
@@ -25706,7 +25717,8 @@
       "CSCI-4350",
       "CSCI-6350",
       "ERTH-6350",
-      "ITWS-4350"
+      "ITWS-4350",
+      "ITWS-6350"
     ],
     "prerequisites" : 
     {
@@ -26060,7 +26072,8 @@
       "CSCI-4350",
       "CSCI-6350",
       "ERTH-4350",
-      "ITWS-4350"
+      "ITWS-4350",
+      "ITWS-6350"
     ],
     "prerequisites" : 
     {
@@ -27777,6 +27790,16 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "INQR-1060" : 
+  {
+    "attributes" : 
+    [
+      "HASS Inquiry"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "INQR-1100" : 
   {
     "attributes" : 
@@ -27974,6 +27997,7 @@
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -29693,7 +29717,8 @@
       "CSCI-4350",
       "CSCI-6350",
       "ERTH-4350",
-      "ERTH-6350"
+      "ERTH-6350",
+      "ITWS-6350"
     ],
     "prerequisites" : 
     {
@@ -29994,7 +30019,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4350",
+      "CSCI-6350",
+      "ERTH-4350",
+      "ERTH-6350",
+      "ITWS-4350"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
@@ -42914,7 +42946,7 @@
       "nested" : 
       [
         {
-          "course" : "STSO 1110",
+          "course" : "STSO 1100",
           "min_grade" : "D",
           "type" : "course"
         },
@@ -43168,7 +43200,10 @@
   },
   "STSO-4260" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
