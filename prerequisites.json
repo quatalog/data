@@ -17277,24 +17277,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 4100",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 6100",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "cross_listings" : 
+    [
+      "CSCI-6971"
+    ],
+    "prerequisites" : null
   },
   "CSCI-4972" : 
   {
@@ -18052,7 +18039,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4967"
+    ],
     "prerequisites" : null
   },
   "CSCI-6968" : 
