@@ -245,7 +245,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5100"
+    ],
     "prerequisites" : null
   },
   "ARCH-2160" : 
@@ -1532,10 +1535,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CIVL-4450"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-4963" : 
@@ -1695,7 +1695,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2150"
+    ],
     "prerequisites" : null
   },
   "ARCH-5110" : 
@@ -2037,10 +2040,7 @@
   "ARCH-6630" : 
   {
     "attributes" : [],
-    "corequisites" : 
-    [
-      "ARCH-5380"
-    ],
+    "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
   },
@@ -2362,7 +2362,34 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2200",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "CSCI 2500",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "ECSE 2660",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "ARCH-9990" : 
   {
