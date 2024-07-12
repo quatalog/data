@@ -1971,7 +1971,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4970"
+    ],
     "prerequisites" : null
   },
   "ARCH-6390" : 
@@ -10615,7 +10618,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6964"
+    ],
     "prerequisites" : null
   },
   "CHEM-4965" : 
@@ -11031,7 +11037,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4964"
+    ],
     "prerequisites" : null
   },
   "CHEM-6965" : 
@@ -38625,7 +38634,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6730"
+    ],
     "prerequisites" : 
     {
       "course" : "ENGR 2600",
@@ -38931,7 +38943,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-4730"
+    ],
     "prerequisites" : 
     {
       "course" : "ENGR 2600",
