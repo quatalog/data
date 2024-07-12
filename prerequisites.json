@@ -3464,7 +3464,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6220"
+    ],
     "prerequisites" : 
     {
       "course" : "ARTS 1200",
@@ -4266,7 +4269,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4220"
+    ],
     "prerequisites" : null
   },
   "ARTS-6230" : 
@@ -11622,14 +11628,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6961"
+    ],
     "prerequisites" : null
   },
   "CHME-4962" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6962"
+    ],
     "prerequisites" : null
   },
   "CHME-4963" : 
@@ -11905,14 +11917,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4961"
+    ],
     "prerequisites" : null
   },
   "CHME-6962" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4962"
+    ],
     "prerequisites" : null
   },
   "CHME-6963" : 
