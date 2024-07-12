@@ -3277,7 +3277,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6120"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -4199,7 +4202,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4120"
+    ],
     "prerequisites" : null
   },
   "ARTS-6130" : 
