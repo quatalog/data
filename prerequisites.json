@@ -5166,7 +5166,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "BIOL-4760"
+      "BIOL-4760",
+      "CHEM-4760"
     ],
     "prerequisites" : 
     {
@@ -6994,7 +6995,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "BCBP-4760"
+      "BCBP-4760",
+      "CHEM-4760"
     ],
     "prerequisites" : 
     {
@@ -10390,7 +10392,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4760",
+      "BIOL-4760"
+    ],
     "prerequisites" : 
     {
       "nested" : 
