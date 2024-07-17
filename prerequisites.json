@@ -40604,7 +40604,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-6530"
+    ],
     "prerequisites" : null
   },
   "PHYS-4965" : 
@@ -40687,7 +40690,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-4964"
+    ],
     "prerequisites" : null
   },
   "PHYS-6590" : 
