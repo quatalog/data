@@ -1060,19 +1060,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5340"
+    ],
     "prerequisites" : 
     {
       "nested" : 
       [
         {
           "course" : "ARCH 2510",
-          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ARCH 2350",
-          "min_grade" : "D",
           "type" : "course"
         }
       ],
