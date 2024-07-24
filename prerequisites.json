@@ -9797,6 +9797,34 @@
       "type" : "or"
     }
   },
+  "CHEM-2910" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CHEM 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 1110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 1120",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
+  },
   "CHEM-2930" : 
   {
     "attributes" : [],
@@ -10547,6 +10575,25 @@
     "prerequisites" : null
   },
   "CHEM-4910" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "CHEM 2910",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
+  "CHEM-4920" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "CHEM-4930" : 
   {
     "attributes" : [],
     "corequisites" : null,
