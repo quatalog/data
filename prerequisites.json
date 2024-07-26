@@ -14115,6 +14115,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "COMM-1350" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "COMM-1510" : 
   {
     "attributes" : 
