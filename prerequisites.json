@@ -4603,6 +4603,16 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ASTR-1540" : 
+  {
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ASTR-1960" : 
   {
     "attributes" : [],
@@ -40115,6 +40125,41 @@
       "type" : "or"
     }
   },
+  "PHYS-2160" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "PHYS 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 1110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 1150",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
+  },
+  "PHYS-2170" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "PHYS-2210" : 
   {
     "attributes" : [],
@@ -40295,6 +40340,13 @@
       "type" : "and"
     }
   },
+  "PHYS-2900" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "PHYS-2940" : 
   {
     "attributes" : [],
@@ -40362,6 +40414,64 @@
       "min_grade" : "D",
       "type" : "course"
     }
+  },
+  "PHYS-4160" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1100",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1110",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1150",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
+          "course" : "PHYS 2160",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
+  },
+  "PHYS-4161" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "PHYS 4160",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
+  "PHYS-4170" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "PHYS-4210" : 
   {
@@ -40624,7 +40734,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4961",
+      "ASTR-6960",
+      "PHYS-6963"
+    ],
     "prerequisites" : null
   },
   "PHYS-4962" : 
