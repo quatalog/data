@@ -16359,6 +16359,50 @@
       "type" : "course"
     }
   },
+  "CSCI-4160" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6963",
+      "ECSE-4965",
+      "ECSE-6965"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2300",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 4100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "CSCI 2210",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 4100",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
+    }
+  },
   "CSCI-4190" : 
   {
     "attributes" : [],
@@ -17317,20 +17361,13 @@
   },
   "CSCI-4963" : 
   {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
+    "attributes" : 
     [
-      "CSCI-6963",
-      "ECSE-4965",
-      "ECSE-6965"
+      "Communication Intensive"
     ],
-    "prerequisites" : 
-    {
-      "course" : "CSCI 2300",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "CSCI-4964" : 
   {
@@ -18155,7 +18192,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4963",
+      "CSCI-4160",
       "ECSE-4965",
       "ECSE-6965"
     ],
@@ -22166,7 +22203,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4963",
+      "CSCI-4160",
       "CSCI-6963",
       "ECSE-6965"
     ],
@@ -22980,7 +23017,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4963",
+      "CSCI-4160",
       "CSCI-6963",
       "ECSE-4965"
     ],
