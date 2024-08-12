@@ -16310,6 +16310,43 @@
       "type" : "and"
     }
   },
+  "CSCI-4140" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6962"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2300",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "CSCI 2210",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 4100",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
+    }
+  },
   "CSCI-4150" : 
   {
     "attributes" : [],
@@ -17276,23 +17313,7 @@
     [
       "CSCI-6962"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 2300",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "MATH 2010",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "CSCI-4963" : 
   {
@@ -18124,7 +18145,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4962"
+      "CSCI-4140"
     ],
     "prerequisites" : null
   },
