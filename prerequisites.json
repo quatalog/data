@@ -17963,12 +17963,7 @@
     [
       "CSCI-4460"
     ],
-    "prerequisites" : 
-    {
-      "course" : "CSCI 2600",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CSCI-6470" : 
   {
