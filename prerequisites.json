@@ -26712,7 +26712,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6400"
+    ],
     "prerequisites" : 
     {
       "nested" : 
