@@ -720,16 +720,6 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
-  "ARCH-4075" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-6075"
-    ],
-    "prerequisites" : null
-  },
   "ARCH-4090" : 
   {
     "attributes" : [],
@@ -1885,16 +1875,6 @@
     "cross_listings" : 
     [
       "ARCH-4065"
-    ],
-    "prerequisites" : null
-  },
-  "ARCH-6075" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-4075"
     ],
     "prerequisites" : null
   },
