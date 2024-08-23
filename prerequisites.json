@@ -1955,10 +1955,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-4970"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-6390" : 
