@@ -17476,7 +17476,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6973"
+      "CSCI-6973",
+      "ECSE-4973",
+      "ECSE-6973"
     ],
     "prerequisites" : null
   },
@@ -18265,7 +18267,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4973"
+      "CSCI-4973",
+      "ECSE-4973",
+      "ECSE-6973"
     ],
     "prerequisites" : null
   },
@@ -22218,6 +22222,18 @@
     ],
     "prerequisites" : null
   },
+  "ECSE-4973" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4973",
+      "CSCI-6973",
+      "ECSE-6973"
+    ],
+    "prerequisites" : null
+  },
   "ECSE-4980" : 
   {
     "attributes" : 
@@ -23049,6 +23065,18 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "ECSE-6973" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4973",
+      "CSCI-6973",
+      "ECSE-4973"
+    ],
     "prerequisites" : null
   },
   "ECSE-6980" : 
