@@ -22181,7 +22181,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6963"
+    ],
     "prerequisites" : null
   },
   "ECSE-4964" : 
