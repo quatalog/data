@@ -683,7 +683,7 @@
     "crse": "1200",
     "name": "Beginners Architecture Career Discovery Program",
     "description": "Two-week introduction to architecture for rising high school juniors and seniors includes morning programs and introductory lectures in history and theory of architecture, computing and simulation, freehand and extreme drawing, building ecologies, building conservation, and construction systems. There will be field trips and career counseling. Afternoons will have individually critiqued (tutored) design studios, group and individual projects, reviews, and public presentation. Acts as an opportunity for career discovery to decide whether a design education in architecture is appropriate. Summer term annually. Dates TBA. 9:00 am - 4:00 pm.",
-    "source": "Acalog"
+    "source": "SIS"
   },
   "ARCH-1210": {
     "subj": "ARCH",
@@ -1746,7 +1746,7 @@
     "subj": "ARCH",
     "crse": "4870",
     "name": "Sonics Research Lab 1",
-    "description": "The Sonics Research Lab is completely research based. The first part (the Fall semester) will be focused on hands-on research tools and techniques. First, students will learn the basics of digital signal processing, develop an understanding of measurement equipment and analysis methods for sound. The course will examine the ISO standards of room-acoustic measurements, develop students\u2019 research goals and a specific set of data to gather for their research. The course will also prepare the students with the fundamental knowledge on CATT Acoustic and/or EASE in geometrical modeling. Then the students and professors will visit a number of performance venues (e.g. EMPAC Concert Hall, and/ or other venues) and perform the room-acoustic measurements. Students will then work on analyzing and interpreting the research results. Practice measurements will be scheduled in the gallery or somewhere on campus before trips to performance halls. MATLAB will play a central role throughout all the classes (SRL I & II) and the thesis research projects. It will be used during the class exercises. Within one week from the semester start, every student is required to INSTALL a functioning MATLAB Software package onto her/his laptop computer.",
+    "description": "The Sonics Research Lab is completely research based. The first part (the Fall semester) will be focused on hands-on research tools and techniques. First, students will learn the basics of digital signal processing, develop an understanding of measurement equipment and analysis methods for sound. The course will examine the ISO standards of room-acoustic measurements, develop students' research goals and a specific set of data to gather for their research. The course will also prepare the students with the fundamental knowledge on CATT Acoustic and/or EASE in geometrical modeling. Then the students and professors will visit a number of performance venues (e.g. EMPAC Concert Hall, and/ or other venues) and perform the room-acoustic measurements. Students will then work on analyzing and interpreting the research results. Practice measurements will be scheduled in the gallery or somewhere on campus before trips to performance halls. MATLAB will play a central role throughout all the classes (SRL I & II) and the thesis research projects. It will be used during the class exercises. Within one week from the semester start, every student is required to INSTALL a functioning MATLAB Software package onto their laptop computer.",
     "source": "SIS"
   },
   "ARCH-4880": {
@@ -2489,13 +2489,13 @@
     "crse": "6860",
     "name": "Applied Psychoacoustics",
     "description": "This course covers the fundamentals of psychoacoustics with a focus on Architectural Acoustics. Topics include the functional overview of the auditory system, loudness, pitch, timbre perception, masking, binaural hearing, auditory scene analysis, multi-modal integration, and auditory perception in rooms. Required signal processing methods will be covered as well. The graduate-level course requires an extensive individual project and more advanced analysis.",
-    "source": "Acalog"
+    "source": "SIS"
   },
   "ARCH-6870": {
     "subj": "ARCH",
     "crse": "6870",
     "name": "Sonics Research Lab 1",
-    "description": "The Sonics Research Lab is completely research based. The first part (the Fall semester) will be focused on hands-on research tools and techniques. First, students will learn the basics of digital signal processing, develop an understanding of measurement equipment and analysis methods for sound. The course will examine the ISO standards of room-acoustic measurements, develop students\u2019 research goals and a specific set of data to gather for their research. The course will also prepare the students with the fundamental knowledge on CATT Acoustic and/or EASE in geometrical modeling. Then the students and professors will visit a number of performance venues (e.g. EMPAC Concert Hall, and/ or other venues) and perform the room-acoustic measurements. Students will then work on analyzing and interpreting the research results. Practice measurements will be scheduled in the gallery or somewhere on campus before trips to performance halls. MATLAB will play a central role throughout all the classes (SRL I & II) and the thesis research projects. It will be used during the class exercises. Within one week from the semester start, every student is required to INSTALL a functioning MATLAB Software package onto her/his laptop computer.",
+    "description": "The Sonics Research Lab is completely research based. The first part (the Fall semester) will be focused on hands-on research tools and techniques. First, students will learn the basics of digital signal processing, develop an understanding of measurement equipment and analysis methods for sound. The course will examine the ISO standards of room-acoustic measurements, develop students' research goals and a specific set of data to gather for their research. The course will also prepare the students with the fundamental knowledge on CATT Acoustic and/or EASE in geometrical modeling. Then the students and professors will visit a number of performance venues (e.g. EMPAC Concert Hall, and/ or other venues) and perform the room-acoustic measurements. Students will then work on analyzing and interpreting the research results. Practice measurements will be scheduled in the gallery or somewhere on campus before trips to performance halls. MATLAB will play a central role throughout all the classes (SRL I & II) and the thesis research projects. It will be used during the class exercises. Within one week from the semester start, every student is required to INSTALL a functioning MATLAB Software package onto their laptop computer.",
     "source": "SIS"
   },
   "ARCH-6880": {
@@ -3615,7 +3615,7 @@
     "subj": "ARTS",
     "crse": "4850",
     "name": "Creative Seminar II",
-    "description": "This course is for senior EMAC and EART majors. The goal of the Creative Seminar II is to develop and formulate ideas from Creative Seminar I into a unique project for the artists/communicator that will demonstrate his/her independent ideas, research, writing, and design skills. Students will develop a written thesis, creative project (e.g., art, graphic design, interaction design, music, performance), prepare and present their project in a public exhibition, and design the publicity for the show.",
+    "description": "This course is for senior EMAC and EART majors. The goal of the Creative Seminar II is to develop and formulate ideas from Creative Seminar I into a unique project for the artists/communicator that will demonstrate a students independent ideas, research, writing, and design skills. Students will develop a written thesis, creative project (e.g., art, graphic design, interaction design, music, performance), prepare and present their project in a public exhibition, and design the publicity for the show.",
     "source": "SIS"
   },
   "ARTS-4860": {
@@ -3922,9 +3922,9 @@
   "ARTS-6160": {
     "subj": "ARTS",
     "crse": "6160",
-    "name": "Advanced Computer Music Composition and Performance",
+    "name": "Adv Computer Music Comp & Perf",
     "description": "This course assumes knowledge and experience in computer music applications and performance. It is directed to undergraduate students as an upper-level seminar guiding their progress through the composition of a significant musical work. The class is divided between a group seminar, focusing on aesthetic, theoretical, and technical issues, and a workshop/lab in performance, computer applications, and composition.",
-    "source": "Acalog"
+    "source": "SIS"
   },
   "ARTS-6180": {
     "subj": "ARTS",
@@ -6225,9 +6225,9 @@
   "BIOL-4700": {
     "subj": "BIOL",
     "crse": "4700",
-    "name": "Freshwater Ecology",
-    "description": "Freshwater ecology is the quantitative examination of major biological fresh water communities. Course discussions will delineate the physical and chemical regimes under which aquatic organisms exist. Basic limnological processes are studied to define aquatic systems of differing physical characteristics. Nutrient chemistry analyses of waters of varying acidity, alkalinity, and chemical loadings are related to their trophic status. Lecture and Laboratory are taught at the Darrin Fresh Water Institute at Lake George with field activities at various locations in the Adirondacks. The course includes extensive hands-on laboratory work, as well as the writing of in-depth reports. This is a communication-intensive course.",
-    "source": "Acalog"
+    "name": "Freshwater Ecology Lab",
+    "description": "Freshwater ecology is the quantitative examination of major biological fresh water communities. Course discussions will delineate the physical and chemical regimes under which aquatic organisms exist.\u00a0 Basic limnological processes are studied to define aquatic systems of differing physical characteristics.\u00a0 Nutrient chemistry analyses of waters of varying acidity, alkalinity, and chemical loadings are related to their trophic status.\u00a0 Lecture and Laboratory are taught at the Darrin Fresh Water Institute at Lake George with field activities at various locations in the Adirondacks. The course includes extensive hands-on laboratory work, as well as the writing of in-depth reports. This is a communication-intensive course.",
+    "source": "SIS"
   },
   "BIOL-4710": {
     "subj": "BIOL",
@@ -6681,7 +6681,7 @@
     "subj": "BIOL",
     "crse": "6940",
     "name": "Readings In Biol",
-    "description": "Readings in the current literature designed to supplement the background of the student and provide greater depth in the area of his or her specialty.",
+    "description": "Readings in the current literature designed to supplement the background of the student and provide greater depth in the area of a students specialty.",
     "source": "SIS"
   },
   "BIOL-6960": {
@@ -7940,9 +7940,9 @@
   "BUSN-6300": {
     "subj": "BUSN",
     "crse": "6300",
-    "name": "Leaders and Strategy",
-    "description": "In this course, students develop their capacity as leaders in a dynamic world, planning and executing strategy to achieve organizational objectives. Students develop frameworks for making decisions that enhance the value creation of their organization while demonstrating full commitment to ethical decisions and outcomes. Students learn to plan and execute to achieve goals fully and effectively. Students develop their mentorship capacities to manage and lead the human elements of their organizations. NOTE: Students must attend a Rensselaer Leadership Experience (RLE) as part of this course",
-    "source": "Acalog"
+    "name": "Leaders & Strategy",
+    "description": "In this course, students develop their capacity as leaders in a dynamic world, planning and executing strategy to achieve organizational objectives. Students develop frameworks for making decisions that enhance the value creation of their organization while demonstrating full commitment to ethical decisions and outcomes.  Students learn to plan and execute to achieve goals fully and effectively.  Students develop their mentorship capacities to manage and lead the human elements of their organizations.",
+    "source": "SIS"
   },
   "BUSN-6305": {
     "subj": "BUSN",
@@ -8438,8 +8438,8 @@
     "subj": "CHME",
     "crse": "4460",
     "name": "Biomolecular Engineering",
-    "description": "This course will focus on 1) designing, engineering, and selecting proteins and other biomolecules with desired functional and biophysical properties (high thermal stability, high solubility, low propensity to aggregate), and 2) characterizing thermodynamic and kinetic properties (folding, oligomerization, and self-association) of these biomolecules.",
-    "source": "Acalog"
+    "description": "This course will focus on 1) designing, engineering, and selecting proteins and other biomolecules with desired functional and biophysical properties (high thermal stability, high solubility, low propensity to aggregate), and 2) characterizing thermodynamic and kinetic properties (folding, oligomerization, and self-association) of these biomolecules. (Students may not receive credit for both this course and CHME 6460.)",
+    "source": "SIS"
   },
   "CHME-4480": {
     "subj": "CHME",
@@ -9004,14 +9004,14 @@
   "CHEM-1100": {
     "subj": "CHEM",
     "crse": "1100",
-    "name": "Chemistry I",
+    "name": "Principles Of Chemistry I",
     "description": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acid-base chemistry and elementary chemical equilibrium, and introduction to organic chemistry. The course includes a laboratory component which compliments the lecture by offering students experimental experience and hands on applications to theory.",
     "source": "SIS"
   },
   "CHEM-1110": {
     "subj": "CHEM",
     "crse": "1110",
-    "name": "Chemistry I With Advanced Lab",
+    "name": "Chemistry I",
     "description": "Covers the same lecture material as CHEM 1100, but laboratory experiments will be more technique-oriented to provide better preparation for students who plan to take future laboratory courses in chemistry.",
     "source": "SIS"
   },
@@ -11076,9 +11076,9 @@
   "CIVL-6900": {
     "subj": "CIVL",
     "crse": "6900",
-    "name": "Civil and Environmental Engineering Graduate Seminar",
+    "name": "Civl And Environmental Engineering Graduate Seminar",
     "description": "Civil and environmental engineering graduate students present seminars about their research to an audience composed of students and faculty, and participate in discussions about the research of others. The course consists of one-hour weekly meetings. The faculty member in charge of the course helps the students develop their presentation and communication skills. M.S. and Ph.D. students are required to take this course once before completion of their terminal degree. This course is not required for M. Eng. students not doing a thesis or project.",
-    "source": "Acalog"
+    "source": "SIS"
   },
   "CIVL-6910": {
     "subj": "CIVL",
@@ -11594,8 +11594,8 @@
   "COGS-4961": {
     "subj": "COGS",
     "crse": "4961",
-    "name": "Introduction to Logic-Based AI",
-    "description": "This course is an introduction to logic-based artificial intelligence (AI). We learn techniques for designing and engineering AIs with human-level (or higher) cognitive intelligence, enabled by automated reasoning as the cornerstone for: planning, learning, decision-making, communicating, creativity, and perceiving. A special emphasis is placed upon giving AIs intellectual powers that are beyond the reach of large language models (LLMs) like GPT-4 and other so-called \u201cfoundation models,\u201d which, based as they are on statistical/numerical machine learning (e.g. deep learning, which is driven by data stripped of logical meaning and structure), are congenitally (and dangerously) prone to poor performance in applications that require high precision and accuracy, and/or require formally verified correct behavior. We thus direct our attention to solving the very problem currently occupying the first-rate minds of many at companies in the AI sector of the economy, e.g. Google. Thus those who succeed in this course will be in position to offer such companies skills that are increasingly sought, but are in very short supply. We explore how to remedy the deficiencies of LLMs with AI based on computational logics, from the propositional calculus, through fragments of first-order logic crucial for the World Wide Web\u2019s productive operation, on up to logics needed to model and simulate very high levels of human and machine intelligence. Our programming paradigm is logic programming, introduced and taught from scratch, starting slowly from so-called \u201cHorn Logic.\u201d",
+    "name": "Topics Courses In Cogs",
+    "description": "",
     "source": "SIS"
   },
   "COGS-4962": {
@@ -11804,8 +11804,8 @@
   "COGS-6961": {
     "subj": "COGS",
     "crse": "6961",
-    "name": "Introduction to Logic-Based AI",
-    "description": "This course is an introduction to logic-based artificial intelligence (AI). We learn techniques for designing and engineering AIs with human-level (or higher) cognitive intelligence, enabled by automated reasoning as the cornerstone for: planning, learning, decision-making, communicating, creativity, and perceiving. A special emphasis is placed upon giving AIs intellectual powers that are beyond the reach of large language models (LLMs) like GPT-4 and other so-called \u201cfoundation models,\u201d which, based as they are on statistical/numerical machine learning (e.g. deep learning, which is driven by data stripped of logical meaning and structure), are congenitally (and dangerously) prone to poor performance in applications that require high precision and accuracy, and/or require formally verified correct behavior. We thus direct our attention to solving the very problem currently occupying the first-rate minds of many at companies in the AI sector of the economy, e.g. Google. Thus those who succeed in this course will be in position to offer such companies skills that are increasingly sought, but are in very short supply. We explore how to remedy the deficiencies of LLMs with AI based on computational logics, from the propositional calculus, through fragments of first-order logic crucial for the World Wide Web\u2019s productive operation, on up to logics needed to model and simulate very high levels of human and machine intelligence. Our programming paradigm is logic programming, introduced and taught from scratch, starting slowly from so-called \u201cHorn Logic.\u201d",
+    "name": "Topics In Cognitive Science",
+    "description": "",
     "source": "SIS"
   },
   "COGS-6962": {
@@ -13647,7 +13647,7 @@
     "crse": "4030",
     "name": "Randomized Algorithms",
     "description": "State-of-the-art in contemporary algorithm design, randomized algorithms are algorithms that use randomness as part of their functioning. They are typically simple, often easy to analyze, and work well in practice. They have numerous applications in many fields of computer science and mathematics. Randomized algorithms represent an active and vibrant research area with many exciting new results contributed every year.",
-    "source": "Acalog"
+    "source": "SIS"
   },
   "CSCI-4040": {
     "subj": "CSCI",
@@ -14002,51 +14002,51 @@
   "CSCI-4960": {
     "subj": "CSCI",
     "crse": "4960",
-    "name": "Ai For Science",
-    "description": "TBA",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "Credit Hours: 1 to 4",
+    "source": "SIS"
   },
   "CSCI-4961": {
     "subj": "CSCI",
     "crse": "4961",
-    "name": "Network Security And Defense",
-    "description": "This course covers network security and defense mechanisms to thwart a variety of attacks. Topics include packet sniffing and spoofing, attacks on the TCP/IP protocol, attacks on the ICMP, ARP protocol, firewall, DNS security: local DNS attack, remote DNS attack, virtual private networks, public key infrastructure, transport layer security, and CDN security.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4962": {
     "subj": "CSCI",
     "crse": "4962",
-    "name": "Machine Learning And Optimization",
-    "description": "This course is a second course in machine learning that provides an in-depth introduction to the optimization algorithms and neural network architectures used in modern large-scale machine learning and optimization.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4963": {
     "subj": "CSCI",
     "crse": "4963",
-    "name": "Reinforcement Learning",
-    "description": "This is an introductory course on the theory and practice of reinforcement learning (RL). We will start by discussing the RL/control problem as it applies to autonomous systems. We will cover Markov decision processes, policy/value iteration, policy gradient methods, actor-critic, deep RL, as well as on-policy and off-policy learning. We will also discuss some supervised learning settings such as linear regression and deep learning, especially as they pertain to deep RL. Students taking this course will get exposure to image classification and several reinforcement learning benchmarks, such as mountain car and the inverted pendulum.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4964": {
     "subj": "CSCI",
     "crse": "4964",
-    "name": "Computing & Quantum Computing",
-    "description": "A course on the theory and some of the main algorithms in computing. The course starts with Turing Machines and Boolean circuits, and ends with Quantum Computing and the efficiency advantages it offers over classical computing. Students must have a strong background in discrete mathematics, probability and linear algebra, but no background in quantum mechanics or physics is needed.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4965": {
     "subj": "CSCI",
     "crse": "4965",
-    "name": "Ai For Conservation",
-    "description": "This course will study the application of artificial intelligence techniques to problems in environmental conservation. A variety of data modalities will be considered, including image and video, acoustic, satellite, etc. The entire sequence of activities will be discussed \u2013 problem formulation, data collection and curation, algorithm training and testing, and system deployment. Along the way, FAIR and CARE principles for AI and data will be discussed, and other societal impacts will be addressed. Conservation applications will also be used to examine the state-of-the-art in AI. Students enrolled in the course are expected to have a working knowledge of AI/ML techniques that includes having trained PyTorch (preferrable) or TensorFlow (optional) models. Review materials will be provided. Requirements include active class participation, short homework assignments, leading paper discussions, and a semester-long technical project.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4966": {
     "subj": "CSCI",
     "crse": "4966",
-    "name": "Programming In Haskell",
-    "description": "Haskell is a functional programming language increasingly used in industry; many Haskell features and ideas have been adopted by mainstream languages such as Python. The class will cover basic lambda calculus (the theoretical foundation of functional programing languages) and explore features such as lazy evaluation and infinite structures, higher-order functions, static types, and error reporting. It will cover more advanced Haskell features as well: monads (including lists and IO), type classes, polymorphism, Hindley-Milner type inference and other. Grading will be based on class participation, in-class open-note quizzes, small biweekly programming assignments, and a larger final programming assignment.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4967": {
     "subj": "CSCI",
@@ -14058,30 +14058,30 @@
   "CSCI-4968": {
     "subj": "CSCI",
     "crse": "4968",
-    "name": "Rcos",
-    "description": "RCOS (Rensselaer Center for Open Source) is an eclectic group of undergraduate students that embark on individual and team-based open source projects, primarily software, but also open hardware projects. Many new projects are introduced each semester, though many ongoing and \"higher-profile\" projects are also undertaken. Overall, students are required to work on and contribute to open source projects, in particular through multiple commits (commit early, commit often), maintaining a blog, presenting their work and/or specific technical talks, mentoring other projects, etc. This project-based \"course\" may be taken multiple semesters, with grades based on clear effort and contributions rather than a project that meets all of its requirements.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4969": {
     "subj": "CSCI",
     "crse": "4969",
-    "name": "Information Retrieval",
-    "description": "Cross-listed as: COGS 4962",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4970": {
     "subj": "CSCI",
     "crse": "4970",
-    "name": "Sense Making And Computation",
-    "description": "In this course, we will concentrate on processes for information creation and consumption. We will investigate concepts related to correctness of information, making sense of information in the presence of uncertainty and psychology of information processing from an interdisciplinary perspective. We will study computational tools and methods to aim production and dissemination of information including text generation tools. We will also study computational tools to aid processing of information including fact-checking, credibility assessment and labelling of information and sources. The course will concentrate on critical analysis of these tools including user studies in their effectiveness, their potential misuse and the limits of capabilities.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4971": {
     "subj": "CSCI",
     "crse": "4971",
-    "name": "Nlp With Deep Learning",
-    "description": "This course begins with a fundamental overview of neural networks, setting the stage for a deeper dive into their application in language modeling. Students will engage with various challenges inherent in natural language, understanding why these complexities make language modeling a demanding task. The course will showcase numerous neural network models tailored to address specific NLP problems and other structured-data, highlighting their design and implementation.",
-    "source": "CSCI topics"
+    "name": "Topics Courses In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4972": {
     "subj": "CSCI",
@@ -14093,9 +14093,9 @@
   "CSCI-4973": {
     "subj": "CSCI",
     "crse": "4973",
-    "name": "Quantum Programming & Apps",
-    "description": "The course will delve into advanced topics in quantum computing and their applications, focusing on current research and cutting-edge developments. The seminar course will consist of both lectures and discussion sessions, where students will engage with contemporary research papers and have the opportunity to present on a research topic of their choice or their own findings. Throughout the course, students will explore various aspects of quantum machine learning, quantum chemistry, quantum finance, and other applications, understanding their theoretical foundations and practical implications. The course will also provide students with the chance to enhance their research and presentation skills.",
-    "source": "CSCI topics"
+    "name": "Csci Special Topics",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4974": {
     "subj": "CSCI",
@@ -14107,9 +14107,9 @@
   "CSCI-4975": {
     "subj": "CSCI",
     "crse": "4975",
-    "name": "Deep Learning On Graphs",
-    "description": "Deep Learning on Graphs is a course to explore state-of-the-art techniques in graph representation learning, with a particular emphasis on the emerging potential of Graph Neural Networks (GNNs). Graphs are widely used to represent data across various domains, including social science, linguistics, chemistry, biology, and physics, and GNNs have proven to be highly effective in facilitating computational tasks on these graphs. This course will cover topics such as network embedding, GNNs, properties of GNNs, and diverse applications of GNNs. In addition to lectures, students will be expected to read and discuss relevant literature, deliver presentations, and participate in research projects related to the subject matter.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4976": {
     "subj": "CSCI",
@@ -14485,65 +14485,65 @@
   "CSCI-6960": {
     "subj": "CSCI",
     "crse": "6960",
-    "name": "Ai For Science",
-    "description": "TBA",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "Credit Hours: 1 to 3",
+    "source": "SIS"
   },
   "CSCI-6961": {
     "subj": "CSCI",
     "crse": "6961",
-    "name": "Machine Learning Seminar",
-    "description": "The course will explore advanced topics in machine learning, including current research and emerging techniques. The seminar will consist of both lectures and discussion sessions, where students will have the opportunity to explore current research papers and present on a research topic of their choice or their own findings. The seminar will also provide students with the opportunity to develop their research and presentation skills. By the end of the seminar, students will have gained a deeper understanding of advanced topics in machine learning and developed the skills necessary to contribute to ongoing research in the field.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6962": {
     "subj": "CSCI",
     "crse": "6962",
-    "name": "Machine Learning And Optimization",
-    "description": "This course is a second course in machine learning that provides an in-depth introduction to the optimization algorithms and neural network architectures used in modern large-scale machine learning and optimization.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6963": {
     "subj": "CSCI",
     "crse": "6963",
-    "name": "Reinforcement Learning",
-    "description": "This is an introductory course on the theory and practice of reinforcement learning (RL). We will start by discussing the RL/control problem as it applies to autonomous systems. We will cover Markov decision processes, policy/value iteration, policy gradient methods, actor-critic, deep RL, as well as on-policy and off-policy learning. We will also discuss some supervised learning settings such as linear regression and deep learning, especially as they pertain to deep RL. Students taking this course will get exposure to image classification and several reinforcement learning benchmarks, such as mountain car and the inverted pendulum.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6964": {
     "subj": "CSCI",
     "crse": "6964",
-    "name": "Computing & Quantum Computing",
-    "description": "A course on the theory and some of the main algorithms in computing. The course starts with Turing Machines and Boolean circuits, and ends with Quantum Computing and the efficiency advantages it offers over classical computing. Students must have a strong background in discrete mathematics, probability and linear algebra, but no background in quantum mechanics or physics is needed.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6965": {
     "subj": "CSCI",
     "crse": "6965",
-    "name": "Ai For Conservation",
-    "description": "This course will study the application of artificial intelligence techniques to problems in environmental conservation. A variety of data modalities will be considered, including image and video, acoustic, satellite, etc. The entire sequence of activities will be discussed \u2013 problem formulation, data collection and curation, algorithm training and testing, and system deployment. Along the way, FAIR and CARE principles for AI and data will be discussed, and other societal impacts will be addressed. Conservation applications will also be used to examine the state-of-the-art in AI. Students enrolled in the course are expected to have a working knowledge of AI/ML techniques that includes having trained PyTorch (preferrable) or TensorFlow (optional) models. Review materials will be provided. Requirements include active class participation, short homework assignments, leading paper discussions, and a semester-long technical project.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6966": {
     "subj": "CSCI",
     "crse": "6966",
-    "name": "Programming In Haskell",
-    "description": "Haskell is a functional programming language increasingly used in industry; many Haskell features and ideas have been adopted by mainstream languages such as Python. The class will cover basic lambda calculus (the theoretical foundation of functional programing languages) and explore features such as lazy evaluation and infinite structures, higher-order functions, static types, and error reporting. It will cover more advanced Haskell features as well: monads (including lists and IO), type classes, polymorphism, Hindley-Milner type inference and other. Grading will be based on class participation, in-class open-note quizzes, small biweekly programming assignments, and a larger final programming assignment.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6967": {
     "subj": "CSCI",
     "crse": "6967",
-    "name": "Large Language Models",
-    "description": "This research seminar-oriented course will explore large language models (LLMs), including infra, data, modelling, instruction-tuning and alignment. It will also cover LLM's application in planning and reasoning. This seminar is structured around in-depth discussions of seminal and contemporary papers, emphasizing the latest advancements and challenges in the field. Students will actively engage in paper reading sessions, dissecting and debating the methodologies, results, and implications of key research. In the end the students will pick up a research project in this domain.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6968": {
     "subj": "CSCI",
     "crse": "6968",
-    "name": "Decision Making Under Uncertainty",
-    "description": "This course introduces methods for automating the process of decision-making. Starting with the concept of probabilistic reasoning, this course will provide a foundation for a sequential decision-making framework, which can be applied in various domains including autonomous driving, exploration, and robotics. The focus will specifically be on decision making problems under state uncertainty and finally multi-agent systems. Topics include: Bayesian networks, Markov decision process, partially observable Markov decision processes, multi-agent reasoning.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6969": {
     "subj": "CSCI",
@@ -14555,9 +14555,9 @@
   "CSCI-6970": {
     "subj": "CSCI",
     "crse": "6970",
-    "name": "Sense Making And Computation",
-    "description": "In this course, we will concentrate on processes for information creation and consumption. We will investigate concepts related to correctness of information, making sense of information in the presence of uncertainty and psychology of information processing from an interdisciplinary perspective. We will study computational tools and methods to aim production and dissemination of information including text generation tools. We will also study computational tools to aid processing of information including fact-checking, credibility assessment and labelling of information and sources. The course will concentrate on critical analysis of these tools including user studies in their effectiveness, their potential misuse and the limits of capabilities.",
-    "source": "CSCI topics"
+    "name": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master\u2019s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A, B, C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "source": "SIS"
   },
   "CSCI-6971": {
     "subj": "CSCI",
@@ -14576,9 +14576,9 @@
   "CSCI-6973": {
     "subj": "CSCI",
     "crse": "6973",
-    "name": "Quantum Programming & Apps",
-    "description": "The course will delve into advanced topics in quantum computing and their applications, focusing on current research and cutting-edge developments. The seminar course will consist of both lectures and discussion sessions, where students will engage with contemporary research papers and have the opportunity to present on a research topic of their choice or their own findings. Throughout the course, students will explore various aspects of quantum machine learning, quantum chemistry, quantum finance, and other applications, understanding their theoretical foundations and practical implications. The course will also provide students with the chance to enhance their research and presentation skills.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6974": {
     "subj": "CSCI",
@@ -14590,9 +14590,9 @@
   "CSCI-6975": {
     "subj": "CSCI",
     "crse": "6975",
-    "name": "Deep Learning On Graphs",
-    "description": "Deep Learning on Graphs is a course to explore state-of-the-art techniques in graph representation learning, with a particular emphasis on the emerging potential of Graph Neural Networks (GNNs). Graphs are widely used to represent data across various domains, including social science, linguistics, chemistry, biology, and physics, and GNNs have proven to be highly effective in facilitating computational tasks on these graphs. This course will cover topics such as network embedding, GNNs, properties of GNNs, and diverse applications of GNNs. In addition to lectures, students will be expected to read and discuss relevant literature, deliver presentations, and participate in research projects related to the subject matter.",
-    "source": "CSCI topics"
+    "name": "Csci Independent Study",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6976": {
     "subj": "CSCI",
@@ -15255,9 +15255,9 @@
   "ENGR-4100": {
     "subj": "ENGR",
     "crse": "4100",
-    "name": "Business Issues for Engineers and Scientists",
+    "name": "Business Issues For Engr & Sci",
     "description": "Investigates business-related considerations in successfully commercializing new technology in a new venture or within an existing enterprise: market and customer analysis, beating the competition, planning and managing for profitability, high-tech marketing and sales, and business partnerships and acquisitions. Not a general management course; focuses explicitly on what is relevant for engineers and scientists working in a commercial environment. For junior/senior undergraduate or graduate students.",
-    "source": "Acalog"
+    "source": "SIS"
   },
   "ENGR-4141": {
     "subj": "ENGR",
@@ -16466,9 +16466,9 @@
   "ERTH-6230": {
     "subj": "ERTH",
     "crse": "6230",
-    "name": "Biogeochemical Impacts of Extreme Events",
-    "description": "Climate change is driving an increase in extreme weather events (storms, drought, wildfire). These events manifest as episodic disturbances to affected ecosystems that can alter carbon and nutrient fluxes and reorganize biogeochemical cycles. This course is an in-depth study of current, peer-reviewed literature addressing biogeochemical responses to environmental disturbance and extreme events across varied spatial and temporal scales.",
-    "source": "Acalog"
+    "name": "Biogeochem Impact Extreme Evnt",
+    "description": "Climate change is driving an increase in extreme weather events (storms, drought, wildfire). These events manifest as episodic disturbances to affected ecosystems that can alter carbon and nutrient fluxes and reorganize biogeochemical cycles. This course is an in-depth study of current peer-reviewed literature addressing biogeochemical responses to environmental disturbance and extreme events across varied spatial and temporal scales.",
+    "source": "SIS"
   },
   "ERTH-6240": {
     "subj": "ERTH",
@@ -17145,9 +17145,9 @@
   "ECON-4290": {
     "subj": "ECON",
     "crse": "4290",
-    "name": "Economics of Biotech and Medical Innovations",
-    "description": "Students will learn about markets related to healthcare, insurance, biopharmaceuticals, and medical devices. Examine economic issues, models and quantitative analysis related to firms' activities in areas such as innovation, R&D expenditures, patenting, pricing, mergers and acquisitions, and competition in markets. Examine the role played by health insurance systems. Study the economic implications of regulations, such as those by the U.S. FDA. Economic and policy aspects will be examined within the context of the U.S. healthcare sector, along with selected comparisons to European national healthcare systems.",
-    "source": "Acalog"
+    "name": "Econ Of Biotech & Med Innov",
+    "description": "Students will learn about markets related to healthcare, insurance, biopharmaceuticals, and medical devices. Examine economic issues, models and quantitative analysis related to firms\u2019 activities in areas such as innovation, R&D expenditures, patenting, pricing, mergers and acquisitions, and competition in markets. Examine the role played by health insurance systems. Study the economic implications of regulations, such as those by the U.S. FDA. Economic and policy aspects will be examined within the context of the U.S. healthcare sector, along with selected comparisons to European national healthcare systems.",
+    "source": "SIS"
   },
   "ECON-4310": {
     "subj": "ECON",
@@ -19042,9 +19042,9 @@
   "ECSE-4560": {
     "subj": "ECSE",
     "crse": "4560",
-    "name": "Modern Communication Systems",
-    "description": "A broad introduction to modern communication systems, with applications to emerging wireless communication technologies. Fundamental principles of wireless channel modeling; performance limits of communication systems; analog and digital modulation techniques; source and channel coding; multi-antenna communication systems; multi-carrier modulation; multi-user communication systems. Emerging wireless technologies such as MIMO and OFDM, with applications to cellular and wireless LAN communication standards. Complemented with computational exercises.",
-    "source": "Acalog"
+    "name": "Modern Communication Syst",
+    "description": "A broad introduction to modern communication systems, with applications to emerging wireless communication technologies. Fundamental principles of wireless channel modeling; performance limits of communication systems; analog and digital modulation techniques; source and channel coding;  multi-antenna communication systems; multi-carrier modulation; multi-user communication systems. Emerging wireless technologies such as MIMO and OFDM, with applications to cellular and wireless LAN communication standards. Complemented with computational exercises.",
+    "source": "SIS"
   },
   "ECSE-4620": {
     "subj": "ECSE",
@@ -24894,9 +24894,9 @@
   "ISCI-4610": {
     "subj": "ISCI",
     "crse": "4610",
-    "name": "Capstone in Astrobiology",
+    "name": "Capstone In Astrobiology",
     "description": "Students taking the Minor in Astrobiology are required to complete 3 credits of research in an Astrobiology-related discipline with a RARE-affiliated faculty member. Concurrent or in a later semester, students will enroll in ISCI 4610 with the same faculty member to prepare their research results for dissemination.",
-    "source": "Acalog"
+    "source": "SIS"
   },
   "ISCI-4940": {
     "subj": "ISCI",
@@ -25799,7 +25799,7 @@
     "crse": "4455",
     "name": "Chinese Calligraphy",
     "description": "This course introduces students to the techniques and socio-cultural significance of Chinese calligraphy as they explore its history, aesthetics, and practice. Students will gain hands-on practice with brush and ink, developing fundamental calligraphic skills as they analyze historical and contemporary examples of the art from both cultural studies and artistic perspectives. Finally, they will learn about the wellness benefits of calligraphic practice, including improved mental health, concentration, posture, and spiritual calmness. Taught in English, this course requires no prior knowledge of Chinese.",
-    "source": "Acalog"
+    "source": "SIS"
   },
   "LANG-4470": {
     "subj": "LANG",
@@ -27457,8 +27457,8 @@
     "subj": "MGMT",
     "crse": "4390",
     "name": "International Project Management",
-    "description": "This course presents the concepts, techniques, and tools for managing global projects. The role of the project manager is examined, together with techniques for controlling cost, schedules, and performance parameters. Course deliverables are designed to develop fundamental skills needed by project managers in today's global competitive business environment. Topics include project leadership, project lifecycle methodology, business process development, benchmarking, project planning, execution and control, procurement, communications, organizational change, customer acceptance, performance metrics and project closure. This is a communication-intensive course.",
-    "source": "Acalog"
+    "description": "This course presents the concepts, techniques, and tools for managing global projects. The role of the project manager is examined, together with techniques for controlling cost, schedules, and performance parameters. Course deliverables are designed to develop fundamental skills needed by project managers in today\u2019s global competitive business environment. Topics include project leadership, project lifecycle methodology, business process development, benchmarking, project planning, execution and control, procurement, communications, organizational change, customer acceptance, performance metrics and project closure. This is a communication-intensive course.",
+    "source": "SIS"
   },
   "MGMT-4420": {
     "subj": "MGMT",
@@ -28800,9 +28800,9 @@
   "MGMT-7730": {
     "subj": "MGMT",
     "crse": "7730",
-    "name": "Economics and Institutions",
+    "name": "Economics And Institutions",
     "description": "Main course objective is to introduce students to basic economics principles and establish economics as a managerial decision-making framework. The course will draw on economic analysis of such concepts as cost, demand, profit, competition, pricing strategy, and market protection and tie them to operational business decisions.",
-    "source": "Acalog"
+    "source": "SIS"
   },
   "MGMT-7740": {
     "subj": "MGMT",
@@ -31525,7 +31525,7 @@
     "crse": "4100",
     "name": "Linear Algebra",
     "description": "The theory underlying vector spaces, algebra of subspaces, bases; linear transformations, dual spaces; eigenvectors, eigenvalues, minimal polynomials, canonical forms of linear transformations; inner products, adjoints, orthogonal projections, and complements.",
-    "source": "Acalog"
+    "source": "SIS"
   },
   "MATH-4120": {
     "subj": "MATH",
@@ -32441,7 +32441,7 @@
     "subj": "MANE",
     "crse": "4370",
     "name": "Nuclear Engineering Lab",
-    "description": "A laboratory course covering topics in instrumentation, radiation detection and dosimetry associated with X-ray, gamma-ray, electron and neutron sources, applied physics, fluid dynamics, spectroscopy, neutron time of flight, and a project on shielding design using the MCNP code. Statistics of random events, error propagation, end error analyses are emphasized. Lab attendance is required along with formal written lab reports, which include data error analysis.",
+    "description": "A laboratory course covering topics applied physics, fluid dynamics, radiation spectroscopy and instrumentations, computer-controlled instrument interfacing and data acquisition.  Estimation and reporting of measurement errors is emphasized.  Lab attendance is required along with formal written lab reports",
     "source": "SIS"
   },
   "MANE-4380": {
@@ -32658,8 +32658,8 @@
     "subj": "MANE",
     "crse": "4780",
     "name": "Wind Energy Engineering",
-    "description": "Climatology, Solar vs. Wind Energy, Earth's rotational and Coriolis effects, Wind Speed Statistics: Histograms, Weibull, Available Energy, Aerodynamics, Wake effects, Thrust and Power with objects in Wind flow, Betz Limit, Wind Shear and Ground Effects; Blade aero/structural design, and manufacture; OEM Wind Turbine Designs/Architectures, and capturing Wind Energy via Direct Drive-Generators/Gearbox-driven; Pitch/Yaw Controls, Tower designs. The back-end interface with the Grid, Wind Farm development and Supervisory Controls; Cost Of Energy: Wind vs. Fossil Fuel technologies.",
-    "source": "Acalog"
+    "description": "Topics Covered: Climatology, Solar vs. Wind Energy,  Earth's rotational and Coriolis effects,  Wind Speed Statistics: Histograms,  Weibull, Available Energy,  Aerodynamics, Wake effects,  Thrust and Power with objects in  Wind  flow, Betz Limit, Wind Shear and Ground Effects;  Blade aero/structural design, and manufacture;  OEM Wind Turbine Designs/Architectures, and   capturing Wind  Energy via Direct Drive-Generators/Gearbox-driven; Pitch/Yaw Controls, Tower designs. The back-end   interface with the  Grid, Wind Farm development and Supervisory Controls; Cost Of Energy: Wind vs. Fossil Fuel  technologies.",
+    "source": "SIS"
   },
   "MANE-4790": {
     "subj": "MANE",
@@ -34842,7 +34842,7 @@
     "subj": "PHIL",
     "crse": "4260",
     "name": "Philosophy Of Ai",
-    "description": "This course may be roughly divided into two general areas: philosophical problems in AI and philosophical issues that arise because of AI. An example from the first area is the Knower Paradox, a paradox in which an apparently desirable formalism for handling an agent\u2019s knowledge leads to inconsistency; an example from the second area is John Searle\u2019s attack on so-called \u201cStrong\u201d AI by way of his Chinese Room argument, wherein he claims that because a computer at bottom just manipulates symbols it cannot genuinely understand.",
+    "description": "This course may be roughly divided into two general areas: philosophical problems in AI and philosophical issues that arise because of AI. An example from the first area is the Knower Paradox, a paradox in which an apparently desirable formalism for handling an agent's knowledge leads to inconsistency; an example from the second area is John Searle's attack on so-called \"Strong\" AI by way of their Chinese Room argument, wherein they claim that because a computer at bottom just manipulates symbols it cannot genuinely understand.",
     "source": "SIS"
   },
   "PHIL-4300": {
@@ -34911,8 +34911,8 @@
   "PHIL-4961": {
     "subj": "PHIL",
     "crse": "4961",
-    "name": "Introduction to Logic-Based AI",
-    "description": "This course is an introduction to logic-based artificial intelligence (AI). We learn techniques for designing and engineering AIs with human-level (or higher) cognitive intelligence, enabled by automated reasoning as the cornerstone for: planning, learning, decision-making, communicating, creativity, and perceiving. A special emphasis is placed upon giving AIs intellectual powers that are beyond the reach of large language models (LLMs) like GPT-4 and other so-called \u201cfoundation models,\u201d which, based as they are on statistical/numerical machine learning (e.g. deep learning, which is driven by data stripped of logical meaning and structure), are congenitally (and dangerously) prone to poor performance in applications that require high precision and accuracy, and/or require formally verified correct behavior. We thus direct our attention to solving the very problem currently occupying the first-rate minds of many at companies in the AI sector of the economy, e.g. Google. Thus those who succeed in this course will be in position to offer such companies skills that are increasingly sought, but are in very short supply. We explore how to remedy the deficiencies of LLMs with AI based on computational logics, from the propositional calculus, through fragments of first-order logic crucial for the World Wide Web\u2019s productive operation, on up to logics needed to model and simulate very high levels of human and machine intelligence. Our programming paradigm is logic programming, introduced and taught from scratch, starting slowly from so-called \u201cHorn Logic.\u201d",
+    "name": "Topics In Phil",
+    "description": "",
     "source": "SIS"
   },
   "PHIL-4962": {
@@ -34974,9 +34974,9 @@
   "PHIL-4990": {
     "subj": "PHIL",
     "crse": "4990",
-    "name": "Capstone Experience in Philosophy",
+    "name": "Capstone Exper In Philosophy",
     "description": "Students conduct original scholarly projects: original research, theoretical or analytical reviews of the literature, or computer simulations. Working either alone or in groups, students prepare written reports relating to this project, under the supervision of a faculty member.",
-    "source": "Acalog"
+    "source": "SIS"
   },
   "PHIL-6000": {
     "subj": "PHIL",
@@ -38957,9 +38957,9 @@
   "STSO-4560": {
     "subj": "STSO",
     "crse": "4560",
-    "name": "Gender, Science, and Technology",
+    "name": "Gender, Science & Technology",
     "description": "In this course, students will engage with a variety of perspectives in science and technology studies, feminist theory, queer and transgender theory, cultural studies, science fiction, and other fields that explore how science and technology reciprocally contribute to and are shaped by cultural norms around gender. Students reflect on their own experiences with gender expectations and formulate their own questions and develop a research project over the course of the semester.",
-    "source": "Acalog"
+    "source": "SIS"
   },
   "STSO-4580": {
     "subj": "STSO",
