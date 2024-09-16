@@ -21649,10 +21649,12 @@
       [
         {
           "course" : "ECSE 6230",
+          "min_grade" : null,
           "type" : "course"
         },
         {
           "course" : "ECSE 6290",
+          "min_grade" : null,
           "type" : "course"
         }
       ],
