@@ -9124,7 +9124,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-1600",
+      "ISCI-1600",
+      "PHYS-1600"
+    ],
     "prerequisites" : null
   },
   "CHEM-1900" : 
@@ -22681,7 +22686,12 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-1600",
+      "ISCI-1600",
+      "PHYS-1600"
+    ],
     "prerequisites" : null
   },
   "ENGR-1700" : 
@@ -23344,7 +23354,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4555"
+    ],
     "prerequisites" : null
   },
   "ENGR-4610" : 
@@ -23380,7 +23393,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4720",
+      "MANE-4620"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -27505,7 +27522,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-1600",
+      "ENGR-1600",
+      "PHYS-1600"
+    ],
     "prerequisites" : null
   },
   "ISCI-1960" : 
@@ -28210,7 +28232,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4555"
+    ],
     "prerequisites" : null
   },
   "ISYE-4600" : 
@@ -31944,7 +31969,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4720",
+      "MANE-4620"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -39044,7 +39073,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-1600",
+      "ENGR-1600",
+      "ISCI-1600"
+    ],
     "prerequisites" : null
   },
   "PHYS-1960" : 
