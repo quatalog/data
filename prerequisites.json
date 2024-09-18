@@ -12505,6 +12505,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 6250",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
