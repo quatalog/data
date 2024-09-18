@@ -43055,23 +43055,23 @@
       "nested" : 
       [
         {
-          "course" : "IHSS 1420",
+          "course" : "INQR 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
-          "course" : "IHSS 1430",
-          "type" : "course"
-        },
-        {
-          "course" : "STSO 1110",
+          "course" : "STSO 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "STSO 2520",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -43260,6 +43260,13 @@
     "prerequisites" : null
   },
   "STSO-6200" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "STSO-6580" : 
   {
     "attributes" : [],
     "corequisites" : null,
