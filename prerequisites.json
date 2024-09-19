@@ -12180,7 +12180,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-6530"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -12247,6 +12250,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2030",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -12710,7 +12714,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4530"
+    ],
     "prerequisites" : 
     {
       "nested" : 
