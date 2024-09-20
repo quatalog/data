@@ -16417,21 +16417,19 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MATH-4030",
-      "PHIL-4420"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
       [
         {
           "course" : "PHIL 2140",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 2200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -27376,6 +27374,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "INQR-1130" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "INQR-1140" : 
   {
     "attributes" : 
@@ -33775,21 +33780,19 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4420",
-      "PHIL-4420"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
       [
         {
           "course" : "PHIL 2140",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 2200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -38734,21 +38737,19 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4420",
-      "MATH-4030"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
       [
         {
           "course" : "PHIL 2140",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 2200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
