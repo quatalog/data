@@ -20113,6 +20113,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ECON-6720" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ECON-6730" : 
   {
     "attributes" : [],
@@ -20120,12 +20127,36 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ECON-6740" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "ECON 6730",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "ECON-6770" : 
   {
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
+  },
+  "ECON-6780" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "ECON 6770",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ECON-6920" : 
   {
