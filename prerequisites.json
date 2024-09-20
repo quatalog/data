@@ -38663,7 +38663,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-4140"
+    ],
     "prerequisites" : 
     {
       "course" : "PHIL 2140",
@@ -38703,7 +38706,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSO-4340"
+    ],
     "prerequisites" : null
   },
   "PHIL-4310" : 
@@ -41086,7 +41092,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4720"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -41219,11 +41228,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ENGR-4961",
-      "ISYE-4961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "PSYC-4965" : 
