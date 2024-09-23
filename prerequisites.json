@@ -8956,6 +8956,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "BUSN-6325" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "BUSN-6500" : 
   {
     "attributes" : [],
