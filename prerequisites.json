@@ -18644,7 +18644,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6010"
+    ],
     "prerequisites" : 
     {
       "course" : "ECON 2010",
@@ -18659,7 +18662,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6110"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18804,7 +18810,11 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4170",
+      "ECON-6170"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18886,7 +18896,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6210"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -19251,7 +19264,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6320"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -19511,7 +19527,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6040"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -19764,7 +19783,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4010"
+    ],
     "prerequisites" : null
   },
   "ECON-6020" : 
@@ -19793,7 +19815,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4590"
+    ],
     "prerequisites" : 
     {
       "course" : "ECON 6030",
@@ -19876,7 +19901,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4210"
+    ],
     "prerequisites" : null
   },
   "ECON-6220" : 
