@@ -37693,12 +37693,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "MTLE 2100",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "MTLE-4290" : 
   {
@@ -37773,7 +37768,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6962"
+    ],
     "prerequisites" : null
   },
   "MTLE-4440" : 
@@ -37801,38 +37799,15 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6470"
+    ],
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "ENGR 1600",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "PHYS 1600",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ISCI 1600",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "CHEM 1600",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "BMED 2100",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "ENGR 1600",
+      "min_grade" : "D",
+      "type" : "course"
     }
   },
   "MTLE-4500" : 
@@ -38078,7 +38053,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6300"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 4250",
@@ -38145,39 +38123,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ENGR 1600",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ISCI 1600",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "CHEM 1600",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "PHYS 1600",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "BMED 2100",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "cross_listings" : 
+    [
+      "MTLE-4470"
+    ],
+    "prerequisites" : null
   },
   "MTLE-6480" : 
   {
