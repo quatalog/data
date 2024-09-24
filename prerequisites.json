@@ -8799,7 +8799,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6961"
+    ],
     "prerequisites" : null
   },
   "BMED-6962" : 
@@ -37008,7 +37011,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6961"
+    ],
     "prerequisites" : null
   },
   "MGMT-6962" : 
