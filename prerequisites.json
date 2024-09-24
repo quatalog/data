@@ -2445,6 +2445,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ARTS-1220" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ARTS-1300" : 
   {
     "attributes" : [],
@@ -3356,7 +3363,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6220"
+    ],
     "prerequisites" : 
     {
       "course" : "ARTS 1200",
@@ -4143,7 +4153,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4220"
+    ],
     "prerequisites" : null
   },
   "ARTS-6230" : 
@@ -4174,7 +4187,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4260"
+    ],
     "prerequisites" : null
   },
   "ARTS-6400" : 
@@ -4284,7 +4300,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4500"
+    ],
     "prerequisites" : null
   },
   "ARTS-6961" : 
@@ -4312,10 +4331,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-4500"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-6963" : 
