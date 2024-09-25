@@ -10379,7 +10379,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6964"
+    ],
     "prerequisites" : null
   },
   "CHEM-4965" : 
@@ -10760,7 +10763,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4962"
+    ],
     "prerequisites" : null
   },
   "CHEM-6963" : 
@@ -13343,9 +13349,15 @@
   },
   "COGS-4960" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4963"
+    ],
     "prerequisites" : null
   },
   "COGS-4961" : 
@@ -13591,7 +13603,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4960"
+    ],
     "prerequisites" : null
   },
   "COGS-6961" : 
