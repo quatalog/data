@@ -24941,12 +24941,14 @@
   "ERTH-1250" : 
   {
     "attributes" : [],
-    "corequisites" : 
-    [
-      "ERTH-1200"
-    ],
+    "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ERTH 1200",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ERTH-1510" : 
   {
