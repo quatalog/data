@@ -6245,13 +6245,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BIOL-6310"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "BIOL 2120",
+      "min_grade" : null,
       "type" : "course"
     }
   },
@@ -6980,29 +6978,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "BIOL 4660",
-          "type" : "course"
-        },
-        {
-          "course" : "BCBP 4660",
-          "type" : "course"
-        },
-        {
-          "course" : "BIOL 6650",
-          "type" : "course"
-        },
-        {
-          "course" : "BCBP 6650",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "BIOL-4962" : 
   {
@@ -7209,10 +7185,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BIOL-4310"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "BIOL-6330" : 
@@ -7571,29 +7544,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "BIOL 4660",
-          "type" : "course"
-        },
-        {
-          "course" : "BIOL 6650",
-          "type" : "course"
-        },
-        {
-          "course" : "BCBP 4660",
-          "type" : "course"
-        },
-        {
-          "course" : "BCBP 6650",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "BIOL-6962" : 
   {
@@ -19402,10 +19353,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-6340"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -20056,10 +20004,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-4340"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECON-6360" : 
