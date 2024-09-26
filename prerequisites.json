@@ -6027,10 +6027,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BIOL-6140"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -7140,10 +7137,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BIOL-4140"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "BIOL 4260",
