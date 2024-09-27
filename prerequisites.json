@@ -17648,7 +17648,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4969",
+      "ECSE-4490",
+      "ECSE-6490",
+      "MANE-4963",
+      "MANE-6963"
+    ],
     "prerequisites" : null
   },
   "CSCI-6970" : 
@@ -21015,7 +21022,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4969",
+      "CSCI-6969",
+      "ECSE-6490",
+      "MANE-4963",
+      "MANE-6963"
+    ],
     "prerequisites" : null
   },
   "ECSE-4500" : 
@@ -21975,7 +21989,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4969",
+      "CSCI-6969",
+      "ECSE-4490",
+      "MANE-4963",
+      "MANE-6963"
+    ],
     "prerequisites" : null
   },
   "ECSE-6500" : 
@@ -26191,7 +26212,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4960"
+    ],
     "prerequisites" : null
   },
   "GSAS-4961" : 
@@ -32563,7 +32587,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4969",
+      "CSCI-6969",
+      "ECSE-4490",
+      "ECSE-6490",
+      "MANE-6963"
+    ],
     "prerequisites" : null
   },
   "MANE-4964" : 
@@ -33225,10 +33256,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-4790"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-6800" : 
@@ -33362,7 +33390,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4969",
+      "CSCI-6969",
+      "ECSE-4490",
+      "ECSE-6490",
+      "MANE-4963"
+    ],
     "prerequisites" : null
   },
   "MANE-6964" : 
