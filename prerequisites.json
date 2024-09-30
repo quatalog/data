@@ -634,7 +634,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4020"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -833,7 +836,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6380"
+    ],
     "prerequisites" : null
   },
   "ARCH-4200" : 
@@ -926,7 +932,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5150"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 2510",
@@ -1310,7 +1319,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6890"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 4860",
@@ -1530,7 +1542,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6965"
+    ],
     "prerequisites" : null
   },
   "ARCH-4966" : 
@@ -1544,7 +1559,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6967"
+    ],
     "prerequisites" : null
   },
   "ARCH-4968" : 
@@ -1697,7 +1715,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4330"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 5140",
@@ -1926,7 +1947,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4170"
+    ],
     "prerequisites" : null
   },
   "ARCH-6390" : 
@@ -2143,7 +2167,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4880"
+    ],
     "prerequisites" : null
   },
   "ARCH-6900" : 
@@ -2254,21 +2281,30 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4965"
+    ],
     "prerequisites" : null
   },
   "ARCH-6966" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4960"
+    ],
     "prerequisites" : null
   },
   "ARCH-6967" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4967"
+    ],
     "prerequisites" : null
   },
   "ARCH-6968" : 
@@ -2463,7 +2499,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-1380"
+    ],
     "prerequisites" : null
   },
   "ARTS-1400" : 
@@ -2676,7 +2715,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2180"
+    ],
     "prerequisites" : null
   },
   "ARTS-2200" : 
@@ -2900,7 +2942,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2700"
+    ],
     "prerequisites" : null
   },
   "ARTS-2750" : 
@@ -11911,7 +11956,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4020"
+    ],
     "prerequisites" : 
     {
       "course" : "CIVL 2670",
