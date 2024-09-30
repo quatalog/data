@@ -30980,9 +30980,20 @@
       "nested" : 
       [
         {
-          "course" : "ENGR 1100",
-          "min_grade" : "D",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "ENGR 1100",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "MANE 1960",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         },
         {
           "course" : "MATH 2400",
