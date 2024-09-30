@@ -3112,7 +3112,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6040"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -3345,21 +3348,30 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6130"
+    ],
     "prerequisites" : null
   },
   "ARTS-4140" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6140"
+    ],
     "prerequisites" : null
   },
   "ARTS-4160" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6160"
+    ],
     "prerequisites" : 
     {
       "course" : "ARTS 2020",
@@ -3673,7 +3685,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6640"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -3809,7 +3824,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6860"
+    ],
     "prerequisites" : null
   },
   "ARTS-4880" : 
@@ -4099,7 +4117,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4040"
+    ],
     "prerequisites" : null
   },
   "ARTS-6050" : 
@@ -4150,14 +4171,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4130"
+    ],
     "prerequisites" : null
   },
   "ARTS-6140" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4140"
+    ],
     "prerequisites" : null
   },
   "ARTS-6160" : 
@@ -4317,14 +4344,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4640"
+    ],
     "prerequisites" : null
   },
   "ARTS-6860" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4860"
+    ],
     "prerequisites" : null
   },
   "ARTS-6900" : 
@@ -4697,14 +4730,22 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-6960"
+    ],
     "prerequisites" : null
   },
   "ASTR-4961" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-6960",
+      "PHYS-4961",
+      "PHYS-6963"
+    ],
     "prerequisites" : null
   },
   "ASTR-4963" : 
@@ -4744,7 +4785,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4961",
+      "PHYS-4961",
+      "PHYS-6963"
+    ],
     "prerequisites" : null
   },
   "ASTR-6961" : 
@@ -4855,7 +4901,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-6310"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -4922,7 +4971,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-6420",
+      "BIOL-4550",
+      "BIOL-6420"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -4966,7 +5020,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4600",
+      "ITWS-4600",
+      "ITWS-6600",
+      "MGMT-4600",
+      "MGMT-6600"
+    ],
     "prerequisites" : null
   },
   "BCBP-4640" : 
@@ -4985,7 +5046,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-6650",
+      "BIOL-4660",
+      "BIOL-6650"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5028,7 +5094,10 @@
       "Writing Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4710"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5089,7 +5158,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4770",
+      "CHEM-4770"
+    ],
     "prerequisites" : 
     {
       "course" : "BCBP 4760",
@@ -5334,7 +5407,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4310"
+    ],
     "prerequisites" : null
   },
   "BCBP-6345" : 
@@ -5353,7 +5429,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4550",
+      "BIOL-4550",
+      "BIOL-6420"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5430,7 +5511,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4660",
+      "BIOL-4660",
+      "BIOL-6650"
+    ],
     "prerequisites" : null
   },
   "BCBP-6780" : 
@@ -6545,7 +6631,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4550",
+      "BCBP-6420",
+      "BIOL-6420"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -6669,7 +6760,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4660",
+      "BCBP-6650",
+      "BIOL-6650"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -6718,7 +6814,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4710"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -6854,7 +6953,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4770",
+      "CHEM-4770"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -7337,7 +7440,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4550",
+      "BCBP-6420",
+      "BIOL-4550"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -7450,7 +7558,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4660",
+      "BCBP-6650",
+      "BIOL-4660"
+    ],
     "prerequisites" : null
   },
   "BIOL-6660" : 
@@ -10163,7 +10276,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4770",
+      "BIOL-4770"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -16674,7 +16791,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4600",
+      "ITWS-4600",
+      "ITWS-6600",
+      "MGMT-4600",
+      "MGMT-6600"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -29301,7 +29425,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4600",
+      "CSCI-4600",
+      "ITWS-6600",
+      "MGMT-4600",
+      "MGMT-6600"
+    ],
     "prerequisites" : null
   },
   "ITWS-4700" : 
@@ -29567,7 +29698,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4600",
+      "CSCI-4600",
+      "ITWS-4600",
+      "MGMT-4600",
+      "MGMT-6600"
+    ],
     "prerequisites" : null
   },
   "ITWS-6700" : 
@@ -36056,7 +36194,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4600",
+      "CSCI-4600",
+      "ITWS-4600",
+      "ITWS-6600",
+      "MGMT-6600"
+    ],
     "prerequisites" : null
   },
   "MGMT-4700" : 
@@ -36807,7 +36952,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4600",
+      "CSCI-4600",
+      "ITWS-4600",
+      "ITWS-6600",
+      "MGMT-4600"
+    ],
     "prerequisites" : null
   },
   "MGMT-6610" : 
@@ -39996,7 +40148,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4961",
+      "ASTR-6960",
+      "PHYS-6963"
+    ],
     "prerequisites" : null
   },
   "PHYS-4962" : 
@@ -40167,7 +40324,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4960"
+    ],
     "prerequisites" : null
   },
   "PHYS-6961" : 
@@ -40193,7 +40353,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4961",
+      "ASTR-6960",
+      "PHYS-4961"
+    ],
     "prerequisites" : null
   },
   "PHYS-6965" : 
