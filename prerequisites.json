@@ -934,7 +934,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARCH-5150"
+      "ARCH-5150",
+      "CIVL-4450"
     ],
     "prerequisites" : 
     {
@@ -1717,7 +1718,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARCH-4330"
+      "ARCH-4330",
+      "CIVL-4450"
     ],
     "prerequisites" : 
     {
@@ -9969,7 +9971,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6140"
+    ],
     "prerequisites" : null
   },
   "CHEM-4150" : 
@@ -10022,7 +10027,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6300"
+    ],
     "prerequisites" : 
     {
       "course" : "CHEM 2260",
@@ -10232,14 +10240,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6610"
+    ],
     "prerequisites" : null
   },
   "CHEM-4620" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6620"
+    ],
     "prerequisites" : 
     {
       "course" : "CHEM 2260",
@@ -10428,7 +10442,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-4810"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -10565,14 +10582,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6965"
+    ],
     "prerequisites" : null
   },
   "CHEM-4966" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6966"
+    ],
     "prerequisites" : null
   },
   "CHEM-4967" : 
@@ -10651,7 +10674,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4140"
+    ],
     "prerequisites" : null
   },
   "CHEM-6160" : 
@@ -10706,7 +10732,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4300"
+    ],
     "prerequisites" : null
   },
   "CHEM-6310" : 
@@ -10798,14 +10827,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4610"
+    ],
     "prerequisites" : null
   },
   "CHEM-6620" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4620"
+    ],
     "prerequisites" : null
   },
   "CHEM-6630" : 
@@ -10966,14 +11001,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4965"
+    ],
     "prerequisites" : null
   },
   "CHEM-6966" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4966"
+    ],
     "prerequisites" : null
   },
   "CHEM-6967" : 
@@ -11028,7 +11069,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-1100"
+    ],
     "prerequisites" : null
   },
   "CHME-1960" : 
@@ -11068,7 +11112,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-2020"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -11173,7 +11220,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6011"
+    ],
     "prerequisites" : null
   },
   "CHME-4020" : 
@@ -11262,7 +11312,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4050"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -11364,7 +11417,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4160"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -11392,7 +11448,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4170"
+    ],
     "prerequisites" : null
   },
   "CHME-4180" : 
@@ -11416,7 +11475,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6440"
+    ],
     "prerequisites" : null
   },
   "CHME-4430" : 
@@ -11549,7 +11611,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6961"
+    ],
     "prerequisites" : null
   },
   "CHME-4962" : 
@@ -11622,7 +11687,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4011"
+    ],
     "prerequisites" : null
   },
   "CHME-6410" : 
@@ -11659,7 +11727,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4400"
+    ],
     "prerequisites" : null
   },
   "CHME-6460" : 
@@ -11829,7 +11900,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4961"
+    ],
     "prerequisites" : null
   },
   "CHME-6962" : 
@@ -12042,7 +12116,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-2060"
+    ],
     "prerequisites" : 
     {
       "course" : "CIVL 2050",
@@ -12068,7 +12145,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-2630"
+    ],
     "prerequisites" : 
     {
       "course" : "ENGR 2530",
@@ -12087,7 +12167,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-2670"
+    ],
     "prerequisites" : 
     {
       "course" : "ENGR 2530",
@@ -12169,7 +12252,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4080"
+    ],
     "prerequisites" : 
     {
       "course" : "CIVL 2670",
@@ -12224,7 +12310,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4240"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -12289,7 +12378,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4330",
+      "ARCH-5150"
+    ],
     "prerequisites" : 
     {
       "course" : "CIVL 2670",
@@ -25738,7 +25831,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4810"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -31799,7 +31895,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4240"
+    ],
     "prerequisites" : 
     {
       "nested" : 
