@@ -13218,7 +13218,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6430"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -13694,9 +13697,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COGS-4430",
-      "CSCI-4966",
-      "CSCI-6961"
+      "COGS-4430"
     ],
     "prerequisites" : null
   },
