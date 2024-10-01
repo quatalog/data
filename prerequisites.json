@@ -31626,6 +31626,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 2090",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
