@@ -32034,7 +32034,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6410"
+    ],
     "prerequisites" : 
     {
       "course" : "MANE 2830",
@@ -32094,7 +32097,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6380"
+    ],
     "prerequisites" : null
   },
   "MANE-4470" : 
@@ -32236,7 +32242,10 @@
   },
   "MANE-4510" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
