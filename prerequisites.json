@@ -13540,7 +13540,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4610",
+      "PSYC-4610"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -13616,7 +13620,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6880"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2@",
@@ -13881,7 +13888,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4880"
+    ],
     "prerequisites" : null
   },
   "COGS-6940" : 
@@ -14201,14 +14211,20 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-2520"
+    ],
     "prerequisites" : null
   },
   "COMM-2570" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-2570"
+    ],
     "prerequisites" : null
   },
   "COMM-2610" : 
@@ -14245,7 +14261,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-2660"
+    ],
     "prerequisites" : null
   },
   "COMM-2750" : 
@@ -14678,7 +14697,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6963"
+    ],
     "prerequisites" : null
   },
   "COMM-4550" : 
@@ -14825,7 +14847,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6730"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -14974,7 +14999,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6960"
+    ],
     "prerequisites" : null
   },
   "COMM-4961" : 
@@ -14988,7 +15016,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6962"
+    ],
     "prerequisites" : null
   },
   "COMM-4963" : 
@@ -15363,7 +15394,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4730"
+    ],
     "prerequisites" : null
   },
   "COMM-6740" : 
@@ -15486,7 +15520,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4960"
+    ],
     "prerequisites" : null
   },
   "COMM-6961" : 
@@ -15503,14 +15540,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4962"
+    ],
     "prerequisites" : null
   },
   "COMM-6963" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4540"
+    ],
     "prerequisites" : null
   },
   "COMM-6964" : 
@@ -41455,7 +41498,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4610",
+      "PSYC-4610"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
