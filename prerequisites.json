@@ -13105,14 +13105,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-2120"
+    ],
     "prerequisites" : null
   },
   "COGS-2340" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-2340"
+    ],
     "prerequisites" : null
   },
   "COGS-2520" : 
@@ -13161,7 +13167,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6210"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -13173,7 +13182,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4220"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -13279,7 +13291,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4360",
+      "PSYC-4360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -13746,7 +13762,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4210"
+    ],
     "prerequisites" : null
   },
   "COGS-6230" : 
@@ -40963,7 +40982,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4220"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -41155,7 +41177,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4360",
+      "PSYC-4360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
