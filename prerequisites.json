@@ -4677,7 +4677,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-4240"
+    ],
     "prerequisites" : 
     {
       "nested" : 
