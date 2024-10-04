@@ -35921,6 +35921,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 4100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -36161,6 +36162,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 2320",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -36175,10 +36177,12 @@
       [
         {
           "course" : "MGMT 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MGMT 2320",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -36220,6 +36224,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 2320",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -36342,6 +36347,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 2430",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -36356,6 +36362,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 2430",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -36382,6 +36389,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 1100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -36418,10 +36426,12 @@
       [
         {
           "course" : "MGMT 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MGMT 2320",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -36731,11 +36741,7 @@
     [
       "MGMT-4080"
     ],
-    "prerequisites" : 
-    {
-      "course" : "MGMT 4100",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "MGMT-6090" : 
   {
@@ -36854,6 +36860,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 6020",
+      "min_grade" : "C",
       "type" : "course"
     }
   },
@@ -36878,10 +36885,12 @@
       [
         {
           "course" : "MGMT 6190",
+          "min_grade" : "C",
           "type" : "course"
         },
         {
           "course" : "MGMT 6020",
+          "min_grade" : "C",
           "type" : "course"
         }
       ],
@@ -36972,6 +36981,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 6310",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -37116,6 +37126,7 @@
     "prerequisites" : 
     {
       "course" : "MGMT 6020",
+      "min_grade" : "C",
       "type" : "course"
     }
   },
@@ -37147,14 +37158,17 @@
       [
         {
           "course" : "MGMT 6510",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MGMT 6520",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MGMT 6100",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -37391,22 +37405,27 @@
       [
         {
           "course" : "MGMT 6020",
+          "min_grade" : "C",
           "type" : "course"
         },
         {
           "course" : "MGMT 6040",
+          "min_grade" : "C",
           "type" : "course"
         },
         {
           "course" : "MGMT 6580",
+          "min_grade" : "C",
           "type" : "course"
         },
         {
           "course" : "MGMT 7730",
+          "min_grade" : "C",
           "type" : "course"
         },
         {
           "course" : "MGMT 7740",
+          "min_grade" : "C",
           "type" : "course"
         }
       ],
@@ -37762,7 +37781,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-7770"
+    ],
     "prerequisites" : null
   },
   "MGMT-7240" : 
@@ -37826,7 +37848,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-7230",
+      "MGMT-7770"
+    ],
     "prerequisites" : null
   },
   "MGMT-7780" : 
