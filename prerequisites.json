@@ -17239,10 +17239,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MATH-4820"
-    ],
+    "cross_listings" : [],
     "prerequisites" : 
     {
       "nested" : 
@@ -18055,10 +18052,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MATH-6860"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "CSCI-6900" : 
@@ -29361,10 +29355,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MATP-6640"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "ISYE-6780" : 
@@ -34618,7 +34609,12 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MATH 1020",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "MATH-4030" : 
   {
@@ -34666,7 +34662,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-4090"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 2010",
@@ -35560,7 +35559,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-4400"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -35628,7 +35630,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-6610"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -35805,7 +35810,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-4820"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -36339,7 +36347,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6690"
+    ],
     "prerequisites" : null
   },
   "MGMT-4100" : 
@@ -37697,7 +37708,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4090"
+    ],
     "prerequisites" : null
   },
   "MGMT-6700" : 
