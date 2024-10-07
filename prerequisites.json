@@ -16027,7 +16027,12 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CSCI 1200",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "CSCI-2961" : 
   {
@@ -16310,6 +16315,34 @@
       "type" : "and"
     }
   },
+  "CSCI-4170" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2210",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2200",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2300",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
+  },
   "CSCI-4190" : 
   {
     "attributes" : [],
@@ -16428,7 +16461,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-4150"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -16626,10 +16662,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6370"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -16890,7 +16923,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6510"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 4210",
@@ -16969,7 +17005,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6550"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -17722,15 +17761,9 @@
   },
   "CSCI-6370" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4370"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -17841,7 +17874,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4510"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 4210",
@@ -17866,7 +17902,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4550"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -34322,7 +34361,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4260"
+    ],
     "prerequisites" : 
     {
       "nested" : 
