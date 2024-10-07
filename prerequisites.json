@@ -2460,7 +2460,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-1040"
+    ],
     "prerequisites" : null
   },
   "ARTS-1050" : 
@@ -4273,7 +4276,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4510"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -13872,11 +13878,24 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COGS-4640"
-    ],
-    "prerequisites" : null
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 1200",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2300",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "COGS-6780" : 
   {
@@ -20804,7 +20823,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-2010"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 2400",
@@ -20816,7 +20838,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-2050"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -21024,7 +21049,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-2610"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 1100",
@@ -21153,7 +21181,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6050"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 2050",
@@ -21184,7 +21215,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4520"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -21244,7 +21278,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6141"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 2110",
@@ -21388,7 +21425,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6310"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 2050",
@@ -21642,7 +21682,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6560"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -21709,7 +21752,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6660"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -21957,7 +22003,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6850"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -22058,21 +22107,30 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6962"
+    ],
     "prerequisites" : null
   },
   "ECSE-4963" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6090"
+    ],
     "prerequisites" : null
   },
   "ECSE-4964" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6964"
+    ],
     "prerequisites" : null
   },
   "ECSE-4965" : 
@@ -22086,7 +22144,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6210"
+    ],
     "prerequisites" : null
   },
   "ECSE-4967" : 
@@ -22157,14 +22218,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4050"
+    ],
     "prerequisites" : null
   },
   "ECSE-6090" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4963"
+    ],
     "prerequisites" : null
   },
   "ECSE-6110" : 
@@ -22195,7 +22262,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4141"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -22267,7 +22337,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4966"
+    ],
     "prerequisites" : null
   },
   "ECSE-6220" : 
@@ -22361,7 +22434,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4310"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 4030",
@@ -22570,7 +22646,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4560"
+    ],
     "prerequisites" : null
   },
   "ECSE-6570" : 
@@ -22664,7 +22743,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4660"
+    ],
     "prerequisites" : null
   },
   "ECSE-6670" : 
@@ -22790,7 +22872,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4850"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -22885,7 +22970,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4962"
+    ],
     "prerequisites" : null
   },
   "ECSE-6963" : 
@@ -22902,7 +22990,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4964"
+    ],
     "prerequisites" : null
   },
   "ECSE-6965" : 
@@ -24348,7 +24439,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-2110"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -25498,7 +25592,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-1200"
+    ],
     "prerequisites" : null
   },
   "ERTH-1210" : 
@@ -25524,7 +25621,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISCI-1510"
+    ],
     "prerequisites" : null
   },
   "ERTH-1960" : 
@@ -26461,7 +26561,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-1040"
+    ],
     "prerequisites" : null
   },
   "GSAS-1600" : 
@@ -26654,7 +26757,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6400"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -26774,7 +26880,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-6200"
+    ],
     "prerequisites" : null
   },
   "GSAS-4962" : 
@@ -26828,7 +26937,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4961"
+    ],
     "prerequisites" : null
   },
   "GSAS-6300" : 
@@ -27912,7 +28024,10 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1100"
+    ],
     "prerequisites" : null
   },
   "INQR-1110" : 
@@ -28242,7 +28357,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-1510"
+    ],
     "prerequisites" : null
   },
   "ISCI-1600" : 
@@ -32623,7 +32741,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4090"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -43916,7 +44037,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4610"
+    ],
     "prerequisites" : 
     {
       "course" : "STSO 2020",
