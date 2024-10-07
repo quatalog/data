@@ -22137,7 +22137,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4961"
+    ],
     "prerequisites" : null
   },
   "ECSE-4966" : 
@@ -22540,7 +22543,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6962"
+    ],
     "prerequisites" : null
   },
   "ECSE-6470" : 
@@ -28132,7 +28138,11 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1220",
+      "ITWS-1220"
+    ],
     "prerequisites" : null
   },
   "INQR-1240" : 
@@ -28428,7 +28438,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISCI-6510"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -28573,7 +28586,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISCI-4510"
+    ],
     "prerequisites" : null
   },
   "ISCI-6940" : 
@@ -28736,7 +28752,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6600"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -28892,7 +28911,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6620"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -28971,7 +28993,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6020"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -29005,7 +29030,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6350"
+    ],
     "prerequisites" : null
   },
   "ISYE-4360" : 
@@ -29049,7 +29077,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6370"
+    ],
     "prerequisites" : null
   },
   "ISYE-4440" : 
@@ -29212,7 +29243,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4330"
+    ],
     "prerequisites" : null
   },
   "ISYE-6100" : 
@@ -29250,7 +29284,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4350"
+    ],
     "prerequisites" : null
   },
   "ISYE-6360" : 
@@ -29267,7 +29304,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4370"
+    ],
     "prerequisites" : null
   },
   "ISYE-6550" : 
@@ -29284,7 +29324,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4210"
+    ],
     "prerequisites" : null
   },
   "ISYE-6610" : 
@@ -29298,7 +29341,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4290"
+    ],
     "prerequisites" : null
   },
   "ISYE-6760" : 
@@ -29315,7 +29361,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-6640"
+    ],
     "prerequisites" : null
   },
   "ISYE-6780" : 
@@ -29683,7 +29732,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-1100"
+    ],
     "prerequisites" : null
   },
   "ITWS-1220" : 
@@ -29694,7 +29746,11 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1220",
+      "ITWS-1220"
+    ],
     "prerequisites" : null
   },
   "ITWS-2110" : 
@@ -32005,7 +32061,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6140"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -33023,7 +33082,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4740"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -33220,7 +33282,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6860"
+    ],
     "prerequisites" : 
     {
       "course" : "MANE 4240",
@@ -33300,14 +33365,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6960"
+    ],
     "prerequisites" : null
   },
   "MANE-4961" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4965"
+    ],
     "prerequisites" : null
   },
   "MANE-4962" : 
@@ -33420,7 +33491,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4140"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -34054,7 +34128,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4860"
+    ],
     "prerequisites" : null
   },
   "MANE-6880" : 
@@ -34106,7 +34183,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4960"
+    ],
     "prerequisites" : null
   },
   "MANE-6961" : 
@@ -34120,7 +34200,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6460"
+    ],
     "prerequisites" : null
   },
   "MANE-6963" : 
@@ -34249,7 +34332,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-1010"
+    ],
     "prerequisites" : null
   },
   "MATH-1020" : 
@@ -34259,7 +34345,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-1020"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1010",
@@ -34287,7 +34376,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-1520"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -34399,7 +34491,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-2010"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
@@ -34432,7 +34527,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-2400"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
@@ -35762,7 +35860,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6770"
+    ],
     "prerequisites" : 
     {
       "nested" : 
