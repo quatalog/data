@@ -23902,7 +23902,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSO-4610"
+    ],
     "prerequisites" : 
     {
       "course" : "STSO 2020",
