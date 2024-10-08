@@ -43466,7 +43466,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSO-2520"
+    ],
     "prerequisites" : null
   },
   "STSO-2610" : 
@@ -46294,7 +46297,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-2330"
+    ],
     "prerequisites" : null
   },
   "WRIT-2340" : 
@@ -46486,7 +46492,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-6410"
+    ],
     "prerequisites" : null
   },
   "WRIT-4550" : 
@@ -46620,7 +46629,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-4410"
+    ],
     "prerequisites" : null
   },
   "WRIT-6550" : 
