@@ -34954,10 +34954,12 @@
       [
         {
           "course" : "MATH 4800",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 4800",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -35257,14 +35259,17 @@
       [
         {
           "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 4300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 4600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
