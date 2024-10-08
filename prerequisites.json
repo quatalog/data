@@ -4687,7 +4687,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "PHYS-4240"
+      "PHYS-4240",
+      "PHYS-6962"
     ],
     "prerequisites" : 
     {
@@ -34701,7 +34702,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4140"
+    ],
     "prerequisites" : 
     {
       "course" : "PHIL 2140",
@@ -39354,7 +39358,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-2100"
+    ],
     "prerequisites" : null
   },
   "PHIL-2120" : 
@@ -39701,7 +39708,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSO-4250"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -39825,7 +39835,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-6960"
+    ],
     "prerequisites" : null
   },
   "PHIL-4961" : 
@@ -39925,7 +39938,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4960"
+    ],
     "prerequisites" : null
   },
   "PHIL-6961" : 
@@ -40050,7 +40066,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-1150"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1010",
@@ -40417,7 +40436,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-4962"
+    ],
     "prerequisites" : 
     {
       "course" : "PHYS 2210",
@@ -40664,7 +40686,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ASTR-4240"
+      "ASTR-4240",
+      "PHYS-6962"
     ],
     "prerequisites" : 
     {
@@ -41093,7 +41116,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4240",
+      "PHYS-4240"
+    ],
     "prerequisites" : null
   },
   "PHYS-6963" : 
@@ -41241,7 +41268,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-2100"
+    ],
     "prerequisites" : null
   },
   "PSYC-2120" : 
@@ -41275,7 +41305,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-2310"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -41676,7 +41709,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4350"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -41742,7 +41778,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4370"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -41812,7 +41851,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4430"
+    ],
     "prerequisites" : null
   },
   "PSYC-4440" : 
@@ -42049,7 +42091,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4730"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -43475,7 +43520,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4500"
+    ],
     "prerequisites" : 
     {
       "nested" : 
