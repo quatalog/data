@@ -35858,11 +35858,13 @@
       "nested" : 
       [
         {
-          "course" : "MATH 2010",
+          "course" : "MATP 4700",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
-          "course" : "MATP 4700",
+          "course" : "MATH 2010",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -36422,7 +36424,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6160"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 4100",
@@ -36434,7 +36439,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6570"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -36481,7 +36489,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6560"
+    ],
     "prerequisites" : null
   },
   "MGMT-4200" : 
@@ -36541,7 +36552,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6430"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 2300",
@@ -36725,7 +36739,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6420"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 2320",
@@ -36754,7 +36771,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6720"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 2430",
@@ -36823,7 +36843,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6620"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 1100",
@@ -36835,7 +36858,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6630"
+    ],
     "prerequisites" : null
   },
   "MGMT-4540" : 
@@ -37218,7 +37244,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4160"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 6100",
@@ -37441,7 +37470,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4420"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -37464,7 +37496,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4260"
+    ],
     "prerequisites" : null
   },
   "MGMT-6440" : 
@@ -37605,14 +37640,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4190"
+    ],
     "prerequisites" : null
   },
   "MGMT-6570" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4170"
+    ],
     "prerequisites" : null
   },
   "MGMT-6580" : 
@@ -37654,14 +37695,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4520"
+    ],
     "prerequisites" : null
   },
   "MGMT-6630" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4530"
+    ],
     "prerequisites" : null
   },
   "MGMT-6640" : 
@@ -37747,7 +37794,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4450"
+    ],
     "prerequisites" : null
   },
   "MGMT-6730" : 
@@ -38671,7 +38721,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-4400"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -39274,7 +39327,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-1110"
+    ],
     "prerequisites" : null
   },
   "PHIL-1960" : 
