@@ -23917,7 +23917,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-2210"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
@@ -28724,7 +28727,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-2700"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
