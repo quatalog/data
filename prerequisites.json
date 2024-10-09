@@ -29167,6 +29167,29 @@
     ],
     "prerequisites" : null
   },
+  "ISYE-4500" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATH 2010",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ENGR 2600",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
+  },
   "ISYE-4530" : 
   {
     "attributes" : [],
