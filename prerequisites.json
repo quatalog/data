@@ -1543,10 +1543,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-6965"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "ARCH-4966" : 
@@ -13560,7 +13557,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6640"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -13860,7 +13860,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4640"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18174,6 +18177,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ISYE-4960",
       "ISYE-6550"
     ],
     "prerequisites" : null
@@ -29015,6 +29019,7 @@
     "prerequisites" : 
     {
       "course" : "ISYE 4290",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -29295,7 +29300,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6966",
+      "ISYE-6550"
+    ],
     "prerequisites" : null
   },
   "ISYE-4961" : 
@@ -29413,7 +29422,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6966"
+      "CSCI-6966",
+      "ISYE-4960"
     ],
     "prerequisites" : null
   },
@@ -29421,10 +29431,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ISYE-4210"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ISYE-6610" : 
@@ -29458,7 +29465,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "MATP-6640"
+    ],
     "prerequisites" : null
   },
   "ISYE-6780" : 
@@ -35958,7 +35968,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6760"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -40535,7 +40548,8 @@
   {
     "attributes" : 
     [
-      "Communication Intensive"
+      "Communication Intensive",
+      "Data Intensive II"
     ],
     "corequisites" : null,
     "cross_listings" : null,
