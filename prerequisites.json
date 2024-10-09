@@ -22573,10 +22573,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-6610"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-6430" : 
