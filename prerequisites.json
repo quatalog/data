@@ -31077,10 +31077,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "LGHT-6760"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "LGHT-4770" : 
