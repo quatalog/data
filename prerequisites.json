@@ -1543,7 +1543,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "ARCH-6967"
+    ],
     "prerequisites" : null
   },
   "ARCH-4966" : 
@@ -8321,7 +8324,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6490"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -8564,6 +8570,13 @@
     ],
     "prerequisites" : null
   },
+  "BMED-4810" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "BMED-4900" : 
   {
     "attributes" : [],
@@ -8804,7 +8817,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4490"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -8971,6 +8987,13 @@
     "prerequisites" : null
   },
   "BMED-6800" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "BMED-6810" : 
   {
     "attributes" : [],
     "corequisites" : null,
@@ -27007,7 +27030,12 @@
     [
       "GSAS-6200"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "GSAS 4540",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "GSAS-4962" : 
   {
