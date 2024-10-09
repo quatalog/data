@@ -21718,7 +21718,45 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 4530",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "nested" : 
+              [
+                {
+                  "course" : "MATH 2010",
+                  "min_grade" : "D",
+                  "type" : "course"
+                },
+                {
+                  "course" : "MATH 2011",
+                  "min_grade" : "D",
+                  "type" : "course"
+                }
+              ],
+              "type" : "or"
+            },
+            {
+              "course" : "MATH 2012",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "and"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "ECSE-4560" : 
   {
@@ -22189,10 +22227,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6210"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-4967" : 
@@ -22379,10 +22414,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-4966"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-6220" : 
