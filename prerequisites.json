@@ -26180,33 +26180,17 @@
       "nested" : 
       [
         {
-          "nested" : 
-          [
-            {
-              "course" : "CHEM 1100",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "CHEM 1110",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "CHEM 1120",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "CHEM 1100",
+          "min_grade" : "D",
+          "type" : "course"
         },
         {
-          "course" : "ERTH 1200",
+          "course" : "CHEM 1110",
           "min_grade" : "D",
           "type" : "course"
         }
       ],
-      "type" : "and"
+      "type" : "or"
     }
   },
   "ERTH-4540" : 
