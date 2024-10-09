@@ -21285,13 +21285,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6110"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "ECSE 2110",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -22285,10 +22283,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-4110"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-6120" : 
