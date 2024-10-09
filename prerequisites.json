@@ -8534,6 +8534,29 @@
     ],
     "prerequisites" : null
   },
+  "BMED-4670" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "BIOL 4620",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "BCBP 4670",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
+  },
   "BMED-4710" : 
   {
     "attributes" : [],
@@ -8962,6 +8985,13 @@
     [
       "BMED-4660"
     ],
+    "prerequisites" : null
+  },
+  "BMED-6670" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "BMED-6700" : 
