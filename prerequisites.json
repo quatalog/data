@@ -15319,10 +15319,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COMM-4420"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "COMM-6430" : 
@@ -17281,7 +17278,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "MATH-4820"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18126,7 +18126,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "MATH-6860"
+    ],
     "prerequisites" : null
   },
   "CSCI-6900" : 
