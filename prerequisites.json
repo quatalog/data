@@ -5045,7 +5045,9 @@
     [
       "BCBP-6650",
       "BIOL-4660",
-      "BIOL-6650"
+      "BIOL-6650",
+      "BMED-4670",
+      "BMED-6670"
     ],
     "prerequisites" : 
     {
@@ -5510,7 +5512,9 @@
     [
       "BCBP-4660",
       "BIOL-4660",
-      "BIOL-6650"
+      "BIOL-6650",
+      "BMED-4670",
+      "BMED-6670"
     ],
     "prerequisites" : null
   },
@@ -6774,7 +6778,9 @@
     [
       "BCBP-4660",
       "BCBP-6650",
-      "BIOL-6650"
+      "BIOL-6650",
+      "BMED-4670",
+      "BMED-6670"
     ],
     "prerequisites" : 
     {
@@ -7587,7 +7593,9 @@
     [
       "BCBP-4660",
       "BCBP-6650",
-      "BIOL-4660"
+      "BIOL-4660",
+      "BMED-4670",
+      "BMED-6670"
     ],
     "prerequisites" : null
   },
@@ -8538,7 +8546,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4660",
+      "BCBP-6650",
+      "BIOL-4660",
+      "BIOL-6650",
+      "BMED-6670"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -8991,7 +9006,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4660",
+      "BCBP-6650",
+      "BIOL-4660",
+      "BIOL-6650",
+      "BMED-4670"
+    ],
     "prerequisites" : null
   },
   "BMED-6700" : 
@@ -25870,26 +25892,28 @@
   },
   "ERTH-2140" : 
   {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
+    "attributes" : 
     [
-      "CHEM-2540"
+      "Data Intensive I"
     ],
+    "corequisites" : null,
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
       [
         {
           "course" : "ERTH 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ERTH 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
-      "type" : "or"
+      "type" : "and"
     }
   },
   "ERTH-2160" : 
