@@ -14157,7 +14157,10 @@
   },
   "COMM-1250" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -14727,7 +14730,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6420"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -14933,7 +14939,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6964"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 1100",
@@ -15392,9 +15401,16 @@
   },
   "COMM-6420" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive",
+      "HASS Inquiry"
+    ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4420"
+    ],
     "prerequisites" : null
   },
   "COMM-6430" : 
@@ -15511,7 +15527,10 @@
   },
   "COMM-6730" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -15637,7 +15656,10 @@
   },
   "COMM-6960" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -15681,7 +15703,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COMM-4964"
+      "COMM-4690"
     ],
     "prerequisites" : null
   },
@@ -17470,12 +17492,7 @@
     [
       "CSCI-6964"
     ],
-    "prerequisites" : 
-    {
-      "course" : "CSCI 2200",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CSCI-4965" : 
   {
@@ -30704,7 +30721,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LANG-1410"
+    ],
     "prerequisites" : null
   },
   "LANG-1420" : 
@@ -34907,10 +34927,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MATH-4090"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "MATH 2010",
