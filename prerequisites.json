@@ -9791,10 +9791,12 @@
       [
         {
           "course" : "ERTH 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ERTH 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -25914,7 +25916,10 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-2540"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -39050,10 +39055,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MTLE-6440"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MTLE-4450" : 
