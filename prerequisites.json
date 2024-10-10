@@ -29459,8 +29459,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6966",
-      "ISYE-6550"
+      "ISYE-6960",
+      "MGMT-6960"
     ],
     "prerequisites" : null
   },
@@ -34461,10 +34461,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6460"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "MANE-6963" : 
