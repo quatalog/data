@@ -2279,7 +2279,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARCH-4960"
+      "ARCH-4966"
     ],
     "prerequisites" : null
   },
@@ -29459,8 +29459,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ISYE-6960",
-      "MGMT-6960"
+      "CSCI-6966",
+      "ISYE-6550"
     ],
     "prerequisites" : null
   },
