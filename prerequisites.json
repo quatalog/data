@@ -29459,8 +29459,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6966",
-      "ISYE-6550"
+      "ISYE-6960",
+      "MGMT-6960"
     ],
     "prerequisites" : null
   },
