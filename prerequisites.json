@@ -44541,10 +44541,7 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ENGR-4610"
-    ],
+    "cross_listings" : [],
     "prerequisites" : 
     {
       "course" : "STSO 2020",
