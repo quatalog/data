@@ -10654,7 +10654,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6960"
+    ],
     "prerequisites" : null
   },
   "CHEM-4961" : 
@@ -11077,7 +11080,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4960"
+    ],
     "prerequisites" : null
   },
   "CHEM-6961" : 
@@ -26453,7 +26459,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4965",
+      "CHEM-6965",
+      "ERTH-6965"
+    ],
     "prerequisites" : null
   },
   "ERTH-4970" : 
