@@ -1696,6 +1696,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 5100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -1768,8 +1769,14 @@
   },
   "ARCH-5310" : 
   {
-    "attributes" : [],
-    "corequisites" : null,
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
+    "corequisites" : 
+    [
+      "ARCH-5210"
+    ],
     "cross_listings" : null,
     "prerequisites" : null
   },
@@ -2261,10 +2268,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-4965"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-6966" : 
