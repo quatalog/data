@@ -1543,10 +1543,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-6967"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-4966" : 
@@ -18231,7 +18228,23 @@
     [
       "MATH-6840"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATH 4800",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 4800",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "CSCI-6860" : 
   {
@@ -35687,7 +35700,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6840"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -36757,20 +36773,19 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MGMT-6350"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
       [
         {
           "course" : "MGMT 4100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MGMT 4110",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -38280,21 +38295,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ISYE-4960",
-      "ISYE-6960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MGMT-6961" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BMED-6961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MGMT-6962" : 
