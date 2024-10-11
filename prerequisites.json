@@ -37132,7 +37132,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6540"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 2430",
@@ -37918,7 +37921,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4490"
+    ],
     "prerequisites" : null
   },
   "MGMT-6550" : 
@@ -38579,7 +38585,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-7780"
+    ],
     "prerequisites" : null
   },
   "MGMT-7250" : 
@@ -38647,7 +38656,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-7240",
+      "MGMT-7780"
+    ],
     "prerequisites" : null
   },
   "MGMT-7800" : 
