@@ -1739,7 +1739,10 @@
   "ARCH-5170" : 
   {
     "attributes" : [],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "ARCH-5210"
+    ],
     "cross_listings" : null,
     "prerequisites" : null
   },
@@ -1754,11 +1757,13 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-2830"
-    ],
-    "prerequisites" : null
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "ARCH 5200",
+      "min_grade" : "C",
+      "type" : "course"
+    }
   },
   "ARCH-5300" : 
   {
