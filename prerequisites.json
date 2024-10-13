@@ -928,6 +928,21 @@
       "type" : "and"
     }
   },
+  "ARCH-4325" : 
+  {
+    "attributes" : [],
+    "corequisites" : 
+    [
+      "ARCH-4830"
+    ],
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "ARCH 4320",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "ARCH-4330" : 
   {
     "attributes" : [],
