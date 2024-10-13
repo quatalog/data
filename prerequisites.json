@@ -934,7 +934,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARCH-5150",
       "CIVL-4450"
     ],
     "prerequisites" : 
@@ -1716,8 +1715,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARCH-4330",
-      "CIVL-4450"
+      "ARCH-4330"
     ],
     "prerequisites" : 
     {
@@ -12512,8 +12510,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARCH-4330",
-      "ARCH-5150"
+      "ARCH-4330"
     ],
     "prerequisites" : 
     {
