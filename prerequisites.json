@@ -12003,10 +12003,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-6840"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHME-6850" : 
@@ -33723,10 +33720,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-6964"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-4965" : 
@@ -34435,10 +34429,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHME-6840"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-6850" : 
