@@ -13578,8 +13578,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARTS-4540",
-      "CSCI-4540"
+      "COGS-6540",
+      "CSCI-4967"
     ],
     "prerequisites" : 
     {
@@ -13587,10 +13587,12 @@
       [
         {
           "course" : "COGS 4520",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 4520",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -13987,6 +13989,17 @@
     "cross_listings" : 
     [
       "COGS-4430"
+    ],
+    "prerequisites" : null
+  },
+  "COGS-6540" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "COGS-4540",
+      "CSCI-4967"
     ],
     "prerequisites" : null
   },
@@ -17554,7 +17567,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6967"
+      "COGS-4540",
+      "COGS-6540"
     ],
     "prerequisites" : null
   },
@@ -30367,17 +30381,9 @@
   },
   "ITWS-4961" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4370",
-      "CSCI-6370",
-      "ITWS-6961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ITWS-4962" : 
