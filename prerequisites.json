@@ -361,7 +361,10 @@
     [
       "ARCH-2830"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5310"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 2370",
@@ -431,7 +434,10 @@
     [
       "ARCH-2830"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5170"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 2540",
@@ -747,7 +753,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5110"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 2150",
@@ -1094,7 +1103,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5330"
+    ],
     "prerequisites" : null
   },
   "ARCH-4610" : 
@@ -1550,21 +1562,32 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6964"
+    ],
     "prerequisites" : null
   },
   "ARCH-4965" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6965",
+      "LGHT-4760",
+      "LGHT-6760"
+    ],
     "prerequisites" : null
   },
   "ARCH-4966" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6961"
+    ],
     "prerequisites" : null
   },
   "ARCH-4967" : 
@@ -1588,7 +1611,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6969"
+    ],
     "prerequisites" : null
   },
   "ARCH-4970" : 
@@ -1706,7 +1732,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4100"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 5100",
@@ -1756,7 +1785,10 @@
     [
       "ARCH-5210"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2550"
+    ],
     "prerequisites" : null
   },
   "ARCH-5200" : 
@@ -1770,7 +1802,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2830"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 5200",
@@ -1795,7 +1830,10 @@
     [
       "ARCH-5210"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2360"
+    ],
     "prerequisites" : null
   },
   "ARCH-5320" : 
@@ -1828,7 +1866,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4590"
+    ],
     "prerequisites" : null
   },
   "ARCH-5340" : 
@@ -2255,7 +2296,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4966"
+    ],
     "prerequisites" : null
   },
   "ARCH-6962" : 
@@ -2279,14 +2323,22 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4964"
+    ],
     "prerequisites" : null
   },
   "ARCH-6965" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4965",
+      "LGHT-4760",
+      "LGHT-6760"
+    ],
     "prerequisites" : null
   },
   "ARCH-6966" : 
@@ -2320,7 +2372,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4969"
+    ],
     "prerequisites" : null
   },
   "ARCH-6970" : 
@@ -26746,7 +26801,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4965",
+      "CHEM-6965",
+      "ERTH-4965"
+    ],
     "prerequisites" : null
   },
   "ERTH-6970" : 
@@ -30381,9 +30441,17 @@
   },
   "ITWS-4961" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4370",
+      "CSCI-6370",
+      "ITWS-6961"
+    ],
     "prerequisites" : null
   },
   "ITWS-4962" : 
@@ -31226,7 +31294,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4965",
+      "ARCH-6965",
+      "LGHT-6760"
+    ],
     "prerequisites" : null
   },
   "LGHT-4770" : 
@@ -31319,7 +31392,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4965",
+      "ARCH-6965",
+      "LGHT-4760"
+    ],
     "prerequisites" : 
     {
       "course" : "LGHT 4230",
