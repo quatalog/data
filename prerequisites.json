@@ -5236,9 +5236,25 @@
     ],
     "prerequisites" : 
     {
-      "course" : "BCBP 4760",
-      "min_grade" : "D",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "BCBP 4760",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "BIOL 4760",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 4760",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "BCBP-4780" : 
@@ -6866,9 +6882,25 @@
           "type" : "course"
         },
         {
-          "course" : "BIOL 4760",
-          "min_grade" : "D",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "BIOL 4760",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "BCBP 4760",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "CHEM 4760",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
       "type" : "and"
@@ -8643,9 +8675,25 @@
           "type" : "course"
         },
         {
-          "course" : "BCBP 4670",
-          "min_grade" : "D",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "BCBP 4760",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "BIOL 4760",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "CHEM 4760",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
       "type" : "and"
@@ -28412,8 +28460,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "INQR-1100",
-      "STSO-1100"
+      "INQR-1100"
     ],
     "prerequisites" : null
   },
@@ -40456,7 +40503,10 @@
     [
       "PHYS-1101"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-1110"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1010",
@@ -40481,10 +40531,7 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "PHYS-1100"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "MATH 1010",
