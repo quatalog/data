@@ -7219,7 +7219,12 @@
     [
       "BIOL-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "BIOL 1010",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "BIOL-4962" : 
   {
