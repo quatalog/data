@@ -19881,10 +19881,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-6220"
-    ],
+    "cross_listings" : [],
     "prerequisites" : 
     {
       "nested" : 
@@ -30265,7 +30262,10 @@
       "Writing Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-6800"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -30751,7 +30751,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-4100"
+    ],
     "prerequisites" : null
   },
   "ITWS-6940" : 
