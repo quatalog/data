@@ -29603,8 +29603,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ISYE-6960",
-      "MGMT-6960"
+      "CSCI-6966",
+      "ISYE-6550"
     ],
     "prerequisites" : null
   },
@@ -30458,17 +30458,9 @@
   },
   "ITWS-4961" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4370",
-      "CSCI-6370",
-      "ITWS-6961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ITWS-4962" : 
