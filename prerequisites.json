@@ -16868,12 +16868,12 @@
           "nested" : 
           [
             {
-              "course" : "MATH 4100",
+              "course" : "CSCI 2210",
               "min_grade" : "D",
               "type" : "course"
             },
             {
-              "course" : "CSCI 2210",
+              "course" : "MATH 2010",
               "min_grade" : "D",
               "type" : "course"
             }
@@ -17081,9 +17081,25 @@
           "type" : "course"
         },
         {
-          "course" : "CSCI 4350",
-          "min_grade" : "D",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "CSCI 4350",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "ITWS 4350",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "ERTH 4350",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
       "type" : "and"
