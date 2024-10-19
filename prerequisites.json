@@ -22582,7 +22582,12 @@
       "ISCI-4961",
       "ISCI-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 1200",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ECSE-4962" : 
   {
@@ -22592,7 +22597,23 @@
     [
       "ECSE-6962"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 2210",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 2620",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-4963" : 
   {
@@ -22612,7 +22633,28 @@
     [
       "ECSE-6964"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATH 2800",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ENGR 2600",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 4840",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-4965" : 
   {
@@ -29005,7 +29047,12 @@
       "ENGR-6961",
       "ISCI-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 1200",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ISCI-6002" : 
   {
