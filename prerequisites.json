@@ -21686,7 +21686,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6110"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 2110",
@@ -22401,7 +22404,10 @@
       "Culminating Exp/Capstone"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6700"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 4770",
@@ -22808,7 +22814,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4110"
+    ],
     "prerequisites" : null
   },
   "ECSE-6120" : 
@@ -22986,7 +22995,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6300"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 4250",
@@ -23063,7 +23075,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6610"
+    ],
     "prerequisites" : null
   },
   "ECSE-6430" : 
@@ -23341,7 +23356,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4780"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 4770",
@@ -34550,10 +34568,12 @@
       [
         {
           "course" : "ECSE 6400",
+          "min_grade" : null,
           "type" : "course"
         },
         {
           "course" : "MANE 6600",
+          "min_grade" : null,
           "type" : "course"
         }
       ],
@@ -39658,7 +39678,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6300"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 4250",
