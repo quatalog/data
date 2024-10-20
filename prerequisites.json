@@ -40591,7 +40591,10 @@
     [
       "Introductory Level Course"
     ],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "PHYS-1960"
+    ],
     "cross_listings" : null,
     "prerequisites" : 
     {
@@ -40811,7 +40814,7 @@
     "attributes" : [],
     "corequisites" : 
     [
-      "PHYS-1100"
+      "PHYS-1050"
     ],
     "cross_listings" : null,
     "prerequisites" : null
