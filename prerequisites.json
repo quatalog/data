@@ -30107,6 +30107,13 @@
     ],
     "prerequisites" : null
   },
+  "ISYE-6965" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ISYE-6970" : 
   {
     "attributes" : [],
