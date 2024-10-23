@@ -2293,7 +2293,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4967"
+    ],
     "prerequisites" : null
   },
   "ARCH-6962" : 
@@ -3941,7 +3944,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6962"
+    ],
     "prerequisites" : null
   },
   "ARTS-4963" : 
@@ -15135,12 +15141,12 @@
   },
   "COMM-4690" : 
   {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
+    "attributes" : 
     [
-      "COMM-6964"
+      "Data Intensive II"
     ],
+    "corequisites" : null,
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CSCI 1100",
@@ -15901,7 +15907,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COMM-4690"
+      "COMM-4964"
     ],
     "prerequisites" : null
   },
@@ -20931,7 +20937,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4170"
+    ],
     "prerequisites" : null
   },
   "ECON-6190" : 
@@ -44793,8 +44802,7 @@
   {
     "attributes" : 
     [
-      "Communication Intensive",
-      "PDII Option for Engr Majors"
+      "Communication Intensive"
     ],
     "corequisites" : null,
     "cross_listings" : null,
