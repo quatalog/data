@@ -356,7 +356,10 @@
   },
   "ARCH-2360" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : 
     [
       "ARCH-2830"
@@ -374,7 +377,10 @@
   },
   "ARCH-2370" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -728,7 +734,10 @@
   },
   "ARCH-4090" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -11972,7 +11981,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6965"
+    ],
     "prerequisites" : null
   },
   "CHME-4966" : 
