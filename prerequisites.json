@@ -11638,11 +11638,6 @@
       "nested" : 
       [
         {
-          "course" : "CHME 2100",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
           "course" : "CHME 4040",
           "min_grade" : "D",
           "type" : "course"
@@ -11910,6 +11905,21 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "CHME-4660" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "CHME-6660"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "CHME 4030",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "CHME-4940" : 
   {
     "attributes" : [],
@@ -11938,10 +11948,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHME-6962"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHME-4963" : 
@@ -12159,6 +12166,21 @@
       "CHME-4962"
     ],
     "prerequisites" : null
+  },
+  "CHME-6660" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "CHME-4660"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "CHME 4030",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "CHME-6830" : 
   {
