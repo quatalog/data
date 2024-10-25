@@ -8154,7 +8154,10 @@
   },
   "BMED-4010" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -33185,7 +33188,8 @@
   {
     "attributes" : 
     [
-      "Communication Intensive"
+      "Communication Intensive",
+      "Data Intensive II"
     ],
     "corequisites" : null,
     "cross_listings" : null,
@@ -33330,20 +33334,19 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-6360"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
       [
         {
           "course" : "ENGR 2600",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 4400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -33485,7 +33488,10 @@
   },
   "MANE-4470" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -34249,7 +34255,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6964"
+    ],
     "prerequisites" : null
   },
   "MANE-4965" : 
@@ -35084,7 +35093,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4964"
+    ],
     "prerequisites" : null
   },
   "MANE-6965" : 
