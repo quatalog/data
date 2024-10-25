@@ -5850,6 +5850,7 @@
   {
     "attributes" : 
     [
+      "Data Intensive I",
       "Introductory Level Course"
     ],
     "corequisites" : null,
@@ -5874,7 +5875,10 @@
   },
   "BIOL-1015" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : 
     [
       "BIOL-1010"
@@ -5884,7 +5888,10 @@
   },
   "BIOL-1016" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : 
     [
       "BIOL-1010"
@@ -6000,6 +6007,7 @@
   {
     "attributes" : 
     [
+      "Data Intensive I",
       "Introductory Level Course"
     ],
     "corequisites" : 
@@ -6011,7 +6019,10 @@
   },
   "BIOL-2125" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : 
     [
       "BIOL-2120"
@@ -9479,6 +9490,7 @@
   {
     "attributes" : 
     [
+      "Data Intensive I",
       "Introductory Level Course"
     ],
     "corequisites" : null,
@@ -9507,6 +9519,7 @@
   {
     "attributes" : 
     [
+      "Data Intensive I",
       "Introductory Level Course"
     ],
     "corequisites" : null,
@@ -16129,6 +16142,7 @@
   {
     "attributes" : 
     [
+      "Data Intensive I",
       "Introductory Level Course"
     ],
     "corequisites" : null,
@@ -16149,6 +16163,7 @@
   {
     "attributes" : 
     [
+      "Data Intensive I",
       "Introductory Level Course"
     ],
     "corequisites" : null,
@@ -45103,7 +45118,8 @@
   {
     "attributes" : 
     [
-      "Communication Intensive"
+      "Communication Intensive",
+      "Data Intensive II"
     ],
     "corequisites" : null,
     "cross_listings" : null,
@@ -45125,7 +45141,8 @@
   {
     "attributes" : 
     [
-      "Communication Intensive"
+      "Communication Intensive",
+      "Data Intensive II"
     ],
     "corequisites" : null,
     "cross_listings" : null,
