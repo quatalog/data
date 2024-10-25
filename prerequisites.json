@@ -5158,7 +5158,10 @@
   },
   "BCBP-4660" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -6359,7 +6362,10 @@
   },
   "BIOL-4200" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -6918,7 +6924,10 @@
   },
   "BIOL-4660" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -13546,7 +13555,10 @@
   },
   "COGS-4210" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -24576,7 +24588,7 @@
   {
     "attributes" : 
     [
-      "Communication Intensive"
+      "Data Intensive I"
     ],
     "corequisites" : null,
     "cross_listings" : null,
@@ -26319,7 +26331,10 @@
   },
   "ERTH-1200" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -26336,7 +26351,10 @@
   },
   "ERTH-1250" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -30527,7 +30545,8 @@
   {
     "attributes" : 
     [
-      "Communication Intensive"
+      "Communication Intensive",
+      "Data Intensive II"
     ],
     "corequisites" : null,
     "cross_listings" : 
@@ -30603,6 +30622,7 @@
     "attributes" : 
     [
       "Communication Intensive",
+      "Data Intensive II",
       "Writing Intensive"
     ],
     "corequisites" : null,
@@ -30797,7 +30817,10 @@
   },
   "ITWS-4600" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -35210,6 +35233,7 @@
   {
     "attributes" : 
     [
+      "Data Intensive I",
       "Introductory Level Course"
     ],
     "corequisites" : null,
@@ -40844,7 +40868,10 @@
   },
   "PHYS-1150" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -40868,6 +40895,7 @@
   {
     "attributes" : 
     [
+      "Data Intensive I",
       "Introductory Level Course"
     ],
     "corequisites" : null,
