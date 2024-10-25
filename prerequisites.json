@@ -3413,7 +3413,8 @@
   {
     "attributes" : 
     [
-      "Communication Intensive"
+      "Communication Intensive",
+      "Data Intensive II"
     ],
     "corequisites" : null,
     "cross_listings" : 
@@ -3434,7 +3435,10 @@
   },
   "ARTS-4160" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -4266,7 +4270,10 @@
   },
   "ARTS-6130" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -13650,7 +13657,10 @@
   },
   "COGS-4360" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -13901,7 +13911,10 @@
   },
   "COGS-4610" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -14603,7 +14616,8 @@
   {
     "attributes" : 
     [
-      "Communication Intensive"
+      "Communication Intensive",
+      "Data Intensive I"
     ],
     "corequisites" : null,
     "cross_listings" : 
@@ -14614,7 +14628,10 @@
   },
   "COMM-2570" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -15045,7 +15062,10 @@
   },
   "COMM-4470" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -20563,7 +20583,10 @@
   },
   "ECON-4570" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -28840,6 +28863,7 @@
   {
     "attributes" : 
     [
+      "Data Intensive I",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -40118,7 +40142,10 @@
   },
   "PHIL-2140" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -42486,7 +42513,10 @@
   },
   "PSYC-4360" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -42770,7 +42800,10 @@
   },
   "PSYC-4610" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -44229,7 +44262,8 @@
   {
     "attributes" : 
     [
-      "Communication Intensive"
+      "Communication Intensive",
+      "Data Intensive I"
     ],
     "corequisites" : null,
     "cross_listings" : null,
