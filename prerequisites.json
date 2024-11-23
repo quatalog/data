@@ -153,6 +153,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ADMN-7001" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ARCH-1001" : 
   {
     "attributes" : [],
@@ -4846,6 +4853,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ASTR-6960",
       "PHYS-4961"
     ],
     "prerequisites" : null
@@ -4901,9 +4909,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ASTR-4961",
-      "PHYS-4961",
-      "PHYS-6963"
+      "ASTR-4960",
+      "PHYS-4961"
     ],
     "prerequisites" : null
   },
@@ -6546,7 +6553,7 @@
     "prerequisites" : 
     {
       "course" : "BIOL 2120",
-      "min_grade" : null,
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -7327,8 +7334,43 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "BIOL-6962"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATH 1020",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "BCBP 4760",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "BIOL 4760",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "CHEM 4760",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "BIOL-4963" : 
   {
@@ -7462,9 +7504,20 @@
     ],
     "prerequisites" : 
     {
-      "course" : "BIOL 4260",
-      "min_grade" : "D",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "BIOL 4260",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "BIOL 6260",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "BIOL-6150" : 
@@ -7920,7 +7973,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4962"
+    ],
     "prerequisites" : null
   },
   "BIOL-6963" : 
@@ -11696,7 +11752,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4060"
+    ],
     "prerequisites" : 
     {
       "course" : "CHME 4050",
@@ -13506,7 +13565,10 @@
   },
   "COGS-2340" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -14032,9 +14094,45 @@
     ],
     "prerequisites" : 
     {
-      "course" : "CSCI 2@",
-      "min_grade" : "D",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2200",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2210",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2300",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2500",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2600",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2700",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "COGS-4940" : 
@@ -14340,9 +14438,41 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "PSYC-4960"
+      "PSYC-4961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "PSYC 2130",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "BIOL 4200",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "MGMT 1100",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "COGS-6961" : 
   {
@@ -17876,12 +18006,12 @@
           "nested" : 
           [
             {
-              "course" : "CSCI 2210",
+              "course" : "CSCI 4100",
               "min_grade" : "D",
               "type" : "course"
             },
             {
-              "course" : "MATH 4100",
+              "course" : "CSCI 4160",
               "min_grade" : "D",
               "type" : "course"
             }
@@ -20996,7 +21126,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4110"
+    ],
     "prerequisites" : null
   },
   "ECON-6120" : 
@@ -21154,7 +21287,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4320"
+    ],
     "prerequisites" : null
   },
   "ECON-6340" : 
@@ -22556,10 +22692,7 @@
   },
   "ECSE-4780" : 
   {
-    "attributes" : 
-    [
-      "Culminating Exp/Capstone"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -25059,9 +25192,20 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "ENGR 6215",
-      "min_grade" : "D",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ENGR 6215",
+          "min_grade" : "B",
+          "type" : "course"
+        },
+        {
+          "course" : "ENGR 6200",
+          "min_grade" : "B",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
     }
   },
   "ENGR-6220" : 
@@ -27629,14 +27773,36 @@
       "nested" : 
       [
         {
-          "course" : "CSCI 4530",
-          "min_grade" : "D",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "CSCI 2300",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "CSCI 2600",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "and"
         },
         {
-          "course" : "ECSE 4750",
-          "min_grade" : "D",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "ECSE 4750",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "CSCI 4530",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
       "type" : "or"
@@ -28807,7 +28973,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "INQR-1100"
+      "STSO-1100"
     ],
     "prerequisites" : null
   },
@@ -28824,7 +28990,11 @@
   },
   "INQR-1130" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive",
+      "HASS Inquiry"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -28857,6 +29027,7 @@
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -28867,6 +29038,7 @@
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -29037,6 +29209,7 @@
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "HASS Inquiry"
     ],
     "corequisites" : null,
@@ -29500,7 +29673,10 @@
   },
   "ISYE-4140" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -29693,7 +29869,10 @@
   },
   "ISYE-4290" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -29790,28 +29969,28 @@
       "nested" : 
       [
         {
+          "course" : "ISYE 4140",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
           "nested" : 
           [
-            {
-              "course" : "ISYE 4140",
-              "min_grade" : "D",
-              "type" : "course"
-            },
             {
               "course" : "MATP 4600",
               "min_grade" : "D",
               "type" : "course"
+            },
+            {
+              "course" : "ISYE 4760",
+              "min_grade" : "D",
+              "type" : "course"
             }
           ],
-          "type" : "or"
-        },
-        {
-          "course" : "ISYE 4760",
-          "min_grade" : "D",
-          "type" : "course"
+          "type" : "and"
         }
       ],
-      "type" : "and"
+      "type" : "or"
     }
   },
   "ISYE-4350" : 
@@ -35562,9 +35741,31 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "MATH 2010",
-      "min_grade" : "D",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "MATH 2010",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "MATH 2011",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 2012",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "and"
+        }
+      ],
+      "type" : "or"
     }
   },
   "MATH-4120" : 
@@ -35794,9 +35995,31 @@
           "type" : "course"
         },
         {
-          "course" : "MATH 2010",
-          "min_grade" : "D",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "nested" : 
+              [
+                {
+                  "course" : "MATH 2010",
+                  "min_grade" : "D",
+                  "type" : "course"
+                },
+                {
+                  "course" : "MATH 2011",
+                  "min_grade" : "D",
+                  "type" : "course"
+                }
+              ],
+              "type" : "or"
+            },
+            {
+              "course" : "MATH 2012",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "and"
         }
       ],
       "type" : "and"
@@ -37711,7 +37934,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4550"
+    ],
     "prerequisites" : null
   },
   "MGMT-4600" : 
@@ -39539,7 +39765,10 @@
   },
   "MTLE-4400" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -39602,7 +39831,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6440"
+    ],
     "prerequisites" : null
   },
   "MTLE-4450" : 
@@ -39710,7 +39942,7 @@
     "prerequisites" : 
     {
       "course" : "MTLE 2100",
-      "min_grade" : null,
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -40820,9 +41052,20 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "MATH 1010",
-      "min_grade" : "D",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "MATH 1010",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 1500",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "PHYS-1100" : 
@@ -41501,6 +41744,18 @@
       "type" : "and"
     }
   },
+  "PHYS-4220" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "PHYS 2210",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "PHYS-4240" : 
   {
     "attributes" : [],
@@ -41594,9 +41849,31 @@
           "type" : "course"
         },
         {
-          "course" : "MATH 2010",
-          "min_grade" : "D",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "nested" : 
+              [
+                {
+                  "course" : "MATH 2010",
+                  "min_grade" : "D",
+                  "type" : "course"
+                },
+                {
+                  "course" : "MATH 2011",
+                  "min_grade" : "D",
+                  "type" : "course"
+                }
+              ],
+              "type" : "or"
+            },
+            {
+              "course" : "MATH 2012",
+              "min_grade" : null,
+              "type" : "course"
+            }
+          ],
+          "type" : "and"
         }
       ],
       "type" : "and"
@@ -41741,7 +42018,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ASTR-4960"
+      "ASTR-4960",
+      "ASTR-6960"
     ],
     "prerequisites" : null
   },
@@ -41829,12 +42107,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "PHYS 6210",
-      "min_grade" : null,
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "PHYS-6510" : 
   {
@@ -43016,7 +43289,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6960"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -43113,7 +43389,8 @@
   {
     "attributes" : 
     [
-      "Communication Intensive"
+      "Communication Intensive",
+      "Writing Intensive"
     ],
     "corequisites" : null,
     "cross_listings" : null,
@@ -44145,8 +44422,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "INQR-1100",
-      "STSO-1100"
+      "INQR-1100"
     ],
     "prerequisites" : null
   },
@@ -44235,40 +44511,34 @@
       "nested" : 
       [
         {
-          "nested" : 
-          [
-            {
-              "course" : "INQR 1100",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "STSO 1100",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "INQR 1110",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "INQR 1240",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "INQR 1250",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "INQR 1320",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "INQR 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "STSO 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1240",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1250",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1320",
+          "min_grade" : "D",
+          "type" : "course"
         },
         {
           "course" : "IHSS 1100",
@@ -44292,6 +44562,21 @@
         },
         {
           "course" : "IHSS 1320",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "STSO 1110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "STSH 1110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "STSS 1110",
           "min_grade" : "D",
           "type" : "course"
         }
@@ -44646,6 +44931,11 @@
           "type" : "course"
         },
         {
+          "course" : "STSH 2500",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
           "course" : "STSS 2100",
           "min_grade" : "D",
           "type" : "course"
@@ -44737,6 +45027,16 @@
           "course" : "STSO 1100",
           "min_grade" : "D",
           "type" : "course"
+        },
+        {
+          "course" : "STSO 1110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1240",
+          "min_grade" : "D",
+          "type" : "course"
         }
       ],
       "type" : "or"
@@ -44804,6 +45104,11 @@
         },
         {
           "course" : "STSO 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "STSO 1110",
           "min_grade" : "D",
           "type" : "course"
         },
@@ -47110,7 +47415,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-2110"
+    ],
     "prerequisites" : null
   },
   "WRIT-2310" : 
