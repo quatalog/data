@@ -972,10 +972,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CIVL-4450"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "ARCH 2510",
@@ -12817,10 +12814,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-4330"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CIVL 2670",
