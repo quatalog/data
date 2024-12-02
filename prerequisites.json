@@ -15843,8 +15843,7 @@
   {
     "attributes" : 
     [
-      "Communication Intensive",
-      "HASS Inquiry"
+      "Communication Intensive"
     ],
     "corequisites" : null,
     "cross_listings" : 
@@ -44503,7 +44502,6 @@
   {
     "attributes" : 
     [
-      "Communication Intensive",
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
