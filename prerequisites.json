@@ -12366,10 +12366,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHME-4964"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHME-6965" : 
