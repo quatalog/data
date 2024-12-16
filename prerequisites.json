@@ -3417,15 +3417,30 @@
   {
     "attributes" : 
     [
-      "Communication Intensive",
-      "Data Intensive II"
+      "Communication Intensive"
     ],
     "corequisites" : null,
     "cross_listings" : 
     [
       "ARTS-6130"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ARTS 2500",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 2540",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ARTS-4140" : 
   {
@@ -4274,10 +4289,7 @@
   },
   "ARTS-6130" : 
   {
-    "attributes" : 
-    [
-      "Data Intensive II"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : 
     [
