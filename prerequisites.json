@@ -20242,7 +20242,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "ECON-6220"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -21222,7 +21225,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4220"
+    ],
     "prerequisites" : null
   },
   "ECON-6230" : 
