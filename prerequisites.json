@@ -3957,7 +3957,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARTS-6962"
+      "ARTS-6920"
     ],
     "prerequisites" : 
     {
@@ -4490,6 +4490,16 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ARTS-6920" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4920"
+    ],
+    "prerequisites" : null
+  },
   "ARTS-6940" : 
   {
     "attributes" : [],
@@ -4534,7 +4544,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARTS-4920"
+      "ARTS-4500"
     ],
     "prerequisites" : null
   },
@@ -15170,23 +15180,7 @@
     [
       "COMM-6420"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "IHSS 1610",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ENGR 2020",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "COMM-4430" : 
   {
