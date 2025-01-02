@@ -14597,16 +14597,6 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
-  "COMM-1250" : 
-  {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
-  },
   "COMM-1350" : 
   {
     "attributes" : [],
