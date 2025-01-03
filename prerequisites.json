@@ -37503,7 +37503,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6350"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -38451,7 +38454,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4175"
+    ],
     "prerequisites" : null
   },
   "MGMT-6360" : 
