@@ -447,10 +447,7 @@
     [
       "ARCH-2830"
     ],
-    "cross_listings" : 
-    [
-      "ARCH-5170"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "ARCH 2540",
