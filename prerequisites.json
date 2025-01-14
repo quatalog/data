@@ -1309,7 +1309,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 4820",
-      "min_grade" : "C",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
