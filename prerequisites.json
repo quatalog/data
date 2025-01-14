@@ -1234,7 +1234,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 2830",
-      "min_grade" : "C",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -1246,7 +1246,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 4770",
-      "min_grade" : "C",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -1796,7 +1796,12 @@
     [
       "ARCH-2550"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ARCH 5160",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ARCH-5200" : 
   {
@@ -1816,7 +1821,7 @@
     "prerequisites" : 
     {
       "course" : "ARCH 5200",
-      "min_grade" : "C",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
