@@ -34946,12 +34946,12 @@
       [
         {
           "course" : "ECSE 6400",
-          "min_grade" : null,
+          "min_grade" : "C",
           "type" : "course"
         },
         {
           "course" : "MANE 6600",
-          "min_grade" : null,
+          "min_grade" : "C",
           "type" : "course"
         }
       ],
