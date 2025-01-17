@@ -12741,6 +12741,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2030",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -12909,6 +12910,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 4080",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
