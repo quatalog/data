@@ -22612,7 +22612,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6170"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -23097,7 +23100,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6560"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -23539,7 +23545,23 @@
       "ISCI-4961",
       "ISCI-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "PHYS 1200",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 1250",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-4962" : 
   {
@@ -23571,7 +23593,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6650"
+    ],
     "prerequisites" : null
   },
   "ECSE-4964" : 
@@ -23584,7 +23609,12 @@
       "ECSE-6964",
       "ISYE-6964"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ECSE 2500",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ECSE-4965" : 
   {
@@ -23612,8 +23642,27 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "ECSE-6967"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "PHYS 1200",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 1250",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-4968" : 
   {
@@ -23763,7 +23812,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4170"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -23978,7 +24030,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6600"
+    ],
     "prerequisites" : null
   },
   "ECSE-6410" : 
@@ -24009,7 +24064,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6620"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -24163,7 +24221,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4560"
+    ],
     "prerequisites" : null
   },
   "ECSE-6570" : 
@@ -24247,7 +24308,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4963"
+    ],
     "prerequisites" : null
   },
   "ECSE-6660" : 
@@ -24545,7 +24609,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4967"
+    ],
     "prerequisites" : null
   },
   "ECSE-6968" : 
@@ -25751,7 +25818,23 @@
       "ISCI-4961",
       "ISCI-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "PHYS 1200",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 1250",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ENGR-4962" : 
   {
@@ -30270,7 +30353,23 @@
       "ENGR-6961",
       "ISCI-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "PHYS 1200",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 1250",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ISCI-6002" : 
   {
@@ -35900,7 +35999,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6400"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -35949,7 +36051,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6440"
+    ],
     "prerequisites" : 
     {
       "nested" : 
