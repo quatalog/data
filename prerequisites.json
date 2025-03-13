@@ -18247,6 +18247,18 @@
       "type" : "course"
     }
   },
+  "CSCI-4710" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "CSCI 2600",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "CSCI-4800" : 
   {
     "attributes" : [],
