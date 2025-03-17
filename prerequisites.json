@@ -717,7 +717,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6065"
+    ],
     "prerequisites" : null
   },
   "ARCH-4070" : 
@@ -1920,7 +1923,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4065"
+    ],
     "prerequisites" : null
   },
   "ARCH-6075" : 
@@ -2064,9 +2070,17 @@
   "ARCH-6630" : 
   {
     "attributes" : [],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "ARCH-5380"
+    ],
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ARCH 6620",
+      "min_grade" : "B",
+      "type" : "course"
+    }
   },
   "ARCH-6640" : 
   {
@@ -2315,10 +2329,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-4966"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-6967" : 
@@ -32902,14 +32913,33 @@
     [
       "LGHT-4835"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LGHT-6830"
+    ],
+    "prerequisites" : null
+  },
+  "LGHT-4835" : 
+  {
+    "attributes" : [],
+    "corequisites" : 
+    [
+      "LGHT-4830"
+    ],
+    "cross_listings" : 
+    [
+      "LGHT-6835"
+    ],
     "prerequisites" : null
   },
   "LGHT-4840" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LGHT-6845"
+    ],
     "prerequisites" : null
   },
   "LGHT-4870" : 
@@ -33002,7 +33032,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LGHT-4830"
+    ],
     "prerequisites" : null
   },
   "LGHT-6835" : 
@@ -33012,7 +33045,20 @@
     [
       "LGHT-6830"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LGHT-4835"
+    ],
+    "prerequisites" : null
+  },
+  "LGHT-6845" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "LGHT-4840"
+    ],
     "prerequisites" : null
   },
   "LGHT-6940" : 
