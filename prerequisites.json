@@ -23262,7 +23262,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-4720"
+    ],
     "prerequisites" : 
     {
       "nested" : 
