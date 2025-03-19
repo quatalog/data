@@ -14536,25 +14536,11 @@
     [
       "COGS-6962",
       "CSCI-4972",
-      "PHIL-4961"
+      "CSCI-6967",
+      "PHIL-4961",
+      "PHIL-6961"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 2200",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 2300",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "COGS-4963" : 
   {
@@ -14838,7 +14824,9 @@
     [
       "COGS-4962",
       "CSCI-4972",
-      "PHIL-4961"
+      "CSCI-6967",
+      "PHIL-4961",
+      "PHIL-6961"
     ],
     "prerequisites" : 
     {
@@ -17317,11 +17305,6 @@
           "type" : "course"
         },
         {
-          "course" : "CSCI 4100",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
           "nested" : 
           [
             {
@@ -18588,25 +18571,11 @@
     [
       "COGS-4962",
       "COGS-6962",
-      "PHIL-4961"
+      "CSCI-6967",
+      "PHIL-4961",
+      "PHIL-6961"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 2200",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 2300",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "CSCI-4973" : 
   {
@@ -19347,7 +19316,11 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4170"
+      "COGS-4962",
+      "COGS-6962",
+      "CSCI-4972",
+      "PHIL-4961",
+      "PHIL-6961"
     ],
     "prerequisites" : null
   },
@@ -42035,25 +42008,11 @@
     [
       "COGS-4962",
       "COGS-6962",
-      "CSCI-4972"
+      "CSCI-4972",
+      "CSCI-6967",
+      "PHIL-6961"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 2200",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 2300",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "PHIL-4962" : 
   {
@@ -42152,13 +42111,11 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4965",
-      "CSCI-6966",
-      "PHIL-4963",
-      "PHIL-4964",
-      "PHIL-6240",
-      "PSYC-4963",
-      "PSYC-6963"
+      "COGS-4962",
+      "COGS-6962",
+      "CSCI-4972",
+      "CSCI-6967",
+      "PHIL-4961"
     ],
     "prerequisites" : null
   },
