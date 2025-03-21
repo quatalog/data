@@ -26405,7 +26405,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4370"
+    ],
     "prerequisites" : 
     {
       "course" : "CIVL 2060",
