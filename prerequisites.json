@@ -859,7 +859,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6380"
+    ],
     "prerequisites" : null
   },
   "ARCH-4200" : 
@@ -2010,7 +2013,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4170"
+    ],
     "prerequisites" : null
   },
   "ARCH-6390" : 
@@ -22235,7 +22241,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-2100"
+    ],
     "prerequisites" : 
     {
       "nested" : 
