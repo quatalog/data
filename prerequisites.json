@@ -15547,23 +15547,7 @@
     [
       "COMM-6420"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "IHSS 1610",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ENGR 2020",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "COMM-4430" : 
   {
