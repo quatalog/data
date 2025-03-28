@@ -14008,7 +14008,10 @@
   },
   "COGS-4280" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -36503,7 +36506,10 @@
   },
   "MANE-6980" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -46281,6 +46287,11 @@
       [
         {
           "course" : "INQR 1410",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1100",
           "min_grade" : "D",
           "type" : "course"
         },
