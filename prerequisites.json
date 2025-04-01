@@ -33473,6 +33473,16 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "MANE-1010" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "MANE-1010"
+    ],
+    "prerequisites" : null
+  },
   "MANE-1060" : 
   {
     "attributes" : [],
@@ -33512,10 +33522,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-1962"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-2060" : 
