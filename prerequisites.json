@@ -23428,7 +23428,7 @@
       "nested" : 
       [
         {
-          "course" : "CSCI 1200",
+          "course" : "ECSE 2500",
           "min_grade" : "D",
           "type" : "course"
         },
@@ -24090,7 +24090,28 @@
     [
       "MANE-6620"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 6400",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 6600",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MANE 6600",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-6460" : 
   {
@@ -36116,7 +36137,28 @@
     [
       "ECSE-6440"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 6400",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 6600",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MANE 6600",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "MANE-6630" : 
   {
