@@ -39259,12 +39259,7 @@
     [
       "MGMT-4080"
     ],
-    "prerequisites" : 
-    {
-      "course" : "MGMT 4100",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "MGMT-6090" : 
   {
