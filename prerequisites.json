@@ -24090,23 +24090,7 @@
     [
       "MANE-6620"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ECSE 6400",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ECSE 6600",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "ECSE-6460" : 
   {
@@ -36132,23 +36116,7 @@
     [
       "ECSE-6440"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ECSE 6400",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "MANE 6600",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "MANE-6630" : 
   {
@@ -46355,6 +46323,11 @@
         },
         {
           "course" : "STSO 1110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "STSO 1100",
           "min_grade" : "D",
           "type" : "course"
         }
