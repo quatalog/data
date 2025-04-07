@@ -2811,7 +2811,33 @@
     [
       "GSAS-2255"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ARTS 1040",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "GSAS 1040",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 2220",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "COMM 2660",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ARTS-2300" : 
   {
@@ -28310,6 +28336,11 @@
       [
         {
           "course" : "ARTS 1040",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "GSAS 1040",
           "min_grade" : "D",
           "type" : "course"
         },
