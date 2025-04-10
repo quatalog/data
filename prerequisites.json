@@ -17699,7 +17699,9 @@
     [
       "CSCI-6350",
       "ERTH-4350",
-      "ERTH-6350"
+      "ERTH-6350",
+      "ITWS-4350",
+      "ITWS-6350"
     ],
     "prerequisites" : 
     {
@@ -18973,7 +18975,9 @@
     [
       "CSCI-4350",
       "ERTH-4350",
-      "ERTH-6350"
+      "ERTH-6350",
+      "ITWS-4350",
+      "ITWS-6350"
     ],
     "prerequisites" : null
   },
@@ -27643,7 +27647,9 @@
     [
       "CSCI-4350",
       "CSCI-6350",
-      "ERTH-6350"
+      "ERTH-6350",
+      "ITWS-4350",
+      "ITWS-6350"
     ],
     "prerequisites" : 
     {
@@ -28017,7 +28023,9 @@
     [
       "CSCI-4350",
       "CSCI-6350",
-      "ERTH-4350"
+      "ERTH-4350",
+      "ITWS-4350",
+      "ITWS-6350"
     ],
     "prerequisites" : 
     {
@@ -31885,7 +31893,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4350",
+      "CSCI-6350",
+      "ERTH-4350",
+      "ERTH-6350",
+      "ITWS-6350"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
@@ -32180,7 +32195,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4350",
+      "CSCI-6350",
+      "ERTH-4350",
+      "ERTH-6350",
+      "ITWS-4350"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
