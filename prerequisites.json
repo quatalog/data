@@ -21406,6 +21406,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ECON-4941" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ECON-4960" : 
   {
     "attributes" : [],
@@ -25576,6 +25583,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ENGR-2941" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ENGR-2950" : 
   {
     "attributes" : [],
@@ -25823,6 +25837,13 @@
     "prerequisites" : null
   },
   "ENGR-4940" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "ENGR-4941" : 
   {
     "attributes" : [],
     "corequisites" : null,
@@ -28728,6 +28749,13 @@
       ],
       "type" : "or"
     }
+  },
+  "GSAS-4941" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "GSAS-4960" : 
   {
