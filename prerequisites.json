@@ -44482,7 +44482,12 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PSYC 1200",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "PSYC-4941" : 
   {
@@ -45859,6 +45864,13 @@
       ],
       "type" : "or"
     }
+  },
+  "STSO-2941" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "STSO-2960" : 
   {
