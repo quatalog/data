@@ -42485,6 +42485,13 @@
     ],
     "prerequisites" : null
   },
+  "PHYS-1940" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "PHYS-1960" : 
   {
     "attributes" : [],
