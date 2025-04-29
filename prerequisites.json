@@ -43368,7 +43368,10 @@
   "PHYS-6590" : 
   {
     "attributes" : [],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "PHYS-6510"
+    ],
     "cross_listings" : null,
     "prerequisites" : null
   },
