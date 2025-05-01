@@ -12367,14 +12367,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6964"
+    ],
     "prerequisites" : null
   },
   "CHME-4965" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6965"
+    ],
     "prerequisites" : null
   },
   "CHME-4966" : 
