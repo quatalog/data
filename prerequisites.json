@@ -435,7 +435,10 @@
   "ARCH-2540" : 
   {
     "attributes" : [],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "ARCH-2820"
+    ],
     "cross_listings" : null,
     "prerequisites" : 
     {
@@ -501,7 +504,10 @@
   "ARCH-2800" : 
   {
     "attributes" : [],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "ARCH-2520"
+    ],
     "cross_listings" : null,
     "prerequisites" : null
   },
@@ -1977,7 +1983,10 @@
   "ARCH-6320" : 
   {
     "attributes" : [],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "ARCH-6610"
+    ],
     "cross_listings" : null,
     "prerequisites" : null
   },
@@ -9389,34 +9398,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "nested" : 
-          [
-            {
-              "course" : "ENGR 2530",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "BMED 2540",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
-        },
-        {
-          "course" : "ENGR 2250",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "BMED-6660" : 
   {
@@ -13294,10 +13276,7 @@
   "CIVL-4961" : 
   {
     "attributes" : [],
-    "corequisites" : 
-    [
-      "CIVL-6340"
-    ],
+    "corequisites" : null,
     "cross_listings" : 
     [
       "CIVL-6290"
@@ -13911,10 +13890,7 @@
   },
   "COGS-2340" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : [],
     "prerequisites" : null
@@ -15258,7 +15234,10 @@
   },
   "COMM-2961" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -18418,7 +18397,10 @@
   },
   "CSCI-4962" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -23822,7 +23804,10 @@
   "ECSE-6140" : 
   {
     "attributes" : [],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "ECSE-6110"
+    ],
     "cross_listings" : 
     [
       "ECSE-4966"
@@ -30068,7 +30053,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "INQR-1220",
       "ITWS-1220"
     ],
     "prerequisites" : null
@@ -30770,10 +30754,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ISYE-6960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -31452,10 +31433,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ISYE-4230"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ISYE-6961" : 
@@ -31790,7 +31768,10 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1220"
+    ],
     "prerequisites" : null
   },
   "ITWS-2110" : 
@@ -32064,9 +32045,25 @@
     ],
     "prerequisites" : 
     {
-      "course" : "CSCI 2500",
-      "min_grade" : "D",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2500",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2800",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 2660",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "ITWS-4940" : 
@@ -35852,34 +35849,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "MANE 4640",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "nested" : 
-          [
-            {
-              "course" : "ENGR 4710",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "MANE 4610",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "MANE-6240" : 
   {
@@ -45821,18 +45791,6 @@
         }
       ],
       "type" : "or"
-    }
-  },
-  "STSO-2400" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "STSO 2520",
-      "min_grade" : "D",
-      "type" : "course"
     }
   },
   "STSO-2500" : 
