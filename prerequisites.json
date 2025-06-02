@@ -45679,6 +45679,11 @@
           "type" : "course"
         },
         {
+          "course" : "STSO 1110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
           "course" : "INQR 1110",
           "min_grade" : "D",
           "type" : "course"
