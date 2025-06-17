@@ -22135,7 +22135,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-1090"
+    ],
     "prerequisites" : null
   },
   "ECSE-1961" : 
@@ -31128,7 +31131,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ISYE-6700"
+      "ISYE-6700",
+      "MGMT-6960"
     ],
     "prerequisites" : 
     {
@@ -31362,7 +31366,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ISYE-4700"
+      "ISYE-4700",
+      "MGMT-6960"
     ],
     "prerequisites" : null
   },
@@ -33581,7 +33586,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-1090"
+    ],
     "prerequisites" : null
   },
   "MANE-1100" : 
@@ -34744,7 +34752,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6360"
+    ],
     "prerequisites" : 
     {
       "course" : "ENGR 2600",
@@ -35962,7 +35973,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4360"
+    ],
     "prerequisites" : null
   },
   "MANE-6370" : 
@@ -40080,7 +40094,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "ISYE-4700",
+      "ISYE-6700"
+    ],
     "prerequisites" : null
   },
   "MGMT-6961" : 
