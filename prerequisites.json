@@ -29950,7 +29950,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "INQR-1100",
       "STSO-1100"
     ],
     "prerequisites" : null
@@ -45670,8 +45669,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "INQR-1100",
-      "STSO-1100"
+      "INQR-1100"
     ],
     "prerequisites" : null
   },
