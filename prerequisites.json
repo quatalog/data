@@ -29963,7 +29963,10 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1140"
+    ],
     "prerequisites" : null
   },
   "INQR-1150" : 
@@ -30151,7 +30154,10 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1610"
+    ],
     "prerequisites" : null
   },
   "INQR-1666" : 
