@@ -9385,12 +9385,7 @@
     [
       "BMED-4590"
     ],
-    "prerequisites" : 
-    {
-      "course" : "BMED 2300",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "BMED-6650" : 
   {
