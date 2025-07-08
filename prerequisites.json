@@ -11837,6 +11837,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "CHME-2941" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "CHME-2950" : 
   {
     "attributes" : [],
