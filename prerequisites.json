@@ -42285,7 +42285,10 @@
     [
       "PHYS-1101"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-1110"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1010",
@@ -42307,7 +42310,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-1100"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1010",
