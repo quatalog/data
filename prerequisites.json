@@ -18619,34 +18619,7 @@
       "ECSE-4973",
       "ECSE-6973"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 2200",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "nested" : 
-          [
-            {
-              "course" : "CSCI 2500",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "ECSE 2660",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "CSCI-4974" : 
   {
@@ -23751,8 +23724,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4973",
-      "CSCI-6973",
       "ECSE-6973"
     ],
     "prerequisites" : null
@@ -24711,8 +24682,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4973",
-      "CSCI-6973",
       "ECSE-4973"
     ],
     "prerequisites" : null
