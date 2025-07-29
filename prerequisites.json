@@ -23724,6 +23724,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "CSCI-4973",
+      "CSCI-6973",
       "ECSE-6973"
     ],
     "prerequisites" : null
@@ -24682,6 +24684,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "CSCI-4973",
+      "CSCI-6973",
       "ECSE-4973"
     ],
     "prerequisites" : null
