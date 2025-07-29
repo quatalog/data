@@ -21978,29 +21978,6 @@
       "type" : "and"
     }
   },
-  "ECON-6860" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ECON 6720",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ECON 6740",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
-  },
   "ECON-6920" : 
   {
     "attributes" : [],
