@@ -24064,17 +24064,10 @@
       [
         {
           "course" : "ECSE 6400",
-          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 6600",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "MANE 6600",
-          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -36157,17 +36150,10 @@
       [
         {
           "course" : "ECSE 6400",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ECSE 6600",
-          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MANE 6600",
-          "min_grade" : "D",
           "type" : "course"
         }
       ],
