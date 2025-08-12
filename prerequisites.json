@@ -10846,10 +10846,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-4530"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CHEM 2250",
@@ -20270,7 +20267,7 @@
           [
             {
               "course" : "INQR 1200",
-              "min_grade" : "TR",
+              "min_grade" : "D",
               "type" : "course"
             },
             {
