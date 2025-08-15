@@ -18335,7 +18335,12 @@
           "type" : "course"
         },
         {
-          "course" : "ECSE 2800",
+          "course" : "CSCI 2800",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 2660",
           "min_grade" : "D",
           "type" : "course"
         }
