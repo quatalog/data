@@ -2072,12 +2072,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "ARCH 5210",
-      "min_grade" : "C",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "ARCH-6620" : 
   {
