@@ -6474,7 +6474,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6220"
+    ],
     "prerequisites" : 
     {
       "course" : "BIOL 4200",
@@ -7609,7 +7612,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4220"
+    ],
     "prerequisites" : 
     {
       "course" : "BIOL 4200",
