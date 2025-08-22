@@ -33666,7 +33666,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-2710"
+    ],
     "prerequisites" : 
     {
       "nested" : 
