@@ -15126,6 +15126,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "COMM-2941" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "COMM-2950" : 
   {
     "attributes" : [],
