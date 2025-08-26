@@ -13201,18 +13201,9 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "CIVL 2050",
-          "type" : "course"
-        },
-        {
-          "course" : "ENGR 2250",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "ENGR 2530",
+      "min_grade" : "D",
+      "type" : "course"
     }
   },
   "CIVL-4963" : 
