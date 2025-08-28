@@ -36702,6 +36702,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "MATH-2941" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "MATH-2950" : 
   {
     "attributes" : [],
