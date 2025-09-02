@@ -13799,6 +13799,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "COGS-2941" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "COGS-2960" : 
   {
     "attributes" : [],
