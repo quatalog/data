@@ -33901,7 +33901,10 @@
   },
   "MANE-4040" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
