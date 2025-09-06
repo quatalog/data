@@ -3031,6 +3031,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ARTS-2941" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ARTS-2950" : 
   {
     "attributes" : [],
@@ -3993,6 +4000,13 @@
     }
   },
   "ARTS-4940" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "ARTS-4941" : 
   {
     "attributes" : [],
     "corequisites" : null,
