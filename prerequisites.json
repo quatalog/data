@@ -28346,6 +28346,20 @@
     ],
     "prerequisites" : null
   },
+  "GSAS-2940" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "GSAS-2941" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "GSAS-2960" : 
   {
     "attributes" : [],
@@ -28638,6 +28652,13 @@
       ],
       "type" : "or"
     }
+  },
+  "GSAS-4940" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "GSAS-4941" : 
   {
