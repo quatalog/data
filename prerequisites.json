@@ -38311,6 +38311,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "MGMT-2941" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "MGMT-2950" : 
   {
     "attributes" : [],
@@ -45807,6 +45814,13 @@
       "type" : "or"
     }
   },
+  "STSO-2940" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "STSO-2941" : 
   {
     "attributes" : [],
@@ -46736,6 +46750,13 @@
     [
       "PDII Option for Engr Majors"
     ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "STSO-4940" : 
+  {
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
