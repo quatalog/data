@@ -12828,6 +12828,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "CIVL-2941" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "CIVL-2950" : 
   {
     "attributes" : [],
@@ -13166,6 +13173,13 @@
     }
   },
   "CIVL-4940" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "CIVL-4941" : 
   {
     "attributes" : [],
     "corequisites" : null,
@@ -35221,7 +35235,10 @@
   },
   "MANE-4740" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -35466,7 +35483,10 @@
   },
   "MANE-4910" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -35478,7 +35498,10 @@
   },
   "MANE-4920" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
