@@ -36701,7 +36701,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-2012"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
