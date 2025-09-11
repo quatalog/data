@@ -1616,7 +1616,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6969"
+    ],
     "prerequisites" : null
   },
   "ARCH-4970" : 
@@ -2068,17 +2071,9 @@
   "ARCH-6630" : 
   {
     "attributes" : [],
-    "corequisites" : 
-    [
-      "ARCH-5380"
-    ],
+    "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "ARCH 6620",
-      "min_grade" : "B",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "ARCH-6640" : 
   {
