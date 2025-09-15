@@ -696,13 +696,13 @@
     "subj": "ARCH",
     "crse": "1210",
     "name": "Adcanced Architecture Career Discovery Program",
-    "description": "Similar structure as the Beginners program. The Advanced program will continue to cultivate design foundations explored in the Beginners course. Dates: TBA. 9:00 am - 4:00 pm.",
+    "description": "Similar structure as the Beginners program. The Advanced program will continue to cultivate design foundations explored in the Beginners course.",
     "source": "SIS"
   },
   "ARCH-1940": {
     "subj": "ARCH",
     "crse": "1940",
-    "name": "Proj In Arch & Environ Design",
+    "name": "Ugrad Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -892,7 +892,7 @@
     "subj": "ARCH",
     "crse": "2150",
     "name": "The Ethos Of Architecture",
-    "description": "This course will examine the spectrum of architectural phenomena and ideas without a specific chronology using examples ranging from antiquity to the contemporary world in western and non-western civilizations and produced in both vernacular and disciplinary cultures. An essential part of this course is to stimulate students' curiosity about architecture and the larger world and introduce them to key issues of architecture regarding space, form, critique, technology, aesthetics, societal and cultural contexts, etc. Particular emphasis will be given to the emergence of modernism in architecture. Crucial to the goals of this course is to encourage students to pursue and develop their own unique vision and voice in architecture throughout their education and practice. Fundamental to this process is making students aware of the necessity to challenge their own subjectivities, biases, and presuppositions.",
+    "description": "This course will examine the spectrum of architectural phenomena and ideas without a specific chronology using examples ranging from antiquity to the contemporary world in western and non-western civilizations and produced in both vernacular and disciplinary cultures. An essential part of this course is to stimulate students' curiosity about architecture and the larger world and introduce them to key issues of architecture regarding space, form, critique, technology, aesthetics, societal and cultural contexts, etc. Particular emphasis will be given to the emergence of modernism in architecture. Crucial to the goals of this course is to encourage students to pursue and develop their own unique vision and voice in architecture throughout their education and practice. Fundamental to this process is making students aware of the necessity to challenge their own subjectivities, biases, and presuppositions.  This course is required of all architecture undergraduates in the B.Arch. program.",
     "source": "SIS"
   },
   "ARCH-2160": {
@@ -983,21 +983,21 @@
     "subj": "ARCH",
     "crse": "2466",
     "name": "History & Theory: Bldg Science",
-    "description": "The course is required as a foundation for the Building Sciences Program in the 21st century. It will",
+    "description": "The course is required as a foundation for the Building Sciences Program in the 21st century. It will examine a range of architectural projects from the global vernacular, significant historical projects, and contemporary case studies from a broader perspective of energy, climate, materials, resources, health, society and technology. This foundational course aims to contextualize significant built projects and work within the historical shifts in the discipline's roots in building physics originating from an 18th - century mechanical paradigm to a 21st century thermodynamic and eco-systemic view of building sciences. A critical part of this course intends to stimulate the capacity of students to recognize and develop their own insights, voice, and critical appreciation of architectural projects from a broader building sciences perspective.",
     "source": "SIS"
   },
   "ARCH-2468": {
     "subj": "ARCH",
     "crse": "2468",
     "name": "Digital Constructs: Bldg Sci",
-    "description": "This course will examine and teach methods for the representation and visual communication",
+    "description": "This course will examine and teach methods for the representation and visual communication of measured data within the built environment with a strong focus on environmental datasets. Students will be introduced to digital modeling, environmental plug-ins and graphic design softwares that effectively translate and visualize information from building environmental surroundings, site, and building performance. Students will demonstrate the capacity to employ methods for data visualization as they pertain to a range of highly contextual case studies and spaces mapping daylight, temperature, humidity, air quality and other sensory information. Skills taught will enable students to produce two-dimensional and three-dimensional synthetic data visualizations in digital modeling environments.",
     "source": "SIS"
   },
   "ARCH-2469": {
     "subj": "ARCH",
     "crse": "2469",
     "name": "Building Sciences Media",
-    "description": "This course focuses on the investigative methods of gathering and representing the",
+    "description": "This course focuses on the investigative methods of gathering and representing the physically measurable phenomena within the built environment as they pertain to material thermal and moisture performance, heat, daylight, air velocity, air quality and sound. Students will be introduced to both handheld instruments and investigative learning sensor kit networks for studying the built environment. Students will learn to visualize digitally information that is taken from \"investigative learning kits\". The course will also introduce students to open-source databases of physically measurable phenomena within the built environment. This course is required of all architecture undergraduates in the B.S. in Building Sciences program.",
     "source": "SIS"
   },
   "ARCH-2470": {
@@ -1018,28 +1018,28 @@
     "subj": "ARCH",
     "crse": "2520",
     "name": "Digital Constructs I",
-    "description": "This course will examine and teach methods of representation and the communication of design concepts. Skills taught will enable students to produce two-dimensional and three-dimensional digital models, as well as drawings from multiple perspectives. Students will understand virtual environments as they pertain to model making, drawing, scale, and materiality. Students will be introduced to digital modeling and graphic design software.",
+    "description": "This course will examine and teach methods of representation and the communication of design concepts. Skills taught will enable students to produce two-dimensional and three-dimensional digital models, as well as drawings from multiple perspectives. Students will understand virtual environments as they pertain to model making, drawing, scale, and materiality. Students will be introduced to digital modeling and graphic design softwares.",
     "source": "SIS"
   },
   "ARCH-2530": {
     "subj": "ARCH",
     "crse": "2530",
     "name": "Digital Constructs 2",
-    "description": "This course builds upon topics covered in ARCH 2520 by focusing upon contemporary means of producing and communicating architectural ideas. Students will use digital methodologies through all phases of a project as well as advanced representation and digital fabrication techniques. The use of digital modeling as a sketch and iterative tool will be emphasized. Tools taught in ARCH 2530 will build upon those software programs taught in ARCH 2520.",
+    "description": "This course builds upon topics covered in ARCH 2520 by focusing upon contemporary means of producing and communicating architectural ideas. Students will use digital methodologies through all phases of a project as well as advanced representation and digital fabrication techniques. The use of digital modeling as a sketch and iterative tool will be emphasized. Tools taught in ARCH 2530 will build upon those software programs taught in ARCH 2520. This course is required of all first-year architecture undergraduates in the B.Arch. program.",
     "source": "SIS"
   },
   "ARCH-2540": {
     "subj": "ARCH",
     "crse": "2540",
     "name": "Digital Constructs 3",
-    "description": "This course introduces computational and procedural design approaches that are a logical extension to topics covered in ARCH 2530. Students will develop an understanding of computational logic through introductory design applications, both as advanced tooling and as generative design techniques.",
+    "description": "This course introduces computational and procedural design approaches that are a logical extension to topics covered in ARCH 2530. Students will develop an understanding of computational logic through introductory design applications, both as advanced tooling and as generative design techniques. This course is offered in the fall semester and is required of all second-year architecture undergraduates in the B.Arch. program.",
     "source": "SIS"
   },
   "ARCH-2550": {
     "subj": "ARCH",
     "crse": "2550",
     "name": "Digital Constructs 4",
-    "description": "Building on techniques taught in ARCH 2540 , this course will expand upon the role of technology in architecture by introducing advanced methods of design analysis and resolution. Students will learn, CAD drawing conventions, file organization and management generative design & scripting, and advanced rendering techniques. This course is offered in the spring semester and is required of all second-year architecture undergraduates in the B.Arch. program.",
+    "description": "Building on techniques taught in ARCH 2540, this course will expand upon the role of technology in architecture by introducing advanced methods of design analysis and resolution. Students will learn, CAD drawing conventions, file organization and management generative design & scripting, and advanced rendering techniques. This course is offered in the spring semester and is required of all second-year architecture undergraduates in the B.Arch. program.",
     "source": "SIS"
   },
   "ARCH-2600": {
@@ -1116,7 +1116,7 @@
     "subj": "ARCH",
     "crse": "2820",
     "name": "Architectural Design Studio 3",
-    "description": "This studio focuses on the relationship between building and landscape in terms of conceptual, pragmatic, ideological, aesthetic, and functional issues. As such, it endeavors to examine critically the disciplinary boundary between building, and site planning, accessibility, parking and landscape topography. It also critically assesses the connections and inherent complexities between an institutional situation and workplace activity, in order to explore questions of public and private. This studio also addresses the tectonic dimensions of construction and structure in architectural design.",
+    "description": "This studio focuses on the relationship between building and landscape in terms of conceptual, pragmatic, ideological, aesthetic, and functional issues. As such, it endeavors to examine critically the disciplinary boundary between building, site planning, accessibility, parking and",
     "source": "SIS"
   },
   "ARCH-2830": {
@@ -1144,7 +1144,7 @@
     "subj": "ARCH",
     "crse": "2940",
     "name": "Ugrad Independent Study",
-    "description": "Individual projects and readings adapted to the needs of individual students.",
+    "description": "Individual projects and readings adapted to the needs of individual students in Architecture and Environmental Design.",
     "source": "SIS"
   },
   "ARCH-2941": {
@@ -1354,7 +1354,7 @@
     "subj": "ARCH",
     "crse": "4010",
     "name": "Seminar In Sensory Culture",
-    "description": "This seminar examines human perception from a designer\u2019s perspective. It draws on perspectives from the sciences, arts, and humanities in order to build an understanding of how people perceive and interact with the environments they create. One cannot only read about perception; the seminar will augment reading with a range of direct experiences as source material for discussion.",
+    "description": "This seminar examines human perception from a designer's perspective. It draws on perspectives from the sciences, arts, and humanities in order to build an understanding of how people perceive and interact with the environments they create. One cannot only read about perception; the seminar will augment reading with a range of direct experiences as source material for discussion.",
     "source": "SIS"
   },
   "ARCH-4020": {
@@ -1375,7 +1375,7 @@
     "subj": "ARCH",
     "crse": "4055",
     "name": "Urban Data 1",
-    "description": "Urban Data I examines the role of data representation and the use of web-based graphics and in contemporary design. This course teaches the power of combining the thought process and methods of an architect with increasingly sophisticated representational techniques that broaden the function of a traditional drawing. Students use publicly available datasets to interrogate a pressing urban problem. They research, represent, and propose design solutions using data they\u2019ve collected to guide their decision-making process.",
+    "description": "Urban Data I examines the role of data representation and the use of web-based graphics and in contemporary design. This course teaches the power of combining the thought process and methods of an architect with increasingly sophisticated representational techniques that broaden the function of a traditional drawing. Students use publicly available datasets to interrogate a pressing urban problem. They research, represent, and propose design solutions using data they've collected to guide their decision-making process.",
     "source": "SIS"
   },
   "ARCH-4060": {
@@ -1438,7 +1438,7 @@
     "subj": "ARCH",
     "crse": "4120",
     "name": "Modernity & Architecture",
-    "description": "This course is an exploration of the idea of modernity as both a cultural phenomenon extending back to Enlightenment ideas of progress, technological framing of the world, scientific rationality, and historical consciousness. The course will identify the core concepts, values, theories, and practices that contributed to the rise of modernity in the western world and eventually on a global scale. The impact of Modernity will also be critically examined historically and theoretically as an artistic and architectural discourse unfolding in the 20th century and as a radical re-questioning of the traditional concepts of program, construction, and aesthetics that are central to architectural discourse.",
+    "description": "This course is an exploration of the idea of modernity as both a cultural phenomenon extending back to Enlightenment ideas of progress, technological framing of the world, scientific rationality, and historical consciousness. The course will identify the core concepts, values, theories, and practices that contributed to the rise of modernity in the western world and eventually on a global scale. The impact of Modernity will also be critically examined historically and theoretically as an artistic and architectural discourse unfolding in the 20th century and as a radical requestioning of the traditional concepts of program, construction, and aesthetics that are central to architectural discourse.",
     "source": "SIS"
   },
   "ARCH-4130": {
@@ -1459,21 +1459,21 @@
     "subj": "ARCH",
     "crse": "4160",
     "name": "Research Investigations",
-    "description": "This class is taken by professional students from the School of Architecture\u2019s Troy campus accepted into the one-semester visiting program at CASE in NYC. The course is structured to integrate visiting students into ongoing research at CASE by forming cohort groups that work directly with in-resident Ph.D. students. Architectural research methods are explored throughout the semester and include; case studies, modeling, simulation, and prototyping of building systems. The course consists of topical lectures, and discussions regarding progress of ongoing research projects.",
+    "description": "This class is taken by professional students from the School of Architecture's Troy campus accepted into the one-semester visiting program at CASE in NYC. The course is structured to integrate visiting students into ongoing research at CASE by forming cohort groups that work directly with in-resident Ph.D. students. Architectural research methods are explored throughout the semester and include; case studies, modeling, simulation, and prototyping of building systems. The course consists of topical lectures, and discussions regarding progress of ongoing research projects.",
     "source": "SIS"
   },
   "ARCH-4170": {
     "subj": "ARCH",
     "crse": "4170",
     "name": "Environmental Parametrics",
-    "description": "Environmental Parametrics is an intensive introductory course on visual scripting theory and methodology intended to give incoming students a foundational base in computational and parametric design modeling. The techniques presented in this course allow designers to integrate environmental data and simulations fluidly into 3D models and the design process. A new and progressively more complex topic is introduced each week, and each topic is presented with an associated design exercise. This course is taught in a seminar format with some instructor led tutorials and workshop content linked to dedicated breakout time for completing assignments and modeling. A devoted archive folder for downloading and uploading course material and completed exercises will be used for the course. B.Arch. students in Fall semesters can only register for the 4000 level of this course and M.Arch. Students must register only for the 6000 level of this course.",
+    "description": "This course is an intensive workshop in parametric modeling with specialized focus on environmental simulation and sustainable design. Students learn tools to navigate the intersection of environmental design and computational workflows by mastering parametric modeling and optimization for sustainability. Students gain proficiency in using parametric applications as both an analytical tool and a generative design device. The course exposes students to feedback loops between environmental analysis and design decision, fostering performance-based design strategies. Students explore the integration of parametric modeling with building energy modeling and bioclimatic analysis. Project based exercises are developed to address ecological design principles and optimize systems for multivariable trade-offs.",
     "source": "SIS"
   },
   "ARCH-4200": {
     "subj": "ARCH",
     "crse": "4200",
     "name": "Portfolio Development",
-    "description": "A graphic portfolio of architectural design work is a living document representing the diversity, competence, and growth throughout an architect's career. Central to this course is the development of professional development skills in preparation for internships and a professional career in architecture, including the All-Institute ARCH AWAY experience. Students will have the ability to conceive, design, and construct a portfolio, using images and text, that integrates work examples exhibiting a diverse range of skills including, design studio, history theory, professional work, technical and environmental courses. Other skills covered include the design of a curriculum vitae tailored to architecture, and the allied design fields.",
+    "description": "A graphic portfolio of architectural design work is a living document representing the diversity, competence, and growth throughout an architect's career. Central to this course is the development of professional development skills in preparation for internships and a professional career in architecture, including the All-Institute ARCH AWAY experience. Students will have the ability to conceive, design, and construct a portfolio, using images and text, that integrates work examples exhibiting a diverse range of skills including, design studio, history theory, professional work, technical and environmental courses. Other skills covered include the design of a curriculum vitae tailored to architecture, and the allied design fields. This course provides an overview of how to establish an NCARB record and log AXP (experience credits), formulate a path to licensure including the AXP and the ARE (Architecture Registration Exam) and is coordinated with career development events, lectures, including Blast-off and the SoA career fair and formally introduces students to their NCARB mentor.",
     "source": "SIS"
   },
   "ARCH-4260": {
@@ -1536,14 +1536,14 @@
     "subj": "ARCH",
     "crse": "4410",
     "name": "Lighting: Intelligent Spaces",
-    "description": "The primary objective of this course is to provide students with a basic understanding of the",
+    "description": "The primary objective of this course is to provide students with a basic understanding of the physics and engineering of light and lighting. It introduces the process and mechanics of vision, some of the important concepts in lighting metrics, calculations, and technologies including light sources, optics, sensors and controls, and luminaires needed to illuminate built environments.",
     "source": "SIS"
   },
   "ARCH-4420": {
     "subj": "ARCH",
     "crse": "4420",
     "name": "Bldg Sciences Vertical Studio",
-    "description": "The Building Sciences Vertical Studio is a thematically varied studio that has at its basis the use of",
+    "description": "The Building Sciences Vertical Studio is a thematically varied studio that has at its basis the use of design methodology to conceptualize, develop and evaluate a range of design projects within the Building Sciences. The Vertical Studio integrates the use of state-of-the-art and recent innovations in the materials, enclosure design, data collection methods, data visualization technologies, spatial mapping, investigative learning technologies and data storytelling methods using quantifiable metrics of performance, as well as through the translation of perceivable qualitative experience within physical environments.",
     "source": "SIS"
   },
   "ARCH-4510": {
@@ -1564,7 +1564,7 @@
     "subj": "ARCH",
     "crse": "4530",
     "name": "Building Sciences Capstone",
-    "description": "This course offers the students the opportunity to demonstrate a comprehensive knowledge of issues and practices in an important subject within the building sciences through a self-initiated and faculty-directed independent design, research, or research/design project. This is required of all architecture undergraduates in the B.S. in Building Sciences program.  This is a communication-intensive course.",
+    "description": "This course offers the students the opportunity to demonstrate a comprehensive knowledge of issues and practices in an important subject within the building sciences through a self-initiated and faculty-directed independent design, research, or research/design project. This is required of all architecture undergraduates in the B.S. in Building Sciences program. This is a communication-intensive course.",
     "source": "SIS"
   },
   "ARCH-4540": {
@@ -1836,7 +1836,7 @@
   "ARCH-4940": {
     "subj": "ARCH",
     "crse": "4940",
-    "name": "Readings In Arch",
+    "name": "Ugrad Independent Study",
     "description": "Individual projects and readings adapted to the needs of individual students at the advanced level.",
     "source": "SIS"
   },
@@ -2543,7 +2543,7 @@
   "ARCH-6940": {
     "subj": "ARCH",
     "crse": "6940",
-    "name": "Adv Ind Proj In Arch/env Desgn",
+    "name": "Graduate Independent Study",
     "description": "Individual projects and readings adapted to the needs of individual students at the advanced level.",
     "source": "SIS"
   },
@@ -3033,8 +3033,8 @@
   "ARTS-2255": {
     "subj": "ARTS",
     "crse": "2255",
-    "name": "Available",
-    "description": "D",
+    "name": "Ui Art",
+    "description": "UI Art is a production course that looks at creating user interface art for primarily video games, but has transference into graphic design, web design, and other UI spaces like automobiles, phones, and other digital devices. Health bars, menus, inventory screens, start screens, and logos are all examples that would follow under the purview of a UI UX Artist.",
     "source": "SIS"
   },
   "ARTS-2300": {
@@ -3054,8 +3054,8 @@
   "ARTS-2340": {
     "subj": "ARTS",
     "crse": "2340",
-    "name": "Intro To Afro-cuban Percussion",
-    "description": "",
+    "name": "Wind Symphony",
+    "description": "Wind\u00a0Symphony\u00a0is a laboratory ensemble in which students encounter and perform music from diverse styles, genres and historical periods written for wind ensembles/wind symphonies and\u00a0symphonic wind\u00a0bands. \u00a0Students in the\u00a0Wind\u00a0Symphony\u00a0will perform in concert once per semester, and may participate in\u00a0special activities, events, projects, and collaborations with featured guest artists. \u00a0The Rensselaer\u00a0Wind\u00a0Symphony\u00a0is open to all Rensselaer students on an auditioned basis.",
     "source": "SIS"
   },
   "ARTS-2350": {
@@ -3159,7 +3159,7 @@
   "ARTS-2940": {
     "subj": "ARTS",
     "crse": "2940",
-    "name": "Studies In The Arts",
+    "name": "Ugrad Independent Study",
     "description": "Individual and collaborative projects and assignments at the 2000 level adapted to the needs of individual students.",
     "source": "SIS"
   },
@@ -3670,7 +3670,7 @@
   "ARTS-4940": {
     "subj": "ARTS",
     "crse": "4940",
-    "name": "Studies In The Arts",
+    "name": "Ugrad Independent Study",
     "description": "Individual and collaborative projects and assignments at the 4000 level adapted to the needs of individual students.",
     "source": "SIS"
   },
@@ -4111,7 +4111,7 @@
   "ARTS-6940": {
     "subj": "ARTS",
     "crse": "6940",
-    "name": "Studies In Electronic Arts",
+    "name": "Graduate Independent Study",
     "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
     "source": "SIS"
   },
@@ -4315,7 +4315,7 @@
     "subj": "ASTR",
     "crse": "1540",
     "name": "Earth And Sky",
-    "description": "An introduction to astronomy and planetary science from an observational perspective. Students will learn the basics of observing the night-time sky, both with the unaided eye and through telescopic observation. Observations of Earth from space, the exploration of our Solar System, and the quest to find Earth-like planets in other solar systems will also be discussed. The course is suitable for non-physics and non-science majors.",
+    "description": "An introduction to\u00a0astronomy from an observational perspective. Students will learn the basics of observing the night-time sky, both with the unaided eye and through telescopic observation. Observations of Earth from orbiting satellites will also be discussed. The course is suitable for non-physics and non-science majors as well as those committed to specialization in\u00a0astronomy.",
     "source": "SIS"
   },
   "ASTR-1940": {
@@ -4678,7 +4678,7 @@
   "ASTR-4240": {
     "subj": "ASTR",
     "crse": "4240",
-    "name": "Gravitation & Cosmology",
+    "name": "General Relativity",
     "description": "Introduction to the physics of gravitation and spacetime. Special relativity, tensor calculus, and relativistic electrodynamics. General relativity with selected applications of Einstein\u2019s field equations (gravitational time dilation; gravitational lensing; frame dragging; gravitational radiation). The physics of nonrotating and rotating black holes. Relativistic models for the large-scale structure of the Universe. Observational constraints on the cosmological parameters. Big Bang nucleosynthesis, the Cosmic Background Radiation. A culminating experience project is required. (Meets with PHYS 4240.)",
     "source": "SIS"
   },
@@ -4699,7 +4699,7 @@
   "ASTR-4940": {
     "subj": "ASTR",
     "crse": "4940",
-    "name": "Special Projects In Astronomy",
+    "name": "Ugrad Independent Study",
     "description": "Study and research in various fields of astronomy to demonstrate interest in and ability for independent work.",
     "source": "SIS"
   },
@@ -4860,7 +4860,7 @@
   "ASTR-6940": {
     "subj": "ASTR",
     "crse": "6940",
-    "name": "Readings In Astr",
+    "name": "Graduate Independent Study",
     "description": "Credit Hours: 3",
     "source": "SIS"
   },
@@ -5301,7 +5301,7 @@
   "BCBP-4940": {
     "subj": "BCBP",
     "crse": "4940",
-    "name": "Readings In Biochem/biophysics",
+    "name": "Ugrad Independent Study",
     "description": "Selected readings in the biochemistry and biophysics literature to supplement the scientific background of undergraduate students. May be used as a BCBP elective with approval of the BCBP Curriculum Committee.",
     "source": "SIS"
   },
@@ -5567,7 +5567,7 @@
   "BCBP-6940": {
     "subj": "BCBP",
     "crse": "6940",
-    "name": "Readings In Biochem/biophysics",
+    "name": "Graduate Independent Study",
     "description": "Independent study of selected readings in the fields of biochemistry and biophysics, supervised by a faculty member.",
     "source": "SIS"
   },
@@ -6379,7 +6379,7 @@
   "BIOL-4940": {
     "subj": "BIOL",
     "crse": "4940",
-    "name": "Readings In Biology",
+    "name": "Ugrad Independent Study",
     "description": "Selected readings in the biological literature to supplement the scientific background of undergraduate students. May be used as a biology elective with approval of Biology Department Curriculum Committee.",
     "source": "SIS"
   },
@@ -6764,7 +6764,7 @@
   "BIOL-6940": {
     "subj": "BIOL",
     "crse": "6940",
-    "name": "Readings In Biol",
+    "name": "Graduate Independent Study",
     "description": "Readings in the current literature designed to supplement the background of the student and provide greater depth in the area of a students specialty.",
     "source": "SIS"
   },
@@ -7114,7 +7114,7 @@
   "BMED-2940": {
     "subj": "BMED",
     "crse": "2940",
-    "name": "Readings In Bmed",
+    "name": "Ugrad Independent Study",
     "description": "When Offered: Fall and spring terms annually.",
     "source": "SIS"
   },
@@ -7534,7 +7534,7 @@
   "BMED-4940": {
     "subj": "BMED",
     "crse": "4940",
-    "name": "Readings In Bmed",
+    "name": "Ugrad Independent Study",
     "description": "When Offered: Fall and spring terms annually.",
     "source": "SIS"
   },
@@ -7863,8 +7863,8 @@
   "BMED-6770": {
     "subj": "BMED",
     "crse": "6770",
-    "name": "Commclzn Of Biomed Innovation",
-    "description": "This course enables participants to learn about entrepreneurship and business fundamentals for the process of commercializing biomedical innovation, primarily through the \u201clean launchpad\u201d method (aka, I-Corps\u00ae method). Students engage in ideation sessions and then choose to join projects and work in small teams.",
+    "name": "Available",
+    "description": "OPEN",
     "source": "SIS"
   },
   "BMED-6800": {
@@ -7891,7 +7891,7 @@
   "BMED-6940": {
     "subj": "BMED",
     "crse": "6940",
-    "name": "Readings In Bmed",
+    "name": "Graduate Independent Study",
     "description": "When Offered: Fall and spring terms annually.",
     "source": "SIS"
   },
@@ -8598,7 +8598,7 @@
   "CHME-4940": {
     "subj": "CHME",
     "crse": "4940",
-    "name": "Rdgs In Chemical Engr",
+    "name": "Ugrad Independent Study",
     "description": "Credit Hours: 1 to 3",
     "source": "SIS"
   },
@@ -8934,7 +8934,7 @@
   "CHME-6940": {
     "subj": "CHME",
     "crse": "6940",
-    "name": "Rdg In Chemical Engr",
+    "name": "Graduate Independent Study",
     "description": "Credit Hours: 1 to 3",
     "source": "SIS"
   },
@@ -9117,14 +9117,14 @@
     "subj": "CHEM",
     "crse": "1100",
     "name": "Principles Of Chemistry I",
-    "description": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acid-base chemistry and elementary chemical equilibrium, and introduction to organic chemistry. The course includes a laboratory component which compliments the lecture by offering students experimental experience and hands on applications to theory.",
+    "description": "This course provides a foundational understanding of the principles of chemistry, emphasizing atomic and molecular structure, chemical bonding, periodic trends, and basic thermodynamics. Key topics include an introduction to acid-base chemistry, elementary chemical equilibrium, and an overview of organic chemistry concepts. The course integrates theoretical learning with practical application, featuring a laboratory component designed to reinforce lecture material and provide students with hands-on experience in conducting experiments and applying scientific concepts.",
     "source": "SIS"
   },
   "CHEM-1110": {
     "subj": "CHEM",
     "crse": "1110",
     "name": "Chemistry I",
-    "description": "Covers the same lecture material as CHEM 1100, but laboratory experiments will be more technique-oriented to provide better preparation for students who plan to take future laboratory courses in chemistry.",
+    "description": "This course mirrors the lecture content of CHEM 1100, with additional coverage of advanced topics such as Molecular Orbital (MO) theory, band theory, organic reactions, and the balancing of redox reactions. The accompanying laboratory component focuses on developing key technical skills, offering students enhanced preparation for future chemistry laboratory courses. Emphasis is placed on refining experimental techniques and applying theoretical concepts in a hands-on setting.",
     "source": "SIS"
   },
   "CHEM-1111": {
@@ -9138,14 +9138,14 @@
     "subj": "CHEM",
     "crse": "1120",
     "name": "Chemistry I Honors",
-    "description": "Covers the same lecture material as CHEM 1100 and CHEM 1110, but laboratory experiments will be more technique-oriented to provide better preparation for students who plan to take future laboratory courses in chemistry.",
+    "description": "This course covers the same lecture material as CHEM 1110, while providing students the opportunity to perform each laboratory experiment individually. This approach is designed to strengthen their experimental skills and better prepare them for advanced laboratory courses in chemistry.",
     "source": "SIS"
   },
   "CHEM-1200": {
     "subj": "CHEM",
     "crse": "1200",
     "name": "Chemistry II",
-    "description": "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. The course includes a laboratory component which compliments the lecture by offering students experimental experience and hands on applications to theory.",
+    "description": "This course offers further exploration of chemistry principles, focusing on solution theory, thermodynamics, complex chemical equilibrium and acid-base systems, reaction kinetics, and electrochemistry. The course is complemented by a laboratory component, providing students with practical, hands-on experience to reinforce theoretical concepts through experimental application.",
     "source": "SIS"
   },
   "CHEM-1210": {
@@ -9159,7 +9159,7 @@
     "subj": "CHEM",
     "crse": "1220",
     "name": "Chemistry II Honors",
-    "description": "Covers the same lecture material as CHEM 1200, but laboratory experiments will be more technique-oriented to provide better preparation for students who plan to take future laboratory courses in chemistry. Students cannot get credit for both this course and CHEM 1200.",
+    "description": "CHEM 1220 includes the same lecture material as CHEM 1200, with the addition of Carnot Cycle thermodynamics and an introduction to organic reaction mechanisms. The laboratory experiments will be conducted individually and more technique-oriented to provide better preparation for students who plan to take future laboratory courses in chemistry. Development of scientific report writing skills is emphasized.",
     "source": "SIS"
   },
   "CHEM-1600": {
@@ -9179,7 +9179,7 @@
   "CHEM-1940": {
     "subj": "CHEM",
     "crse": "1940",
-    "name": "Readings In Chemistry",
+    "name": "Ugrad Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -9453,7 +9453,7 @@
     "subj": "CHEM",
     "crse": "2950",
     "name": "Undergraduate Research",
-    "description": "Hands-on research in a faculty research laboratory.",
+    "description": "An introduction to independent, hands-on research in chemistry under the guidance of a faculty member. Students will take part in projects that are at the forefront of chemistry research. Students will learn about hypothesis driven research, designing experiments, and analyzing research data. Through this course, students develop critical thinking and  problem-solving skills, preparing them for more advanced studies and research opportunities in the field of chemistry.",
     "source": "SIS"
   },
   "CHEM-2960": {
@@ -9614,7 +9614,7 @@
     "subj": "CHEM",
     "crse": "4030",
     "name": "Expr Chem III Abridg: Phys Mth",
-    "description": "Laboratory exploration of physical methods used to characterize the structure and properties of compounds. Involves the experiments in CHEM-4020 that do not depend on the theoretical material of CHEM-4010; students can not get credit for both this course and CHEM-4020 S",
+    "description": "Laboratory exploration of physical methods used to characterize the structure and properties of compounds. Involves the experiments in CHEM-4020 that do not depend on the theoretical material of CHEM-4010; students can not get credit for both this course and CHEM-4020.",
     "source": "SIS"
   },
   "CHEM-4100": {
@@ -9691,14 +9691,14 @@
     "subj": "CHEM",
     "crse": "4410",
     "name": "Macroscopic Physical Chemistry",
-    "description": "A course dealing with physicochemical properties of substances on a macroscopic scale. Chemical thermodynamics, electrochemistry, electric and magnetic phenomena, transport properties, and surface and colloid chemistry.",
+    "description": "A course dealing with physicochemical properties of substances on a macroscopic scale. Chemical thermodynamics, chemistry kinetics, electrochemistry, electric and magnetic phenomena, transport properties, and surface and colloid chemistry.",
     "source": "SIS"
   },
   "CHEM-4420": {
     "subj": "CHEM",
     "crse": "4420",
     "name": "Microscopic Physical Chemistry",
-    "description": "A course dealing primarily with physicochemical properties of substances on a molecular basis. Chemical kinetics, quantum chemistry, spectroscopy, and statistical mechanics.",
+    "description": "A course dealing primarily with physicochemical properties of substances on a molecular basis. Quantum chemistry, spectroscopy, and statistical mechanics.",
     "source": "SIS"
   },
   "CHEM-4440": {
@@ -9837,7 +9837,7 @@
   "CHEM-4940": {
     "subj": "CHEM",
     "crse": "4940",
-    "name": "Readings In Chem",
+    "name": "Ugrad Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -9929,7 +9929,7 @@
     "subj": "CHEM",
     "crse": "4970",
     "name": "Advanced Research Project",
-    "description": "An independent research project in a faculty research laboratory for junior and senior students with prior research experience. Requires permission of the instructor.",
+    "description": "An independent research project in a faculty research laboratory for junior and senior students with prior research experience. Through this course, students will develop skills in defining a hypothesis driven research project, designing experiments, and analyzing research data. The course will also provide opportunities for students to develop written and oral skills for conveying research results to a scientific or general audience.",
     "source": "SIS"
   },
   "CHEM-4980": {
@@ -9943,7 +9943,7 @@
     "subj": "CHEM",
     "crse": "4990",
     "name": "Senior Thesis",
-    "description": "A two-semester spring-fall or fall-spring course dealing with an advanced level independent research project supervised by a faculty member and requiring the presentation of a thesis. First term registration is limited to second semester juniors and first semester seniors. The grade for the first semester will be listed as \u201cin progress.\u201d",
+    "description": "Culmination of an advanced level independent research project supervised by a faculty member, resulting in a written thesis and oral presentation. Prior research experience with the faculty advisor is required. This course should be taken in the last semester of the student\u2019s program.",
     "source": "SIS"
   },
   "CHEM-6000": {
@@ -10215,7 +10215,7 @@
   "CHEM-6940": {
     "subj": "CHEM",
     "crse": "6940",
-    "name": "Readings In Chem",
+    "name": "Graduate Independent Study",
     "description": "Credit Hours: 1 to 3",
     "source": "SIS"
   },
@@ -10720,7 +10720,7 @@
     "subj": "CIVL",
     "crse": "4240",
     "name": "Finite Elements Method",
-    "description": "An introductory course in use of the Finite Element Method (FEM) to solve one-and two-dimensional problems in fluid mechanics, heat transfer, and elasticity. The methods are developed using weighted residuals. Algorithms for the construction and solution of the governing equations are also covered. Students will be exposed to the use of commercial finite element software.",
+    "description": "This course introduces the methods upon which finite element software is built. Methods covered include construction of weak forms, discretization of the weak forms, the local/global linkage, construction of element shape functions, element mapping and numerical integration. The course will also cover the application of finite elements methods employing software tools. This will include open-source tools for the efficient implementation of finite elements and commercial software commonly applied in industry.",
     "source": "SIS"
   },
   "CIVL-4270": {
@@ -10817,7 +10817,7 @@
   "CIVL-4940": {
     "subj": "CIVL",
     "crse": "4940",
-    "name": "Readings In Civl",
+    "name": "Ugrad Independent Study",
     "description": "Credit Hours: 1 to 3",
     "source": "SIS"
   },
@@ -11041,8 +11041,8 @@
   "CIVL-6290": {
     "subj": "CIVL",
     "crse": "6290",
-    "name": "Freight Transportation Systems",
-    "description": "Background and socio-economic aspects of freight transportation. Freight policy and planning objectives. Distribution system and participating agents. Behavior of freight agents. Short-medium term operational improvements: Land use and traffic related. Short-medium term operational improvements: System level strategies. System perspective of freight activity. Strategic freight transportation planning and freight demand modeling.",
+    "name": "Freight Trans: Mgmt & Planning",
+    "description": "This course covers techniques and procedures needed to effectively manage, design, and plan modern urban freight transportation systems. In addition to management and design, will discuss planning and emphasizes mathematical planning models.",
     "source": "SIS"
   },
   "CIVL-6300": {
@@ -11230,7 +11230,7 @@
   "CIVL-6940": {
     "subj": "CIVL",
     "crse": "6940",
-    "name": "Rdgs In Civil Engr",
+    "name": "Graduate Independent Study",
     "description": "Credit Hours: 1 to 3",
     "source": "SIS"
   },
@@ -11707,20 +11707,20 @@
     "subj": "COGS",
     "crse": "4880",
     "name": "Language-endowed Intel Agents",
-    "description": "This course will concentrate on the knowledge-based modeling of intelligent agents, with a special emphasis on semantically-oriented language processing. Theoretical and conceptual discussions will be balanced by practical work within the implemented OntoAgent cognitive architecture. It will discuss the modeling of decision-making, the various aspects of natural-language processing, and the art of knowledge engineering.",
+    "description": "This course will concentrate on explanation-capable knowledge-based cognitive intelligent agents capable of acting as members of human-agent teams. \u00a0The course will emphasize meaning-oriented language processing and cognitive robotics. We will discuss cognitive and cognitive-robotic architectures, the modeling of perception, decision-making and physical and verbal action, knowledge required by the agents and prospects for using generative AI to aid in the development of cognitive agents.",
     "source": "SIS"
   },
   "COGS-4940": {
     "subj": "COGS",
     "crse": "4940",
-    "name": "Studies In Cognitive Science",
+    "name": "Ugrad Independent Study",
     "description": "An individually arranged independent study course under the supervision of a member of the Cognitive Science Department. The topic is selected by consultation between student and faculty member.",
     "source": "SIS"
   },
   "COGS-4941": {
     "subj": "COGS",
     "crse": "4941",
-    "name": "Undegraduate Research Project",
+    "name": "Undergraduate Research Project",
     "description": "",
     "source": "SIS"
   },
@@ -11853,8 +11853,8 @@
   "COGS-6310": {
     "subj": "COGS",
     "crse": "6310",
-    "name": "Adv Exp Methods & Statistics",
-    "description": "",
+    "name": "Research Methods & Stats II",
+    "description": "This course is the second in a two-semester sequence on research methods and statistics in the behavioral sciences. It covers approaches to statistical modeling and inference that lie within the null hypothesis significance testing (NHST) framework as well as alternative frameworks. Students will learn how to analyze various kinds of data using linear regression and analysis of variance and gain proficiency with the R programming language and software environment for statistical computing. Students will carry out a research project and give a formal presentation of the findings.",
     "source": "SIS"
   },
   "COGS-6340": {
@@ -11937,21 +11937,21 @@
   "COGS-6800": {
     "subj": "COGS",
     "crse": "6800",
-    "name": "Open To Use",
-    "description": "",
+    "name": "Research Problems In Cog Sci",
+    "description": "The research problems in cognitive sciences seminar is aimed to provide graduate students with in-depth information concerning a broad range of research problems and domains in cognitive sciences. It includes talks by invited speakers, as well as research progress reports by graduate students and faculty. Its goal is to establish some broad understanding of current, ongoing cognitive sciences research and to stimulate further research.",
     "source": "SIS"
   },
   "COGS-6880": {
     "subj": "COGS",
     "crse": "6880",
     "name": "Language-endowed Intel Agents",
-    "description": "This course will concentrate on the knowledge-based modeling of intelligent agents, with a special emphasis on semantically-oriented language processing. Theoretical and conceptual discussions will be balanced by practical work within the implemented OntoAgent cognitive architecture. The course will cover the modeling of decision-making, the various aspects of natural-language processing, and the art of knowledge engineering.",
+    "description": "This course will concentrate on explanation-capable knowledge-based cognitive intelligent agents capable of acting as members of human-agent teams. \u00a0The course will emphasize meaning-oriented language processing and cognitive robotics. We will discuss cognitive and cognitive-robotic architectures, the modeling of perception, decision-making and physical and verbal action, knowledge required by the agents and prospects for using generative AI to aid in the development of cognitive agents.",
     "source": "SIS"
   },
   "COGS-6940": {
     "subj": "COGS",
     "crse": "6940",
-    "name": "Readings In Cognitive Science",
+    "name": "Graduate Independent Study",
     "description": "An individually arranged independent study course under the supervision of a member of the Cognitive Science Department. The topic is selected by consultation between student and faculty member.",
     "source": "SIS"
   },
@@ -12386,7 +12386,7 @@
     "subj": "COMM",
     "crse": "2570",
     "name": "Typography",
-    "description": "Typography studies the form and function of alphabetic and pictographic systems in English-speaking society. The course aims to imbue in students a critical perspective on the role typography plays in the history and sustenance of civilization and the propagation of ideas throughout society. Students will read historical, theoretical, and evidence-based literature to glean principles for designing communicatively effective type. Verbal and visual assignments will enforce understanding of typographic principles and grammar for use in print and digital interfaces.",
+    "description": "Typography studies the artform of letters in time and space. We will focus on printed typography, addressing issues of clarity, legibility and production, while exploring semiotics and expression in the written word. Students will become familiar with the historical framework surrounding typographic production, its role in artistic and commercial practice, as well as \u201ctraditional\u201d typographic terms and standards. Students enrolled in this class will be expected to have a strong working knowledge of the following software programs: Adobe InDesign, Adobe Illustrator.",
     "source": "SIS"
   },
   "COMM-2616": {
@@ -12714,8 +12714,8 @@
   "COMM-4655": {
     "subj": "COMM",
     "crse": "4655",
-    "name": "Media And Mis / Disinformation",
-    "description": "This co-listed undergraduate and graduate course explores major approaches to studying\u2013\u2013and debates about stopping\u2013\u2013the spread of dis/misinformation, \u201cfake news,\u201d and conspiracy theories in media. Topics we will consider include: news gathering and publishing practices in both legacy and digital journalism, including fact checking; public relations and marketing; pre-digital \u201cfake news\u201d and conspiracy theories; propaganda and authoritarianism; and \u201cmedia manipulation\u201d and dis/misinformation on social media platforms.",
+    "name": "Open",
+    "description": "OPEN",
     "source": "SIS"
   },
   "COMM-4690": {
@@ -12805,7 +12805,7 @@
   "COMM-4940": {
     "subj": "COMM",
     "crse": "4940",
-    "name": "Readings In Comm",
+    "name": "Ugrad Independent Study",
     "description": "Readings and projects adapted to the needs of individual students.",
     "source": "SIS"
   },
@@ -13071,8 +13071,8 @@
   "COMM-6540": {
     "subj": "COMM",
     "crse": "6540",
-    "name": "Intro Comm Research II",
-    "description": "",
+    "name": "Visual Culture",
+    "description": "This co-listed undergraduate and graduate course will help students understand the barrage of images we encounter daily, including how these images affect us emotionally as individuals, how they influence the way we think and understand our reality, and how we conduct our lives together in the world. We\u2019ll examine a broad range of visual media from photographs, art, television, and film to social media platforms and new media technologies (e.g., YouTube, TikTok, VR, and AI).",
     "source": "SIS"
   },
   "COMM-6567": {
@@ -13190,7 +13190,7 @@
   "COMM-6940": {
     "subj": "COMM",
     "crse": "6940",
-    "name": "Studies In Communication",
+    "name": "Graduate Independent Study",
     "description": "Readings and projects adapted to the needs of individual students.",
     "source": "SIS"
   },
@@ -13638,9 +13638,9 @@
   "CSCI-2800": {
     "subj": "CSCI",
     "crse": "2800",
-    "name": "Computer Architecture And Operating Systems (Caos)",
+    "name": "Computer Architecture & Os",
     "description": "Introduction to computer architecture, assembler and C programming, and operating systems. Coverage includes numeric representations, processors, memory, I/O, digital logic gates, digital logic circuits, machine-level instruction formats, addressing modes, instruction types, and flow of control. Operating systems coverage includes memory management, processes, interprocess communication (IPC), system calls, synchronization, parallel programming, and network programming. Programming projects are required.",
-    "source": "CSCI topics"
+    "source": "SIS"
   },
   "CSCI-2940": {
     "subj": "CSCI",
@@ -13666,9 +13666,9 @@
   "CSCI-2960": {
     "subj": "CSCI",
     "crse": "2960",
-    "name": "Introduction To Competitive Programming",
-    "description": "TBA",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-2961": {
     "subj": "CSCI",
@@ -13834,8 +13834,8 @@
   "CSCI-4050": {
     "subj": "CSCI",
     "crse": "4050",
-    "name": "Computability,compilers & Comp",
-    "description": "This course discusses concepts of languages defined by formal grammars, Turing machines and rewriting systems, computability, Church-Turing thesis, decidable and undecidable problems, computational complexity, polynomial reducibility, NP-completeness, and Cook's theorem.",
+    "name": "Theory Of Computation",
+    "description": "This course covers the formal foundations of computability and complexity. We aim to answer fundamental questions about what problems can be solved and what problems cannot be solved, and what problems can be solved given our limited resources. Topics include: the Church-Turing thesis; variations of Turing Machines; decidability; the Halting Problem; reducibility; the Recursion Theorem; time and space complexity; intractability; NP-completeness; and Cook\u2019s theorem. We will also discuss some emerging and unconventional computing models.",
     "source": "SIS"
   },
   "CSCI-4090": {
@@ -13926,7 +13926,7 @@
     "subj": "CSCI",
     "crse": "4220",
     "name": "Network Programming",
-    "description": "Programming with an overview of the principles of computer networks, including a detailed look at the OSI reference model and various popular network protocol suites. Concentration on Unix interprocess communication (IPC), network programming using TCP and UDP, as well as client-side and mobile programming. Programming projects are required.",
+    "description": "Programming with an overview of the principles of computer networks, including a detailed look at the OSI reference model and various popular network protocol suites. Concentration on Unix inter-process communication (IPC), network programming using TCP and UDP, as well as client-side and mobile programming. Programming projects are required.",
     "source": "SIS"
   },
   "CSCI-4230": {
@@ -14158,7 +14158,7 @@
     "crse": "4700",
     "name": "Rcos Open Source Development",
     "description": "The mission of the Rensselaer Center for Open Source (RCOS) is to cultivate an inclusive, creative, and entrepreneurial community that seeks to empower students to develop open-source solutions to real-world problems. RCOS is a project-based course in which students join a project team and work primarily on one open-source project throughout the semester. Projects must be open source but can be existing external projects, internal (RCOS) projects, or new endeavors. Collaborative and cross-disciplinary projects are encouraged. Students are required to consistently contribute to their open source projects, in particular through multiple commits (commit early, commit often), presenting their work and/or specific technical talks, mentoring other projects, and generally contributing to the open source community.",
-    "source": "CSCI topics"
+    "source": "SIS"
   },
   "CSCI-4710": {
     "subj": "CSCI",
@@ -14198,7 +14198,7 @@
   "CSCI-4940": {
     "subj": "CSCI",
     "crse": "4940",
-    "name": "Readings In Csci",
+    "name": "Ugrad Independent Study",
     "description": "Credit Hours: 1 to 4",
     "source": "SIS"
   },
@@ -14219,72 +14219,72 @@
   "CSCI-4960": {
     "subj": "CSCI",
     "crse": "4960",
-    "name": "Knowledge Graph-Powered Hybrid Ai",
-    "description": "TBA",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "Credit Hours: 1 to 4",
+    "source": "SIS"
   },
   "CSCI-4961": {
     "subj": "CSCI",
     "crse": "4961",
-    "name": "Network Security And Defense",
-    "description": "This course covers network security and defense mechanisms to thwart a variety of attacks. Topics include packet sniffing and spoofing, attacks on the TCP/IP protocol, attacks on the ICMP, ARP protocol, firewall, DNS security: local DNS attack, remote DNS attack, virtual private networks, public key infrastructure, transport layer security, and CDN security.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4962": {
     "subj": "CSCI",
     "crse": "4962",
-    "name": "Introduction To Research [Communication-Intensive]",
-    "description": "This course is designed to introduce students to the key aspects of CSCI inter-domain research. The course's goal is to make students aware of the technicalities related to formal research and to assist students in overcoming any common misconceptions that may exist. By completing this course, students will be able to conduct research in a more systematic and formal manner from the start.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4963": {
     "subj": "CSCI",
     "crse": "4963",
-    "name": "Computer Architecture",
-    "description": "TBD",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4964": {
     "subj": "CSCI",
     "crse": "4964",
-    "name": "Software Verification",
-    "description": "This course will enable students to understand and apply software verification techniques with a particular emphasis on fundamental proof methods. The course will cover proof methods including implication chaining, applied to equational reasoning, sentential logic, and first-order logic. The course will also cover proofs about fundamental data types and algorithms. The course will use the Athena dual computation/deduction language, and the MIT Press book \"Fundamental Proof Methods in Computer Science\" by Konstantine Arkoudas and David Musser. Students will also review current research on software verification on topics of their interest, for example: model checking, program analyses, symbolic testing, temporal logic, modal logics, formal programming language semantics, proof-carrying code, dependent types, and session types. Contingent on time availability, the course will study proofs at an abstract level for reusability and their application to proofs about concurrent actor programs.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4965": {
     "subj": "CSCI",
     "crse": "4965",
-    "name": "Ai For Conservation",
-    "description": "This course will study the application of artificial intelligence techniques to problems in environmental conservation. A variety of data modalities will be considered, including image and video, acoustic, satellite, etc. The entire sequence of activities will be discussed \u2013 problem formulation, data collection and curation, algorithm training and testing, and system deployment. Along the way, FAIR and CARE principles for AI and data will be discussed, and other societal impacts will be addressed. Conservation applications will also be used to examine the state-of-the-art in AI. Students enrolled in the course are expected to have a working knowledge of AI/ML techniques that includes having trained PyTorch (preferrable) or TensorFlow (optional) models. Review materials will be provided. Requirements include active class participation, short homework assignments, leading paper discussions, and a semester-long technical project.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4966": {
     "subj": "CSCI",
     "crse": "4966",
-    "name": "Network Resilience",
-    "description": "This course is an interdisciplinary introduction to network resilience and its applications in both science and engineering. Classes will interchangeably present the chapters from these textbooks with an emphasis on the current active research papers related to network resilience, robustness, stability, and control. Topics to be covered include the network theory, dynamical systems, data analysis, and applications to biology, ecology, sociology, technology, and other fields. Students will learn about the ongoing research in the area and ultimately apply their knowledge to conduct their research by analyzing real network data set of their choosing as part of the final project.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4967": {
     "subj": "CSCI",
     "crse": "4967",
-    "name": "Advanced Operating Systems",
-    "description": "TBD",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4968": {
     "subj": "CSCI",
     "crse": "4968",
-    "name": "Algorithm Design & Modern Ml",
-    "description": "In modern machine learning, we usually see more highlights of applications like GANs and deep neural networks. However, if we take a deeper look, the foundational connection between algorithm design and machine learning remains critical as ever. This course aims to explore the interplay between these two fields and demonstrate how they continue to drive innovation together. We will cover how algorithm design helps tackle major challenges in modern machine learning. You will learn the principles behind learning with efficiency to process very large datasets and techniques for learning from noisy, unreliable data. We will also explore how machine learning is facilitating algorithm design. We will examine how concepts originated from data science, e.g., differential privacy, are being integrated into general algorithms. We will also see how machine learning models can be used to dramatically boost the performance of algorithms. This is a rigorous, proof-based course focused on algorithm design. A solid foundation in algorithms, data structures, and mathematical maturity is required. Expect to spend most of your time with math and proofs in this course.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4969": {
     "subj": "CSCI",
     "crse": "4969",
-    "name": "Software Analysis & Debugging",
-    "description": "TBD",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4970": {
     "subj": "CSCI",
@@ -14303,16 +14303,16 @@
   "CSCI-4972": {
     "subj": "CSCI",
     "crse": "4972",
-    "name": "Introduction To Logic-Based Ai",
-    "description": "Cross-listed from: COGS 4962/6962; PHIL 4961",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4973": {
     "subj": "CSCI",
     "crse": "4973",
-    "name": "Quantum Programming & Apps",
-    "description": "The course will delve into advanced topics in quantum computing and their applications, focusing on current research and cutting-edge developments. The seminar course will consist of both lectures and discussion sessions, where students will engage with contemporary research papers and have the opportunity to present on a research topic of their choice or their own findings. Throughout the course, students will explore various aspects of quantum machine learning, quantum chemistry, quantum finance, and other applications, understanding their theoretical foundations and practical implications. The course will also provide students with the chance to enhance their research and presentation skills.",
-    "source": "CSCI topics"
+    "name": "Csci Special Topics",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4974": {
     "subj": "CSCI",
@@ -14324,9 +14324,9 @@
   "CSCI-4975": {
     "subj": "CSCI",
     "crse": "4975",
-    "name": "Deep Learning On Graphs",
-    "description": "Deep Learning on Graphs is a course to explore state-of-the-art techniques in graph representation learning, with a particular emphasis on the emerging potential of Graph Neural Networks (GNNs). Graphs are widely used to represent data across various domains, including social science, linguistics, chemistry, biology, and physics, and GNNs have proven to be highly effective in facilitating computational tasks on these graphs. This course will cover topics such as network embedding, GNNs, properties of GNNs, and diverse applications of GNNs. In addition to lectures, students will be expected to read and discuss relevant literature, deliver presentations, and participate in research projects related to the subject matter.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-4976": {
     "subj": "CSCI",
@@ -14457,36 +14457,36 @@
   "CSCI-6050": {
     "subj": "CSCI",
     "crse": "6050",
-    "name": "Computability & Complexity",
-    "description": "This course discusses concepts of languages defined by formal grammars, Turing machines and rewriting systems, computability, Church-Turing thesis, decidable and undecidable problems, computational complexity, polynomial reducibility, NP-completeness, and Cook's theorem.",
+    "name": "Theory Of Computation",
+    "description": "This course covers the formal foundations of computability and complexity. We aim to answer fundamental questions about what problems can be solved and what problems cannot be solved, and what problems can be solved given our limited resources. Topics include: the Church-Turing thesis; variations of Turing Machines; decidability; the Halting Problem; reducibility; the Recursion Theorem; time and space complexity; intractability; NP-completeness; and Cook\u2019s theorem. We will also discuss some emerging and unconventional computing models.",
     "source": "SIS"
   },
   "CSCI-6100": {
     "subj": "CSCI",
     "crse": "6100",
     "name": "Machine Learning From Data",
-    "description": "Introduction to the theory, algorithms, and applications of machine learning (supervised, reinforcement, and unsupervised) from data: What is learning? Is learning feasible? How can it be done? How can it be done well? The course offers a mix of theory, technique, and application with additional selected topics chosen from Pattern Recognition, Decision Trees, Neural Networks, RBF\u2019s, Bayesian Learning, PAC Learning, Support Vector Machines, Gaussian processes, and Hidden Markov Models.",
+    "description": "Introduction to the theory, algorithms, and applications of machine learning (supervised, reinforcement, and unsupervised) from data: What is learning? Is learning feasible? How can it be done? How can it be done well? The course offers a mix of theory, technique, and application with additional selected topics chosen from Pattern Recognition, Decision Trees, Neural Networks, RBF's, Bayesian Learning, PAC Learning, Support Vector Machines, Gaussian processes, and Hidden Markov Models.",
     "source": "SIS"
   },
   "CSCI-6110": {
     "subj": "CSCI",
     "crse": "6110",
     "name": "Computational Social Processes",
-    "description": "Introduction to the computational and algorithmic aspects of social processes. Topics covered will be selected to illustrate the diverse challenges in algorithmic social process analysis: social networks and their dynamics; information flow; hidden networks. Algorithms involving social and selfish agents, social choice theory, voting, and auctions. Ranking actors in networks, recommendation systems, peer-review, and aggregation of rankings/reviews. Students cannot receive credit for both CSCI 4110 and CSCI 6110.",
+    "description": "Introduction to the computational and algorithmic aspects of social processes. Topics covered will be selected to illustrate the diverse challenges in algorithmic social process analysis: social networks and their dynamics; information flow; hidden networks. Algorithms involving social and selfish agents, social choice theory, voting, and auctions. Ranking actors in networks, recommendation systems, peer-review, and aggregation of rankings/reviews.",
     "source": "SIS"
   },
   "CSCI-6120": {
     "subj": "CSCI",
     "crse": "6120",
     "name": "Computational Finance",
-    "description": "Introduction to the computational and mathematical techniques for practical financial applications. The course will emphasize the algorithmic side of finance. Topics will be selected from pricing (options and derivatives), trading, risk-evaluation, selfish agents, sequential decisions, and portfolio optimization. Examples of the mathematical and algorithmic techniques covered are martingale measures, risk-neutral pricing and Monte Carlo, dynamic programing, and stochastic processes. Students cannot receive credit for both CSCI 4120 and CSCI 6120.",
+    "description": "Introduction to the computational and mathematical techniques for practical financial applications. The course will emphasize the algorithmic side of finance. Topics will be selected from pricing (options and derivatives), trading, risk-evaluation, selfish agents, sequential decisions, and portfolio optimization. Examples of the mathematical and algorithmic techniques covered are martingale measures, risk-neutral pricing and Monte Carlo, dynamic programing, and stochastic processes.",
     "source": "SIS"
   },
   "CSCI-6170": {
     "subj": "CSCI",
     "crse": "6170",
-    "name": "Fund Struct Cs II",
-    "description": "",
+    "name": "Projects In Ai & Machine Lrng",
+    "description": "We will study machine learning and AI solutions to real world problems using publicly available datasets. Topics include Deep Learning, Training Neural Networks (NN), Recurrent NN, Convolution NN, Auto-encoders, Generative Models, Natural Language processing (NLP), Reinforcement Learning, Diffusion models, Recommender Systems.",
     "source": "SIS"
   },
   "CSCI-6190": {
@@ -14661,7 +14661,7 @@
     "subj": "CSCI",
     "crse": "6610",
     "name": "Computing & Quantum Computing",
-    "description": "",
+    "description": "A course on computing and quantum computing emphasizing the theory and foundations. The course begins with advanced topics in the theory of computing (Turing Machines, undecidability, complexity and Boolean circuits, NP-completeness). The course then covers the foundations of Quantum Computing addressing the fundamental questions of \u201cWhat is quantum computing and how do we do it?\u201d before moving on to exploring quantum algorithm design by covering standard design techniques as well as the quantum algorithms for gatekeeper problems (quantum search, quantum counting, quantum approximate optimization, quantum machine learning, etc.). Students cannot receive credit for both CSCI 4610 and CSCI 6610.",
     "source": "SIS"
   },
   "CSCI-6730": {
@@ -14696,7 +14696,7 @@
     "subj": "CSCI",
     "crse": "6860",
     "name": "Finite Element Analysis",
-    "description": "Galerkin\u2019s method and extremal principles, finite element approximations (Lagrange, hierarchical and 3-D approximations, interpolation errors), mesh generation and assembly, adaptivity (h-, p-, hp-refinement). Error analysis and convergence rates. Perturbations resulting from boundary approximation, numerical integration, etc. Time dependent problems including parabolic and hyperbolic PDEs. Applications will be selected from several areas including heat conduction, wave propagation, potential theory, and solid and fluid mechanics.",
+    "description": "The course focuses on the mathematical and computational fundamentals as well as the applications of classical finite element methods and discontinuous Galerkin methods.  The methods are presented through their formulations,  matrix assembly for implementation, discrete spaces and approximation theories, stability, and error estimates. They will be applied to simulate elliptic/parabolic equations, convection-diffusion equations, and kinetic transport equations in one and higher dimensions. Galerkin-projection based reduced order models may also be discussed.",
     "source": "SIS"
   },
   "CSCI-6900": {
@@ -14716,7 +14716,7 @@
   "CSCI-6940": {
     "subj": "CSCI",
     "crse": "6940",
-    "name": "Readings In Csci",
+    "name": "Graduate Independent Study",
     "description": "Credit Hours: 1 to 3",
     "source": "SIS"
   },
@@ -14730,16 +14730,16 @@
   "CSCI-6960": {
     "subj": "CSCI",
     "crse": "6960",
-    "name": "Knowledge Graph-Powered Hybrid Ai",
-    "description": "TBA",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "Credit Hours: 1 to 3",
+    "source": "SIS"
   },
   "CSCI-6961": {
     "subj": "CSCI",
     "crse": "6961",
-    "name": "Machine Learning Seminar",
-    "description": "The course will explore advanced topics in machine learning, including current research and emerging techniques. The seminar will consist of both lectures and discussion sessions, where students will have the opportunity to explore current research papers and present on a research topic of their choice or their own findings. The seminar will also provide students with the opportunity to develop their research and presentation skills. By the end of the seminar, students will have gained a deeper understanding of advanced topics in machine learning and developed the skills necessary to contribute to ongoing research in the field.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6962": {
     "subj": "CSCI",
@@ -14758,23 +14758,23 @@
   "CSCI-6964": {
     "subj": "CSCI",
     "crse": "6964",
-    "name": "Software Verification",
-    "description": "This course will enable students to understand and apply software verification techniques with a particular emphasis on fundamental proof methods. The course will cover proof methods including implication chaining, applied to equational reasoning, sentential logic, and first-order logic. The course will also cover proofs about fundamental data types and algorithms. The course will use the Athena dual computation/deduction language, and the MIT Press book \"Fundamental Proof Methods in Computer Science\" by Konstantine Arkoudas and David Musser. Students will also review current research on software verification on topics of their interest, for example: model checking, program analyses, symbolic testing, temporal logic, modal logics, formal programming language semantics, proof-carrying code, dependent types, and session types. Contingent on time availability, the course will study proofs at an abstract level for reusability and their application to proofs about concurrent actor programs.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6965": {
     "subj": "CSCI",
     "crse": "6965",
-    "name": "Ai For Conservation",
-    "description": "This course will study the application of artificial intelligence techniques to problems in environmental conservation. A variety of data modalities will be considered, including image and video, acoustic, satellite, etc. The entire sequence of activities will be discussed \u2013 problem formulation, data collection and curation, algorithm training and testing, and system deployment. Along the way, FAIR and CARE principles for AI and data will be discussed, and other societal impacts will be addressed. Conservation applications will also be used to examine the state-of-the-art in AI. Students enrolled in the course are expected to have a working knowledge of AI/ML techniques that includes having trained PyTorch (preferrable) or TensorFlow (optional) models. Review materials will be provided. Requirements include active class participation, short homework assignments, leading paper discussions, and a semester-long technical project.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6966": {
     "subj": "CSCI",
     "crse": "6966",
-    "name": "Network Resilience",
-    "description": "This course is an interdisciplinary introduction to network resilience and its applications in both science and engineering. Classes will interchangeably present the chapters from these textbooks with an emphasis on the current active research papers related to network resilience, robustness, stability, and control. Topics to be covered include the network theory, dynamical systems, data analysis, and applications to biology, ecology, sociology, technology, and other fields. Students will learn about the ongoing research in the area and ultimately apply their knowledge to conduct their research by analyzing real network data set of their choosing as part of the final project.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6967": {
     "subj": "CSCI",
@@ -14786,9 +14786,9 @@
   "CSCI-6968": {
     "subj": "CSCI",
     "crse": "6968",
-    "name": "Decision Making Under Uncertainty",
-    "description": "This course introduces methods for automating the process of decision-making. Starting with the concept of probabilistic reasoning, this course will provide a foundation for a sequential decision-making framework, which can be applied in various domains including autonomous driving, exploration, and robotics. The focus will specifically be on decision making problems under state uncertainty and finally multi-agent systems. Topics include: Bayesian networks, Markov decision process, partially observable Markov decision processes, multi-agent reasoning.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6969": {
     "subj": "CSCI",
@@ -14807,9 +14807,9 @@
   "CSCI-6971": {
     "subj": "CSCI",
     "crse": "6971",
-    "name": "Algorithm Design & Modern Ml",
-    "description": "In modern machine learning, we usually see more highlights of applications like GANs and deep neural networks. However, if we take a deeper look, the foundational connection between algorithm design and machine learning remains critical as ever. This course aims to explore the interplay between these two fields and demonstrate how they continue to drive innovation together. We will cover how algorithm design helps tackle major challenges in modern machine learning. You will learn the principles behind learning with efficiency to process very large datasets and techniques for learning from noisy, unreliable data. We will also explore how machine learning is facilitating algorithm design. We will examine how concepts originated from data science, e.g., differential privacy, are being integrated into general algorithms. We will also see how machine learning models can be used to dramatically boost the performance of algorithms. This is a rigorous, proof-based course focused on algorithm design. A solid foundation in algorithms, data structures, and mathematical maturity is required. Expect to spend most of your time with math and proofs in this course.",
-    "source": "CSCI topics"
+    "name": "Topics In Computer Science",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6972": {
     "subj": "CSCI",
@@ -14821,9 +14821,9 @@
   "CSCI-6973": {
     "subj": "CSCI",
     "crse": "6973",
-    "name": "Quantum Programming & Apps",
-    "description": "The course will delve into advanced topics in quantum computing and their applications, focusing on current research and cutting-edge developments. The seminar course will consist of both lectures and discussion sessions, where students will engage with contemporary research papers and have the opportunity to present on a research topic of their choice or their own findings. Throughout the course, students will explore various aspects of quantum machine learning, quantum chemistry, quantum finance, and other applications, understanding their theoretical foundations and practical implications. The course will also provide students with the chance to enhance their research and presentation skills.",
-    "source": "CSCI topics"
+    "name": "Topics In Csci",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6974": {
     "subj": "CSCI",
@@ -14835,9 +14835,9 @@
   "CSCI-6975": {
     "subj": "CSCI",
     "crse": "6975",
-    "name": "Deep Learning On Graphs",
-    "description": "Deep Learning on Graphs is a course to explore state-of-the-art techniques in graph representation learning, with a particular emphasis on the emerging potential of Graph Neural Networks (GNNs). Graphs are widely used to represent data across various domains, including social science, linguistics, chemistry, biology, and physics, and GNNs have proven to be highly effective in facilitating computational tasks on these graphs. This course will cover topics such as network embedding, GNNs, properties of GNNs, and diverse applications of GNNs. In addition to lectures, students will be expected to read and discuss relevant literature, deliver presentations, and participate in research projects related to the subject matter.",
-    "source": "CSCI topics"
+    "name": "Csci Independent Study",
+    "description": "",
+    "source": "SIS"
   },
   "CSCI-6976": {
     "subj": "CSCI",
@@ -15332,7 +15332,7 @@
   "ENGR-2941": {
     "subj": "ENGR",
     "crse": "2941",
-    "name": "Readings In Engr",
+    "name": "Undergraduate Research Project",
     "description": "",
     "source": "SIS"
   },
@@ -15521,8 +15521,8 @@
   "ENGR-4370": {
     "subj": "ENGR",
     "crse": "4370",
-    "name": "Fndmtls Optoelectronic Tech",
-    "description": "The nature of optics, physics, and operation principles of optoelectronic devices and systems for communication, display, lighting, and computing. Topics include optics fundamentals, optical cavity, waveguides and fibers, light emitting diodes, laser diodes, photodetectors, solar cells, liquid crystal, birefringent materials, properties and devices, modulators and optical display. Several complex optoelectronic systems will also be used.",
+    "name": "Available",
+    "description": "",
     "source": "SIS"
   },
   "ENGR-4440": {
@@ -15591,7 +15591,7 @@
   "ENGR-4940": {
     "subj": "ENGR",
     "crse": "4940",
-    "name": "Readings In Engr",
+    "name": "Ugrad Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -15836,8 +15836,8 @@
   "ENGR-6370": {
     "subj": "ENGR",
     "crse": "6370",
-    "name": "Fndmtls Optoelectronic Tech",
-    "description": "The nature of optics, physics, and operation principles of optoelectronic devices and systems for communication, display, lighting, and computing. Topics include optics fundamentals, optical cavity, waveguides and fibers, light emitting diodes, laser diodes, photodetectors, solar cells, liquid crystal, birefringent materials, properties and devices, modulators and optical display. Several complex optoelectronic systems will also be used.",
+    "name": "Available",
+    "description": "OPEN",
     "source": "SIS"
   },
   "ENGR-6420": {
@@ -15857,7 +15857,7 @@
   "ENGR-6940": {
     "subj": "ENGR",
     "crse": "6940",
-    "name": "Readings In Engr",
+    "name": "Graduate Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -16011,8 +16011,8 @@
   "ERTH-1100": {
     "subj": "ERTH",
     "crse": "1100",
-    "name": "Geology I: Earth's Interior",
-    "description": "Age and origin of the Earth, internal constituents, and energy sources; how plates move, oceans develop, and mountains rise. The course aims to give a quantitative picture of the Earth\u2019s major processes and the ways in which they interact.",
+    "name": "Earth, Energy, And Environment",
+    "description": "Nature and evolution of Earth from the scale of minerals and rocks to tectonic plates. Earthquakes and volcanoes, their hazards and effects on humans. Natural resources, sources of energy, and their environmental impacts.",
     "source": "SIS"
   },
   "ERTH-1125": {
@@ -16025,7 +16025,7 @@
   "ERTH-1150": {
     "subj": "ERTH",
     "crse": "1150",
-    "name": "Geology I: Lab",
+    "name": "Earth, Energy & Envirnmnt Lab",
     "description": "This lab focuses on geological processes in the interior of Earth and how they are manifested at the surface: age and origin of Earth, how rocks form, large scale Earth processes, and energy sources. Review plate tectonics and the evolution of the main features of Earth\u2019s surface. Physical and chemical composition of Earth and the large-scale dynamics of the planet.",
     "source": "SIS"
   },
@@ -16040,13 +16040,13 @@
     "subj": "ERTH",
     "crse": "1200",
     "name": "Geology II: Earth's Surface",
-    "description": "The geological environment of humankind: the atmosphere, oceans, groundwater, rivers, glaciers, deserts, and soils. The course explores the processes by which these and other features develop and change, both naturally and as a result of human activity.",
+    "description": "This course looks investigates Earth\u2019s climate and its surface environment from a geologist\u2019s perspective. Students will develop an understanding of the atmospheric, oceanographic, geological, and biological systems that interact to modulate the climate. Particular focus will be on the study of modern coastal and river processes in the context of our region\u2019s glacial history.",
     "source": "SIS"
   },
   "ERTH-1250": {
     "subj": "ERTH",
     "crse": "1250",
-    "name": "Geology II: Lab",
+    "name": "Earths Surface Processes Lab",
     "description": "The lab provides an introduction to analytical approaches, measurements, and observations used by geoscientists to advance understanding of natural surface earth, hydrologic, and atmospheric processes and the influence of human activities.",
     "source": "SIS"
   },
@@ -16264,7 +16264,7 @@
     "subj": "ERTH",
     "crse": "2610",
     "name": "Oceanography",
-    "description": "Ocean basins and margins; origin, distribution, chemistry, and history of sediments; physical and chemical properties of seawater; global atmospheric and oceanic circulations and climatic interactions.",
+    "description": "Ocean basins and margins; origin, distribution, chemistry, and history of sediments; physical and chemical properties of seawater; global atmospheric and oceanic circulations and climatic interactions",
     "source": "SIS"
   },
   "ERTH-2620": {
@@ -16516,7 +16516,7 @@
     "subj": "ERTH",
     "crse": "4500",
     "name": "Earth's Climate:past, Present And Future",
-    "description": "Overview of physical components of Earth\u2019s climate system; builds on this foundation by examining the roles of both natural Earth system processes and anthropogenic influences in determining Earth\u2019s climate and climate changes in the past, present, and future. Initial focus is on recent and future climate change. Remainder of course will emphasize the study and reconstruction of climates and climate change through geologic history.",
+    "description": "Overview of physical components of Earth\u2019s climate system; builds on this foundation by examining the roles of both natural Earth system processes and anthropogenic influences in determining Earth\u2019s climate and climate changes in the past,\u00a0present, and future. Initial focus is on climate change through geologic history. Remainder of course will emphasize recent and future climate change.",
     "source": "SIS"
   },
   "ERTH-4510": {
@@ -16579,7 +16579,7 @@
     "subj": "ERTH",
     "crse": "4750",
     "name": "Gis In The Sciences",
-    "description": "Introduction to analysis and interpretation of spatial data and their presentation on maps. In this computationally intensive course, students will obtain practical skills and hands-on experience with state-of-the-art GIS applications. Concepts covered include map projections, geoprocessing, cartography, raster algebra, terrain modeling, multi-spectral image analysis, geo-referencing, interpolation, web mapping, and GPS.",
+    "description": "Introduction to analysis and interpretation of spatial data and their presentation on maps. In this computationally intensive course, students will obtain practical skills and hands-on experience with GIS applications. Concepts covered include map projections, geoprocessing, cartography, terrain modeling, georeferencing, interpolation, and GPS.",
     "source": "SIS"
   },
   "ERTH-4810": {
@@ -16592,7 +16592,7 @@
   "ERTH-4940": {
     "subj": "ERTH",
     "crse": "4940",
-    "name": "Readings In Erth",
+    "name": "Ugrad Independent Study",
     "description": "Credit Hours: 1 to 4",
     "source": "SIS"
   },
@@ -16858,7 +16858,7 @@
   "ERTH-6940": {
     "subj": "ERTH",
     "crse": "6940",
-    "name": "Readings In Erth",
+    "name": "Graduate Independent Study",
     "description": "Credit Hours: 1 to 4",
     "source": "SIS"
   },
@@ -17398,7 +17398,7 @@
     "subj": "ECON",
     "crse": "4220",
     "name": "Applied Game Theory",
-    "description": "Game theory has been emerging as a branch of mathematical economics and applied to analyze situations where each decision-maker needs to think strategically about others\u2019 perspectives and actions in order to determine ones\u2019 own optimal choice. This course provides an introduction and presents selected topics in game theory. It will look into basic definitions and equilibrium concepts and develop a wide range of applications in Economics, Biology, sports, health care, and various fields. The goal of the lecture is to improve understanding of strategic interaction in economic, business, and social situations.",
+    "description": "Game theory has been emerging as a branch of mathematical economics and applied to analyze situations where each decision-maker needs to think strategically about others' perspectives and actions in order to determine ones' own optimal choice. This course provides an introduction and presents selected topics in game theory. It will look into basic definitions and equilibrium concepts and develop a wide range of applications in Economics, Biology, sports, health care, and various fields. The goal of the lecture is to improve understanding of strategic interaction in economic, business, and social situations.",
     "source": "SIS"
   },
   "ECON-4230": {
@@ -17565,7 +17565,7 @@
   "ECON-4940": {
     "subj": "ECON",
     "crse": "4940",
-    "name": "Readings In Economics",
+    "name": "Ugrad Independent Study",
     "description": "Credit Hours: 3 to 4",
     "source": "SIS"
   },
@@ -18062,7 +18062,7 @@
   "ECON-6940": {
     "subj": "ECON",
     "crse": "6940",
-    "name": "Readings In Economics",
+    "name": "Graduate Independent Study",
     "description": "Credit Hours: 3",
     "source": "SIS"
   },
@@ -18931,7 +18931,7 @@
     "subj": "ECSE",
     "crse": "2110",
     "name": "Electrical Energy Systems",
-    "description": "This course introduces the major components of today\u2019s power system such as transformers, electric machines, and transmission lines. Renewable energy sources and systems are discussed, including wind and solar energy. Integration of energy sources with the grid is addressed.",
+    "description": "This course introduces basic concepts of power systems. Core topics covered in the course include electromechanical and electromagnetic energy conversion, solid-state power conversion, and AC circuits. This course also provides an overview of power generation from conventional and renewable sources, AC and DC power transmission and distribution, as well as the use of electricity in various forms.",
     "source": "SIS"
   },
   "ECSE-2210": {
@@ -19260,7 +19260,7 @@
     "subj": "ECSE",
     "crse": "4370",
     "name": "Introduction To Optoelectronics Technology",
-    "description": "The nature of optics, physics, and operation principles of optoelectronic devices and systems for communication, display, lighting, and computing. Topics include optics fundamentals, waveguide and fibers, LEDs, laser diode, photodetectors, solar cells, liquid crystal devices, modulators, optical display, and light detection and ranging (LiDAR) systems.",
+    "description": "The nature of optics, physics, and operation principles of optoelectronic devices and systems for communication, display, lighting, and computing. Topics include optics fundamentals, optical cavity, waveguides and fibers, light emitting diodes, laser diodes, photodetectors, solar cells, liquid crystal, birefringent materials, properties and devices, modulators and optical display. Several complex optoelectronic systems will also be used.",
     "source": "SIS"
   },
   "ECSE-4380": {
@@ -19476,7 +19476,7 @@
   "ECSE-4940": {
     "subj": "ECSE",
     "crse": "4940",
-    "name": "Indep. Studies In Ecse",
+    "name": "Ugrad Independent Study",
     "description": "Supervised reading and research.",
     "source": "SIS"
   },
@@ -19722,7 +19722,7 @@
     "subj": "ECSE",
     "crse": "6170",
     "name": "Mod & Sim For Cyber-phys Sys",
-    "description": "Modeling and simulation of cyber-physical systems through object-oriented equation-based computer languages and software tools.\u00a0Describes formalisms for continuous, discrete, timed-clocked\u00a0synchronous systems and finite state machines; and applies\u00a0simulation methods through numerical solution of differential-and-algebraic higher-and-varying index systems of equations with time\u00a0and state event\u00a0event\u00a0handling. Composing reusable model\u00a0architectures, templates, interfaces and data management for\u00a0model variants. Applies model deployment in heterogeneous\u00a0environments using model exchange, co-simulation and real-time\u00a0simulation techniques.",
+    "description": "Modeling and simulation of cyber-physical systems through object-oriented equation-based computer languages and software tools. Describes formalisms for continuous, discrete, timed-clocked synchronous systems and finite state machines; and applies simulation methods through numerical solution of differential-and-algebraic higher-and-varying index systems of equations with time and state event handling. Composing reusable model architectures, templates, interfaces and data management for model variants. Applies model deployment in heterogeneous environments using model exchange, co-simulation and real-time simulation techniques.",
     "source": "SIS"
   },
   "ECSE-6180": {
@@ -19736,7 +19736,7 @@
     "subj": "ECSE",
     "crse": "6190",
     "name": "Computer Methods In Epe",
-    "description": "Applies the student\u2019s knowledge of power engineering to the solution of large problems by computer methods. Treats matrix techniques, load-flow analysis, network building, short circuit studies, numerical integration, and finite element analysis as it applies to power systems and power apparatus.",
+    "description": "Applies the student's knowledge of power engineering to the solution of large problems by computer methods. Treats matrix techniques, load-flow analysis, network building, short circuit studies, numerical integration, and finite element analysis as it applies to power systems and power apparatus.",
     "source": "SIS"
   },
   "ECSE-6200": {
@@ -20148,8 +20148,8 @@
   "ECSE-6880": {
     "subj": "ECSE",
     "crse": "6880",
-    "name": "Control Using Petri Nets",
-    "description": "",
+    "name": "Dist Optimization & Learning",
+    "description": "This is a course about theory, algorithms and applications of distributed optimization and learning. The course covers the basics of distributed optimization and learning algorithms and their performance analyses when they are used to solve large-scale distributed problems arising in signal and image processing, communication networks and control systems.",
     "source": "SIS"
   },
   "ECSE-6900": {
@@ -20162,7 +20162,7 @@
   "ECSE-6940": {
     "subj": "ECSE",
     "crse": "6940",
-    "name": "Readings In Ecse",
+    "name": "Graduate Independent Study",
     "description": "Supervised reading and problems, by individual arrangement.",
     "source": "SIS"
   },
@@ -20456,7 +20456,7 @@
   "ESCI-2940": {
     "subj": "ESCI",
     "crse": "2940",
-    "name": "Esci Ind Study",
+    "name": "Ugrad Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -21093,14 +21093,14 @@
   "ENVE-4940": {
     "subj": "ENVE",
     "crse": "4940",
-    "name": "Readings In Enve",
+    "name": "Ugrad Independent Study",
     "description": "Credit Hours: 1 to 4",
     "source": "SIS"
   },
   "ENVE-4941": {
     "subj": "ENVE",
     "crse": "4941",
-    "name": "Undergraduate Resarch Project",
+    "name": "Undergraduate Research Project",
     "description": "",
     "source": "SIS"
   },
@@ -21436,7 +21436,7 @@
   "ENVE-6940": {
     "subj": "ENVE",
     "crse": "6940",
-    "name": "Readings In Enve",
+    "name": "Graduate Independent Study",
     "description": "Credit Hours: 1 to 4",
     "source": "SIS"
   },
@@ -21639,14 +21639,14 @@
   "GSAS-2940": {
     "subj": "GSAS",
     "crse": "2940",
-    "name": "Readings In Gsas",
+    "name": "Ugrad Independent Study",
     "description": "Credit Hours: 1 to 4",
     "source": "SIS"
   },
   "GSAS-2941": {
     "subj": "GSAS",
     "crse": "2941",
-    "name": "Independent Study",
+    "name": "Undergraduate Research Project",
     "description": "",
     "source": "SIS"
   },
@@ -21814,7 +21814,7 @@
   "GSAS-4940": {
     "subj": "GSAS",
     "crse": "4940",
-    "name": "Gsas Research Project",
+    "name": "Ugrad Independent Study",
     "description": "When Offered: Fall and spring terms annually.",
     "source": "SIS"
   },
@@ -21870,7 +21870,7 @@
   "GSAS-6100": {
     "subj": "GSAS",
     "crse": "6100",
-    "name": "Game Stdies Theory & Praxis",
+    "name": "Game Studies Theory & Praxis",
     "description": "As foundational course in the practice of critical game design, this course introduces students to major theorists in the field of game studies and topics including theories of play, space, narratology, ludology, identity, representation, culture and society. Students make integrative connections between theory and practice with a semester-long iterative design project, including critical writing, paper prototyping and peer feedback. Students explore game studies concepts both in a traditional research paper format, and in design practice.",
     "source": "SIS"
   },
@@ -21905,7 +21905,7 @@
   "GSAS-6940": {
     "subj": "GSAS",
     "crse": "6940",
-    "name": "Readings In Gsas",
+    "name": "Graduate Independent Study",
     "description": "Credit Hours: 1 to 4",
     "source": "SIS"
   },
@@ -22815,7 +22815,7 @@
   "ISYE-4940": {
     "subj": "ISYE",
     "crse": "4940",
-    "name": "Readings In Isye",
+    "name": "Ugrad Independent Study",
     "description": "Credit Hours: 1 to 6",
     "source": "SIS"
   },
@@ -23144,14 +23144,14 @@
   "ISYE-6900": {
     "subj": "ISYE",
     "crse": "6900",
-    "name": "Seminar In Isye Research",
-    "description": "A review of active ISYE doctoral research projects and activities. Students develop a research paper or proposal under the guidance of a selected faculty adviser and present research findings in class. It is anticipated that the research paper will lead to identification of the broad area of dissertation research. The proposal should be of a quality that can be submitted to an external funding agency.",
+    "name": "Researchers Toolkit For Engrs",
+    "description": "This course presents the fundamentals of research in engineering. The objectives of the class are: (i) To introduce the main ideas and tools for doing research in engineering, (ii) To develop and practice critical skills for assessing research projects, producing new research and communicating them,(iii) To show the diverse research career options in academia and industry.  Students will identify an advisor, develop a research project under their guidance, and present their work in class.",
     "source": "SIS"
   },
   "ISYE-6940": {
     "subj": "ISYE",
     "crse": "6940",
-    "name": "Readings In Isye",
+    "name": "Graduate Independent Study",
     "description": "Credit Hours: 3 to 6",
     "source": "SIS"
   },
@@ -23480,7 +23480,7 @@
   "ITWS-4940": {
     "subj": "ITWS",
     "crse": "4940",
-    "name": "Independent Study In Itec",
+    "name": "Ugrad Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -23634,7 +23634,7 @@
   "ITWS-6940": {
     "subj": "ITWS",
     "crse": "6940",
-    "name": "Independent Study In Itec",
+    "name": "Graduate Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -24852,7 +24852,7 @@
   "IHSS-6050": {
     "subj": "IHSS",
     "crse": "6050",
-    "name": "Quanlitative Research Writing",
+    "name": "Qualitative Research Writing",
     "description": "This course supports interdisciplinary humanities and social science graduate students in preparing strong proposals for external funding and providing a structured process for turning course papers into journal articles. The assignments and feedback will also support STS graduate students\u2019 comprehensive examination process, which requires a preliminary plan for dissertation research and preparation of a publication-ready paper. STS PhD students are required to take this course in their first year. It is suggested that they take it as an elective in their second or third year as well.",
     "source": "SIS"
   },
@@ -25377,7 +25377,7 @@
   "ISCI-4940": {
     "subj": "ISCI",
     "crse": "4940",
-    "name": "Readings In Isci",
+    "name": "Ugrad Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -25566,7 +25566,7 @@
   "ISCI-6940": {
     "subj": "ISCI",
     "crse": "6940",
-    "name": "Readings In Isci",
+    "name": "Graduate Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -26028,14 +26028,14 @@
   "LANG-2940": {
     "subj": "LANG",
     "crse": "2940",
-    "name": "Language Studies",
+    "name": "Ugrad Independent Study",
     "description": "Readings and projects adapted to the needs of individual students.",
     "source": "SIS"
   },
   "LANG-2941": {
     "subj": "LANG",
     "crse": "2941",
-    "name": "Lang Ug Research Prjct",
+    "name": "Undergraduate Research Project",
     "description": "",
     "source": "SIS"
   },
@@ -26308,14 +26308,14 @@
   "LANG-4940": {
     "subj": "LANG",
     "crse": "4940",
-    "name": "Language Studies",
+    "name": "Ugrad Independent Study",
     "description": "Readings and projects adapted to the needs of individual students.",
     "source": "SIS"
   },
   "LANG-4941": {
     "subj": "LANG",
     "crse": "4941",
-    "name": "Lang Ug Research Prjct",
+    "name": "Undergraduate Research Project",
     "description": "",
     "source": "SIS"
   },
@@ -26455,7 +26455,7 @@
   "LANG-6940": {
     "subj": "LANG",
     "crse": "6940",
-    "name": "Language Studies",
+    "name": "Graduate Independent Study",
     "description": "Readings and projects adapted to the needs of individual students.",
     "source": "SIS"
   },
@@ -26532,7 +26532,7 @@
   "LGHT-4940": {
     "subj": "LGHT",
     "crse": "4940",
-    "name": "Adv Ind Projects In Lght",
+    "name": "Ugrad Independent Study",
     "description": "Individual projects and readings adapted to the needs of individual students at the advanced level.",
     "source": "SIS"
   },
@@ -26651,7 +26651,7 @@
   "LGHT-6940": {
     "subj": "LGHT",
     "crse": "6940",
-    "name": "Adv Ind Projects In Lght",
+    "name": "Graduate Independent Study",
     "description": "Individual projects and readings adapted to the needs of individual students at the advanced level.",
     "source": "SIS"
   },
@@ -26917,7 +26917,7 @@
   "LITR-2940": {
     "subj": "LITR",
     "crse": "2940",
-    "name": "Literature Studies",
+    "name": "Ugrad Independent Study",
     "description": "Readings and projects adapted to the needs of individual students.",
     "source": "SIS"
   },
@@ -27120,7 +27120,7 @@
   "LITR-4940": {
     "subj": "LITR",
     "crse": "4940",
-    "name": "Readings In Litr",
+    "name": "Ugrad Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -27274,7 +27274,7 @@
   "LITR-6940": {
     "subj": "LITR",
     "crse": "6940",
-    "name": "Readings In Litr",
+    "name": "Graduate Independent Study",
     "description": "Readings and projects adapted to the needs of individual students.",
     "source": "SIS"
   },
@@ -27618,7 +27618,7 @@
     "subj": "MGMT",
     "crse": "2510",
     "name": "Intro To Data Mgmt & Analytics",
-    "description": "An introduction to the fundamentals of data management and analysis with applications in business and information systems. Through hands-on exercises students will develop competencies in working with data through spreadsheets applications and relational databases. Topics include foundational concepts in information systems, spreadsheets, and basic data modeling and database design.",
+    "description": "An introduction to the fundamentals of data management and analysis. The course will survey and cover methods ranging from spreadsheets to relational databases. Learning is supported with hands-on exercises, helping students develop competencies in working with data. Topics include foundational concepts in information systems, spreadsheets, data modeling, and database design.",
     "source": "SIS"
   },
   "MGMT-2600": {
@@ -27842,7 +27842,7 @@
     "subj": "MGMT",
     "crse": "4140",
     "name": "Computer Info Systems",
-    "description": "This course provides the undergraduate management student with an introduction to the concept and components of computer-based \u201cmanagement information systems\u201d (MIS) and their integration into organizational processes to gain competitive advantage. This course will examine approaches for developing and using information systems in support of business processes. Topics include: the impact of computer-based information systems on organizations; the basic technology components of modern information systems; the process by which information systems are created and changed; and selected management and technology issues.",
+    "description": "This course surveys and introduces the concepts and components of computer-based \u201cmanagement information systems\u201d (MIS) and their optimal integration into organizational processes. To that end, the course examines approaches for developing and using information systems in support of organizational processes and objective. Topics include the impact of computer-based information systems on organizations; the fundamental technology components of modern information systems; the process by which information systems are created and changed; and potential management and technology issues.",
     "source": "SIS"
   },
   "MGMT-4150": {
@@ -27863,7 +27863,7 @@
     "subj": "MGMT",
     "crse": "4170",
     "name": "Data Resource Management",
-    "description": "This is a hands-on course where students will learn a mix of theoretical and practical tools. Using these tools, they will solve a variety of supply chain problems, both analytically and numerically. Students will examine data and use this to understand supply, demand, and inventory levels using R to model many of these problems. The course will also review the data and assess its suitability for modelling. Time series, Markov chain, optimal control, linear programming, statistical analysis, and other mathematical tools will be used to reveal the data\u2019s secrets. The bottom line is these insights will be used to make recommendations to firms and other decision makers. Students will also look at qualitative problems through the examination and discussions of cases in class. Not everything can be distilled to a number and so a holistic view of business problems will be taken to make more strategic recommendations. Teams of students will then solve and present these case results",
+    "description": "The primary objective of this course is to introduce the multifaceted role of data as a resource of the organization, in three ways. First, it examines the role of data at the operational, tactical, and strategic levels of the organization. Second, it provides students with knowledge and hands on training of technologies that manipulate data, including  structured query language (SQL), extraction transformation and loading tools (ETL), data warehousing (DW), online analytical processing (OLAP), and data mining (DM). The course exposes students to big data management techniques. Finally, the course provides students the theory and hands on training to understand the transformation of data to information.",
     "source": "SIS"
   },
   "MGMT-4175": {
@@ -28149,7 +28149,7 @@
   "MGMT-4940": {
     "subj": "MGMT",
     "crse": "4940",
-    "name": "Studies In Management",
+    "name": "Ugrad Independent Study",
     "description": "Credit Hours: 1 to 8",
     "source": "SIS"
   },
@@ -28318,7 +28318,7 @@
     "subj": "MGMT",
     "crse": "6020",
     "name": "Financial Management I",
-    "description": "The purpose of this course is to develop a working understanding of the major investment and financial decisions of the firm. Emphasis will be placed upon identifying and solving the problems commonly faced by financial managers. The course presents the needed theory and develops financial problem solving skills through individualized problem solving, structured case analysis, and industry and company analysis using Internet sources.",
+    "description": "The purpose of this course is to develop a working understanding of the major investment and financial decisions of the firm. Emphasis will be placed upon identifying and solving the problems commonly faced by financial managers. The course presents the needed theory and develops financial problem-solving skills through individualized problem solving, structured case analysis, and industry and company analysis using Internet sources.",
     "source": "SIS"
   },
   "MGMT-6030": {
@@ -28331,7 +28331,7 @@
   "MGMT-6040": {
     "subj": "MGMT",
     "crse": "6040",
-    "name": "Talent Management",
+    "name": "Organiztnl Behavior & Ldrshp",
     "description": "This course is designed to develop skills in understanding human behavior in organizations and how to effectively manage the talent that resides within employees. Students will learn about essential aspects of managing and developing talent, including individual differences, employee hiring, motivation, team dynamics, leadership, and influencing others. Through a discussion of concepts in human behavior students will learn useful analytical frameworks for understanding the complexities of managing talent in order to best achieve organizational success.",
     "source": "SIS"
   },
@@ -28345,7 +28345,7 @@
   "MGMT-6060": {
     "subj": "MGMT",
     "crse": "6060",
-    "name": "Business Impl. Of Emerg. Tech",
+    "name": "Tech Strategy In Age Of Ai",
     "description": "This course investigates the business dimensions of major technological advances, highlighting how industry structures an organization, the dynamics of competition, patterns of innovation, operational decisions, and financial investment are all influenced by various types of technical breakthrough. Students also get to explore the interplay between emerging technology development and commercialization. The challenges associated with intellectual property protection and utilization, as well as the socio-economic and ethical dimensions of new technology adoption, are explored. Each year, a different set of key technologies will be examined and analyzed.",
     "source": "SIS"
   },
@@ -28584,7 +28584,7 @@
     "subj": "MGMT",
     "crse": "6430",
     "name": "Advanced Financial Statement Analysis",
-    "description": "This course is designed to strengthen students\u2019 ability to correctly analyze, interpret, and evaluate financial statements and their accompanying disclosures. The course is aimed at anyone whose career might involve working with accounting data, and should be especially useful for those interested in consulting and financial analysis. Discussed throughout the semester will be how to use financial accounting information for evaluating past performance and predicting future performance of a company or division. Also discussed will be the key disclosure rules in the United States, the communication methods available to managers, managers\u2019 incentives and ability to exert discretion over reported earnings, and the interplay between a company\u2019s corporate strategy and its financial reporting policies and practices. The course revolves around a number of topics of recent interest to the business community including accounting and financial analysis, performance forecasting, the quality of earnings, mergers and acquisitions, purchased R&D, post-employment benefits, executive compensation, and intangible assets. This course assumes that students have a basic knowledge of accounting, finance, economics, and business strategy. The focus is on integrating key concepts from each of these areas and applying them to financial decision-making. Half of the course time will be devoted to case analysis. Students are responsible for reading each case thoroughly and familiarizing themselves with the relevant accounting issues before the class.",
+    "description": "This course is designed to strengthen students' ability to correctly analyze, interpret, and evaluate financial statements and their accompanying disclosures. The course is aimed at anyone whose career might involve working with accounting data, and should be especially useful for those interested in consulting and financial analysis. Discussed throughout the semester will be how to use financial accounting information for evaluating past performance and predicting future performance of a company or division. Also discussed will be the key disclosure rules in the United States, the communication methods available to managers, managers' incentives and ability to exert discretion over reported earnings, and the interplay between a company's corporate strategy and its financial reporting policies and practices. The course revolves around a number of topics of recent interest to the business community including accounting and financial analysis, performance forecasting, the quality of earnings, mergers and acquisitions, purchased R&D, post-employment benefits, executive compensation, and intangible assets. This course assumes that students have a basic knowledge of accounting, finance, economics, and business strategy. The focus is on integrating key concepts from each of these areas and applying them to financial decision-making. Half of the course time will be devoted to case analysis. Students are responsible for reading each case thoroughly and familiarizing themselves with the relevant accounting issues before the class.",
     "source": "SIS"
   },
   "MGMT-6445": {
@@ -28640,7 +28640,7 @@
     "subj": "MGMT",
     "crse": "6510",
     "name": "Financial Computation & Simul",
-    "description": "The primary objective of this course is to provide the first or second semester financial engineering student with basic quantitative and analytical tools necessary for sound financial decision making, particularly in quantitative finance and risk analytics contexts. The course emphasizes financial computation techniques, whereby students learn standard methodologies to obtain numerical solutions to financial problems. Topics include solving linear and nonlinear systems of equations, optimization, lattices, Monte Carlo simulation, and finite difference methods as applied to common financial problems.R is the primary computing language used in this course.",
+    "description": "The primary objective of this course is to provide the first or second semester financial engineering student with basic quantitative and analytical tools necessary for sound financial decision making, particularly in quantitative finance and risk analytics contexts. The course emphasizes financial computation techniques, whereby students learn standard methodologies to obtain numerical solutions to financial problems. Topics include solving linear and nonlinear systems of equations, optimization, lattices, Monte Carlo simulation, and finite difference methods as applied to common financial problems. R is the primary computing language used in this course.",
     "source": "SIS"
   },
   "MGMT-6511": {
@@ -28885,7 +28885,7 @@
     "subj": "MGMT",
     "crse": "6840",
     "name": "Practicum In Management",
-    "description": "This is an experiential, project-based course where students work on projects for an actual business. Students work in a consulting role for a local company. Practicum in Management is designed and developed for students from all educational backgrounds including analytics, who want to learn the fundamentals of business as they apply to satisfying a \u201ccustomer\u2019s need\u201d in various real-world applications. Students will work on a team or individually on projects and communicate to the class frequently to facilitate student learning from one another. We begin with some basic tenets of business and an overview of how to develop and oversee a project plan. The course will give you first-hand experience understanding the needs of a consulting client, articulating a plan and executing the plan to fill their needs.",
+    "description": "This is an experiential, project-based course where students work on projects for an actual business. Students work in a consulting role for a local company. Practicum in Management is designed and developed for students from all educational backgrounds including analytics, who want to learn the fundamentals of business as they apply to satisfying a \"customer's need\" in various real-world applications. Students will work on a team or individually on projects and communicate to the class frequently to facilitate student learning from one another. We begin with some basic tenets of business and an overview of how to develop and oversee a project plan. The course will give you first-hand experience understanding the needs of a consulting client, articulating a plan and executing the plan to fill their needs.",
     "source": "SIS"
   },
   "MGMT-6870": {
@@ -28905,7 +28905,7 @@
   "MGMT-6940": {
     "subj": "MGMT",
     "crse": "6940",
-    "name": "Independent Study",
+    "name": "Graduate Independent Study",
     "description": "Credit Hours: 1 to 6",
     "source": "SIS"
   },
@@ -29115,7 +29115,7 @@
   "MGMT-6980": {
     "subj": "MGMT",
     "crse": "6980",
-    "name": "Practicum In Managemnt",
+    "name": "Master's Project",
     "description": "",
     "source": "SIS"
   },
@@ -29143,8 +29143,8 @@
   "MGMT-7030": {
     "subj": "MGMT",
     "crse": "7030",
-    "name": "Strategy, Tech & Competition I",
-    "description": "This course covers the fundamentals of business and corporate strategy, integrating these concepts into an environment of technological change, competition, and entrepreneurship. The course includes the following areas of emphasis: concepts of strategy, industry environment, resources and capabilities of the firm, organization and systems of the firm, the dynamics of competitive advantage, strategic alternative analysis, and strategies in different contexts. The course uses business cases and a project to enrich the theoretical concepts.",
+    "name": "Business & Corporate Strategy",
+    "description": "This course covers the fundamentals of business and corporate strategy, integrating these with the challenges of managing firms in competitive environments. The course includes the following areas of emphasis: concepts of strategy, industry environment, resources and capabilities of the firm, the principles of competitive advantage, and strategy formulation and implementation in different contexts. The course uses business cases and a project to enrich the theoretical concepts",
     "source": "SIS"
   },
   "MGMT-7050": {
@@ -29158,14 +29158,14 @@
     "subj": "MGMT",
     "crse": "7060",
     "name": "Developing Innovative New Products & Services II",
-    "description": "This course immerses students in the practices and activities that lead to the creation of innovative new products and services. Through a team-based learning experience, students generate an idea for a new product or service and follow the development process from conception through planning for commercialization. Through lectures, cases, and practical exercises, students learn how to overcome hurdles inherent in new product and service development. Students apply this knowledge in all phases of product development, including concept testing, product design, production planning, and market strategy. The project undertaken in this course provides student teams with an opportunity to create a new venture that may then be carried forward utilizing Rensselaer\u2019s technological resources such as the Incubator Program and Rensselaer\u2019s Technology Park.",
+    "description": "This course immerses students in the practices and activities that lead to the creation of innovative new products and services. Through a team-based learning experience, students generate an idea for a new product or service and follow the development process from conception through planning for commercialization. Through lectures, cases, and practical exercises, students learn how to overcome hurdles inherent in new product and service development. Students apply this knowledge in all phases of product development, including concept testing, product design, production planning, and market strategy. The project undertaken in this course provides student teams with an opportunity to create a new venture that may then be carried forward utilizing Rensselaer's technological resources such as the Incubator Program and Rensselaer's Technology Park.",
     "source": "SIS"
   },
   "MGMT-7070": {
     "subj": "MGMT",
     "crse": "7070",
     "name": "Managing On The Edge: Corp Innovation For The Coming Years",
-    "description": "This course investigates the challenges of managing and leading organizations in situations characterized by their non-linear, unpredictable nature. Students will be challenged to develop innovative responses and solutions, drawing upon the full array of knowledge, skills, and insights they have gained from their two years of MBA study. Along with learning to deal with risk and uncertainty, the soon-to-be MBA graduates will be prepared for addressing the increasing degrees of fluidity and turbulence found in today\u2019s business, economic, and competitive environments.",
+    "description": "This course investigates the challenges of managing and leading organizations in situations characterized by their non-linear, unpredictable nature. Students will be challenged to develop innovative responses and solutions, drawing upon the full array of knowledge, skills, and insights they have gained from their two years of MBA study. Along with learning to deal with risk and uncertainty, the soon-to-be MBA graduates will be prepared for addressing the increasing degrees of fluidity and turbulence found in today's business, economic, and competitive environments.",
     "source": "SIS"
   },
   "MGMT-7100": {
@@ -29221,7 +29221,7 @@
     "subj": "MGMT",
     "crse": "7210",
     "name": "Acquisition & Venture Analysis",
-    "description": "",
+    "description": "Recent years have seen an accelerated commitment to growth and asset reallocation through acquisitions and corporate restructurings. Indeed the accounting profession is taking a fresh look at how these deals are accounted for in the firms' financial statements. The rate of deals is exponential and covers the full spectrum from established industries to high technology, computer, biotechnology, and Internet firms. Topics covered in this course are reasons for acquisitions, valuing, and structuring a transaction. Determining the currency to be used, achieving strategic and organizational alignment, takeover defenses, and post-deal integration. Students study a recent transaction of their own choosing and prepare an oral and written report focusing on those aspects that made the deal successful.",
     "source": "SIS"
   },
   "MGMT-7220": {
@@ -29333,7 +29333,7 @@
     "subj": "MGMT",
     "crse": "7500",
     "name": "Managing Supply Networks",
-    "description": "",
+    "description": "An overview of the key concepts related to the flow of information, goods, and services, from product or service design, through production to end-use customer. Focuses on the planning, data, analysis, evaluation, and decision-making processes used to manage supply networks in order to gain competitive advantage and improve customer satisfaction. Compares and contrasts supply strategies and methods based on batch-and-queue and Lean principles and practices. Emphasis is on business-to-business relationships, the application of practices that eliminate waste, and inter-organizational capability building.",
     "source": "SIS"
   },
   "MGMT-7510": {
@@ -29368,14 +29368,14 @@
     "subj": "MGMT",
     "crse": "7700",
     "name": "International Negotiations",
-    "description": "",
+    "description": "Examines international negotiation techniques, practice, and styles. Students are given an in-depth profile questionnaire to assess individual strengths and weaknesses in international negotiations. Profiles of international negotiations are examined. Negotiations and group presentations are video taped and analyzed.",
     "source": "SIS"
   },
   "MGMT-7710": {
     "subj": "MGMT",
     "crse": "7710",
     "name": "Cultural Envmt Of Intnl Bus",
-    "description": "",
+    "description": "The emerging role of the international manager, cultural impact of international management, managing culture shock, organizational responsibilities, and cultural differences. Foreign deployment, cultural specifics for managerial effectiveness, cultural themes and patterns, American macro- and micro-cultures, working with the global market environment.",
     "source": "SIS"
   },
   "MGMT-7720": {
@@ -29424,14 +29424,14 @@
     "subj": "MGMT",
     "crse": "7780",
     "name": "Professional Development Workshop II - Ms",
-    "description": "The PDW sequence is designed to develop the professional skills of students in the M.S. Programs that are needed to be a successful contributor in a business setting. The PDW II will continue to follow a framework of Leadership, Followership, and Membership in a professional community. Students will gain practical experience through exposure to experts in specific skill areas, role play and practice sessions, and exercise completions. The second semester emphasizes developing influence skills, understanding and shaping group dynamics, and navigating organizational politics. Additionally, membership in one\u2019s professional community will be emphasized through engagement in four hours of activities specific to the student\u2019s M.S. program.",
+    "description": "The PDW sequence is designed to develop the professional skills of students in the M.S. Programs that are needed to be a successful contributor in a business setting. The PDW II will continue to follow a framework of Leadership, Followership, and Membership in a professional community. Students will gain practical experience through exposure to experts in specific skill areas, role play and practice sessions, and exercise completions. The second semester emphasizes developing influence skills, understanding and shaping group dynamics, and navigating organizational politics. Additionally, membership in one's professional community will be emphasized through engagement in four hours of activities specific to the student's M.S. program.",
     "source": "SIS"
   },
   "MGMT-7800": {
     "subj": "MGMT",
     "crse": "7800",
-    "name": "Doctorial Research Methods I",
-    "description": "The objectives of this beginning doctoral course are to introduce students to social science theory development, expose students to a broad array of research techniques, and help students design research programs and write about them. The underpinnings of scientific theory are reviewed along with a range of quantitative and qualitative research methods. Drawing on their own interests, students write one research proposal and two research papers illustrating the application of two different research methodologies.",
+    "name": "Research Methods In Management",
+    "description": "The objectives of this course are to introduce students to social science theory development, expose students to a broad array of research techniques, and help students design research programs and write about them. The underpinnings of scientific theory are reviewed along with a range of quantitative and qualitative research methods. Drawing on their own interests, students demonstrate the application of different research methodologies.",
     "source": "SIS"
   },
   "MGMT-7810": {
@@ -29444,7 +29444,7 @@
   "MGMT-7820": {
     "subj": "MGMT",
     "crse": "7820",
-    "name": "Foundations Of Mgmt Thought",
+    "name": "Foundations Of Mgmt Research",
     "description": "This seminar introduces Ph.D. students to the world of research in the scholarly domains associated with Business. Philosophy of research, theory, and empirical foundations used in the research process are discussed. Students are exposed to classic scholarly papers that have influenced the field across multiple business disciplines, as well as research programs of various Lally faculty. The course also introduces students to the norms of behavior and expectations of an academic career.",
     "source": "SIS"
   },
@@ -29452,7 +29452,7 @@
     "subj": "MGMT",
     "crse": "7830",
     "name": "Data Analysis",
-    "description": "The objective of this class is to develop skills necessary to understand and assess applications that use panel data techniques. Standard linear regression models are used as a benchmark. Basic knowledge of time series analysis is introduced, followed by panel data settings involving \u2018fixed\u2019 and \u2018random\u2019 effects. Recently developed GMM and instrumental variables methods are introduced and nonlinear panel data with binary outcomes is covered. Students will work through practical examples using Stata and Matlab.",
+    "description": "The objective of this class is to develop skills necessary to understand and assess applications that use panel data techniques. Standard linear regression models are used as a benchmark. Basic knowledge of time series analysis is introduced, followed by panel data settings involving 'fixed' and 'random' effects. Recently developed GMM and instrumental variables methods are introduced and nonlinear panel data with binary outcomes is covered. Students will work through practical examples using Stata and Matlab.",
     "source": "SIS"
   },
   "MGMT-7840": {
@@ -30620,7 +30620,7 @@
   "MTLE-4940": {
     "subj": "MTLE",
     "crse": "4940",
-    "name": "Readings In Mtse",
+    "name": "Ugrad Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -30984,7 +30984,7 @@
   "MTLE-6940": {
     "subj": "MTLE",
     "crse": "6940",
-    "name": "Readings In Materials Engr",
+    "name": "Graduate Independent Study",
     "description": "Credit Hours: 3",
     "source": "SIS"
   },
@@ -31404,7 +31404,7 @@
   "MATP-4940": {
     "subj": "MATP",
     "crse": "4940",
-    "name": "Readings In Mpst",
+    "name": "Ugrad Independent Study",
     "description": "Credit Hours: 1 to 4",
     "source": "SIS"
   },
@@ -31614,7 +31614,7 @@
   "MATP-6940": {
     "subj": "MATP",
     "crse": "6940",
-    "name": "Readings In Mpst",
+    "name": "Graduate Independent Study",
     "description": "Credit Hours: 1 to 4",
     "source": "SIS"
   },
@@ -32231,7 +32231,7 @@
     "subj": "MATH",
     "crse": "4720",
     "name": "Math In Medicine & Biol",
-    "description": "An introduction to mathematics used in biology, biophysics, biomedical engineering, and medicine. The mathematical topics covered are selected from calculus, linear algebra, differential equations, numerical methods, and Fourier analysis. The biological applications covered are selected from human physiology (heart, lung, brain), population models (microorganisms, cells, animals), and the diagnosis and treatment of disease (heart, cancer).",
+    "description": "An introduction to mathematical modeling, simulation, and analysis of problems in the biological sciences, bioengineering, and medicine.   One or more topics will be selected from subjects ranging from physiology, tissue mechanics, disease spread, neuroscience, and/or proteins in cells, to microorganism dynamics.",
     "source": "SIS"
   },
   "MATH-4800": {
@@ -32258,7 +32258,7 @@
   "MATH-4940": {
     "subj": "MATH",
     "crse": "4940",
-    "name": "Readings In Math",
+    "name": "Ugrad Independent Study",
     "description": "Credit Hours: 1 to 4",
     "source": "SIS"
   },
@@ -32539,7 +32539,7 @@
     "subj": "MATH",
     "crse": "6860",
     "name": "Finite Element Analysis",
-    "description": "Galerkin\u2019s method and extremal principles, finite element approximations (Lagrange, hierarchical and 3D approximations, interpolation errors), mesh generation and assembly, adaptivity (h-, p-, hp-refinement). Error analysis and convergence rates. Perturbations resulting from boundary approximation, numerical integration, etc. Time dependent problems including parabolic and hyperbolic PDEs. Applications will be selected from several areas including heat conduction, wave propagation, potential theory, and solid and fluid mechanics.",
+    "description": "The course focuses on the mathematical and computational fundamentals as well as the applications of classical finite element methods and discontinuous Galerkin methods.  The methods are presented through their formulations,  matrix assembly for implementation, discrete spaces and approximation theories, stability, and error estimates. They will be applied to simulate elliptic/parabolic equations, convection-diffusion equations, and kinetic transport equations in one and higher dimensions. Galerkin-projection based reduced order models may also be discussed.",
     "source": "SIS"
   },
   "MATH-6890": {
@@ -32552,7 +32552,7 @@
   "MATH-6940": {
     "subj": "MATH",
     "crse": "6940",
-    "name": "Readings In Math",
+    "name": "Graduate Independent Study",
     "description": "Credit Hours: 1 to 4",
     "source": "SIS"
   },
@@ -32875,7 +32875,7 @@
     "subj": "MANE",
     "crse": "4100",
     "name": "Spaceflight Mechanics",
-    "description": "Review of basic dynamics. Analysis of spacecraft trajectories, target rendezvous, and interception. Hohmann transfer, escape trajectories, interplanetary missions, the restricted three-body problem. Rigid body dynamics with application to gyrodynamics, stabilized platforms, gravity-gradient and spin stabilization of satellites, gyrostats. Selected topics such as drag-free satellites, vehicle launch and reentry, deployment dynamics (time permitting). MATLAB/Simulink is used as a simulation-visualization aid.",
+    "description": "Introduction to spatial (3D) dynamics. Particle kinetics, Orbital kinematics, Reference frames for Astrodynamics, Frame transformation. 2-Body Problem, Kepler\u2019s Laws and Kepler Equation, Circular Restricted 3-Body Problem, Lagrange Points, Stability. Orbit determination (Lambert's Problem, Gibbs' Method). Orbital Maneuvers (Plane-change maneuver, Hohmann Transfer, Rendezvous Transfer). Rocket Thrust, Rocket Design and Staging. Rigid Body Attitude Parametrization. Introduction to Analytical Mechanics. MATLAB/Simulink is used as a simulation-visualization aid.",
     "source": "SIS"
   },
   "MANE-4120": {
@@ -33161,8 +33161,8 @@
   "MANE-4550": {
     "subj": "MANE",
     "crse": "4550",
-    "name": "Analy. Of Manuf. Process.",
-    "description": "",
+    "name": "Intro To Robot Programming",
+    "description": "This course provides an introduction to Robot Operating System (ROS), a widely used middleware for robot programming. Students will learn the basic components of ROS, how to utilize and write ROS packages, gain experience utilizing simulation software, and apply the concepts to physical platforms.",
     "source": "SIS"
   },
   "MANE-4560": {
@@ -33315,7 +33315,7 @@
   "MANE-4940": {
     "subj": "MANE",
     "crse": "4940",
-    "name": "Independent Study In Mane",
+    "name": "Ugrad Independent Study",
     "description": "Prerequisites/Corequisites: Permission of instructor.",
     "source": "SIS"
   },
@@ -33540,7 +33540,7 @@
     "subj": "MANE",
     "crse": "6250",
     "name": "Continuum Mechanics",
-    "description": "General curvilinear coordinates, determinants, diagonalization of symmetric matrices, polar decomposition theorem. Description of finite deformation and motion, convected coordinates. Conservation equations, Cauchy and Piola-Kirchhoff stress tensors and equations of motion. Boundary conditions. Thermodynamics of continua, invariance principles, objective tensors. Constitutive equations, nonlinear elasticity, thermoelasticity, heat conducting fluids. Linearizations. Variational derivation of the equations of nonlinear elasticity.",
+    "description": "Vector and tensor calculus. Description of infinite deformation, kinematics. Calculus of variations, Hamiltonian, Lagrangian, conservation equations, Cauchy and Piola- Kirchhoff stress tensors, path independent integrals. Thermodynamics of continua, invariance principles, Clausius-Duhem",
     "source": "SIS"
   },
   "MANE-6260": {
@@ -33889,7 +33889,7 @@
   "MANE-6940": {
     "subj": "MANE",
     "crse": "6940",
-    "name": "Independent Study In Mane",
+    "name": "Graduate Independent Study",
     "description": "Prerequisites/Corequisites: Permission of instructor.",
     "source": "SIS"
   },
@@ -35261,7 +35261,7 @@
   "PHIL-2940": {
     "subj": "PHIL",
     "crse": "2940",
-    "name": "Philosophy Studies",
+    "name": "Ugrad Independent Study",
     "description": "Independent study of a particular topic.",
     "source": "SIS"
   },
@@ -35472,7 +35472,7 @@
     "subj": "PHIL",
     "crse": "4420",
     "name": "Computability And Logic",
-    "description": "A team-based, project-oriented, hands-on introduction to the great concepts and discoveries in logic and computability, including Turing Machines, first-order logic, the limitations of computing machines, Godel\u2019s incompleteness results, and so forth. A hands-on laboratory component is included.",
+    "description": "A team-based, project-oriented, hands-on introduction to the great concepts and discoveries in logic and computability, including Turing Machines, first-order logic, the limitations of computing machines, Godel's incompleteness results, and so forth. A hands-on laboratory component is included.",
     "source": "SIS"
   },
   "PHIL-4440": {
@@ -35493,7 +35493,7 @@
     "subj": "PHIL",
     "crse": "4480",
     "name": "Metaphysics And Consciousness",
-    "description": "Daydreams about some tropical paradise \u2026 the smell of freshly baked bread \u2026 the flash of anger experienced when one person cuts another off \u2026 the vision of an albino squirrel on the campus green \u2026 Humans take all of these to involve activities or states of consciousness. But what is this consciousness with which they claim to be so intimately familiar? What are its metaphysical implications, and can people reconcile those implications with current scientific understanding of the world?",
+    "description": "Daydreams about some tropical paradise ... the smell of freshly baked bread ... the flash of anger experienced when one person cuts another off ... the vision of an albino squirrel on the campus green ... Humans take all of these to involve activities or states of consciousness. But what is this consciousness with which they claim to be so intimately familiar? What are its metaphysical implications, and can people reconcile those implications with current scientific understanding of the world?",
     "source": "SIS"
   },
   "PHIL-4500": {
@@ -35513,14 +35513,14 @@
   "PHIL-4940": {
     "subj": "PHIL",
     "crse": "4940",
-    "name": "Readings In Phil",
+    "name": "Ugrad Independent Study",
     "description": "Experimental courses on subjects to be announced in advance.",
     "source": "SIS"
   },
   "PHIL-4941": {
     "subj": "PHIL",
     "crse": "4941",
-    "name": "Readings In Phil",
+    "name": "Undergraduate Research Project",
     "description": "",
     "source": "SIS"
   },
@@ -35674,7 +35674,7 @@
   "PHIL-6940": {
     "subj": "PHIL",
     "crse": "6940",
-    "name": "Philosophy Studies",
+    "name": "Graduate Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -35843,21 +35843,21 @@
     "subj": "PHYS",
     "crse": "1100",
     "name": "Physics I (m)",
-    "description": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.\u00a0This course includes a lab component that is intended to provide students with hand-on as well as data analysis experience. This course is limited to first-semester students and includes a regular Student Life and subject mentoring and collaborative problem solving sessions.",
+    "description": "The first semester of a two-semester sequence of calculus-based Physics courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference. This course includes a lab component that is intended to provide students with hands-on as well as data analysis experience.",
     "source": "SIS"
   },
   "PHYS-1101": {
     "subj": "PHYS",
     "crse": "1101",
     "name": "Physics Mentoring: First Year",
-    "description": "A corequisite to PHYS 1100 to support first semester students. Students will learn best practices for success in STEM courses with an emphasis on collaborative problem solving in mechanics. Fall first-semester students taking PHYS-1100 are required to co-register for PHYS-1101",
+    "description": "A corequisite to PHYS 1100 to support first semester students. Students will learn best practices for success in STEM courses with an emphasis on collaborative problem solving in mechanics. Fall first-semester students taking PHYS-1100 are required to co-register for PHYS-1101.",
     "source": "SIS"
   },
   "PHYS-1110": {
     "subj": "PHYS",
     "crse": "1110",
     "name": "Physics I (s)",
-    "description": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.\u00a0This course includes a lab component that is intended to provide students with hand-on as well as data analysis experience. First semester students should register for PHYS 1100 rather than PHYS 1110.",
+    "description": "The first semester of a two-semester sequence of calculus-based Physics courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference. This course includes a lab component that is intended to provide students with hands-on as well as data analysis experience.",
     "source": "SIS"
   },
   "PHYS-1140": {
@@ -35871,21 +35871,21 @@
     "subj": "PHYS",
     "crse": "1141",
     "name": "Phys Mentoring: Modern Physics",
-    "description": "A corequisite to PHYS 1140 to support first semester students. Students will learn best practices for success in STEM courses with an emphasis on collaborative problem solving in mechanics. Fall first-semester students taking PHYS-1140 are required to co-register for PHYS-1141.",
+    "description": "A corequisite to PHYS 1140  to support first semester students. Students will learn best practices for success in STEM courses with an emphasis on collaborative problem solving in mechanics.",
     "source": "SIS"
   },
   "PHYS-1150": {
     "subj": "PHYS",
     "crse": "1150",
     "name": "Intro Classical Dynamics",
-    "description": "Introductory physics for students seeking a more intensive experience. Newton\u2019s laws are introduced using differential calculus,\u00a0with solutions based on integral calculus. Material on fluids and thermodynamics is\u00a0included. Laboratory exercises are carried out emphasizing measurement uncertainty and clear, concise reporting. Recommended for students intending to major in physics.\u00a0Students cannot get credit for both PHYS 1100 and 1150.",
+    "description": "Introductory physics for students seeking a more intensive experience. Newton's laws are introduced using differential calculus, with solutions based on integral calculus. Material on fluids and thermodynamics is included. Laboratory exercises are carried out emphasizing measurement uncertainty and clear, concise reporting. Recommended for students intending to major in physics.",
     "source": "SIS"
   },
   "PHYS-1200": {
     "subj": "PHYS",
     "crse": "1200",
     "name": "Physics II",
-    "description": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss\u2019s Law, dc and ac circuits, Ampere\u2019s Law and Faraday\u2019s Law, electromagnetic radiation, physical optics, and quantum physics. This course includes a lab component that is intended to provide students with hand-on as well as data analysis experience",
+    "description": "The second semester of the two-semester sequence of calculus-based Physics courses. Topics include electric and magnetic forces and fields, Gauss's Law, dc and ac circuits, Ampere's Law and Faraday's Law, electromagnetic radiation, physical optics, and quantum physics.  This course includes a lab component that is intended to provide students with hands-on as well as data analysis experience.",
     "source": "SIS"
   },
   "PHYS-1230": {
@@ -35919,7 +35919,7 @@
   "PHYS-1940": {
     "subj": "PHYS",
     "crse": "1940",
-    "name": "Physics Independent Study",
+    "name": "Ugrad Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -36088,7 +36088,7 @@
     "subj": "PHYS",
     "crse": "2210",
     "name": "Quantum Physics I",
-    "description": "Introduction to the formalism of Special Relativity, Schrodinger wave mechanics, and spin-1/2 particles. Solutions to Schrodinger\u2019s Equation in one, two, and three dimensions. One-electron atoms and quantum mechanical magnetic dipole moments.",
+    "description": "Introduction to the formalism of Schrodinger wave mechanics. Solutions to Schrodinger's Equation in one, two, and three dimensions. One-electron atoms and quantum mechanical magnetic dipole moments.",
     "source": "SIS"
   },
   "PHYS-2250": {
@@ -36129,7 +36129,7 @@
   "PHYS-2940": {
     "subj": "PHYS",
     "crse": "2940",
-    "name": "Special Proj In Physics",
+    "name": "Ugrad Independent Study",
     "description": "Reading and study in various fields of physics to develop interest in and ability for independent study.",
     "source": "SIS"
   },
@@ -36340,7 +36340,7 @@
     "subj": "PHYS",
     "crse": "4210",
     "name": "Electromagnetic Theory",
-    "description": "Field theory of electricity and magnetism with emphasis on solving boundary value problems. Dielectric and magnetic materials. Maxwell\u2019s equations and wave propagation with applications to optics. Relativistic electrodynamics.",
+    "description": "Field theory of electricity and magnetism with emphasis on solving boundary value problems. Dielectric and magnetic materials. Maxwell's equations and wave propagation with applications to optics. Relativistic electrodynamics.",
     "source": "SIS"
   },
   "PHYS-4220": {
@@ -36353,22 +36353,22 @@
   "PHYS-4230": {
     "subj": "PHYS",
     "crse": "4230",
-    "name": "Group Theory For Physicists",
-    "description": "This course will introduce students to group theory and its application fundamental Physics of matter and space-time. Topics will include symmetries of space-time, crystalline structures, the quantum mechanics of spin, particle physics, the Standard Model, and Grand Unifying Theories.",
+    "name": "Available",
+    "description": "OPEN",
     "source": "SIS"
   },
   "PHYS-4240": {
     "subj": "PHYS",
     "crse": "4240",
     "name": "General Relativity",
-    "description": "Introduction to the physics of gravitation and spacetime. Special relativity, tensor calculus, and relativistic electrodynamics. General relativity with selected applications of Einstein\u2019s field equations (gravitational time dilation; gravitational lensing; frame dragging; gravitational radiation). The physics of nonrotating and rotating black holes. Relativistic models for the large-scale structure of the Universe. Observational constraints on the cosmological parameters. Big Bang nucleosynthesis, the Cosmic Background Radiation. A culminating experience project is required. (Meets with ASTR 4240).",
+    "description": "Introduction to the physics of gravitation and spacetime. Special relativity, tensor calculus, and relativistic electrodynamics. General relativity with selected applications of Einstein's field equations (gravitational time dilation; gravitational lensing; frame dragging; gravitational radiation). The physics of nonrotating and rotating black holes. Relativistic models for the large-scale structure of the Universe. Observational constraints on the cosmological parameters. Big Bang nucleosynthesis, the Cosmic Background Radiation. A culminating experience project is required. (Meets with ASTR 4240).",
     "source": "SIS"
   },
   "PHYS-4330": {
     "subj": "PHYS",
     "crse": "4330",
     "name": "Theoretical Mechanics",
-    "description": "Particle and rigid body dynamics using Newtonian, Lagrangian, and Hamiltonian methods. Motion of particle systems. Central force motion. Rotating coordinate systems. Rigid body motion using the inertia tensor and Euler angles. Coupled systems and normal coordinates. Introduction to continuum mechanics and the mechanics of deformable media. Introduction to Hamiltonian Mechanics, including proof and applications of Liouville\u2019s Theorem. Formalism of Special Relativity. Introduction to nonlinear dynamics and chaotic behavior.",
+    "description": "Particle and rigid body dynamics using Newtonian, Lagrangian, and Hamiltonian methods. Motion of particle systems. Central force motion. Rotating coordinate systems. Rigid body motion using the inertia tensor and Euler angles. Coupled systems and normal coordinates. Introduction to continuum mechanics and the mechanics of deformable media. Introduction to Hamiltonian Mechanics, including proof and applications of Liouville's Theorem. Formalism of Special Relativity. Introduction to nonlinear dynamics and chaotic behavior.",
     "source": "SIS"
   },
   "PHYS-4370": {
@@ -36424,7 +36424,7 @@
     "subj": "PHYS",
     "crse": "4665",
     "name": "Quantum Computing & Informatio",
-    "description": "This course is intended to provide an introductory overview of the field of quantum information science. It will cover the basic concepts of quantum computation and information, including entanglement and quantum communication, quantum circuit models, quantum algorithms/simulation, as well as gain an understanding of physical implementations of qubits and practical concerns (e.g, decoherence and error-correction)",
+    "description": "This course is intended to provide an introductory overview of the field of quantum information science. It will cover the basic concepts of quantum computation and information, including entanglement and quantum communication, quantum circuit models, quantum algorithms/simulation, as well as gain an understanding of physical implementations of qubits and practical concerns (e.g, decoherence and error-correction).",
     "source": "SIS"
   },
   "PHYS-4720": {
@@ -36445,13 +36445,13 @@
     "subj": "PHYS",
     "crse": "4910",
     "name": "Culminating Experience Project",
-    "description": "Independent study to accompany designated capstone courses in Physics and Astronomy. Designated courses are: ASTR 4220 Astrophysics; ASTR 4240 Gravitation and Cosmology; ASTR 4510 Origins of Life: a Cosmic Perspective; PHYS 4810 Computational Physics; PHYS 4620 Elementary Particle Physics; PHYS 4240 General Relativity; ASTR 4120 Observational Astronomy; PHYS 4630 Lasers and Optical Systems; PHYS 4640 Optical Communications and Integrated Optics; PHYS 4720 Solid State Physics.",
+    "description": "Independent study to accompany designated capstone courses in Physics and Astronomy. Designated courses are: ASTR 4220 ; ASTR 4240; ASTR 4510; PHYS 4810; PHYS 4620; PHYS 4240; ASTR 4120; PHYS 4630; PHYS 4640; or PHYS 4720 .",
     "source": "SIS"
   },
   "PHYS-4940": {
     "subj": "PHYS",
     "crse": "4940",
-    "name": "Readings In Phys",
+    "name": "Ugrad Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -36620,7 +36620,7 @@
     "subj": "PHYS",
     "crse": "6510",
     "name": "Quantum Mechanics I",
-    "description": "Classical mechanics: from Lagrangian to Hamiltonian, single particle formalism, small oscillations, normal modes, Hamilton-Jacobi theory, Hamilton\u2019s equation, review of wave mechanics: Schroedinger equation, barrier tunneling, quantum wells, mathematical foundation of quantum mechanics: ket space, representations, observables, eigenstates and diagonization, quantum postulates, application of quantum postulates to two-level systems, harmonic oscillators, creation and annihilation operators. Quantization of angular momentum, spherical harmonics, rotation operators, Landau levels, central force: hydrogen atom. Path integral formalism for quantum theory.",
+    "description": "Classical mechanics: from Lagrangian to Hamiltonian, single particle formalism, small oscillations, normal modes, Hamilton-Jacobi theory, Hamilton's equation, review of wave mechanics: Schroedinger equation, barrier tunneling, quantum wells, mathematical foundation of quantum mechanics: ket space, representations, observables, eigenstates and diagonization, quantum postulates, application of quantum postulates to two-level systems, harmonic oscillators, creation and annihilation operators. Quantization of angular momentum, spherical harmonics, rotation operators, Landau levels, central force: hydrogen atom. Path integral formalism for quantum theory.",
     "source": "SIS"
   },
   "PHYS-6520": {
@@ -36682,7 +36682,7 @@
   "PHYS-6940": {
     "subj": "PHYS",
     "crse": "6940",
-    "name": "Readings In Phys",
+    "name": "Graduate Independent Study",
     "description": "Supervised reading and study in various fields of physics.",
     "source": "SIS"
   },
@@ -37019,7 +37019,7 @@
     "subj": "PSYC",
     "crse": "2310",
     "name": "Research Methods And Statistics I",
-    "description": "This course, the first in a two-course sequence, provides an introduction to basic methods of behavioral and social science research, including experimental, quasi-experimental, and non-experimental research designs, psychometric considerations (e.g., reliability, validity, control, importance, levels of measurement), approaches to data collection and analysis, and communication of results. Students will demonstrate their understanding of the topics covered by writing a detailed research proposal formatted according to American Psychological Association (APA) guidelines.  Students will also gain experience in using a selection of parametric (e.g., correlation, simple and multiple regression, ANOVA) and non-parametric (e.g., Chi-square, Mann-Whitney U, Wilcoxon T, Kruskal-Wallis, Friedman\u2019s ANOVA) statistical procedures. Data analysis will be carried out using R, an open-source programming language for statistical calculation and graphics, and R-Studio, an open-source integrated development environment for R.",
+    "description": "This course, the first in a two-course sequence, provides an introduction to basic methods of behavioral and social science research, including experimental, quasi-experimental, and non-experimental research designs, psychometric considerations (e.g., reliability, validity, control, importance, levels of measurement), approaches to data collection and analysis, and communication of results. Students will demonstrate their understanding of the topics covered by writing a detailed research proposal formatted according to American Psychological Association (APA) guidelines.  Students will also gain experience in using a selection of parametric (e.g., correlation, simple and multiple regression, ANOVA) and non-parametric (e.g., Chi-square, Mann-Whitney U, Wilcoxon T, Kruskal-Wallis, Friedman's ANOVA) statistical procedures. Data analysis will be carried out using R, an open-source programming language for statistical calculation and graphics, and R-Studio, an open-source integrated development environment for R.",
     "source": "SIS"
   },
   "PSYC-2730": {
@@ -37032,7 +37032,7 @@
   "PSYC-2940": {
     "subj": "PSYC",
     "crse": "2940",
-    "name": "Readings In Psychology",
+    "name": "Ugrad Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -37236,7 +37236,7 @@
     "subj": "PSYC",
     "crse": "4350",
     "name": "Math Methods In Psyc Sci",
-    "description": "This course will provide students with a systematic overview of practical and important mathematical tools and skills used in modern psychological sciences. Students completing the course will gain experience using mathematical tools drawn from diverse fields including calculus, linear algebra, probability theory, nonlinear optimization, and other closely related disciplines. Rather than providing complete coverage of each field or focusing on formal proofs, the goal will be to provide students with the essential elements necessary to understand and use these tools to solve current and outstanding problems in the field today. This class will be hands-on, using examples drawn from across the cognitive sciences. Students will also gain experience implementing mathematical models in the R programming language.",
+    "description": "This course will provide students with a systematic overview of practical and important mathematical tools and skills used in modern psychological sciences. Students completing the course will gain experience using mathematical tools drawn from diverse fields including calculus, linear algebra, probability theory,  nonlinear optimization, and other closely related disciplines. Rather than providing complete coverage of each field or focusing on formal proofs, the goal will be to provide students with the essential elements necessary to understand and use these tools to solve current and outstanding problems in the field today. This class will be hands-on, using examples drawn from across the cognitive sciences. Students will also gain experience implementing mathematical models in the R programming language.",
     "source": "SIS"
   },
   "PSYC-4360": {
@@ -37271,7 +37271,7 @@
     "subj": "PSYC",
     "crse": "4440",
     "name": "Sensibilities",
-    "description": "\u201cSensibilities\u201d\u2014a special ART_X@Rensselaer (Art Across the Curriculum) seminar\u2014draws from the tremendous resource of EMPAC to inspire students to cultivate writing skills through the cross-disciplinary theme of the senses/perception. During the semester students will have opportunities to observe unique art/science presentations and performances in an intimate setting at EMPAC, providing rich experiences for discussions and writing. Classes include reading science and art texts, as well as writing workshops to develop authorial voice and experimentation.",
+    "description": "\"Sensibilities\"\u2014a special ART_X @ Rensselaer (Art Across the Curriculum) seminar\u2014draws from the tremendous resource of EMPAC to inspire students to cultivate writing skills through the cross-disciplinary theme of the senses/perception. During the semester students will have opportunities to observe unique art/science presentations and performances in an intimate setting at EMPAC, providing rich experiences for discussions and writing. Classes include reading science and art texts, as well as writing workshops to develop authorial voice and experimentation.",
     "source": "SIS"
   },
   "PSYC-4450": {
@@ -37313,7 +37313,7 @@
     "subj": "PSYC",
     "crse": "4610",
     "name": "Stress And The Brain",
-    "description": "This seminar course is a detailed examination of the mind-brain relationship, through study of the stress response. Stress is simply defined as any challenge to an individual\u2019s homeostasis, or balance. This course will explore the neurobiological underpinnings of the stress response, with particular focus on how stressors can alter perception, affective and cognitive processing in the individual, which can in turn feedback to alter the general health of the individual (body and mind/brain).",
+    "description": "This seminar course is a detailed examination of the mind-brain relationship, through study of the stress response. Stress is simply defined as any challenge to an individual's homeostasis, or balance. This course will explore the neurobiological underpinnings of the stress response, with particular focus on how stressors can alter perception, affective and cognitive processing in the individual, which can in turn feedback to alter the general health of the individual (body and mind/brain).",
     "source": "SIS"
   },
   "PSYC-4620": {
@@ -37327,7 +37327,7 @@
     "subj": "PSYC",
     "crse": "4700",
     "name": "Hormones, Brain & Behavior",
-    "description": "This course will examine hormone and brain/behavior relationships across the lifespan. Hormones are molecules that are secreted by glands (the majority of which are located outside the brain) and have distal effects on their targets, such as the brain, throughout development. A focus will be on hormones\u2019 effects, mechanisms, and brain regions of interest for behavior and cognitive processes, such as perception, learning/memory, social cognition, motivation, and emotion.",
+    "description": "This course will examine hormone and brain/behavior relationships across the lifespan. Hormones are molecules that are secreted by glands (the majority of which are located outside the brain) and have distal effects on their targets, such as the brain, throughout development. A focus will be on hormones' effects, mechanisms, and brain regions of interest for behavior and cognitive processes, such as perception, learning/memory, social cognition, motivation, and emotion.",
     "source": "SIS"
   },
   "PSYC-4710": {
@@ -37354,8 +37354,8 @@
   "PSYC-4940": {
     "subj": "PSYC",
     "crse": "4940",
-    "name": "Readings In Psyc",
-    "description": "An individually arranged independent study course under the supervision of a member of the Psychology Department. The topic is selected by consultation between student and faculty member.",
+    "name": "Ugrad Independent Study",
+    "description": "Independent study of selected readings in the field of psychology, supervised by a faculty member.",
     "source": "SIS"
   },
   "PSYC-4941": {
@@ -37536,7 +37536,7 @@
   "PSYC-6940": {
     "subj": "PSYC",
     "crse": "6940",
-    "name": "Grad Independent Study",
+    "name": "Graduate Independent Study",
     "description": "",
     "source": "SIS"
   },
@@ -39454,8 +39454,8 @@
   "STSO-2400": {
     "subj": "STSO",
     "crse": "2400",
-    "name": "Medicine And Society",
-    "description": "",
+    "name": "Public Health",
+    "description": "The course aims to equip students with the skills necessary to critically analyze health policies and to advocate for equitable health practices. Students will engage with critical scholarship that will cover not only the foundational principles of global health but also the contemporary debates on public health ethics and policy.",
     "source": "SIS"
   },
   "STSO-2500": {
@@ -39553,7 +39553,7 @@
     "subj": "STSO",
     "crse": "4260",
     "name": "Food, Farms, And Famine",
-    "description": "This course provides students with a wide-ranging understanding of the environmental and social context of food, agriculture, and hunger. Drawing primarily on sociological concepts and research, the class will take a \u201cfood systems\u201d approach, analyzing food as it travels from farm to table as part of an interconnected process. Students will examine why humans eat the way they do and how individuals\u2019 food choices affect other people and the environment.",
+    "description": "This course provides students with a wide-ranging understanding of the environmental and social context of food, agriculture, and hunger. Drawing primarily on sociological concepts and research, the class will take a \"food systems\" approach, analyzing food as it travels from farm to table as part of an interconnected process. Students will examine why humans eat the way they do and how individuals' food choices affect other people and the environment.",
     "source": "SIS"
   },
   "STSO-4280": {
@@ -39602,7 +39602,7 @@
     "subj": "STSO",
     "crse": "4360",
     "name": "Commty Engmnt: Climate Chg",
-    "description": "Strong community engagement supports climate resilience. This course supports students in working with civic, community, and government organizations in the context of climate change. The course is a project-based experience that connects students to ongoing initiatives in Troy and the Capital region. Students will explore a variety of \u201ctheories of change,\u201d connecting these theories to approaches used by a wide variety of organizations, developing their own stances on how to effectively contribute to goals of community resilience, environmental justice, and social cohesion. Students will develop skills in project management, communication, community building, and civic engagement. \u200b",
+    "description": "Strong community engagement supports climate resilience. This course supports students in working with civic, community, and government organizations in the context of climate change. The course is a project-based experience that connects students to ongoing initiatives in Troy and the Capital region. Students will explore a variety of \"theories of change,\" connecting these theories to approaches used by a wide variety of organizations, developing their own stances on how to effectively contribute to goals of community resilience, environmental justice, and social cohesion. Students will develop skills in project management, communication, community building, and civic engagement. \u200b",
     "source": "SIS"
   },
   "STSO-4400": {
@@ -39623,7 +39623,7 @@
     "subj": "STSO",
     "crse": "4430",
     "name": "Drugs In History",
-    "description": "This course teaches basic historical, anthropological, and sociological concepts that can be used to make sense of a wide variety of contemporary phenomena students encounter in everyday life. The focus is on analyzing how licit and illicit drugs serve as \u201ctechnologies\u201d within specific social contexts or subcultures; what drug policy reveals about social, political, and economic organization; and the impacts of biomedical knowledge and practice on specific population groups. The course focuses on the representation of drug use and drug users in popular culture, science and medicine, and history and the social sciences.",
+    "description": "This course teaches basic historical, anthropological, and sociological concepts that can be used to make sense of a wide variety of contemporary phenomena students encounter in everyday life. The focus is on analyzing how licit and illicit drugs serve as \"technologies\" within specific social contexts or subcultures; what drug policy reveals about social, political, and economic organization; and the impacts of biomedical knowledge and practice on specific population groups. The course focuses on the representation of drug use and drug users in popular culture, science and medicine, and history and the social sciences.",
     "source": "SIS"
   },
   "STSO-4440": {
@@ -39720,7 +39720,7 @@
   "STSO-4940": {
     "subj": "STSO",
     "crse": "4940",
-    "name": "Readings In Stso",
+    "name": "Ugrad Independent Study",
     "description": "With an individual faculty member on an agreed-upon topic.",
     "source": "SIS"
   },
@@ -39811,8 +39811,8 @@
   "STSO-6200": {
     "subj": "STSO",
     "crse": "6200",
-    "name": "Science Studies",
-    "description": "A broad survey of the field of science studies from the vantage point of various disciplinary and interdisciplinary perspectives that have contributed to the development of science studies. The texts, theories, and arguments that were important for the historical development of the field are covered, as well as contemporary issues. The seminar provides the resources and develops the skills needed for understanding, criticizing, constructing, and developing research in the field.",
+    "name": "Science & Technology Studies",
+    "description": "A broad survey of the field of Science and Technology Studies from the vantage point of various disciplinary and interdisciplinary perspectives that have contributed to the development of the field. The texts, theories, and arguments that were important for the historical development of the field are covered, as well as contemporary issues. The seminar provides the resources and develops the skills needed for understanding, criticizing, constructing, and developing research in the field.",
     "source": "SIS"
   },
   "STSO-6300": {
@@ -39839,7 +39839,7 @@
   "STSO-6940": {
     "subj": "STSO",
     "crse": "6940",
-    "name": "Readings In Stso",
+    "name": "Graduate Independent Study",
     "description": "With an individual faculty member on an agreed-upon topic.",
     "source": "SIS"
   },
@@ -40316,14 +40316,14 @@
     "subj": "WRIT",
     "crse": "4410",
     "name": "Research Writing",
-    "description": "In this class, students will write on topics from their major discipline and investigate the kinds of texts that professionals in their field produce. They will identify and explore research questions, use discipline-specific library databases, and write research reports. In addition, they will develop effective note-taking and research skills and learn strategies for effective prose style.",
+    "description": "In this class, students will write on topics from their major discipline and investigate the kinds of research texts that professionals in their field produce. The course will emphasize research writing as an ongoing conversation with other researchers. Students will (1) use discipline-specific library databases, (2) identify genre conventions from their major disciplines, (3) develop literature reviews to identify \u201cgaps\u201d for research questions, and (4) write research proposals. In addition, they will develop effective note-taking and research skills and learn strategies for effective prose style.",
     "source": "SIS"
   },
   "WRIT-4550": {
     "subj": "WRIT",
     "crse": "4550",
     "name": "Proposing & Persuading",
-    "description": "Make things happen: start a business, raise funds, solicit work, support research, win a place on a conference program, take initiative, change the way things are done around here. This course will teach students how to write proposals that persuade. Students will learn to turn situations into occasions for proposing, write a variety of proposals, locate Request for Proposals, develop a work plan for feasible projects that come in on-time and on-budget, use networks to strengthen proposals, detail a budget, and edit for clarity and grace.",
+    "description": "RPI\u2019s slogan is \u201cWhy not change the world?\u201d However, to change the world, we must write persuasive proposals to support our research and occupational pursuits, obtain funding, and present our projects to others. Therefore, students in this class learn to identify different types of proposals, as well as where to locate Requests for Proposals, Calls for Proposals, and grants. Students also learn to develop clear, feasible plans, schedules, and budgets.",
     "source": "SIS"
   },
   "WRIT-4600": {
@@ -40350,7 +40350,7 @@
   "WRIT-4940": {
     "subj": "WRIT",
     "crse": "4940",
-    "name": "Readings In Writing",
+    "name": "Ugrad Independent Study",
     "description": "Credit Hours: 1 to 4",
     "source": "SIS"
   },
@@ -40519,14 +40519,14 @@
     "subj": "WRIT",
     "crse": "6410",
     "name": "Research Writing",
-    "description": "In this class, students will write on topics from their major discipline and investigate the kinds of texts that professionals in the field produce. They will identify and explore research questions, use discipline-specific library databases, and write research reports. In addition, students will develop effective note-taking and research skills and learn strategies for effective prose style.",
+    "description": "In this class, students will write on topics from their major discipline and investigate the kinds of research texts that professionals in their field produce. The course will emphasize research writing as an ongoing conversation with other researchers. Students will (1) use discipline-specific library databases, (2) identify genre conventions from their major disciplines, (3) develop literature reviews to identify \u201cgaps\u201d for research questions, and (4) write research proposals. In addition, they will develop effective note-taking and research skills and learn strategies for effective prose style.",
     "source": "SIS"
   },
   "WRIT-6550": {
     "subj": "WRIT",
     "crse": "6550",
     "name": "Proposing & Persuading",
-    "description": "This course provides strategies for how to find funding, write persuasive narratives, develop budgets, and leverage academic or professional networks to craft competitive proposals. Here you will learn how to seek opportunities for developing proposals to support projects in your field of interest.",
+    "description": "RPI\u2019s slogan is \u201cWhy not change the world?\u201d However, to change the world, we must write persuasive proposals to support our research and occupational pursuits, obtain funding, and present our projects to others. Therefore, students in this class learn to identify different types of proposals, as well as where to locate Requests for Proposals, Calls for Proposals, and grants. Students also learn to develop clear, feasible plans, schedules, and budgets.",
     "source": "SIS"
   },
   "WRIT-6750": {
@@ -40539,7 +40539,7 @@
   "WRIT-6940": {
     "subj": "WRIT",
     "crse": "6940",
-    "name": "Ind Study In Writing",
+    "name": "Graduate Independent Study",
     "description": "Credit Hours: 1 to 4",
     "source": "SIS"
   },
@@ -40611,153 +40611,6 @@
     "crse": "6969",
     "name": "Topics In Ihss",
     "description": "",
-    "source": "SIS"
-  },
-  "BMED-2800": {
-    "subj": "BMED",
-    "crse": "2800",
-    "name": "Sensing And Imaging",
-    "description": "",
-    "source": "SIS"
-  },
-  "ECSE-2720": {
-    "subj": "ECSE",
-    "crse": "2720",
-    "name": "Cptr Org & Logic Desg",
-    "description": "",
-    "source": "SIS"
-  },
-  "ECSE-4230": {
-    "subj": "ECSE",
-    "crse": "4230",
-    "name": "Semicon Elect Devices",
-    "description": "",
-    "source": "SIS"
-  },
-  "ECSE-4410": {
-    "subj": "ECSE",
-    "crse": "4410",
-    "name": "Distributed Systems And Sensors Network",
-    "description": "",
-    "source": "SIS"
-  },
-  "COMM-4470": {
-    "subj": "COMM",
-    "crse": "4470",
-    "name": "Information Design",
-    "description": "The complexity of data-driven written and visual information has increased dramatically. \u201cFlatland\u201d or two-dimensional data presentations on paper or computer monitor are commonly flat and static. In this course, students will examine historic data presentations, explore engaging ways to represent complex information (while retaining fidelity to the data within), and learn to design effective data-based projects. The course is structured as a laboratory/design studio.",
-    "source": "SIS"
-  },
-  "COMM-4530": {
-    "subj": "COMM",
-    "crse": "4530",
-    "name": "Post-factual Media",
-    "description": "This course considers the sociopolitical and ethical dimensions of post-factual media content, including the staged actuality of reality television. Topics include: fake news; disinformation; science denial; cognitive bias; political spin; reality TV performance and celebrity.",
-    "source": "SIS"
-  },
-  "COMM-6530": {
-    "subj": "COMM",
-    "crse": "6530",
-    "name": "Post-fact Media",
-    "description": "This course considers the sociopolitical and ethical dimensions of post-factual media content, including the staged actuality of reality television. Topics include: fake news; disinformation; science denial; cognitive bias; political spin; reality TV performance and celebrity.",
-    "source": "SIS"
-  },
-  "COMM-6560": {
-    "subj": "COMM",
-    "crse": "6560",
-    "name": "Visual Design:theory And Application",
-    "description": "This course introduces students to the theoretical and practical use of graphics as a form of visual communication. Discussions include such topics as visual perception, design theory, formatted text, and graphics. Students have an opportunity to put theory into practice using computer graphics software.",
-    "source": "SIS"
-  },
-  "COMM-6700": {
-    "subj": "COMM",
-    "crse": "6700",
-    "name": "Rhetoric Of The Photo",
-    "description": "Photography is the first modern visual technology that is reproducible yet still has an aura of \u201cobjectivity,\u201d and its study addresses issues that are central to all forms of contemporary image-making, from art and architecture to politics, social media, and game design. Using the rhetorical triad of producer, photographer, and audience, the course introduces students across HASS to various methodologies of visual analysis through semiotics, phenomenology, neuropsychology, and psychodynamics of affect.",
-    "source": "SIS"
-  },
-  "LITR-2150": {
-    "subj": "LITR",
-    "crse": "2150",
-    "name": "Modern & Contemporary Lit",
-    "description": "Students explore the philosophical, political, and artistic grounds from which modern and contemporary literature arises and develop their own creative capacities in a project related to the course readings.",
-    "source": "SIS"
-  },
-  "WRIT-4380": {
-    "subj": "WRIT",
-    "crse": "4380",
-    "name": "Writing And Response",
-    "description": "This course explores effective strategies for talking with others about oral presentations and written texts. Practice in consulting is grounded in theory and research in composition studies, reader-response, and tutoring. Students also study their own writing and reading processes through reflection and discussion. Those who complete the course with a grade of A- or A may apply to work as writing consultants in the Center for Global  Communication + Design.",
-    "source": "SIS"
-  },
-  "WRIT-6380": {
-    "subj": "WRIT",
-    "crse": "6380",
-    "name": "Writing And Response",
-    "description": "This course explores effective strategies for talking with others about oral presentations and written texts. Practice in consulting is grounded in theory and research in composition studies, reader-response, and tutoring. Students also study their own writing and reading processes through reflection and discussion. Those who complete the course with a grade of A- or A may apply to work as writing consultants in the Center for Communication Practices.",
-    "source": "SIS"
-  },
-  "IENV-2100": {
-    "subj": "IENV",
-    "crse": "2100",
-    "name": "Intro To Environmental Studies",
-    "description": "An introduction to environmental science from an earth- systems perspective. This course focuses on human-environment interactions, with a focus on ecosystems, water quality, air quality and climate. Case studies and projects emphasize the investigation of local environmental problems and solutions. Labs include exposure to field equipment, techniques and analysis of data. This course is intended for first- and second-year students and includes a weekend field trip.",
-    "source": "SIS"
-  },
-  "STSO-6040": {
-    "subj": "STSO",
-    "crse": "6040",
-    "name": "Technology Studies",
-    "description": "The seminar examines interactions between technology and society from the vantage point of the various disciplinary and interdisciplinary perspectives that have contributed to technology studies. The texts, theories, and arguments that were important for the historical development of the field are covered, as well as contemporary issues. The seminar provides the resources and develops the skill needed for understanding, criticizing, constructing, and developing research in the field.",
-    "source": "SIS"
-  },
-  "PHYS-4225": {
-    "subj": "PHYS",
-    "crse": "4225",
-    "name": "Quantum Computing & Informatio",
-    "description": "This course is intended to provide an introductory overview of the field of quantum information science. It will cover the basic concepts of quantum computation and information, including entanglement and quantum communication, quantum circuit models, quantum algorithms/simulation, as well as gain an understanding of physical implementations of qubits and practical concerns (e.g, decoherence and error-correction)",
-    "source": "SIS"
-  },
-  "ECSE-6270": {
-    "subj": "ECSE",
-    "crse": "6270",
-    "name": "Optoelectronics",
-    "description": "A brief review of interaction of light with matter. Operating principles, basic designs, and applications of optoelectronic devices such as Light Emitting Diodes, Laser Diodes, Photodetectors, and Solar Cells. Electro-optic, Acousto-optic and Non-linear optic based optical components such as Modulators, Switches, Couplers, Multiplexers, and Amplifiers. Optical Waveguides and Fibers. Optoelectronic Applications such as Fiber Optic and Free Space Optical Communication, Photovoltaics, Thermophotovoltaics, and Solid-State Lighting.",
-    "source": "SIS"
-  },
-  "LITR-4880": {
-    "subj": "LITR",
-    "crse": "4880",
-    "name": "Multicultural American Litr",
-    "description": "This course introduces students to the field of Multicultural U.S. Literature, a conditional grouping of novels, memoirs, poetry, and scholarship that explores the intersections of individual, cultural, and national identities in contemporary America. Coursework surveys distinct ethnic American histories and literary traditions while exploring the utility and difficulty in defining a diverse American canon in the twenty-first century.",
-    "source": "SIS"
-  },
-  "COMM-2410": {
-    "subj": "COMM",
-    "crse": "2410",
-    "name": "Perspectives On Photography",
-    "description": "This course helps students understand the meaning and emotional complexity of visual images in their culture. Students examine photographic imagery through three perspectives. The first\u2014formal\u2014addresses the design components of the image, such as vantage point and contrast. The second\u2014psychodynamic\u2014concerns the emotional dynamics of viewing. The third\u2014social political\u2014 explores photographs as instruments for preserving or challenging cultural values. No technical knowledge of photography is needed.",
-    "source": "SIS"
-  },
-  "INQR-1550": {
-    "subj": "INQR",
-    "crse": "1550",
-    "name": "Fiction: Film To The Internet",
-    "description": "A study of novels and short stories exploring the cultural contexts, social impacts, and ethical implications of film, television, robotics, simulations, info/bio technologies, the World Wide Web, Internet privacy, social media, mass advertising and entertainment, and fake news. Discussions, reading quizzes, written essays, and oral presentations based on the readings.",
-    "source": "SIS"
-  },
-  "INQR-1776": {
-    "subj": "INQR",
-    "crse": "1776",
-    "name": "The American Dream",
-    "description": "The term \u201cAmerican Dream\u201d is familiar, but what role, specifically, does the imaginative play in American literature and culture, past and present? This course focuses on the power of imagination to shape a nation through the analysis of fiction, poetry, film, essays, comics, advertising, and historical documents. We will use diverse social histories as a means to explore contemporary experience, focusing on the tension between American dreams and American realities.  Requirements include reading/viewing responses, student presentations, and a semester capstone assignment that allows students to choose between a textual or multimedia  project.",
-    "source": "SIS"
-  },
-  "ISYE-6220": {
-    "subj": "ISYE",
-    "crse": "6220",
-    "name": "Network Flows",
-    "description": "Design, analysis, and implementation of algorithms for combinatorial optimization problems. Introduction to theoretical analysis of algorithms and applications that can be formulated as combinatorial optimization problems. Specific topics include complexity analysis, network flow problems, traveling salesperson problems, matching problems, knapsack problems, and greedy algorithms. Implementation of combinatorial algorithms in a commercial software language. An introduction to this software language will be given at the beginning of the course.",
     "source": "SIS"
   }
 }
