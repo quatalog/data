@@ -1601,7 +1601,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LGHT-4760",
+      "LGHT-6760"
+    ],
     "prerequisites" : null
   },
   "ARCH-4966" : 
@@ -17733,7 +17737,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6964"
+    ],
     "prerequisites" : null
   },
   "CSCI-4965" : 
@@ -18401,7 +18408,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4964"
+    ],
     "prerequisites" : null
   },
   "CSCI-6965" : 
@@ -22552,8 +22562,27 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "ECSE-6962"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 2210",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 2620",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-4963" : 
   {
@@ -23377,7 +23406,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4962"
+    ],
     "prerequisites" : null
   },
   "ECSE-6963" : 
@@ -30805,7 +30837,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-6963"
+    ],
     "prerequisites" : null
   },
   "ITWS-6961" : 
@@ -34803,7 +34838,13 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4240",
+      "CIVL-6660",
+      "MANE-4240",
+      "MANE-6660"
+    ],
     "prerequisites" : null
   },
   "MANE-6970" : 
@@ -37286,7 +37327,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6510"
+    ],
     "prerequisites" : null
   },
   "MGMT-4961" : 
@@ -40157,12 +40201,12 @@
   },
   "PHIL-4960" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-6960"
+    ],
     "prerequisites" : null
   },
   "PHIL-4961" : 
@@ -40264,7 +40308,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4960"
+    ],
     "prerequisites" : null
   },
   "PHIL-6961" : 
