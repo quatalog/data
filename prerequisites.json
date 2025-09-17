@@ -11893,7 +11893,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6965"
+    ],
     "prerequisites" : null
   },
   "CHME-4966" : 
@@ -12143,7 +12146,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4965"
+    ],
     "prerequisites" : null
   },
   "CHME-6966" : 
@@ -15838,14 +15844,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4962"
+    ],
     "prerequisites" : null
   },
   "COMM-6963" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4540"
+    ],
     "prerequisites" : null
   },
   "COMM-6964" : 
@@ -17754,7 +17766,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6966"
+    ],
     "prerequisites" : null
   },
   "CSCI-4967" : 
@@ -17768,7 +17783,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6971"
+    ],
     "prerequisites" : null
   },
   "CSCI-4969" : 
@@ -18401,7 +18419,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4160",
+      "ECSE-4965",
+      "ECSE-6965"
+    ],
     "prerequisites" : null
   },
   "CSCI-6964" : 
@@ -18439,7 +18462,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4964",
+      "ECSE-6964",
+      "ISYE-6964"
+    ],
     "prerequisites" : null
   },
   "CSCI-6969" : 
@@ -18463,7 +18491,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4968"
+    ],
     "prerequisites" : null
   },
   "CSCI-6972" : 
@@ -22605,7 +22636,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4160",
+      "CSCI-6963",
+      "ECSE-6965"
+    ],
     "prerequisites" : null
   },
   "ECSE-4966" : 
