@@ -4990,7 +4990,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4110",
+      "PHYS-4110",
+      "PHYS-6960"
+    ],
     "prerequisites" : null
   },
   "ASTR-6961" : 
@@ -7301,8 +7306,16 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "BIOL-6961"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "BIOL 1010",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "BIOL-4962" : 
   {
@@ -40553,7 +40566,10 @@
   "PHYS-1960" : 
   {
     "attributes" : [],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "PHYS-1050"
+    ],
     "cross_listings" : null,
     "prerequisites" : null
   },
