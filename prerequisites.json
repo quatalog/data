@@ -1870,6 +1870,18 @@
       "type" : "and"
     }
   },
+  "ARCH-5325" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "ARCH 5320",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "ARCH-5330" : 
   {
     "attributes" : [],
@@ -2117,7 +2129,12 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ARCH 6610",
+      "min_grade" : "B",
+      "type" : "course"
+    }
   },
   "ARCH-6630" : 
   {
