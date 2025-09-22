@@ -4761,6 +4761,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ASTR-1940" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ASTR-1960" : 
   {
     "attributes" : [],
