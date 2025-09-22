@@ -1378,10 +1378,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-6890"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "ARCH 4860",
@@ -4820,6 +4817,13 @@
     "prerequisites" : null
   },
   "ASTR-2940" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "ASTR-2941" : 
   {
     "attributes" : [],
     "corequisites" : null,
@@ -31603,6 +31607,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "LGHT-6230" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "LGHT-6750" : 
   {
     "attributes" : [],
@@ -31621,15 +31632,8 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "LGHT-4870"
-    ],
-    "prerequisites" : 
-    {
-      "course" : "LGHT 4840",
-      "type" : "course"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "LGHT-6780" : 
   {
