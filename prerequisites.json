@@ -29460,10 +29460,12 @@
       [
         {
           "course" : "ISYE 2210",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ENGR 2700",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
