@@ -29676,10 +29676,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ISYE-6370"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ISYE-4440" : 
@@ -29943,10 +29940,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ISYE-4370"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ISYE-6550" : 
