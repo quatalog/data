@@ -2166,7 +2166,12 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ARCH 5110",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ARCH-6690" : 
   {
@@ -6256,7 +6261,12 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "BIOL 1010",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "BIOL-4080" : 
   {
@@ -7462,6 +7472,13 @@
     "prerequisites" : null
   },
   "BIOL-6008" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "BIOL-6070" : 
   {
     "attributes" : [],
     "corequisites" : null,
@@ -12964,7 +12981,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4961"
+    ],
     "prerequisites" : 
     {
       "nested" : 
