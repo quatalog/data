@@ -30739,10 +30739,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ITWS-6961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ITWS-4962" : 
