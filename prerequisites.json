@@ -160,6 +160,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ADMN-7002" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ARCH-1001" : 
   {
     "attributes" : [],
