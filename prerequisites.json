@@ -1949,6 +1949,13 @@
     ],
     "prerequisites" : null
   },
+  "ARCH-6060" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ARCH-6065" : 
   {
     "attributes" : [],
@@ -2367,20 +2374,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-4967"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-6962" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-4970"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-6963" : 
