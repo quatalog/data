@@ -13189,10 +13189,12 @@
       [
         {
           "course" : "CIVL 4010",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CIVL 4150",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -29569,7 +29571,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6960"
+    ],
     "prerequisites" : 
     {
       "course" : "ISYE 4290",
@@ -30066,7 +30071,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4230"
+    ],
     "prerequisites" : null
   },
   "ISYE-6961" : 
