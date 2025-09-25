@@ -33084,7 +33084,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6210"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -41919,10 +41922,7 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "PHIL-2100"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "PSYC-2120" : 
