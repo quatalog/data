@@ -27176,7 +27176,10 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-1600"
+    ],
     "prerequisites" : null
   },
   "GSAS-2255" : 
@@ -47313,10 +47316,7 @@
   },
   "WRIT-4960" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
