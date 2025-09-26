@@ -6388,7 +6388,10 @@
       "Culminating Exp/Capstone"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6070"
+    ],
     "prerequisites" : 
     {
       "course" : "BIOL 1010",
@@ -6486,7 +6489,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6140"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -6509,7 +6515,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6150"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -7500,7 +7509,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6962"
+    ],
     "prerequisites" : null
   },
   "BIOL-4963" : 
@@ -7619,7 +7631,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4070"
+    ],
     "prerequisites" : null
   },
   "BIOL-6100" : 
@@ -7636,14 +7651,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4140"
+    ],
     "prerequisites" : null
   },
   "BIOL-6150" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4150"
+    ],
     "prerequisites" : null
   },
   "BIOL-6220" : 
@@ -8018,7 +8039,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4962"
+    ],
     "prerequisites" : null
   },
   "BIOL-6963" : 
@@ -8461,7 +8485,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6410"
+    ],
     "prerequisites" : null
   },
   "BMED-4420" : 
@@ -8494,7 +8521,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6440"
+    ],
     "prerequisites" : null
   },
   "BMED-4450" : 
@@ -8512,7 +8542,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6460"
+    ],
     "prerequisites" : 
     {
       "course" : "BMED 2300",
@@ -8572,7 +8605,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6480"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -8617,7 +8653,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6490"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -9079,7 +9118,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4410"
+    ],
     "prerequisites" : null
   },
   "BMED-6420" : 
@@ -9093,7 +9135,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4440"
+    ],
     "prerequisites" : null
   },
   "BMED-6450" : 
@@ -9112,7 +9157,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4460"
+    ],
     "prerequisites" : null
   },
   "BMED-6470" : 
@@ -9129,14 +9177,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4480"
+    ],
     "prerequisites" : null
   },
   "BMED-6490" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4490"
+    ],
     "prerequisites" : null
   },
   "BMED-6500" : 
@@ -14542,6 +14596,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "COMM-1250" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "COMM-1350" : 
   {
     "attributes" : [],
@@ -15116,7 +15177,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6420"
+    ],
     "prerequisites" : null
   },
   "COMM-4430" : 
@@ -15769,12 +15833,12 @@
   },
   "COMM-6420" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4420"
+    ],
     "prerequisites" : null
   },
   "COMM-6430" : 
