@@ -9902,7 +9902,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-2240"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -10056,7 +10059,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-2140"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -10325,7 +10331,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4120"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -10390,7 +10399,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6140"
+    ],
     "prerequisites" : null
   },
   "CHEM-4150" : 
@@ -10710,14 +10722,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6610"
+    ],
     "prerequisites" : null
   },
   "CHEM-4620" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6620"
+    ],
     "prerequisites" : 
     {
       "course" : "CHEM 2260",
@@ -10775,7 +10793,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6720"
+    ],
     "prerequisites" : null
   },
   "CHEM-4750" : 
@@ -11160,7 +11181,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4140"
+    ],
     "prerequisites" : null
   },
   "CHEM-6160" : 
@@ -11310,14 +11334,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4610"
+    ],
     "prerequisites" : null
   },
   "CHEM-6620" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4620"
+    ],
     "prerequisites" : null
   },
   "CHEM-6630" : 
@@ -11365,7 +11395,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4720"
+    ],
     "prerequisites" : null
   },
   "CHEM-6750" : 
@@ -26508,7 +26541,10 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-2540"
+    ],
     "prerequisites" : 
     {
       "nested" : 
