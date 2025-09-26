@@ -33395,7 +33395,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6360"
+    ],
     "prerequisites" : 
     {
       "course" : "ENGR 2600",
@@ -33541,10 +33544,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-6380"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-4470" : 
@@ -33973,7 +33973,10 @@
   },
   "MANE-4740" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -34545,16 +34548,8 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-4460"
-    ],
-    "prerequisites" : 
-    {
-      "course" : "MANE 4480",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "MANE-6390" : 
   {
