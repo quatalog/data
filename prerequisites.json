@@ -34136,10 +34136,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-6790"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "MANE 4730",
@@ -34418,8 +34415,27 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "MANE-4210"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MANE 4120",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MANE 4130",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "MANE-6230" : 
   {
@@ -34443,7 +34459,12 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MANE 6170",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "MANE-6260" : 
   {
@@ -34485,23 +34506,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "MANE 4290",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "MANE 6290",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "MANE-6310" : 
   {
@@ -34531,7 +34536,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4360"
+    ],
     "prerequisites" : null
   },
   "MANE-6370" : 
@@ -34594,11 +34602,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "MANE 4670",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "MANE-6480" : 
   {
