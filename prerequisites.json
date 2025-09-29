@@ -29248,7 +29248,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSO-4962"
+    ],
     "prerequisites" : null
   },
   "IHSS-6961" : 
@@ -44963,7 +44966,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSO-2520"
+    ],
     "prerequisites" : null
   },
   "STSO-2610" : 
@@ -45922,7 +45928,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "IHSS-6960"
+    ],
     "prerequisites" : null
   },
   "STSO-4963" : 
@@ -47885,7 +47894,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-2110"
+    ],
     "prerequisites" : null
   },
   "WRIT-2310" : 
@@ -48107,7 +48119,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-6410"
+    ],
     "prerequisites" : null
   },
   "WRIT-4550" : 
@@ -48238,7 +48253,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-4410"
+    ],
     "prerequisites" : null
   },
   "WRIT-6550" : 
