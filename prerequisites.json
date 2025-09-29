@@ -35565,7 +35565,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6840"
+    ],
     "prerequisites" : null
   },
   "MANE-6850" : 
