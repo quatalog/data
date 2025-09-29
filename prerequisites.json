@@ -750,13 +750,6 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
-  "ARCH-4080" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
-  },
   "ARCH-4090" : 
   {
     "attributes" : 
@@ -1989,13 +1982,6 @@
     [
       "ARCH-4065"
     ],
-    "prerequisites" : null
-  },
-  "ARCH-6080" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-6110" : 
@@ -5069,6 +5055,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ASTR-6960",
       "PHYS-4961"
     ],
     "prerequisites" : null
