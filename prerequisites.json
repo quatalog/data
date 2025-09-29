@@ -2841,6 +2841,13 @@
       "type" : "or"
     }
   },
+  "ARTS-2080" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ARTS-2090" : 
   {
     "attributes" : [],
@@ -33538,7 +33545,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6140"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -34927,7 +34937,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6964"
+    ],
     "prerequisites" : null
   },
   "MANE-4965" : 
@@ -35009,7 +35022,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4140"
+    ],
     "prerequisites" : null
   },
   "MANE-6150" : 
@@ -35655,7 +35671,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4964"
+    ],
     "prerequisites" : null
   },
   "MANE-6965" : 
@@ -42248,7 +42267,11 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ASTR-4960"
+      "ECSE-4960",
+      "ECSE-6960",
+      "MTLE-4960",
+      "MTLE-6960",
+      "PHYS-6961"
     ],
     "prerequisites" : null
   },
