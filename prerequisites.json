@@ -14296,7 +14296,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6420",
+      "PSYC-4960"
+    ],
     "prerequisites" : null
   },
   "COGS-4961" : 
@@ -14476,7 +14480,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4960",
+      "PSYC-4960"
+    ],
     "prerequisites" : null
   },
   "COGS-6430" : 
@@ -23478,7 +23486,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6300"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 4250",
@@ -30707,7 +30718,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-6620"
+    ],
     "prerequisites" : null
   },
   "ISYE-6770" : 
@@ -36954,7 +36968,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-4400"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -37022,7 +37039,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-6610"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -37183,14 +37203,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-4820"
+    ],
     "prerequisites" : null
   },
   "MATP-6620" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6760"
+    ],
     "prerequisites" : null
   },
   "MATP-6640" : 
@@ -37581,7 +37607,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6690"
+    ],
     "prerequisites" : null
   },
   "MGMT-4100" : 
@@ -37660,14 +37689,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6570"
+    ],
     "prerequisites" : null
   },
   "MGMT-4175" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6350"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -37690,7 +37725,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6560"
+    ],
     "prerequisites" : null
   },
   "MGMT-4200" : 
@@ -37757,7 +37795,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6430"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 2300",
@@ -37953,7 +37994,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6420"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 2320",
@@ -37982,7 +38026,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6720"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 2430",
@@ -38063,7 +38110,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6630"
+    ],
     "prerequisites" : null
   },
   "MGMT-4540" : 
@@ -38096,7 +38146,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4550"
+    ],
     "prerequisites" : null
   },
   "MGMT-4600" : 
@@ -38615,7 +38668,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4175"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -38701,7 +38757,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4420"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -38724,7 +38783,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4260"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -38870,14 +38932,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4190"
+    ],
     "prerequisites" : null
   },
   "MGMT-6570" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4170"
+    ],
     "prerequisites" : null
   },
   "MGMT-6580" : 
@@ -38926,7 +38994,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4530"
+    ],
     "prerequisites" : null
   },
   "MGMT-6640" : 
@@ -38978,7 +39049,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4090"
+    ],
     "prerequisites" : null
   },
   "MGMT-6700" : 
@@ -39009,7 +39083,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4450"
+    ],
     "prerequisites" : null
   },
   "MGMT-6730" : 
@@ -39946,7 +40023,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-4400"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -40004,7 +40084,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6440"
+    ],
     "prerequisites" : null
   },
   "MTLE-4450" : 
@@ -40160,7 +40243,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6960"
+    ],
     "prerequisites" : null
   },
   "MTLE-4961" : 
@@ -40273,7 +40359,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6300"
+    ],
     "prerequisites" : null
   },
   "MTLE-6350" : 
@@ -40311,7 +40400,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-4440"
+    ],
     "prerequisites" : null
   },
   "MTLE-6450" : 
@@ -40424,7 +40516,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-4960"
+    ],
     "prerequisites" : null
   },
   "MTLE-6961" : 
@@ -40553,7 +40648,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-2100"
+    ],
     "prerequisites" : null
   },
   "PHIL-2120" : 
@@ -42628,7 +42726,10 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-2100"
+    ],
     "prerequisites" : null
   },
   "PSYC-2120" : 
@@ -42662,7 +42763,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-2310"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -43072,7 +43176,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4350"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -43141,7 +43248,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4370"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -43211,7 +43321,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4430"
+    ],
     "prerequisites" : null
   },
   "PSYC-4440" : 
@@ -43453,7 +43566,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4730"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -43540,7 +43656,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4960",
+      "COGS-6420"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
