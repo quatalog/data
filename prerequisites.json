@@ -3181,7 +3181,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-2962"
+    ],
     "prerequisites" : null
   },
   "ARTS-2961" : 
