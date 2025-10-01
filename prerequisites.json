@@ -25509,10 +25509,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ISYE-6961"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "ENGR-6964" : 
@@ -30775,7 +30772,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ISYE-4230"
+      "ISYE-4250"
     ],
     "prerequisites" : null
   },
@@ -30785,7 +30782,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ENGR-6963"
+      "ENGR-4964",
+      "ISYE-4961"
     ],
     "prerequisites" : null
   },
@@ -36033,6 +36031,13 @@
     }
   },
   "MATH-2961" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "MATH-2965" : 
   {
     "attributes" : [],
     "corequisites" : null,
