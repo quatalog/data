@@ -16949,10 +16949,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6962"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -17103,7 +17100,23 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2300",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2600",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "CSCI-4210" : 
   {
@@ -17240,48 +17253,23 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MATH-4150"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
       [
         {
-          "nested" : 
-          [
-            {
-              "course" : "CSCI 1100",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "CSCI 1200",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "CSCI 2200",
+          "min_grade" : "D",
+          "type" : "course"
         },
         {
-          "nested" : 
-          [
-            {
-              "course" : "CSCI 2200",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 4090",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "MATH 4090",
+          "min_grade" : "D",
+          "type" : "course"
         }
       ],
-      "type" : "and"
+      "type" : "or"
     }
   },
   "CSCI-4270" : 
@@ -17316,6 +17304,18 @@
         }
       ],
       "type" : "and"
+    }
+  },
+  "CSCI-4280" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "CSCI 2300",
+      "min_grade" : "D",
+      "type" : "course"
     }
   },
   "CSCI-4290" : 
@@ -17872,20 +17872,19 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6560"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
       [
         {
           "course" : "CSCI 2300",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CSCI 2600",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -18428,6 +18427,20 @@
     ],
     "prerequisites" : null
   },
+  "CSCI-6170" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "CSCI-6190" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "CSCI-6210" : 
   {
     "attributes" : [],
@@ -18740,25 +18753,8 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4560"
-    ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 2300",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 2600",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "CSCI-6800" : 
   {
@@ -18822,10 +18818,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CSCI-6961" : 
@@ -36183,10 +36176,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4260"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
