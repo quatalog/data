@@ -16697,10 +16697,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-2800"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
@@ -16841,18 +16838,21 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6972"
+    ],
     "prerequisites" : 
     {
       "nested" : 
       [
         {
-          "course" : "CSCI 2200",
+          "course" : "CSCI 2300",
           "min_grade" : "D",
           "type" : "course"
         },
         {
-          "course" : "CSCI 2300",
+          "course" : "CSCI 2200",
           "min_grade" : "D",
           "type" : "course"
         }
@@ -17185,25 +17185,9 @@
     ],
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 2500",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 2800",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 4210",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "CSCI 2300",
+      "min_grade" : "D",
+      "type" : "course"
     }
   },
   "CSCI-4240" : 
@@ -17816,7 +17800,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6530"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18469,12 +18456,7 @@
     [
       "CSCI-4230"
     ],
-    "prerequisites" : 
-    {
-      "course" : "CSCI 2300",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CSCI-6240" : 
   {
