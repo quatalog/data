@@ -3558,30 +3558,12 @@
   {
     "attributes" : 
     [
-      "Communication Intensive"
+      "Communication Intensive",
+      "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-6130"
-    ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ARTS 2500",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ARTS 2540",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "ARTS-4140" : 
   {
@@ -3673,6 +3655,97 @@
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
+  },
+  "ARTS-4250" : 
+  {
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ARTS 1020",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 1030",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 1040",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 1200",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 2020",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 2380",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ARTS 2220",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1030",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1040",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1170",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1180",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1030",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1040",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1170",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1180",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ARTS-4260" : 
   {
@@ -4449,10 +4522,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-4130"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-6140" : 
@@ -4524,10 +4594,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-4080"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-6260" : 
