@@ -30658,17 +30658,17 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "MATP-6620"
+    ],
     "prerequisites" : null
   },
   "ISYE-6770" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MATP-6640"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ISYE-6780" : 
