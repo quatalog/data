@@ -22273,6 +22273,18 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ECSE-4210" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "ECSE 2210",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "ECSE-4220" : 
   {
     "attributes" : [],
@@ -22417,8 +22429,25 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "ECSE 2210",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 2210",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 2050",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 2620",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "ECSE-4380" : 
@@ -23182,27 +23211,8 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6962"
-    ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ECSE 2210",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "PHYS 2620",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "ECSE-4963" : 
   {
@@ -23563,7 +23573,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6610"
+    ],
     "prerequisites" : null
   },
   "ECSE-6430" : 
@@ -23601,10 +23614,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-6962"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-6470" : 
@@ -23669,10 +23679,12 @@
       [
         {
           "course" : "ECSE 2500",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "ECSE 6400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -24061,20 +24073,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-4962"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-6963" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-4963"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-6964" : 
@@ -35380,19 +35386,22 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6420"
+    ],
     "prerequisites" : 
     {
       "nested" : 
       [
         {
           "course" : "ECSE 6400",
-          "min_grade" : "D",
+          "min_grade" : "C",
           "type" : "course"
         },
         {
           "course" : "MANE 6600",
-          "min_grade" : "D",
+          "min_grade" : "C",
           "type" : "course"
         }
       ],
