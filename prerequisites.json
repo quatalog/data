@@ -22536,7 +22536,23 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MANE 2110",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-4480" : 
   {
