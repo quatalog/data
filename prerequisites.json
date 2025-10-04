@@ -12905,9 +12905,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CIVL-6660",
-      "MANE-4240",
-      "MANE-6660"
+      "MANE-4240"
     ],
     "prerequisites" : 
     {
@@ -13599,7 +13597,8 @@
     [
       "CIVL-4240",
       "MANE-4240",
-      "MANE-6660"
+      "MANE-6660",
+      "MANE-6969"
     ],
     "prerequisites" : 
     {
@@ -17821,15 +17820,23 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6510"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "CSCI 4210",
-      "min_grade" : "D",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2800",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 4210",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "CSCI-4520" : 
@@ -18218,7 +18225,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6964"
+    ],
     "prerequisites" : null
   },
   "CSCI-4965" : 
@@ -18764,16 +18774,8 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4510"
-    ],
-    "prerequisites" : 
-    {
-      "course" : "CSCI 4210",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "CSCI-6530" : 
   {
@@ -18914,7 +18916,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4964"
+    ],
     "prerequisites" : null
   },
   "CSCI-6965" : 
@@ -33849,9 +33854,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CIVL-4240",
-      "CIVL-6660",
-      "MANE-6660"
+      "CIVL-4240"
     ],
     "prerequisites" : 
     {
@@ -34963,10 +34966,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-6964"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-4965" : 
@@ -34980,6 +34980,13 @@
     "prerequisites" : null
   },
   "MANE-4966" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "MANE-4967" : 
   {
     "attributes" : [],
     "corequisites" : null,
@@ -35448,7 +35455,8 @@
     [
       "CIVL-4240",
       "CIVL-6660",
-      "MANE-4240"
+      "MANE-4240",
+      "MANE-6969"
     ],
     "prerequisites" : null
   },
@@ -35697,10 +35705,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-4964"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-6965" : 
@@ -35735,13 +35740,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CIVL-4240",
-      "CIVL-6660",
-      "MANE-4240",
-      "MANE-6660"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-6970" : 
