@@ -23430,7 +23430,12 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ECSE 6110",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ECSE-6200" : 
   {
