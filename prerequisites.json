@@ -11675,7 +11675,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-1100"
+    ],
     "prerequisites" : null
   },
   "CHME-1960" : 
@@ -12055,7 +12058,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4170"
+    ],
     "prerequisites" : null
   },
   "CHME-4180" : 
@@ -12458,7 +12464,12 @@
     [
       "CHME-4660"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CHME 4030",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "CHME-6830" : 
   {
