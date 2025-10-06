@@ -10830,6 +10830,16 @@
       "type" : "course"
     }
   },
+  "CHEM-4630" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6630"
+    ],
+    "prerequisites" : null
+  },
   "CHEM-4640" : 
   {
     "attributes" : [],
@@ -11138,7 +11148,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6960"
+    ],
     "prerequisites" : null
   },
   "CHEM-4961" : 
@@ -11445,7 +11458,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4630"
+    ],
     "prerequisites" : null
   },
   "CHEM-6640" : 
@@ -11562,7 +11578,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4960"
+    ],
     "prerequisites" : null
   },
   "CHEM-6961" : 
@@ -20773,10 +20792,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-6360"
-    ],
+    "cross_listings" : [],
     "prerequisites" : 
     {
       "nested" : 
@@ -21643,6 +21659,18 @@
         }
       ],
       "type" : "and"
+    }
+  },
+  "ECON-6870" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "ECON 6860",
+      "min_grade" : "D",
+      "type" : "course"
     }
   },
   "ECON-6920" : 
@@ -28649,10 +28677,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MGMT-1260"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "IHSS-1290" : 
@@ -37832,6 +37857,13 @@
       "type" : "course"
     }
   },
+  "MGMT-4235" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "MGMT-4240" : 
   {
     "attributes" : [],
@@ -38996,6 +39028,13 @@
     [
       "MGMT-4190"
     ],
+    "prerequisites" : null
+  },
+  "MGMT-6565" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MGMT-6570" : 
