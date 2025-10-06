@@ -9427,7 +9427,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MGMT-6961"
+      "MGMT-6775"
     ],
     "prerequisites" : null
   },
@@ -28677,7 +28677,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-1260"
+    ],
     "prerequisites" : null
   },
   "IHSS-1290" : 
@@ -29348,7 +29351,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "STSO-4962"
+    ],
     "prerequisites" : null
   },
   "IHSS-6961" : 
@@ -29410,7 +29416,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "INQR-1100",
       "STSO-1100"
     ],
     "prerequisites" : null
@@ -37454,7 +37459,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "IHSS-1260"
+    ],
     "prerequisites" : null
   },
   "MGMT-1940" : 
@@ -37737,7 +37745,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6160"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 4100",
@@ -37785,7 +37796,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6180"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -37990,7 +38004,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6380"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 2320",
@@ -38185,7 +38202,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6620"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 1100",
@@ -38594,7 +38614,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4160"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 6100",
@@ -38617,7 +38640,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4180"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 6100",
@@ -38808,7 +38834,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4340"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 6020",
@@ -39086,7 +39115,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4520"
+    ],
     "prerequisites" : null
   },
   "MGMT-6630" : 
@@ -39220,7 +39252,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6961"
+    ],
     "prerequisites" : null
   },
   "MGMT-6790" : 
@@ -39666,7 +39701,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-7780"
+    ],
     "prerequisites" : null
   },
   "MGMT-7250" : 
@@ -39734,7 +39772,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-7240",
+      "MGMT-7780"
+    ],
     "prerequisites" : null
   },
   "MGMT-7800" : 
