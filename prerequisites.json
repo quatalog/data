@@ -20213,11 +20213,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-4170",
-      "ECON-6170"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -21354,10 +21350,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-4170"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECON-6190" : 
@@ -37763,6 +37756,29 @@
       "type" : "or"
     }
   },
+  "MGMT-4180" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MGMT 2430",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MGMT 2100",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
+  },
   "MGMT-4190" : 
   {
     "attributes" : [],
@@ -37942,10 +37958,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MGMT-6380"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "MGMT 2320",
@@ -38573,7 +38586,12 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MGMT 6100",
+      "min_grade" : "C",
+      "type" : "course"
+    }
   },
   "MGMT-6190" : 
   {
@@ -38758,14 +38776,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MGMT-4340"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "MGMT 6310",
-      "min_grade" : "D",
+      "course" : "MGMT 6020",
+      "min_grade" : "C",
       "type" : "course"
     }
   },
@@ -39162,6 +39177,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "MGMT-6775" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "MGMT-6790" : 
   {
     "attributes" : [],
@@ -39307,11 +39329,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ISYE-4700",
-      "ISYE-6700"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MGMT-6961" : 
@@ -39475,6 +39493,13 @@
     "prerequisites" : null
   },
   "MGMT-6990" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "MGMT-7000" : 
   {
     "attributes" : [],
     "corequisites" : null,
