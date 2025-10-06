@@ -29330,10 +29330,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "STSO-4962"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "IHSS-6961" : 
@@ -38917,7 +38914,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4960"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 6520",
@@ -39307,7 +39307,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4700",
+      "ISYE-6700"
+    ],
     "prerequisites" : null
   },
   "MGMT-6961" : 
@@ -45131,7 +45135,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4500"
+    ],
     "prerequisites" : 
     {
       "nested" : 
