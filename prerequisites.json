@@ -31374,6 +31374,13 @@
       "type" : "and"
     }
   },
+  "ITWS-4320" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ITWS-4350" : 
   {
     "attributes" : [],
@@ -31753,6 +31760,13 @@
     "prerequisites" : null
   },
   "ITWS-6700" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "ITWS-6710" : 
   {
     "attributes" : [],
     "corequisites" : null,
