@@ -18844,7 +18844,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-6840"
+    ],
     "prerequisites" : null
   },
   "CSCI-6860" : 
@@ -30763,7 +30766,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-6640"
+    ],
     "prerequisites" : null
   },
   "ISYE-6780" : 
@@ -36483,7 +36489,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4820"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -36836,14 +36845,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6840"
+    ],
     "prerequisites" : null
   },
   "MATH-6860" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6860"
+    ],
     "prerequisites" : null
   },
   "MATH-6890" : 
@@ -37222,7 +37237,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6770"
+    ],
     "prerequisites" : null
   },
   "MATP-6910" : 
