@@ -23639,6 +23639,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ECSE-6370" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ECSE-6400" : 
   {
     "attributes" : [],
