@@ -3181,7 +3181,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2960"
+    ],
     "prerequisites" : null
   },
   "ARTS-2961" : 
@@ -3582,7 +3585,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6160"
+    ],
     "prerequisites" : 
     {
       "course" : "ARTS 2020",
@@ -4152,7 +4158,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6880"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -4721,7 +4730,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4880"
+    ],
     "prerequisites" : null
   },
   "ARTS-6900" : 
@@ -4752,7 +4764,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4500"
+    ],
     "prerequisites" : null
   },
   "ARTS-6961" : 
@@ -15538,7 +15553,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6567"
+    ],
     "prerequisites" : null
   },
   "COMM-4570" : 
@@ -16163,7 +16181,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4567"
+    ],
     "prerequisites" : null
   },
   "COMM-6570" : 
@@ -21397,7 +21418,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4170"
+    ],
     "prerequisites" : null
   },
   "ECON-6190" : 
@@ -21669,6 +21693,18 @@
       "type" : "and"
     }
   },
+  "ECON-6810" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "ECON 6800",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "ECON-6820" : 
   {
     "attributes" : [],
@@ -21690,6 +21726,18 @@
         }
       ],
       "type" : "and"
+    }
+  },
+  "ECON-6830" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "ECON 6820",
+      "min_grade" : "D",
+      "type" : "course"
     }
   },
   "ECON-6870" : 
@@ -32938,7 +32986,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LITR-6826"
+    ],
     "prerequisites" : null
   },
   "LITR-4880" : 
@@ -33029,7 +33080,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LITR-4826"
+    ],
     "prerequisites" : null
   },
   "LITR-6940" : 
@@ -46199,7 +46253,23 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "STSO 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "STSO-4961" : 
   {
@@ -46290,6 +46360,13 @@
     "prerequisites" : null
   },
   "STSO-6100" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "STSO-6120" : 
   {
     "attributes" : [],
     "corequisites" : null,
