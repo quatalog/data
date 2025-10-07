@@ -22497,7 +22497,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6370"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -23643,7 +23646,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4370"
+    ],
     "prerequisites" : null
   },
   "ECSE-6400" : 
