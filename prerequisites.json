@@ -31677,7 +31677,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-6961"
+    ],
     "prerequisites" : null
   },
   "ITWS-4962" : 
