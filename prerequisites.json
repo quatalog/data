@@ -14836,13 +14836,6 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
-  "COMM-1250" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
-  },
   "COMM-1350" : 
   {
     "attributes" : [],
@@ -15529,6 +15522,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "COMM-4567" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "COMM-4570" : 
   {
     "attributes" : [],
@@ -15812,9 +15812,15 @@
   },
   "COMM-4960" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6960"
+    ],
     "prerequisites" : null
   },
   "COMM-4961" : 
@@ -16138,6 +16144,13 @@
     ],
     "prerequisites" : null
   },
+  "COMM-6567" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "COMM-6570" : 
   {
     "attributes" : [],
@@ -16336,7 +16349,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4960"
+    ],
     "prerequisites" : null
   },
   "COMM-6961" : 
@@ -32900,6 +32916,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "LITR-4826" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "LITR-4880" : 
   {
     "attributes" : 
@@ -32978,6 +33001,13 @@
     "prerequisites" : null
   },
   "LITR-6330" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "LITR-6826" : 
   {
     "attributes" : [],
     "corequisites" : null,
