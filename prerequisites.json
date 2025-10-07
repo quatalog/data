@@ -3559,7 +3559,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6130"
+    ],
     "prerequisites" : null
   },
   "ARTS-4140" : 
@@ -3660,7 +3663,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6250"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -4519,7 +4525,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4130"
+    ],
     "prerequisites" : null
   },
   "ARTS-6140" : 
@@ -4594,7 +4603,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4250"
+    ],
     "prerequisites" : null
   },
   "ARTS-6260" : 
@@ -15841,7 +15853,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6961"
+    ],
     "prerequisites" : null
   },
   "COMM-4964" : 
@@ -21720,7 +21735,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4963"
+    ],
     "prerequisites" : null
   },
   "ECON-6962" : 
@@ -41177,7 +41195,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSO-4340"
+    ],
     "prerequisites" : null
   },
   "PHIL-4310" : 
@@ -45558,7 +45579,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4300"
+    ],
     "prerequisites" : null
   },
   "STSO-4350" : 
