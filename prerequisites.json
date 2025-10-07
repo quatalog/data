@@ -28997,6 +28997,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "IHSS-1940" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "IHSS-1958" : 
   {
     "attributes" : 
