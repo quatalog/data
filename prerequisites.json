@@ -9706,7 +9706,10 @@
   },
   "CHEM-1120" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -31554,7 +31557,10 @@
   },
   "ITWS-4350" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -41807,6 +41813,7 @@
   {
     "attributes" : 
     [
+      "Data Intensive I",
       "Introductory Level Course"
     ],
     "corequisites" : 
@@ -41943,7 +41950,10 @@
   },
   "PHYS-1250" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
