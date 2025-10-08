@@ -26915,6 +26915,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ERTH-1155" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ERTH-1200" : 
   {
     "attributes" : 
@@ -27277,6 +27284,13 @@
     ],
     "prerequisites" : null
   },
+  "ERTH-4300" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ERTH-4340" : 
   {
     "attributes" : [],
@@ -27343,17 +27357,38 @@
       "nested" : 
       [
         {
-          "course" : "CHEM 1100",
+          "nested" : 
+          [
+            {
+              "course" : "CHEM 1100",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "CHEM 1110",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "CHEM 1120",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
+          "course" : "ERTH 1200",
           "min_grade" : "D",
           "type" : "course"
         },
         {
-          "course" : "CHEM 1110",
+          "course" : "ERTH 1125",
           "min_grade" : "D",
           "type" : "course"
         }
       ],
-      "type" : "or"
+      "type" : "and"
     }
   },
   "ERTH-4540" : 
