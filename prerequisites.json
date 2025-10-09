@@ -21914,7 +21914,10 @@
   },
   "ECSE-2050" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -27290,13 +27293,6 @@
     [
       "ERTH-6200"
     ],
-    "prerequisites" : null
-  },
-  "ERTH-4300" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : null,
     "prerequisites" : null
   },
   "ERTH-4340" : 
@@ -33671,7 +33667,10 @@
   },
   "MANE-4040" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -34490,7 +34489,10 @@
   },
   "MANE-4430" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -35222,7 +35224,10 @@
   },
   "MANE-4920" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -36474,7 +36479,10 @@
   },
   "MATH-4100" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -37267,7 +37275,10 @@
   },
   "MATP-4400" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
