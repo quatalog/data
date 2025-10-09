@@ -34776,15 +34776,17 @@
       "nested" : 
       [
         {
-          "course" : "ENGR 2530",
+          "course" : "CSCI 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
-          "course" : "MANE 4030",
+          "course" : "MANE 2110",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
-      "type" : "and"
+      "type" : "or"
     }
   },
   "MANE-4560" : 
