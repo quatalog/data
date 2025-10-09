@@ -34394,7 +34394,10 @@
   },
   "MANE-4370" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -37372,7 +37375,10 @@
   },
   "MATP-4910" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
