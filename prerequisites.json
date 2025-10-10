@@ -5176,7 +5176,8 @@
     "cross_listings" : 
     [
       "ASTR-6960",
-      "PHYS-4961"
+      "PHYS-4961",
+      "PHYS-6961"
     ],
     "prerequisites" : null
   },
@@ -5231,9 +5232,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ASTR-4110",
-      "PHYS-4110",
-      "PHYS-6960"
+      "ASTR-4960",
+      "PHYS-4961",
+      "PHYS-6961"
     ],
     "prerequisites" : null
   },
@@ -42472,6 +42473,21 @@
       "type" : "course"
     }
   },
+  "PHYS-4150" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4150"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "PHYS 2210",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "PHYS-4160" : 
   {
     "attributes" : [],
@@ -42829,10 +42845,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-4960",
-      "ECSE-6960",
-      "MTLE-4960",
-      "MTLE-6960",
+      "ASTR-4960",
+      "ASTR-6960",
       "PHYS-6961"
     ],
     "prerequisites" : null
@@ -43022,10 +43036,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-4960",
-      "ECSE-6960",
-      "MTLE-4960",
-      "MTLE-6960",
+      "ASTR-4960",
+      "ASTR-6960",
       "PHYS-4961"
     ],
     "prerequisites" : null
