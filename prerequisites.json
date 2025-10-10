@@ -5077,6 +5077,18 @@
       "type" : "course"
     }
   },
+  "ASTR-4150" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "PHYS 2210",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "ASTR-4220" : 
   {
     "attributes" : [],
