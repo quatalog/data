@@ -28947,7 +28947,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-1260"
+    ],
     "prerequisites" : null
   },
   "IHSS-1290" : 
