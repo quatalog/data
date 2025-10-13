@@ -5081,7 +5081,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-4150"
+    ],
     "prerequisites" : 
     {
       "course" : "PHYS 2210",
@@ -9091,7 +9094,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6960"
+    ],
     "prerequisites" : null
   },
   "BMED-4961" : 
@@ -9458,7 +9464,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4960"
+    ],
     "prerequisites" : null
   },
   "BMED-6961" : 
@@ -15634,7 +15643,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COMM-6964"
+      "COMM-6650"
     ],
     "prerequisites" : null
   },
@@ -15882,7 +15891,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6962"
+    ],
     "prerequisites" : null
   },
   "COMM-4963" : 
@@ -16239,6 +16251,16 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "COMM-6650" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "COMM-4650"
+    ],
+    "prerequisites" : null
+  },
   "COMM-6660" : 
   {
     "attributes" : [],
@@ -16423,7 +16445,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4962"
+    ],
     "prerequisites" : null
   },
   "COMM-6963" : 
