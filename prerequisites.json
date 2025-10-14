@@ -3455,6 +3455,21 @@
     ],
     "prerequisites" : null
   },
+  "ARTS-4115" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4115"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "ARTS 2230",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "ARTS-4120" : 
   {
     "attributes" : 
@@ -28281,6 +28296,21 @@
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
+  },
+  "GSAS-4115" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4115"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "ARTS 2230",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "GSAS-4200" : 
   {
