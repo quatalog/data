@@ -11211,7 +11211,43 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CHEM 1200",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 1220",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 1600",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 1600",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ISCI 1600",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ENGR 1600",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "CHEM-4962" : 
   {
@@ -48534,7 +48570,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-2330"
+    ],
     "prerequisites" : null
   },
   "WRIT-2340" : 
