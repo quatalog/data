@@ -38215,32 +38215,6 @@
       "type" : "or"
     }
   },
-  "MGMT-4180" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MGMT-6180"
-    ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "MGMT 2430",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "MGMT 2100",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
-  },
   "MGMT-4190" : 
   {
     "attributes" : [],
@@ -39063,16 +39037,8 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MGMT-4180"
-    ],
-    "prerequisites" : 
-    {
-      "course" : "MGMT 6100",
-      "min_grade" : "C",
-      "type" : "course"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "MGMT-6190" : 
   {
