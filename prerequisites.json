@@ -36400,7 +36400,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-1520"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -36512,7 +36515,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-2010"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
@@ -36545,7 +36551,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-2400"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
