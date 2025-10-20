@@ -24535,32 +24535,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ECSE 2010",
-          "type" : "course"
-        },
-        {
-          "nested" : 
-          [
-            {
-              "course" : "MATH 2010",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 2400",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
-        }
-      ],
-      "type" : "and"
-    }
+    "cross_listings" : 
+    [
+      "MANE-6961"
+    ],
+    "prerequisites" : null
   },
   "ECSE-6970" : 
   {
@@ -36253,7 +36232,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6969"
+    ],
     "prerequisites" : null
   },
   "MANE-6962" : 
