@@ -35690,7 +35690,23 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MANE 4290",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MANE 6290",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "MANE-6310" : 
   {
