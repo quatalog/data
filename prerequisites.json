@@ -18531,7 +18531,39 @@
       "ECSE-4963",
       "ECSE-6963"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 4770",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "CSCI 2500",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "CSCI 2800",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "ECSE 2610",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "CSCI-4965" : 
   {
