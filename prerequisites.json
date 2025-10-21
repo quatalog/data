@@ -18527,7 +18527,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6964"
+      "CSCI-6964",
+      "ECSE-4963",
+      "ECSE-6963"
     ],
     "prerequisites" : null
   },
@@ -19262,7 +19264,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4964"
+      "CSCI-4964",
+      "ECSE-4963",
+      "ECSE-6963"
     ],
     "prerequisites" : null
   },
@@ -23621,8 +23625,45 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "CSCI-4964",
+      "CSCI-6964",
+      "ECSE-6963"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 4770",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "CSCI 2500",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "CSCI 2800",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "ECSE 2610",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "ECSE-4964" : 
   {
@@ -24496,7 +24537,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4964",
+      "CSCI-6964",
+      "ECSE-4963"
+    ],
     "prerequisites" : null
   },
   "ECSE-6964" : 
