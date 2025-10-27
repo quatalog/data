@@ -32789,6 +32789,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "LANG-2941" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "LANG-2950" : 
   {
     "attributes" : [],
@@ -32956,6 +32963,13 @@
     }
   },
   "LANG-4940" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "LANG-4941" : 
   {
     "attributes" : [],
     "corequisites" : null,
