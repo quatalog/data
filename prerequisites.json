@@ -2609,10 +2609,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-1030"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-1040" : 
@@ -10897,16 +10894,6 @@
       "type" : "course"
     }
   },
-  "CHEM-4630" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-6630"
-    ],
-    "prerequisites" : null
-  },
   "CHEM-4640" : 
   {
     "attributes" : [],
@@ -11218,10 +11205,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-6960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHEM-4961" : 
@@ -11565,10 +11549,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-4630"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHEM-6640" : 
@@ -15806,7 +15787,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6730"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -16383,7 +16367,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4730"
+    ],
     "prerequisites" : null
   },
   "COMM-6740" : 
@@ -41506,7 +41493,10 @@
   },
   "PHIL-2100" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
