@@ -18565,33 +18565,32 @@
       "nested" : 
       [
         {
-          "course" : "ECSE 4770",
+          "course" : "CSCI 2500",
           "min_grade" : "D",
           "type" : "course"
         },
         {
-          "nested" : 
-          [
-            {
-              "course" : "CSCI 2500",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "CSCI 2800",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "ECSE 2610",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "CSCI 2800",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 4963",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 2610",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 4770",
+          "min_grade" : "D",
+          "type" : "course"
         }
       ],
-      "type" : "and"
+      "type" : "or"
     }
   },
   "CSCI-4965" : 
@@ -23673,14 +23672,40 @@
       "ISCI-4961",
       "ISCI-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 1200",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ECSE-4962" : 
   {
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 2050",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 2210",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 2620",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-4963" : 
   {
@@ -23697,33 +23722,32 @@
       "nested" : 
       [
         {
+          "course" : "CSCI 2500",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 2610",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2800",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
           "course" : "ECSE 4770",
           "min_grade" : "D",
           "type" : "course"
         },
         {
-          "nested" : 
-          [
-            {
-              "course" : "CSCI 2500",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "CSCI 2800",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "ECSE 2610",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "CSCI 4963",
+          "min_grade" : "D",
+          "type" : "course"
         }
       ],
-      "type" : "and"
+      "type" : "or"
     }
   },
   "ECSE-4964" : 
@@ -23731,14 +23755,35 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MATH 2010",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ECSE-4965" : 
   {
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 4110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 6110",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-4966" : 
   {
@@ -23755,7 +23800,28 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATH 2010",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 2400",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 1200",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "ECSE-4968" : 
   {
@@ -25841,7 +25907,12 @@
       "ISCI-4961",
       "ISCI-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 1200",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ENGR-4962" : 
   {
@@ -30413,7 +30484,12 @@
       "ENGR-6961",
       "ISCI-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 1200",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ISCI-6002" : 
   {
