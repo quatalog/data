@@ -13914,7 +13914,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-2120"
+    ],
     "prerequisites" : null
   },
   "COGS-2340" : 
@@ -14535,8 +14538,44 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "COGS-6960",
+      "CSCI-4962",
+      "GSAS-4960"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 4100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 4150",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 4840",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 4850",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "COGS 4430",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "COGS-4962" : 
   {
@@ -14615,10 +14654,7 @@
   },
   "COGS-4990" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -28717,7 +28753,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-6200"
+    ],
     "prerequisites" : null
   },
   "GSAS-4962" : 
@@ -28771,7 +28810,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4961"
+    ],
     "prerequisites" : null
   },
   "GSAS-6300" : 
@@ -41779,9 +41821,20 @@
     ],
     "prerequisites" : 
     {
-      "course" : "PHIL 2140",
-      "min_grade" : "D",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "PHIL 2140",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2200",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "PHIL-4440" : 
