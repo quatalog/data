@@ -11095,7 +11095,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-4810"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -27840,7 +27843,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4810"
+    ],
     "prerequisites" : 
     {
       "nested" : 
