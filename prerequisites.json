@@ -14836,7 +14836,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4960"
+    ],
     "prerequisites" : null
   },
   "COGS-6961" : 
@@ -32170,7 +32173,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-6960"
+    ],
     "prerequisites" : null
   },
   "ITWS-4961" : 
@@ -32368,13 +32374,6 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
-  "ITWS-6710" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
-  },
   "ITWS-6800" : 
   {
     "attributes" : [],
@@ -32395,7 +32394,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ENGR-6963"
+      "ITWS-4960"
     ],
     "prerequisites" : null
   },
