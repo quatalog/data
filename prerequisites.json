@@ -1341,7 +1341,7 @@
     "attributes" : [],
     "corequisites" : 
     [
-      "ARCH-4835"
+      "ARCH-4325"
     ],
     "cross_listings" : null,
     "prerequisites" : 
@@ -14522,44 +14522,8 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COGS-6960",
-      "CSCI-4962",
-      "GSAS-4960"
-    ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 4100",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 4150",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ECSE 4840",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ECSE 4850",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "COGS 4430",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "COGS-4962" : 
   {
@@ -18578,11 +18542,6 @@
           "type" : "course"
         },
         {
-          "course" : "CSCI 4963",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
           "course" : "ECSE 2610",
           "min_grade" : "D",
           "type" : "course"
@@ -18617,7 +18576,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6966"
+      "ITWS-4966"
     ],
     "prerequisites" : null
   },
@@ -23734,11 +23693,6 @@
           "course" : "ECSE 4770",
           "min_grade" : "D",
           "type" : "course"
-        },
-        {
-          "course" : "CSCI 4963",
-          "min_grade" : "D",
-          "type" : "course"
         }
       ],
       "type" : "or"
@@ -28804,11 +28758,13 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "GSAS-6200"
-    ],
-    "prerequisites" : null
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "ARTS 2330",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "GSAS-4961" : 
   {
@@ -32218,6 +32174,16 @@
     "cross_listings" : 
     [
       "ITWS-6963"
+    ],
+    "prerequisites" : null
+  },
+  "ITWS-4966" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4966"
     ],
     "prerequisites" : null
   },
