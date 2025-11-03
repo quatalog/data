@@ -41103,7 +41103,7 @@
     "prerequisites" : 
     {
       "course" : "MTLE 2100",
-      "min_grade" : null,
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -41153,7 +41153,11 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MTLE-6960"
+      "ECSE-4960",
+      "ECSE-6960",
+      "MTLE-6960",
+      "PHYS-4961",
+      "PHYS-6961"
     ],
     "prerequisites" : null
   },
@@ -41420,7 +41424,11 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MTLE-4960"
+      "ECSE-4960",
+      "ECSE-6960",
+      "MTLE-4960",
+      "PHYS-4961",
+      "PHYS-6961"
     ],
     "prerequisites" : null
   },
