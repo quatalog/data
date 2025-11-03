@@ -22034,18 +22034,6 @@
       "type" : "course"
     }
   },
-  "ECON-6870" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "ECON 6860",
-      "min_grade" : "D",
-      "type" : "course"
-    }
-  },
   "ECON-6920" : 
   {
     "attributes" : [],
@@ -42328,10 +42316,7 @@
     [
       "Introductory Level Course"
     ],
-    "corequisites" : 
-    [
-      "PHYS-1960"
-    ],
+    "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
     {
