@@ -27772,14 +27772,20 @@
           "type" : "or"
         },
         {
-          "course" : "ERTH 1200",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ERTH 1125",
-          "min_grade" : "D",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "ERTH 1200",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "ERTH 1125",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
       "type" : "and"
