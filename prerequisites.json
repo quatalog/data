@@ -26060,7 +26060,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-6960"
+    ],
     "prerequisites" : null
   },
   "ENGR-6964" : 
