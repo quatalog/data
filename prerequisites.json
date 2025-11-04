@@ -40886,7 +40886,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-4250"
+    ],
     "prerequisites" : 
     {
       "nested" : 
