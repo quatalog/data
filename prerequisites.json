@@ -18611,6 +18611,7 @@
       "CSCI-6969",
       "ECSE-4490",
       "ECSE-6490",
+      "MANE-4967",
       "MANE-6967"
     ],
     "prerequisites" : 
@@ -19341,6 +19342,7 @@
       "CSCI-4969",
       "ECSE-4490",
       "ECSE-6490",
+      "MANE-4967",
       "MANE-6967"
     ],
     "prerequisites" : null
@@ -22674,7 +22676,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6210"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 2210",
@@ -23017,6 +23022,7 @@
       "CSCI-4969",
       "CSCI-6969",
       "ECSE-6490",
+      "MANE-4967",
       "MANE-6967"
     ],
     "prerequisites" : null
@@ -23636,7 +23642,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6962"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -23702,7 +23711,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6964"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 2010",
@@ -23714,7 +23726,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6190"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -23775,7 +23790,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4500"
+    ],
     "prerequisites" : null
   },
   "ECSE-4969" : 
@@ -23923,7 +23941,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4965"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 6110",
@@ -23942,7 +23963,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4210"
+    ],
     "prerequisites" : null
   },
   "ECSE-6220" : 
@@ -24231,6 +24255,7 @@
       "CSCI-4969",
       "CSCI-6969",
       "ECSE-4490",
+      "MANE-4967",
       "MANE-6967"
     ],
     "prerequisites" : null
@@ -24605,7 +24630,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4962"
+    ],
     "prerequisites" : null
   },
   "ECSE-6963" : 
@@ -24624,7 +24652,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4964"
+    ],
     "prerequisites" : null
   },
   "ECSE-6965" : 
@@ -31057,7 +31088,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4968"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -35732,7 +35766,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4969",
+      "CSCI-6969",
+      "ECSE-4490",
+      "ECSE-6490",
+      "MANE-6967"
+    ],
     "prerequisites" : null
   },
   "MANE-5000" : 
@@ -36512,7 +36553,8 @@
       "CSCI-4969",
       "CSCI-6969",
       "ECSE-4490",
-      "ECSE-6490"
+      "ECSE-6490",
+      "MANE-4967"
     ],
     "prerequisites" : null
   },
