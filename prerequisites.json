@@ -49177,7 +49177,12 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "WRIT 2330",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "WRIT-4961" : 
   {
