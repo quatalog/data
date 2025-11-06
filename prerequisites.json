@@ -5090,7 +5090,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "PHYS-4150"
+      "ASTR-6963",
+      "PHYS-4150",
+      "PHYS-6963"
     ],
     "prerequisites" : 
     {
@@ -5266,8 +5268,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ASTR-4963",
-      "PHYS-4963",
+      "ASTR-4150",
+      "PHYS-4150",
       "PHYS-6963"
     ],
     "prerequisites" : null
@@ -43000,7 +43002,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ASTR-4150"
+      "ASTR-4150",
+      "ASTR-6963",
+      "PHYS-6963"
     ],
     "prerequisites" : 
     {
@@ -43580,7 +43584,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "PHYS-4620"
+      "ASTR-4150",
+      "ASTR-6963",
+      "PHYS-4150"
     ],
     "prerequisites" : null
   },
@@ -44440,23 +44446,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "PSYC 2520",
-          "min_grade" : null,
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 2300",
-          "min_grade" : null,
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "PSYC-4600" : 
   {
