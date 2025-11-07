@@ -14262,7 +14262,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COGS-6540"
+      "COGS-6540",
+      "CSCI-4545"
     ],
     "prerequisites" : 
     {
@@ -14722,7 +14723,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COGS-4540"
+      "COGS-4540",
+      "CSCI-4545"
     ],
     "prerequisites" : null
   },
@@ -18160,6 +18162,22 @@
     "prerequisites" : 
     {
       "course" : "GSAS 4520",
+      "type" : "course"
+    }
+  },
+  "CSCI-4545" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "COGS-4540",
+      "COGS-6540"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "CSCI 2300",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
