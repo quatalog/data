@@ -22219,7 +22219,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-2100"
+    ],
     "prerequisites" : 
     {
       "nested" : 
