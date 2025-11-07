@@ -15955,7 +15955,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECON-6961"
+      "COMM-6963"
     ],
     "prerequisites" : null
   },
@@ -16512,7 +16512,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COMM-4540"
+      "COMM-4963"
     ],
     "prerequisites" : null
   },
@@ -22033,10 +22033,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COMM-4963"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECON-6962" : 
