@@ -26678,7 +26678,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-6960"
+    ],
     "prerequisites" : null
   },
   "ENVE-4961" : 
@@ -26904,7 +26907,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4960"
+    ],
     "prerequisites" : null
   },
   "ENVE-6961" : 
