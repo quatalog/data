@@ -24454,12 +24454,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "ECSE 4770",
-      "min_grade" : null,
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "ECSE-6710" : 
   {
