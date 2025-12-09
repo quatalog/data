@@ -40372,13 +40372,6 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
-  "MGMT-7000" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
-  },
   "MGMT-7003" : 
   {
     "attributes" : [],
