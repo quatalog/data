@@ -5210,18 +5210,6 @@
     ],
     "prerequisites" : null
   },
-  "ASTR-4962" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ASTR-6964",
-      "PHYS-4962",
-      "PHYS-6964"
-    ],
-    "prerequisites" : null
-  },
   "ASTR-4963" : 
   {
     "attributes" : [],
@@ -5288,18 +5276,6 @@
       "ASTR-4150",
       "PHYS-4150",
       "PHYS-6963"
-    ],
-    "prerequisites" : null
-  },
-  "ASTR-6964" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ASTR-4962",
-      "PHYS-4962",
-      "PHYS-6964"
     ],
     "prerequisites" : null
   },
@@ -43424,8 +43400,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ASTR-4962",
-      "ASTR-6964",
       "PHYS-6964"
     ],
     "prerequisites" : null
@@ -43643,8 +43617,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ASTR-4962",
-      "ASTR-6964",
       "PHYS-4962"
     ],
     "prerequisites" : null
