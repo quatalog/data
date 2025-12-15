@@ -2611,7 +2611,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-1040"
+    ],
     "prerequisites" : null
   },
   "ARTS-1050" : 
@@ -28389,7 +28392,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-1040"
+    ],
     "prerequisites" : null
   },
   "GSAS-1600" : 
