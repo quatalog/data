@@ -11798,7 +11798,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-2020"
+    ],
     "prerequisites" : 
     {
       "nested" : 
