@@ -23695,14 +23695,11 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-6964"
+      "CSCI-6968",
+      "ECSE-6964",
+      "ISYE-6964"
     ],
-    "prerequisites" : 
-    {
-      "course" : "MATH 2010",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "ECSE-4965" : 
   {
@@ -24631,7 +24628,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-4964"
+      "CSCI-6968",
+      "ECSE-4964",
+      "ISYE-6964"
     ],
     "prerequisites" : null
   },
