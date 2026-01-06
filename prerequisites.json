@@ -26013,7 +26013,7 @@
     "prerequisites" : 
     {
       "course" : "ENGR 6220",
-      "min_grade" : "D",
+      "min_grade" : "C",
       "type" : "course"
     }
   },
