@@ -1833,7 +1833,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2830"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 5200",
