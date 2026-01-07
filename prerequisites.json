@@ -46903,23 +46903,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "STSO 1100",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "INQR 1100",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "STSO-4961" : 
   {
