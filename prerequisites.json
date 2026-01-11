@@ -18437,32 +18437,8 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6961"
-    ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 4150",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 4100",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 6100",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "CSCI-4962" : 
   {
@@ -19243,10 +19219,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CSCI-6962" : 
@@ -33110,7 +33083,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LGHT-6960"
+    ],
     "prerequisites" : null
   },
   "LGHT-4961" : 
@@ -33212,7 +33188,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LGHT-4960"
+    ],
     "prerequisites" : null
   },
   "LGHT-6962" : 
