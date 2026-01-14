@@ -41071,7 +41071,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : [],
     "prerequisites" : 
     {
       "nested" : 
