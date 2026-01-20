@@ -36642,7 +36642,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-1010"
+    ],
     "prerequisites" : null
   },
   "MATH-1020" : 
@@ -42384,7 +42387,10 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-1110"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1010",
