@@ -12572,7 +12572,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6840"
+    ],
     "prerequisites" : null
   },
   "CHME-6850" : 
