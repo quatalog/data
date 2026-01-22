@@ -42287,6 +42287,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "PSYC-2941" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "PSYC-2950" : 
   {
     "attributes" : [],
