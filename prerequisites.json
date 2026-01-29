@@ -1975,10 +1975,7 @@
   "ARCH-6320" : 
   {
     "attributes" : [],
-    "corequisites" : 
-    [
-      "ARCH-6610"
-    ],
+    "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
   },
