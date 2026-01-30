@@ -35518,8 +35518,27 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "MATH-2010"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATH 1020",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 2011",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "MATH-2400" : 
   {
