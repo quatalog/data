@@ -24961,7 +24961,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-6964",
+      "ISYE-6900"
+    ],
     "prerequisites" : null
   },
   "ENGR-4964" : 
