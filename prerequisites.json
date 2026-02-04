@@ -9637,7 +9637,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-1600",
+      "ISCI-1600",
+      "PHYS-1600"
+    ],
     "prerequisites" : null
   },
   "CHEM-1900" : 
@@ -22855,7 +22860,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6961",
+      "ENGR-4961",
+      "ENGR-6961",
+      "ISCI-4961",
+      "ISCI-6961"
+    ],
     "prerequisites" : null
   },
   "ECSE-4962" : 
@@ -23718,7 +23730,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4961",
+      "ENGR-4961",
+      "ENGR-6961",
+      "ISCI-4961",
+      "ISCI-6961"
+    ],
     "prerequisites" : null
   },
   "ECSE-6962" : 
@@ -24174,7 +24193,12 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-1600",
+      "ISCI-1600",
+      "PHYS-1600"
+    ],
     "prerequisites" : null
   },
   "ENGR-1700" : 
@@ -24780,7 +24804,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-6100",
+      "ITWS-6300"
+    ],
     "prerequisites" : null
   },
   "ENGR-4200" : 
@@ -24836,7 +24864,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4440"
+    ],
     "prerequisites" : null
   },
   "ENGR-4555" : 
@@ -24875,7 +24906,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4610"
+    ],
     "prerequisites" : null
   },
   "ENGR-4720" : 
@@ -24947,7 +24981,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4961",
+      "ECSE-6961",
+      "ENGR-6961",
+      "ISCI-4961",
+      "ISCI-6961"
+    ],
     "prerequisites" : null
   },
   "ENGR-4962" : 
@@ -24972,7 +25013,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-6964",
+      "ISYE-4961",
+      "ISYE-6961"
+    ],
     "prerequisites" : null
   },
   "ENGR-6002" : 
@@ -24986,7 +25032,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4100",
+      "ITWS-6300"
+    ],
     "prerequisites" : null
   },
   "ENGR-6120" : 
@@ -25123,7 +25173,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4961",
+      "ECSE-6961",
+      "ENGR-4961",
+      "ISCI-4961",
+      "ISCI-6961"
+    ],
     "prerequisites" : null
   },
   "ENGR-6963" : 
@@ -25137,7 +25194,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4964",
+      "ISYE-4961",
+      "ISYE-6961"
+    ],
     "prerequisites" : null
   },
   "ENGR-6970" : 
@@ -29283,7 +29345,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-1600",
+      "ENGR-1600",
+      "PHYS-1600"
+    ],
     "prerequisites" : null
   },
   "ISCI-1960" : 
@@ -29393,7 +29460,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4961",
+      "ECSE-6961",
+      "ENGR-4961",
+      "ENGR-6961",
+      "ISCI-6961"
+    ],
     "prerequisites" : null
   },
   "ISCI-6002" : 
@@ -29498,7 +29572,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4961",
+      "ECSE-6961",
+      "ENGR-4961",
+      "ENGR-6961",
+      "ISCI-4961"
+    ],
     "prerequisites" : null
   },
   "ISCI-6962" : 
@@ -29971,7 +30052,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4440"
+    ],
     "prerequisites" : null
   },
   "ISYE-4500" : 
@@ -30125,7 +30209,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4964",
+      "ENGR-6964",
+      "ISYE-6961"
+    ],
     "prerequisites" : null
   },
   "ISYE-4962" : 
@@ -30339,7 +30428,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4964",
+      "ENGR-6964",
+      "ISYE-4961"
+    ],
     "prerequisites" : null
   },
   "ISYE-6962" : 
@@ -31124,7 +31218,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4100",
+      "ENGR-6100"
+    ],
     "prerequisites" : null
   },
   "ITWS-6350" : 
@@ -34031,7 +34129,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4710"
+    ],
     "prerequisites" : null
   },
   "MANE-4620" : 
@@ -41081,7 +41182,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-1600",
+      "ENGR-1600",
+      "ISCI-1600"
+    ],
     "prerequisites" : null
   },
   "PHYS-1940" : 
