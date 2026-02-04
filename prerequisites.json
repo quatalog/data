@@ -7470,7 +7470,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6960"
+    ],
     "prerequisites" : null
   },
   "BIOL-4961" : 
@@ -7998,7 +8001,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4960"
+    ],
     "prerequisites" : null
   },
   "BIOL-6961" : 
@@ -8919,7 +8925,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6960"
+    ],
     "prerequisites" : null
   },
   "BMED-4961" : 
@@ -9271,7 +9280,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4960"
+    ],
     "prerequisites" : null
   },
   "BMED-6961" : 
@@ -11004,14 +11016,22 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6964"
+    ],
     "prerequisites" : null
   },
   "CHEM-4965" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6965",
+      "ERTH-4965",
+      "ERTH-6965"
+    ],
     "prerequisites" : null
   },
   "CHEM-4966" : 
@@ -11421,14 +11441,22 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4964"
+    ],
     "prerequisites" : null
   },
   "CHEM-6965" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4965",
+      "ERTH-4965",
+      "ERTH-6965"
+    ],
     "prerequisites" : null
   },
   "CHEM-6966" : 
