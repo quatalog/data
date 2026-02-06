@@ -18058,8 +18058,16 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "CSCI-6965"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "CSCI 2300",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "CSCI-4966" : 
   {
@@ -18694,7 +18702,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4965"
+    ],
     "prerequisites" : null
   },
   "CSCI-6966" : 
@@ -22904,7 +22915,12 @@
       "ISCI-4961",
       "ISCI-6961"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 1200",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ECSE-4962" : 
   {
@@ -25019,8 +25035,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-4961",
-      "ECSE-6961",
       "ENGR-6961",
       "ISCI-4961",
       "ISCI-6961"
@@ -25211,8 +25225,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-4961",
-      "ECSE-6961",
       "ENGR-4961",
       "ISCI-4961",
       "ISCI-6961"
@@ -29498,8 +29510,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-4961",
-      "ECSE-6961",
       "ENGR-4961",
       "ENGR-6961",
       "ISCI-6961"
@@ -29610,8 +29620,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-4961",
-      "ECSE-6961",
       "ENGR-4961",
       "ENGR-6961",
       "ISCI-4961"
@@ -31336,7 +31344,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-4960"
+    ],
     "prerequisites" : null
   },
   "ITWS-6961" : 
