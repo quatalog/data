@@ -29025,7 +29025,10 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1060"
+    ],
     "prerequisites" : null
   },
   "INQR-1100" : 
