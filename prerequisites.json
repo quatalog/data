@@ -7495,24 +7495,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "MATH 1020",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "BIOL 4620",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "cross_listings" : 
+    [
+      "BIOL-6962"
+    ],
+    "prerequisites" : null
   },
   "BIOL-4963" : 
   {
@@ -16827,7 +16814,10 @@
   },
   "CSCI-4140" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -17166,7 +17156,10 @@
   },
   "CSCI-4270" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -17630,7 +17623,10 @@
   },
   "CSCI-4510" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -17783,7 +17779,8 @@
   {
     "attributes" : 
     [
-      "Communication Intensive"
+      "Communication Intensive",
+      "Data Intensive II"
     ],
     "corequisites" : null,
     "cross_listings" : 
@@ -22915,12 +22912,7 @@
       "ISCI-4961",
       "ISCI-6961"
     ],
-    "prerequisites" : 
-    {
-      "course" : "PHYS 1200",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "ECSE-4962" : 
   {
@@ -25035,6 +25027,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ECSE-4961",
+      "ECSE-6961",
       "ENGR-6961",
       "ISCI-4961",
       "ISCI-6961"
@@ -25225,6 +25219,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ECSE-4961",
+      "ECSE-6961",
       "ENGR-4961",
       "ISCI-4961",
       "ISCI-6961"
@@ -29510,6 +29506,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ECSE-4961",
+      "ECSE-6961",
       "ENGR-4961",
       "ENGR-6961",
       "ISCI-6961"
@@ -29620,6 +29618,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ECSE-4961",
+      "ECSE-6961",
       "ENGR-4961",
       "ENGR-6961",
       "ISCI-4961"
@@ -40858,7 +40858,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-6960"
+    ],
     "prerequisites" : null
   },
   "PHIL-4961" : 
@@ -40953,7 +40956,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4960"
+    ],
     "prerequisites" : null
   },
   "PHIL-6961" : 
