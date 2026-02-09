@@ -7613,6 +7613,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "BIOL-6050" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "BIOL-6070" : 
   {
     "attributes" : [],
@@ -29041,10 +29048,7 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "INQR-1060"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "INQR-1100" : 
@@ -35442,10 +35446,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6480"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-6970" : 
@@ -43361,8 +43362,7 @@
   {
     "attributes" : 
     [
-      "Communication Intensive",
-      "Writing Intensive"
+      "Communication Intensive"
     ],
     "corequisites" : null,
     "cross_listings" : null,
