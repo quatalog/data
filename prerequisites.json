@@ -14149,7 +14149,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6960",
+      "CSCI-4962",
+      "GSAS-4960"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -14449,7 +14454,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4961",
+      "CSCI-4962",
+      "GSAS-4960"
+    ],
     "prerequisites" : null
   },
   "COGS-6961" : 
@@ -15487,7 +15497,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6880"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 1100",
@@ -16034,7 +16047,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4880"
+    ],
     "prerequisites" : null
   },
   "COMM-6897" : 
@@ -29148,7 +29164,10 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-1220"
+    ],
     "prerequisites" : null
   },
   "INQR-1240" : 
@@ -30799,7 +30818,10 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1220"
+    ],
     "prerequisites" : null
   },
   "ITWS-2110" : 
