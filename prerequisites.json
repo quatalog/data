@@ -6902,10 +6902,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BIOL-6500"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "BIOL-4520" : 
@@ -7843,10 +7840,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BIOL-4500"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "BIOL-6510" : 
@@ -44392,7 +44386,10 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1100"
+    ],
     "prerequisites" : null
   },
   "STSO-1110" : 
@@ -44713,7 +44710,10 @@
   },
   "STSO-4260" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
