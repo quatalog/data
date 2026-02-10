@@ -13768,7 +13768,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4360",
+      "PSYC-4360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -14057,7 +14061,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4700",
+      "PSYC-4700"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -17013,7 +17021,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4210"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -42872,7 +42883,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4360",
+      "PSYC-4360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -43155,7 +43170,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4700",
+      "PSYC-4700"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
