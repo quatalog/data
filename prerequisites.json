@@ -273,7 +273,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2160"
+    ],
     "prerequisites" : null
   },
   "ARCH-2200" : 
@@ -339,7 +342,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2330"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 2510",
@@ -3046,7 +3052,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-2560"
+    ],
     "prerequisites" : null
   },
   "ARTS-2570" : 
@@ -3112,7 +3121,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-2962"
+    ],
     "prerequisites" : null
   },
   "ARTS-2961" : 
@@ -3786,7 +3798,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4440"
+    ],
     "prerequisites" : null
   },
   "ARTS-4460" : 
@@ -16887,7 +16902,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4150"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -17147,7 +17165,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-4150"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -27577,7 +27598,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2560"
+    ],
     "prerequisites" : null
   },
   "GSAS-2940" : 
@@ -27612,7 +27636,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2960"
+    ],
     "prerequisites" : null
   },
   "GSAS-2965" : 
@@ -27754,7 +27781,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4440"
+    ],
     "prerequisites" : null
   },
   "GSAS-4510" : 
@@ -35975,7 +36005,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4260"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -45565,10 +45598,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "IHSS-6960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "STSO-4963" : 
