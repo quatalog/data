@@ -15261,7 +15261,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6540"
+    ],
     "prerequisites" : null
   },
   "COMM-4550" : 
@@ -47568,7 +47571,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-2110"
+    ],
     "prerequisites" : null
   },
   "WRIT-2310" : 
