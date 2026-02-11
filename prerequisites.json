@@ -39700,14 +39700,52 @@
   },
   "MTLE-4250" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6250"
+    ],
     "prerequisites" : 
     {
-      "course" : "MTLE 2100",
-      "min_grade" : "D",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "MTLE 2100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "ENGR 1600",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "ISCI 1600",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1600",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "CHEM 1600",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
     }
   },
   "MTLE-4290" : 
@@ -39738,7 +39776,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-4400"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -39977,7 +40018,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4960",
+      "ECSE-6960",
+      "MTLE-6960",
+      "PHYS-4961",
+      "PHYS-6961"
+    ],
     "prerequisites" : null
   },
   "MTLE-4961" : 
@@ -40080,7 +40128,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-4250"
+    ],
     "prerequisites" : null
   },
   "MTLE-6300" : 
@@ -40238,7 +40289,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4960",
+      "ECSE-6960",
+      "MTLE-4960",
+      "PHYS-4961",
+      "PHYS-6961"
+    ],
     "prerequisites" : null
   },
   "MTLE-6961" : 
@@ -40247,7 +40305,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MTLE-6961"
+      "MTLE-4961"
     ],
     "prerequisites" : null
   },
