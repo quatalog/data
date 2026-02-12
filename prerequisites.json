@@ -344,7 +344,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARCH-2330"
+      "ARCH-2330",
+      "ARCH-5140"
     ],
     "prerequisites" : 
     {
@@ -367,7 +368,11 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2350",
+      "ARCH-5300"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 2510",
@@ -740,7 +745,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6065"
+    ],
     "prerequisites" : null
   },
   "ARCH-4070" : 
@@ -936,7 +944,11 @@
     [
       "ARCH-4820"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4320",
+      "ARCH-5320"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -979,7 +991,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5150"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -1139,7 +1154,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5330"
+    ],
     "prerequisites" : null
   },
   "ARCH-4610" : 
@@ -1368,14 +1386,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6860"
+    ],
     "prerequisites" : null
   },
   "ARCH-4870" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6870"
+    ],
     "prerequisites" : null
   },
   "ARCH-4880" : 
@@ -1397,7 +1421,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6840"
+    ],
     "prerequisites" : null
   },
   "ARCH-4910" : 
@@ -1611,7 +1638,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6966"
+    ],
     "prerequisites" : null
   },
   "ARCH-4967" : 
@@ -1759,14 +1789,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2330"
+    ],
     "prerequisites" : null
   },
   "ARCH-5150" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4330"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 5140",
@@ -1825,7 +1861,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2350"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 2350",
@@ -1850,7 +1889,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4320"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -1885,7 +1927,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4590"
+    ],
     "prerequisites" : null
   },
   "ARCH-5340" : 
@@ -1950,7 +1995,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4065"
+    ],
     "prerequisites" : null
   },
   "ARCH-6110" : 
@@ -2253,21 +2301,30 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4890"
+    ],
     "prerequisites" : null
   },
   "ARCH-6860" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4860"
+    ],
     "prerequisites" : null
   },
   "ARCH-6870" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4870"
+    ],
     "prerequisites" : null
   },
   "ARCH-6880" : 
@@ -2391,7 +2448,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4966"
+    ],
     "prerequisites" : null
   },
   "ARCH-6967" : 
@@ -2581,7 +2641,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-1050"
+    ],
     "prerequisites" : null
   },
   "ARTS-1200" : 
@@ -2712,7 +2775,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2020"
+    ],
     "prerequisites" : null
   },
   "ARTS-2030" : 
