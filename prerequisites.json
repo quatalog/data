@@ -670,7 +670,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4020"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -12693,7 +12696,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4020"
+    ],
     "prerequisites" : 
     {
       "course" : "CIVL 2670",
