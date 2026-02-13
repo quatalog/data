@@ -5053,7 +5053,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-6960",
+      "PHYS-4110",
+      "PHYS-6960"
+    ],
     "prerequisites" : 
     {
       "course" : "PHYS 4420",
@@ -10012,7 +10017,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-2230"
+    ],
     "prerequisites" : 
     {
       "course" : "CHEM 2250",
@@ -11970,7 +11978,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4050"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -12041,7 +12052,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4150"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -12137,7 +12151,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6430"
+    ],
     "prerequisites" : null
   },
   "CHME-4460" : 
@@ -12287,7 +12304,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6960"
+    ],
     "prerequisites" : null
   },
   "CHME-4961" : 
@@ -12304,7 +12324,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6962"
+    ],
     "prerequisites" : null
   },
   "CHME-4963" : 
@@ -12400,7 +12423,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4430"
+    ],
     "prerequisites" : null
   },
   "CHME-6440" : 
@@ -12551,7 +12577,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4960"
+    ],
     "prerequisites" : null
   },
   "CHME-6961" : 
@@ -12565,7 +12594,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4962"
+    ],
     "prerequisites" : null
   },
   "CHME-6963" : 
@@ -12728,7 +12760,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-2050"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -41959,7 +41994,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4110",
+      "ASTR-6960",
+      "PHYS-6960"
+    ],
     "prerequisites" : 
     {
       "course" : "PHYS 4420",
@@ -42187,6 +42227,18 @@
         }
       ],
       "type" : "and"
+    }
+  },
+  "PHYS-4450" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "PHYS 2210",
+      "min_grade" : "D",
+      "type" : "course"
     }
   },
   "PHYS-4510" : 
@@ -42496,7 +42548,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4110",
+      "ASTR-6960",
+      "PHYS-4110"
+    ],
     "prerequisites" : null
   },
   "PHYS-6961" : 
@@ -45836,6 +45893,13 @@
     "prerequisites" : null
   },
   "STSO-4963" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "STSO-4964" : 
   {
     "attributes" : [],
     "corequisites" : null,
