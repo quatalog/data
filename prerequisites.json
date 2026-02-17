@@ -2938,7 +2938,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-2255"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -17239,7 +17242,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6963"
+      "CSCI-6963",
+      "ECSE-4965",
+      "ECSE-6965"
     ],
     "prerequisites" : 
     {
@@ -19159,7 +19164,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4160"
+      "CSCI-4160",
+      "ECSE-4965",
+      "ECSE-6965"
     ],
     "prerequisites" : null
   },
@@ -19209,7 +19216,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4964",
+      "ECSE-6964",
+      "ISYE-6964"
+    ],
     "prerequisites" : null
   },
   "CSCI-6969" : 
@@ -22067,7 +22079,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-2100"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -22220,7 +22235,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-2610"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 1100",
@@ -22383,7 +22401,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4520"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -22467,7 +22488,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6170"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -22643,7 +22667,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6320"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -23003,7 +23030,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6560"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -23230,7 +23260,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4770"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 2610",
@@ -23493,35 +23526,54 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6650"
+    ],
     "prerequisites" : null
   },
   "ECSE-4964" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6968",
+      "ECSE-6964",
+      "ISYE-6964"
+    ],
     "prerequisites" : null
   },
   "ECSE-4965" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4160",
+      "CSCI-6963",
+      "ECSE-6965"
+    ],
     "prerequisites" : null
   },
   "ECSE-4966" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6140"
+    ],
     "prerequisites" : null
   },
   "ECSE-4967" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6967"
+    ],
     "prerequisites" : null
   },
   "ECSE-4968" : 
@@ -23624,7 +23676,10 @@
     [
       "ECSE-6110"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4966"
+    ],
     "prerequisites" : null
   },
   "ECSE-6141" : 
@@ -23655,7 +23710,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4170"
+    ],
     "prerequisites" : null
   },
   "ECSE-6180" : 
@@ -23810,7 +23868,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4320"
+    ],
     "prerequisites" : null
   },
   "ECSE-6340" : 
@@ -24023,7 +24084,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4560"
+    ],
     "prerequisites" : null
   },
   "ECSE-6570" : 
@@ -24107,7 +24171,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4963"
+    ],
     "prerequisites" : null
   },
   "ECSE-6660" : 
@@ -24358,14 +24425,24 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6968",
+      "ECSE-4964",
+      "ISYE-6964"
+    ],
     "prerequisites" : null
   },
   "ECSE-6965" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4160",
+      "CSCI-6963",
+      "ECSE-4965"
+    ],
     "prerequisites" : null
   },
   "ECSE-6966" : 
@@ -24382,7 +24459,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4967"
+    ],
     "prerequisites" : null
   },
   "ECSE-6968" : 
@@ -26166,7 +26246,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4370"
+    ],
     "prerequisites" : 
     {
       "course" : "CIVL 2060",
@@ -26269,7 +26352,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-6710",
+      "ERTH-4710"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
@@ -26540,7 +26627,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4710",
+      "ERTH-4710"
+    ],
     "prerequisites" : null
   },
   "ENVE-6810" : 
@@ -26939,7 +27030,10 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-1100"
+    ],
     "prerequisites" : null
   },
   "ERTH-1125" : 
@@ -27293,7 +27387,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-6080"
+    ],
     "prerequisites" : 
     {
       "course" : "ERTH 2140",
@@ -27547,7 +27644,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4710",
+      "ENVE-6710"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
@@ -27698,7 +27799,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-4080"
+    ],
     "prerequisites" : null
   },
   "ERTH-6200" : 
@@ -28042,7 +28146,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2255"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -28441,7 +28548,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-6960"
+    ],
     "prerequisites" : null
   },
   "GSAS-4961" : 
@@ -28543,7 +28653,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4960"
+    ],
     "prerequisites" : null
   },
   "GSAS-6961" : 
@@ -31099,7 +31212,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6968",
+      "ECSE-4964",
+      "ECSE-6964"
+    ],
     "prerequisites" : null
   },
   "ISYE-6965" : 
@@ -34667,7 +34785,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4090"
+    ],
     "prerequisites" : 
     {
       "nested" : 
