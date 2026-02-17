@@ -41955,10 +41955,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "STSS-4963"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "PHIL-4963" : 
@@ -42054,6 +42051,13 @@
       "CSCI-6967",
       "PHIL-4961"
     ],
+    "prerequisites" : null
+  },
+  "PHIL-6962" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "PHIL-6990" : 
