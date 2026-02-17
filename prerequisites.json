@@ -23483,7 +23483,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6960",
+      "MTLE-4960",
+      "MTLE-6960",
+      "PHYS-4961",
+      "PHYS-6961"
+    ],
     "prerequisites" : null
   },
   "ECSE-4961" : 
@@ -24391,7 +24398,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4960",
+      "MTLE-4960",
+      "MTLE-6960",
+      "PHYS-4961",
+      "PHYS-6961"
+    ],
     "prerequisites" : null
   },
   "ECSE-6961" : 
@@ -42975,7 +42989,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-6963"
+    ],
     "prerequisites" : 
     {
       "course" : "PHYS 4100",
@@ -43097,7 +43114,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4960",
+      "ASTR-6960",
+      "PHYS-6961"
+    ],
     "prerequisites" : null
   },
   "PHYS-4962" : 
@@ -43283,7 +43305,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4960",
+      "ASTR-6960",
+      "PHYS-4961"
+    ],
     "prerequisites" : null
   },
   "PHYS-6962" : 
@@ -43301,7 +43328,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-4620"
+    ],
     "prerequisites" : null
   },
   "PHYS-6964" : 
@@ -44043,7 +44073,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4430"
+    ],
     "prerequisites" : null
   },
   "PSYC-4440" : 
@@ -44264,7 +44297,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4730"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -45653,7 +45689,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSO-2520"
+    ],
     "prerequisites" : null
   },
   "STSO-2610" : 
@@ -48632,7 +48671,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-2330"
+    ],
     "prerequisites" : null
   },
   "WRIT-2340" : 
