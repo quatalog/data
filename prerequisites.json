@@ -14508,8 +14508,7 @@
       "COGS-6962",
       "CSCI-4972",
       "CSCI-6967",
-      "PHIL-4961",
-      "PHIL-6961"
+      "PHIL-4961"
     ],
     "prerequisites" : null
   },
@@ -14797,8 +14796,7 @@
       "COGS-4962",
       "CSCI-4972",
       "CSCI-6967",
-      "PHIL-4961",
-      "PHIL-6961"
+      "PHIL-4961"
     ],
     "prerequisites" : null
   },
@@ -18572,8 +18570,7 @@
       "COGS-4962",
       "COGS-6962",
       "CSCI-6967",
-      "PHIL-4961",
-      "PHIL-6961"
+      "PHIL-4961"
     ],
     "prerequisites" : null
   },
@@ -19225,8 +19222,7 @@
       "COGS-4962",
       "COGS-6962",
       "CSCI-4972",
-      "PHIL-4961",
-      "PHIL-6961"
+      "PHIL-4961"
     ],
     "prerequisites" : null
   },
@@ -41946,8 +41942,7 @@
       "COGS-4962",
       "COGS-6962",
       "CSCI-4972",
-      "CSCI-6967",
-      "PHIL-6961"
+      "CSCI-6967"
     ],
     "prerequisites" : null
   },
