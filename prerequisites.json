@@ -14085,7 +14085,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4961"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -20363,24 +20366,24 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-6150"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
       [
         {
           "course" : "ECON 1200",
+          "min_grade" : "TR",
           "type" : "course"
         },
         {
           "course" : "IHSS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
-          "course" : "IHSS 1975",
+          "course" : "INQR 1200",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -20405,7 +20408,11 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4170",
+      "ECON-6170"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -20551,7 +20558,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6220"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -20673,7 +20683,11 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4270",
+      "ECON-6270"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -20723,7 +20737,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6280"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -20799,7 +20816,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4290",
+      "ECON-6290"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -20914,10 +20935,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-6340"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -20948,7 +20966,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -21126,7 +21147,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6030"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -21429,7 +21453,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4580"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 2010",
@@ -21496,10 +21523,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-4150"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECON-6160" : 
@@ -21516,7 +21540,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4170"
+    ],
     "prerequisites" : null
   },
   "ECON-6190" : 
@@ -21543,7 +21570,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4220"
+    ],
     "prerequisites" : null
   },
   "ECON-6230" : 
@@ -21581,21 +21611,30 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4270"
+    ],
     "prerequisites" : null
   },
   "ECON-6280" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4280"
+    ],
     "prerequisites" : null
   },
   "ECON-6290" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4290"
+    ],
     "prerequisites" : null
   },
   "ECON-6320" : 
@@ -21612,17 +21651,17 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-4340"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECON-6360" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4360"
+    ],
     "prerequisites" : null
   },
   "ECON-6380" : 
@@ -21952,7 +21991,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-2010"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 2400",
@@ -21967,7 +22009,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-2050"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -28111,6 +28156,16 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "GSAS-4100" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "GSAS-6200"
+    ],
+    "prerequisites" : null
+  },
   "GSAS-4115" : 
   {
     "attributes" : [],
@@ -28450,7 +28505,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4100"
+    ],
     "prerequisites" : null
   },
   "GSAS-6300" : 
@@ -41686,7 +41744,10 @@
     [
       "PHYS-1101"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-1110"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1010",
@@ -41711,7 +41772,10 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-1100"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1010",
