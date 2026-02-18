@@ -4137,6 +4137,13 @@
       "type" : "course"
     }
   },
+  "ARTS-4820" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ARTS-4840" : 
   {
     "attributes" : [],
@@ -17504,10 +17511,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MATH-4150"
-    ],
+    "cross_listings" : [],
     "prerequisites" : 
     {
       "nested" : 
