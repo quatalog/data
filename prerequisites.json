@@ -337,14 +337,10 @@
   },
   "ARCH-2330" : 
   {
-    "attributes" : 
-    [
-      "Introductory Level Course"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARCH-2330",
       "ARCH-5140"
     ],
     "prerequisites" : 
@@ -15130,7 +15126,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "COMM-2750" : 
@@ -33313,15 +33309,9 @@
   },
   "LITR-4960" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "LITR-6960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "LITR-4961" : 
@@ -37874,10 +37864,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MATP-6961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MATP-6961" : 
