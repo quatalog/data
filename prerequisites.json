@@ -1951,15 +1951,13 @@
     "attributes" : [],
     "corequisites" : 
     [
-      "ARCH-6610"
+      "ARCH-6630"
     ],
-    "cross_listings" : 
-    [
-      "ARCH-4540"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "ARCH 5330",
+      "course" : "ARCH 6630",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -2175,9 +2173,17 @@
   "ARCH-6630" : 
   {
     "attributes" : [],
-    "corequisites" : null,
+    "corequisites" : 
+    [
+      "ARCH-5380"
+    ],
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ARCH 6620",
+      "min_grade" : "B",
+      "type" : "course"
+    }
   },
   "ARCH-6640" : 
   {
@@ -20261,7 +20267,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6010"
+    ],
     "prerequisites" : 
     {
       "course" : "ECON 2010",
@@ -20276,7 +20285,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6110"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -20379,7 +20391,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6150"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -20479,7 +20494,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6190"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -21449,7 +21467,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "ECON-4010"
+    ],
     "prerequisites" : null
   },
   "ECON-6020" : 
@@ -21493,7 +21514,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4110"
+    ],
     "prerequisites" : null
   },
   "ECON-6120" : 
@@ -21530,7 +21554,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4150"
+    ],
     "prerequisites" : null
   },
   "ECON-6160" : 
@@ -21560,7 +21587,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4190"
+    ],
     "prerequisites" : null
   },
   "ECON-6210" : 
