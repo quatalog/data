@@ -23594,10 +23594,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6140"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-4967" : 
@@ -23758,6 +23755,7 @@
     "prerequisites" : 
     {
       "course" : "ECSE 6190",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
