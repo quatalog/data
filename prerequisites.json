@@ -8681,6 +8681,7 @@
     "prerequisites" : 
     {
       "course" : "BMED 2100",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -9286,12 +9287,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "BMED 2100",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "BMED-6460" : 
   {
@@ -43109,7 +43105,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-6530"
+    ],
     "prerequisites" : null
   },
   "PHYS-4961" : 
@@ -43235,9 +43234,14 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "PHYS-4964"
+      "PHYS-4960"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 6510",
+      "min_grade" : "C",
+      "type" : "course"
+    }
   },
   "PHYS-6590" : 
   {
