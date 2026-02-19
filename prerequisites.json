@@ -2624,7 +2624,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-1040"
+    ],
     "prerequisites" : null
   },
   "ARTS-1050" : 
@@ -10870,10 +10873,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-6620"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CHEM 2260",
@@ -11496,10 +11496,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-4620"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHEM-6630" : 
@@ -14682,6 +14679,16 @@
     "cross_listings" : 
     [
       "COGS-4430"
+    ],
+    "prerequisites" : null
+  },
+  "COGS-6450" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4450"
     ],
     "prerequisites" : null
   },
@@ -20952,7 +20959,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6340"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -21662,7 +21672,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4340"
+    ],
     "prerequisites" : null
   },
   "ECON-6360" : 
@@ -28269,6 +28282,13 @@
     ],
     "prerequisites" : null
   },
+  "GSAS-2610" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "GSAS-2940" : 
   {
     "attributes" : [],
@@ -28301,10 +28321,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-2960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "GSAS-2965" : 
@@ -28312,16 +28329,6 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
-  },
-  "GSAS-4100" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
-    [
-      "GSAS-6200"
-    ],
     "prerequisites" : null
   },
   "GSAS-4115" : 
@@ -28612,10 +28619,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "GSAS-6200"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "GSAS-4962" : 
@@ -28669,10 +28673,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "GSAS-4100"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "GSAS-6300" : 
@@ -41704,6 +41705,21 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "PHIL-4450" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "COGS-6450"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "PHIL 2140",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "PHIL-4480" : 
   {
     "attributes" : 
@@ -44120,6 +44136,18 @@
     }
   },
   "PSYC-4450" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "PSYC 1200",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
+  "PSYC-4460" : 
   {
     "attributes" : [],
     "corequisites" : null,
