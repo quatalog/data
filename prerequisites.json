@@ -17059,13 +17059,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6220"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CSCI 4020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -17239,10 +17237,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4150"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -18691,10 +18686,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4040"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "CSCI-6050" : 
@@ -18795,10 +18787,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4030"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CSCI-6230" : 
@@ -19166,7 +19155,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4180"
+      "CSCI-4962"
     ],
     "prerequisites" : null
   },
@@ -36631,6 +36620,21 @@
         }
       ],
       "type" : "and"
+    }
+  },
+  "MATH-2100" : 
+  {
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "MATH 2010",
+      "min_grade" : "D",
+      "type" : "course"
     }
   },
   "MATH-2400" : 
