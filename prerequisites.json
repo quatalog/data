@@ -5064,9 +5064,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ASTR-6960",
       "PHYS-4110",
-      "PHYS-6960"
+      "PHYS-6962"
     ],
     "prerequisites" : 
     {
@@ -10931,10 +10930,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-6720"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHEM-4750" : 
@@ -11544,10 +11540,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-4720"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHEM-6750" : 
@@ -37439,23 +37432,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "MATH 4800",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 4800",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "MATH-6840" : 
   {
@@ -42757,8 +42734,7 @@
     "cross_listings" : 
     [
       "ASTR-4110",
-      "ASTR-6960",
-      "PHYS-6960"
+      "PHYS-6962"
     ],
     "prerequisites" : 
     {
@@ -43056,7 +43032,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-6960"
+    ],
     "prerequisites" : 
     {
       "course" : "PHYS 4220",
@@ -43318,9 +43297,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ASTR-4110",
-      "ASTR-6960",
-      "PHYS-4110"
+      "PHYS-4720"
     ],
     "prerequisites" : null
   },
@@ -43342,8 +43319,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ASTR-4240",
-      "PHYS-4240"
+      "ASTR-4110",
+      "PHYS-4110"
     ],
     "prerequisites" : null
   },
