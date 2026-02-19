@@ -17286,9 +17286,15 @@
   },
   "CSCI-4170" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive II"
+    ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6170"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -17379,10 +17385,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4210"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -17521,45 +17524,26 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "MATH-4150"
+    ],
     "prerequisites" : 
     {
       "nested" : 
       [
         {
-          "nested" : 
-          [
-            {
-              "course" : "CSCI 1100",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "CSCI 1200",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "CSCI 2200",
+          "min_grade" : "D",
+          "type" : "course"
         },
         {
-          "nested" : 
-          [
-            {
-              "course" : "CSCI 2200",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 4090",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "MATH 4090",
+          "min_grade" : "D",
+          "type" : "course"
         }
       ],
-      "type" : "and"
+      "type" : "or"
     }
   },
   "CSCI-4270" : 
@@ -19256,7 +19240,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "CSCI-4968"
+    ],
     "prerequisites" : null
   },
   "CSCI-6972" : 
