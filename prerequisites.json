@@ -36616,7 +36616,10 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-2100"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 2010",
@@ -38709,10 +38712,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MGMT-6540"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "MGMT 2430",
