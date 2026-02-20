@@ -19079,7 +19079,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-6800"
+    ],
     "prerequisites" : null
   },
   "CSCI-6820" : 
@@ -37406,7 +37409,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6800"
+    ],
     "prerequisites" : null
   },
   "MATH-6820" : 
