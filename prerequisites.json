@@ -12321,10 +12321,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHME-6961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHME-4962" : 
@@ -12594,7 +12591,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4961"
+    ],
     "prerequisites" : null
   },
   "CHME-6962" : 
@@ -28288,6 +28288,18 @@
     [
       "ARTS-4115"
     ],
+    "prerequisites" : 
+    {
+      "course" : "ARTS 2230",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
+  "GSAS-4125" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "ARTS 2230",
