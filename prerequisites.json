@@ -27167,11 +27167,21 @@
       "type" : "and"
     }
   },
-  "ERTH-2160" : 
+  "ERTH-2155" : 
   {
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "ERTH-2160" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "BIOL-2160"
+    ],
     "prerequisites" : null
   },
   "ERTH-2200" : 
@@ -27377,7 +27387,28 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ERTH 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ERTH 1125",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ERTH 1200",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ERTH-4200" : 
   {
