@@ -22437,10 +22437,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6110"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "ECSE 2110",
@@ -23509,70 +23506,15 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6962"
-    ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ECSE 2050",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ECSE 2210",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "PHYS 2620",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "ECSE-4963" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4964",
-      "CSCI-6964",
-      "ECSE-6963"
-    ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 2500",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ECSE 2610",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 2800",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ECSE 4770",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "ECSE-4964" : 
   {
@@ -23691,10 +23633,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-4110"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-6120" : 
@@ -23799,10 +23738,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-4962"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-6230" : 
@@ -24443,22 +24379,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-4962"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-6963" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4964",
-      "CSCI-6964",
-      "ECSE-4963"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-6964" : 
