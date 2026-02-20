@@ -25646,8 +25646,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ENGR-6964",
-      "ISYE-6900"
+      "ENGR-6962",
+      "ISYE-4962",
+      "ISYE-6962"
     ],
     "prerequisites" : null
   },
@@ -25822,6 +25823,18 @@
       "ENGR-4961",
       "ISCI-4961",
       "ISCI-6961"
+    ],
+    "prerequisites" : null
+  },
+  "ENGR-6962" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4963",
+      "ISYE-4962",
+      "ISYE-6962"
     ],
     "prerequisites" : null
   },
@@ -31011,6 +31024,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ENGR-4963",
+      "ENGR-6962",
       "ISYE-6962"
     ],
     "prerequisites" : null
@@ -31244,6 +31259,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ENGR-4963",
+      "ENGR-6962",
       "ISYE-4962"
     ],
     "prerequisites" : null
@@ -33433,6 +33450,18 @@
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
+  },
+  "MANE-2010" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "MANE 1010",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "MANE-2060" : 
   {
@@ -38306,6 +38335,29 @@
       "type" : "or"
     }
   },
+  "MGMT-4180" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MGMT 2430",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MGMT 2100",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
+  },
   "MGMT-4190" : 
   {
     "attributes" : [],
@@ -38583,10 +38635,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MGMT-6420"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "MGMT 2320",
