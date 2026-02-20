@@ -17916,10 +17916,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-6460"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CSCI 2600",
