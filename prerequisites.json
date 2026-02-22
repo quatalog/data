@@ -33456,6 +33456,18 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "MANE-2010" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "MANE 1010",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "MANE-2060" : 
   {
     "attributes" : 
