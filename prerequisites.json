@@ -14785,7 +14785,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4960"
+    ],
     "prerequisites" : null
   },
   "COGS-6961" : 
@@ -28701,7 +28704,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "GSAS-6300" : 
@@ -41456,7 +41459,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-2140"
+    ],
     "prerequisites" : null
   },
   "PHIL-2150" : 
@@ -43193,7 +43199,12 @@
     [
       "PHYS-6530"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 4100",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "PHYS-4961" : 
   {
@@ -43607,7 +43618,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-2310"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -43650,7 +43664,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-2730"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -44093,7 +44110,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4370"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -44489,7 +44509,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6960"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
