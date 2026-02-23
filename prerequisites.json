@@ -38258,7 +38258,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6080"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 4100",
@@ -38534,7 +38537,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6240"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 2320",
@@ -39140,7 +39146,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4080"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 4100",
@@ -39261,7 +39270,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4310"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 6020",
@@ -42037,7 +42049,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-6962"
+    ],
     "prerequisites" : null
   },
   "PHIL-4963" : 
@@ -42139,7 +42154,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4962"
+    ],
     "prerequisites" : null
   },
   "PHIL-6990" : 
