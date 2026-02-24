@@ -23623,10 +23623,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6962"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-4971" : 
@@ -24500,10 +24497,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-6961"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-6970" : 
@@ -36374,7 +36368,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6480"
+    ],
     "prerequisites" : null
   },
   "MANE-6970" : 
