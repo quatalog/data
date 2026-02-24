@@ -15543,7 +15543,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6540"
+    ],
     "prerequisites" : null
   },
   "COMM-4550" : 
@@ -15865,7 +15868,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6960"
+    ],
     "prerequisites" : null
   },
   "COMM-4961" : 
@@ -16179,7 +16185,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4540"
+    ],
     "prerequisites" : null
   },
   "COMM-6560" : 
@@ -16413,7 +16422,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4960"
+    ],
     "prerequisites" : null
   },
   "COMM-6961" : 
@@ -23536,8 +23548,39 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "CSCI-4964",
+      "CSCI-6964",
+      "ECSE-6963"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2500",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 2610",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2800",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 4770",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-4964" : 
   {
@@ -24407,7 +24450,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4964",
+      "CSCI-6964",
+      "ECSE-4963"
+    ],
     "prerequisites" : null
   },
   "ECSE-6964" : 
@@ -41890,7 +41938,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSO-4250"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -45885,7 +45936,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4500"
+    ],
     "prerequisites" : 
     {
       "nested" : 
