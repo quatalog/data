@@ -28201,14 +28201,20 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-1600"
+    ],
     "prerequisites" : null
   },
   "GSAS-2120" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-2120"
+    ],
     "prerequisites" : 
     {
       "course" : "ARTS 1040",
@@ -28334,7 +28340,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-2962"
+    ],
     "prerequisites" : null
   },
   "GSAS-2965" : 
@@ -28644,7 +28653,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4961",
+      "GSAS-6200"
+    ],
     "prerequisites" : null
   },
   "GSAS-4962" : 
@@ -28698,7 +28711,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4961"
+    ],
     "prerequisites" : null
   },
   "GSAS-6300" : 
@@ -29933,6 +29949,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "INQR-1220",
       "ITWS-1220"
     ],
     "prerequisites" : null
@@ -31629,7 +31646,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "INQR-1220"
+      "INQR-1220",
+      "ITWS-1220"
     ],
     "prerequisites" : null
   },
@@ -41904,10 +41922,7 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "STSO-4250"
-    ],
+    "cross_listings" : [],
     "prerequisites" : 
     {
       "nested" : 
@@ -45987,7 +46002,8 @@
   {
     "attributes" : 
     [
-      "Communication Intensive"
+      "Communication Intensive",
+      "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
     "cross_listings" : null,
