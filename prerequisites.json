@@ -5682,7 +5682,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-6800"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5720,7 +5723,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-6870"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5997,7 +6003,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4800"
+    ],
     "prerequisites" : null
   },
   "BCBP-6810" : 
@@ -6014,7 +6023,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4870"
+    ],
     "prerequisites" : null
   },
   "BCBP-6910" : 
@@ -6487,7 +6499,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6050"
+    ],
     "prerequisites" : null
   },
   "BIOL-4060" : 
@@ -7762,7 +7777,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4050"
+    ],
     "prerequisites" : null
   },
   "BIOL-6070" : 
