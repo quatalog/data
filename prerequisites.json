@@ -17026,7 +17026,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4963"
+    ],
     "prerequisites" : null
   },
   "CSCI-2964" : 
