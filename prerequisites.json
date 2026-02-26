@@ -19201,7 +19201,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6530"
+    ],
     "prerequisites" : null
   },
   "CSCI-6962" : 
@@ -24130,7 +24133,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6961"
+    ],
     "prerequisites" : null
   },
   "ECSE-6550" : 
