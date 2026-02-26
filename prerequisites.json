@@ -23369,7 +23369,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6810"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -24328,7 +24331,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4810"
+    ],
     "prerequisites" : null
   },
   "ECSE-6820" : 
@@ -44673,7 +44679,8 @@
   {
     "attributes" : 
     [
-      "Communication Intensive"
+      "Communication Intensive",
+      "Writing Intensive"
     ],
     "corequisites" : null,
     "cross_listings" : null,
