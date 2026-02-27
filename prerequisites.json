@@ -2768,9 +2768,35 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "ARTS 1030",
-      "min_grade" : "D",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ARTS 1030",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1030",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1030",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "INQR 1040",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "IHSS 1040",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "ARTS-2020" : 
@@ -13460,23 +13486,7 @@
     [
       "CIVL-4961"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CIVL 2030",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "CIVL 6250",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "CIVL-6300" : 
   {
@@ -13490,12 +13500,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "CIVL 4080",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CIVL-6320" : 
   {
@@ -13522,28 +13527,12 @@
       "nested" : 
       [
         {
-          "nested" : 
-          [
-            {
-              "course" : "CIVL 4020",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "ARCH 4020",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
-        },
-        {
-          "course" : "CIVL 6310",
+          "course" : "ARCH 6310",
           "min_grade" : "D",
           "type" : "course"
         },
         {
-          "course" : "CIVL 6320",
+          "course" : "ARCH 6320",
           "min_grade" : "D",
           "type" : "course"
         }
@@ -13556,12 +13545,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "CIVL 4080",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CIVL-6360" : 
   {
@@ -13615,12 +13599,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "CIVL 4440",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CIVL-6480" : 
   {
@@ -13646,12 +13625,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "CIVL 4150",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CIVL-6520" : 
   {
@@ -13729,23 +13703,7 @@
       "MANE-4240",
       "MANE-6660"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ENGR 2530",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "MATH 2400",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "CIVL-6670" : 
   {
@@ -15341,33 +15299,7 @@
     [
       "COMM-4288"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "COMM 2520",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "COMM 2660",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "WRIT 1110",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "WRIT 2110",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "COMM-4300" : 
   {
@@ -16958,7 +16890,7 @@
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
-      "min_grade" : "D",
+      "min_grade" : "C-",
       "type" : "course"
     }
   },
@@ -17979,9 +17911,31 @@
           "type" : "course"
         },
         {
-          "course" : "MATH 2010",
-          "min_grade" : "D",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "nested" : 
+              [
+                {
+                  "course" : "MATH 2010",
+                  "min_grade" : "D",
+                  "type" : "course"
+                },
+                {
+                  "course" : "MATH 2011",
+                  "min_grade" : "D",
+                  "type" : "course"
+                }
+              ],
+              "type" : "or"
+            },
+            {
+              "course" : "MATH 2012",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "and"
         }
       ],
       "type" : "and"
@@ -22283,9 +22237,36 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "ECSE 2010",
-      "min_grade" : "D",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "PHYS 1200",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 2400",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "ECSE 2010",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "ROBT 1010",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
     }
   },
   "ECSE-2500" : 
@@ -24025,45 +24006,7 @@
       "CSCI-4480",
       "ECSE-4480"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "MATH 2400",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "nested" : 
-          [
-            {
-              "nested" : 
-              [
-                {
-                  "course" : "MATH 2010",
-                  "min_grade" : "D",
-                  "type" : "course"
-                },
-                {
-                  "course" : "MATH 2011",
-                  "min_grade" : "D",
-                  "type" : "course"
-                }
-              ],
-              "type" : "or"
-            },
-            {
-              "course" : "MATH 2012",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "and"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "ECSE-6480" : 
   {
@@ -25054,6 +24997,11 @@
               "course" : "MANE 1010",
               "min_grade" : "D",
               "type" : "course"
+            },
+            {
+              "course" : "ROBT 1010",
+              "min_grade" : "D",
+              "type" : "course"
             }
           ],
           "type" : "or"
@@ -25135,6 +25083,11 @@
             },
             {
               "course" : "MANE 1010",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "ROBT 1010",
               "min_grade" : "D",
               "type" : "course"
             }
@@ -33606,7 +33559,7 @@
               "type" : "course"
             },
             {
-              "course" : "MANE 2010",
+              "course" : "MANE 1010",
               "min_grade" : "D",
               "type" : "course"
             }
@@ -45755,27 +45708,22 @@
       "nested" : 
       [
         {
-          "course" : "STSO 1100",
+          "course" : "STSO 2210",
           "min_grade" : "D",
           "type" : "course"
         },
         {
-          "course" : "INQR 1100",
+          "course" : "STSO 2300",
           "min_grade" : "D",
           "type" : "course"
         },
         {
-          "course" : "INQR 1110",
+          "course" : "STSO 2500",
           "min_grade" : "D",
           "type" : "course"
         },
         {
-          "course" : "INQR 1240",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "INQR 1320",
+          "course" : "STSO 2520",
           "min_grade" : "D",
           "type" : "course"
         }
