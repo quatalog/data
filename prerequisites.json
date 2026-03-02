@@ -3517,7 +3517,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6120"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -3689,7 +3692,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6220"
+    ],
     "prerequisites" : 
     {
       "course" : "ARTS 1200",
@@ -4009,7 +4015,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6560"
+    ],
     "prerequisites" : null
   },
   "ARTS-4600" : 
@@ -4578,7 +4587,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4120"
+    ],
     "prerequisites" : null
   },
   "ARTS-6130" : 
@@ -4639,7 +4651,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4220"
+    ],
     "prerequisites" : null
   },
   "ARTS-6230" : 
@@ -4728,7 +4743,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4560"
+    ],
     "prerequisites" : null
   },
   "ARTS-6570" : 
@@ -8724,7 +8742,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6450"
+    ],
     "prerequisites" : 
     {
       "course" : "BMED 2100",
@@ -8885,7 +8906,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6510"
+    ],
     "prerequisites" : 
     {
       "course" : "BMED 2540",
@@ -9004,7 +9028,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6650"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -9125,7 +9152,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6810"
+    ],
     "prerequisites" : null
   },
   "BMED-4900" : 
@@ -9333,7 +9363,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4450"
+    ],
     "prerequisites" : null
   },
   "BMED-6460" : 
@@ -9390,7 +9423,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4510"
+    ],
     "prerequisites" : null
   },
   "BMED-6550" : 
@@ -9437,7 +9473,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4650"
+    ],
     "prerequisites" : null
   },
   "BMED-6660" : 
@@ -9494,7 +9533,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4810"
+    ],
     "prerequisites" : null
   },
   "BMED-6900" : 
