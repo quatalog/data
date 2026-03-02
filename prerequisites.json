@@ -7366,10 +7366,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BIOL-4720"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
