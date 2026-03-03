@@ -15560,7 +15560,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COMM-6540"
+      "COMM-6540",
+      "STSO-4710"
     ],
     "prerequisites" : null
   },
@@ -15586,10 +15587,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COMM-6567"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "COMM-4570" : 
@@ -15647,10 +15645,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COMM-6650"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "COMM-4660" : 
@@ -15844,7 +15839,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COMM-6897"
+      "COMM-6897",
+      "STSO-4897"
     ],
     "prerequisites" : null
   },
@@ -16202,7 +16198,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COMM-4540"
+      "COMM-4540",
+      "STSO-4710"
     ],
     "prerequisites" : null
   },
@@ -16264,10 +16261,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COMM-4650"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "COMM-6660" : 
@@ -16401,7 +16395,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COMM-4897"
+      "COMM-4897",
+      "STSO-4897"
     ],
     "prerequisites" : null
   },
@@ -46878,6 +46873,24 @@
       "type" : "course"
     }
   },
+  "STSO-4650" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "STSO-4710" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "COMM-4540",
+      "COMM-6540"
+    ],
+    "prerequisites" : null
+  },
   "STSO-4720" : 
   {
     "attributes" : 
@@ -46886,6 +46899,17 @@
     ],
     "corequisites" : null,
     "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "STSO-4897" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "COMM-4897",
+      "COMM-6897"
+    ],
     "prerequisites" : null
   },
   "STSO-4940" : 
