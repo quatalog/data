@@ -14640,6 +14640,16 @@
     ],
     "prerequisites" : null
   },
+  "COGS-6335" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4335"
+    ],
+    "prerequisites" : null
+  },
   "COGS-6340" : 
   {
     "attributes" : [],
@@ -35656,7 +35666,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6965"
+    ],
     "prerequisites" : null
   },
   "MANE-4966" : 
@@ -36409,7 +36422,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4965"
+    ],
     "prerequisites" : null
   },
   "MANE-6966" : 
@@ -41815,6 +41831,32 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "PHIL-4335" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "COGS-6335"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "PHIL 1110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PHIL 2140",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
+  },
   "PHIL-4360" : 
   {
     "attributes" : 
@@ -42140,7 +42182,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "PHIL-6962"
+      "STSS-4963"
     ],
     "prerequisites" : null
   },
@@ -42236,16 +42278,6 @@
       "CSCI-4972",
       "CSCI-6967",
       "PHIL-4961"
-    ],
-    "prerequisites" : null
-  },
-  "PHIL-6962" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
-    [
-      "PHIL-4962"
     ],
     "prerequisites" : null
   },
