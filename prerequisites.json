@@ -44476,7 +44476,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4450"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -46873,6 +46876,18 @@
       "type" : "or"
     }
   },
+  "STSO-4450" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "STSO 2520",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "STSO-4500" : 
   {
     "attributes" : 
@@ -47108,13 +47123,6 @@
     "prerequisites" : null
   },
   "STSO-4963" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
-  },
-  "STSO-4964" : 
   {
     "attributes" : [],
     "corequisites" : null,
