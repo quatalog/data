@@ -13473,7 +13473,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6963"
+    ],
     "prerequisites" : 
     {
       "course" : "CIVL 2030",
@@ -26595,7 +26598,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-6960"
+    ],
     "prerequisites" : null
   },
   "ENVE-4962" : 
@@ -26813,7 +26819,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4961"
+    ],
     "prerequisites" : null
   },
   "ENVE-6961" : 
@@ -31515,7 +31524,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ISYE-4963"
+      "CIVL-6240"
     ],
     "prerequisites" : null
   },
@@ -32562,7 +32571,10 @@
   },
   "LANG-1410" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Introductory Level Course"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -32915,33 +32927,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "INQR 1492",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "IHSS 1492",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "LANG 1410",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "LANG 2410",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "LANG-4460" : 
   {
