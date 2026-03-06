@@ -14663,13 +14663,6 @@
     ],
     "prerequisites" : null
   },
-  "COGS-6380" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
-  },
   "COGS-6410" : 
   {
     "attributes" : [],
@@ -44347,39 +44340,6 @@
         },
         {
           "course" : "COGS 2120",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
-  },
-  "PSYC-4380" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 1100",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "PSYC 2310",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ENGR 2600",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "MGMT 2100",
           "min_grade" : "D",
           "type" : "course"
         }
