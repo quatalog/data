@@ -31196,23 +31196,7 @@
       "ENGR-6962",
       "ISYE-6962"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ISYE 4600",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "MGMT 6460",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "ISYE-4963" : 
   {
@@ -36806,7 +36790,7 @@
     ],
     "prerequisites" : 
     {
-      "course" : "MATH 2010",
+      "course" : "MATH 1020",
       "min_grade" : "D",
       "type" : "course"
     }
@@ -43382,12 +43366,7 @@
     [
       "PHYS-6530"
     ],
-    "prerequisites" : 
-    {
-      "course" : "PHYS 4100",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "PHYS-4961" : 
   {
