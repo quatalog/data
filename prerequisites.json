@@ -26559,7 +26559,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-6960"
+    ],
     "prerequisites" : null
   },
   "ENVE-4961" : 
