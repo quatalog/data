@@ -17024,7 +17024,23 @@
     [
       "CSCI-4963"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ITWS 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "CSCI-2964" : 
   {
@@ -36837,7 +36853,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-4910"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1010",
@@ -37344,6 +37363,32 @@
         }
       ],
       "type" : "or"
+    }
+  },
+  "MATH-4910" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "MATH-2910"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATH 1010",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 2910",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
     }
   },
   "MATH-4940" : 
