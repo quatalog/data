@@ -36833,6 +36833,18 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "MATH-2910" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "MATH 1010",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "MATH-2940" : 
   {
     "attributes" : [],
