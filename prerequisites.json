@@ -44400,7 +44400,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4460"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
