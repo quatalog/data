@@ -22575,7 +22575,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6110"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 2110",
@@ -23649,7 +23652,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6962"
+    ],
     "prerequisites" : null
   },
   "ECSE-4963" : 
@@ -23718,7 +23724,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6180"
+    ],
     "prerequisites" : null
   },
   "ECSE-4967" : 
@@ -23735,14 +23744,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6968"
+    ],
     "prerequisites" : null
   },
   "ECSE-4969" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6969"
+    ],
     "prerequisites" : null
   },
   "ECSE-4971" : 
@@ -23805,7 +23820,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4110"
+    ],
     "prerequisites" : null
   },
   "ECSE-6120" : 
@@ -23866,7 +23884,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4966"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 6190",
@@ -24524,7 +24545,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4962"
+    ],
     "prerequisites" : null
   },
   "ECSE-6963" : 
@@ -24587,14 +24611,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4968"
+    ],
     "prerequisites" : null
   },
   "ECSE-6969" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4969"
+    ],
     "prerequisites" : null
   },
   "ECSE-6970" : 
