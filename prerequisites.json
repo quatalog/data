@@ -15565,8 +15565,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COMM-6540",
-      "STSO-4710"
+      "COMM-6540"
     ],
     "prerequisites" : null
   },
@@ -16203,8 +16202,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COMM-4540",
-      "STSO-4710"
+      "COMM-4540"
     ],
     "prerequisites" : null
   },
@@ -47008,17 +47006,6 @@
       "min_grade" : "D",
       "type" : "course"
     }
-  },
-  "STSO-4710" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COMM-4540",
-      "COMM-6540"
-    ],
-    "prerequisites" : null
   },
   "STSO-4720" : 
   {
