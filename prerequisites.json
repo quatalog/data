@@ -13361,7 +13361,12 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ENGR 2530",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "CIVL-4963" : 
   {
@@ -13821,7 +13826,23 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ENGR 2600",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 1190",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "CIVL-6961" : 
   {
@@ -23832,7 +23853,12 @@
     [
       "ECSE-6180"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ECSE 2110",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ECSE-4967" : 
   {
@@ -23842,7 +23868,34 @@
     [
       "ECSE-6967"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATH 2400",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "PHYS 1200",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1260",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "ECSE-4968" : 
   {
@@ -23852,7 +23905,23 @@
     [
       "ECSE-6968"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 2050",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 2100",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "ECSE-4969" : 
   {
@@ -23862,7 +23931,12 @@
     [
       "ECSE-6969"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MATH 2010",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ECSE-4971" : 
   {
@@ -23994,9 +24068,30 @@
     ],
     "prerequisites" : 
     {
-      "course" : "ECSE 6190",
-      "min_grade" : "D",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 4110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 6110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 4965",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 6190",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "ECSE-6190" : 
@@ -25955,7 +26050,28 @@
       "ISYE-4962",
       "ISYE-6962"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ISYE 4600",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ISYE 6610",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MGMT 6460",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ENGR-4964" : 
   {
@@ -26147,13 +26263,21 @@
       "ISYE-4962",
       "ISYE-6962"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ride 100",
+      "min_grade" : null,
+      "type" : "course"
+    }
   },
   "ENGR-6963" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-6960"
+    ],
     "prerequisites" : null
   },
   "ENGR-6964" : 
