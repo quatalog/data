@@ -8961,11 +8961,18 @@
       "nested" : 
       [
         {
-          "course" : "BMED 2100",
+          "course" : "PHYS 1200",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
-          "course" : "BMED 4240",
+          "course" : "BIOL 2120",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 2400",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -9451,7 +9458,28 @@
     [
       "BMED-4560"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "PHYS 1200",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "BIOL 2120",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 2400",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "BMED-6580" : 
   {
@@ -17039,7 +17067,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4460"
+    ],
     "prerequisites" : null
   },
   "CSCI-2962" : 
@@ -17992,7 +18023,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-2961"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2600",
