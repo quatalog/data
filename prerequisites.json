@@ -31505,7 +31505,28 @@
       "ENGR-6962",
       "ISYE-6962"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ISYE 4600",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ISYE 6610",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MGMT 6460",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ISYE-4963" : 
   {
@@ -31716,7 +31737,23 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ENGR 2600",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ISYE 4140",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "ISYE-6961" : 
   {
@@ -31740,7 +31777,12 @@
       "ENGR-6962",
       "ISYE-4962"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ride 100",
+      "min_grade" : null,
+      "type" : "course"
+    }
   },
   "ISYE-6963" : 
   {
@@ -38567,7 +38609,23 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATP 6600",
+          "min_grade" : "C",
+          "type" : "course"
+        },
+        {
+          "course" : "MATP 6610",
+          "min_grade" : "C",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "MATP-6961" : 
   {
@@ -43881,7 +43939,12 @@
     [
       "PHYS-6530"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 4100",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "PHYS-4961" : 
   {
@@ -44075,7 +44138,12 @@
     [
       "PHYS-4720"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 6510",
+      "min_grade" : "B-",
+      "type" : "course"
+    }
   },
   "PHYS-6961" : 
   {
@@ -44098,7 +44166,12 @@
       "ASTR-4110",
       "PHYS-4110"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "PHYS 6410",
+      "min_grade" : "B-",
+      "type" : "course"
+    }
   },
   "PHYS-6963" : 
   {
