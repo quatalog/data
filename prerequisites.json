@@ -13945,10 +13945,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COGS-2340"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "COGS-2520" : 
