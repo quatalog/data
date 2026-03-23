@@ -3225,10 +3225,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-2960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-2961" : 
@@ -28939,10 +28936,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "GSAS-2540"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "GSAS-2560" : 
@@ -39353,7 +39347,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6180"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -40194,8 +40191,16 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "MGMT-4180"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "MGMT 6100",
+      "min_grade" : "C",
+      "type" : "course"
+    }
   },
   "MGMT-6190" : 
   {
@@ -50062,6 +50067,16 @@
       "type" : "or"
     }
   },
+  "WRIT-4750" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "WRIT-6750"
+    ],
+    "prerequisites" : null
+  },
   "WRIT-4940" : 
   {
     "attributes" : [],
@@ -50174,6 +50189,16 @@
     "cross_listings" : 
     [
       "WRIT-4550"
+    ],
+    "prerequisites" : null
+  },
+  "WRIT-6750" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "WRIT-4750"
     ],
     "prerequisites" : null
   },
