@@ -34475,12 +34475,12 @@
           [
             {
               "course" : "MATH 2010",
-              "min_grade" : "D",
+              "min_grade" : null,
               "type" : "course"
             },
             {
               "course" : "MATH 2011",
-              "min_grade" : "D",
+              "min_grade" : null,
               "type" : "course"
             }
           ],
@@ -34488,7 +34488,7 @@
         },
         {
           "course" : "MATH 2400",
-          "min_grade" : "D",
+          "min_grade" : null,
           "type" : "course"
         }
       ],
@@ -45768,6 +45768,13 @@
     "prerequisites" : null
   },
   "PSYC-6990" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "ROBT-1010" : 
   {
     "attributes" : [],
     "corequisites" : null,
