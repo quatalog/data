@@ -37037,7 +37037,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4220",
+      "MGMT-6962"
+    ],
     "prerequisites" : null
   },
   "MANE-6963" : 
@@ -40968,7 +40972,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4220",
+      "MANE-6962"
+    ],
     "prerequisites" : null
   },
   "MGMT-6963" : 
