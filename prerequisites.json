@@ -29372,6 +29372,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "GSAS-6310" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "GSAS-6400" : 
   {
     "attributes" : [],
