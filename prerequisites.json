@@ -29355,6 +29355,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "GSAS-6110" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "GSAS-6200" : 
   {
     "attributes" : [],
@@ -34045,8 +34052,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "LITR-4826",
-      "LITR-6826"
+      "LITR-4826"
     ],
     "prerequisites" : null
   },
