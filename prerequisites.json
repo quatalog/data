@@ -11313,9 +11313,14 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CHEM-6960"
+      "CHEM-6540"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CHEM 4410",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "CHEM-4961" : 
   {
@@ -11588,7 +11593,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4960"
+    ],
     "prerequisites" : null
   },
   "CHEM-6550" : 
