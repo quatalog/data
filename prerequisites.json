@@ -29056,6 +29056,13 @@
     ],
     "prerequisites" : null
   },
+  "GSAS-2963" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "GSAS-2965" : 
   {
     "attributes" : [],
