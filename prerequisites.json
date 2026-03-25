@@ -14753,6 +14753,18 @@
     ],
     "prerequisites" : null
   },
+  "COGS-6530" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ECON-4530",
+      "MATP-4530",
+      "PSYC-4530"
+    ],
+    "prerequisites" : null
+  },
   "COGS-6540" : 
   {
     "attributes" : [],
@@ -21547,6 +21559,49 @@
       "course" : "ECON 2020",
       "min_grade" : "D",
       "type" : "course"
+    }
+  },
+  "ECON-4530" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "COGS-6530",
+      "MATP-4530",
+      "PSYC-4530"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ENGR 2600",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PSYC 2310",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECON 4570",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MGMT 2100",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "ECON-4570" : 
@@ -38598,6 +38653,49 @@
     ],
     "prerequisites" : null
   },
+  "MATP-4530" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "COGS-6530",
+      "ECON-4530",
+      "PSYC-4530"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PSYC 2310",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECON 4570",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MGMT 2100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ENGR 2600",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
+  },
   "MATP-4600" : 
   {
     "attributes" : [],
@@ -45358,6 +45456,49 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "PSYC-4530" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "COGS-6530",
+      "ECON-4530",
+      "MATP-4530"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECON 4570",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ENGR 2600",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MGMT 2100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PSYC 2310",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
+  },
   "PSYC-4600" : 
   {
     "attributes" : [],
@@ -45547,7 +45688,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COGS-6960"
+      "COGS-4960",
+      "COGS-6420"
     ],
     "prerequisites" : 
     {
