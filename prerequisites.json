@@ -17409,6 +17409,7 @@
   {
     "attributes" : 
     [
+      "Communication Intensive",
       "Data Intensive II"
     ],
     "corequisites" : null,
@@ -19214,7 +19215,11 @@
   },
   "CSCI-6170" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive",
+      "Data Intensive II"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
