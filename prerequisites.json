@@ -2253,7 +2253,12 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "ARCH 6680",
+      "min_grade" : "C",
+      "type" : "course"
+    }
   },
   "ARCH-6760" : 
   {
@@ -26538,6 +26543,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ISYE-6966",
       "MANE-6963"
     ],
     "prerequisites" : null
@@ -32153,6 +32159,17 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ISYE-6966" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ENGR-6230",
+      "MANE-6963"
+    ],
+    "prerequisites" : null
+  },
   "ISYE-6970" : 
   {
     "attributes" : [],
@@ -32568,9 +32585,20 @@
       "nested" : 
       [
         {
-          "course" : "ITWS 2110",
-          "min_grade" : "D",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "ITWS 2110",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "CSCI 2110",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         },
         {
           "course" : "CSCI 1200",
@@ -37134,7 +37162,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ENGR-6230"
+      "ENGR-6230",
+      "ISYE-6966"
     ],
     "prerequisites" : null
   },
