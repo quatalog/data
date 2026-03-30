@@ -17126,27 +17126,8 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4963"
-    ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CSCI 1100",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ITWS 1100",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "CSCI-2964" : 
   {
@@ -18043,7 +18024,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-2961"
+      "CSCI-6460"
     ],
     "prerequisites" : 
     {
