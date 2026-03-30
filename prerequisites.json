@@ -17185,7 +17185,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6220"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 4020",
@@ -17761,7 +17764,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18393,7 +18399,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6610"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -19256,7 +19265,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4030"
+    ],
     "prerequisites" : null
   },
   "CSCI-6230" : 
@@ -19364,7 +19376,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4320"
+    ],
     "prerequisites" : null
   },
   "CSCI-6370" : 
@@ -19531,7 +19546,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4610"
+    ],
     "prerequisites" : null
   },
   "CSCI-6800" : 
@@ -22748,12 +22766,7 @@
       "nested" : 
       [
         {
-          "course" : "PHYS 1200",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "MATH 2400",
+          "course" : "ECSE 2010",
           "min_grade" : "D",
           "type" : "course"
         },
@@ -22761,7 +22774,12 @@
           "nested" : 
           [
             {
-              "course" : "ECSE 2010",
+              "course" : "MATH 2400",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "PHYS 1200",
               "min_grade" : "D",
               "type" : "course"
             },
@@ -22771,10 +22789,10 @@
               "type" : "course"
             }
           ],
-          "type" : "or"
+          "type" : "and"
         }
       ],
-      "type" : "and"
+      "type" : "or"
     }
   },
   "ECSE-2500" : 
