@@ -29371,10 +29371,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "GSAS-6960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "GSAS-4961" : 
@@ -29491,10 +29488,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "GSAS-4960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "GSAS-6961" : 
