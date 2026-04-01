@@ -34319,7 +34319,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-2010"
+    ],
     "prerequisites" : 
     {
       "course" : "MANE 1010",
