@@ -15662,7 +15662,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6567"
+    ],
     "prerequisites" : null
   },
   "COMM-4570" : 
@@ -15720,7 +15723,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6650"
+    ],
     "prerequisites" : null
   },
   "COMM-4660" : 
@@ -16291,7 +16297,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4567"
+    ],
     "prerequisites" : null
   },
   "COMM-6570" : 
@@ -16332,7 +16341,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4650"
+    ],
     "prerequisites" : null
   },
   "COMM-6660" : 
@@ -44096,9 +44108,31 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "PHYS 2210",
-      "min_grade" : "D",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "PHYS 2210",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "MATH 2010",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 4600",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
     }
   },
   "PHYS-4220" : 
