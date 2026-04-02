@@ -16659,6 +16659,13 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "COOP-6010" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "CSCI-1001" : 
   {
     "attributes" : [],
@@ -28940,9 +28947,20 @@
     ],
     "prerequisites" : 
     {
-      "course" : "ARTS 1040",
-      "min_grade" : "D",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ARTS 1040",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "GSAS 1040",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "GSAS-2255" : 
