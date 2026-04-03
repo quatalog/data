@@ -18485,6 +18485,23 @@
       "type" : "course"
     }
   },
+  "CSCI-4730" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6730",
+      "MTLE-4730",
+      "MTLE-6730"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "ENGR 2600",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "CSCI-4800" : 
   {
     "attributes" : [],
@@ -19549,6 +19566,18 @@
     "cross_listings" : 
     [
       "CSCI-4610"
+    ],
+    "prerequisites" : null
+  },
+  "CSCI-6730" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4730",
+      "MTLE-4730",
+      "MTLE-6730"
     ],
     "prerequisites" : null
   },
@@ -41876,7 +41905,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MTLE-6250"
+      "MTLE-4250"
     ],
     "prerequisites" : 
     {
@@ -42115,6 +42144,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "CSCI-4730",
+      "CSCI-6730",
       "MTLE-6730"
     ],
     "prerequisites" : 
@@ -42300,10 +42331,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MTLE-4250"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MTLE-6300" : 
@@ -42425,6 +42453,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "CSCI-4730",
+      "CSCI-6730",
       "MTLE-4730"
     ],
     "prerequisites" : null
