@@ -13869,20 +13869,9 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "ENGR 2600",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 1190",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
+      "course" : "ENGR 2600",
+      "min_grade" : "D",
+      "type" : "course"
     }
   },
   "CIVL-6961" : 
