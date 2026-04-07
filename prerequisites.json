@@ -1956,12 +1956,7 @@
       "ARCH-6630"
     ],
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "ARCH 6630",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "ARCH-5390" : 
   {
