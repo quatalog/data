@@ -562,7 +562,7 @@
       [
         {
           "course" : "ARCH 2810",
-          "min_grade" : "C",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
@@ -3225,7 +3225,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2960"
+    ],
     "prerequisites" : null
   },
   "ARTS-2961" : 
