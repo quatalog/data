@@ -44323,7 +44323,7 @@
     ],
     "prerequisites" : 
     {
-      "course" : "PHYS 4220",
+      "course" : "PHYS 2210",
       "min_grade" : "D",
       "type" : "course"
     }
@@ -45170,6 +45170,11 @@
         },
         {
           "course" : "MGMT 2100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "BIOL 4200",
           "min_grade" : "D",
           "type" : "course"
         }
