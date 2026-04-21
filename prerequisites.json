@@ -13963,7 +13963,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "COGS-2340"
+    ],
     "prerequisites" : null
   },
   "COGS-2520" : 
