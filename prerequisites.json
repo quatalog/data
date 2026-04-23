@@ -866,7 +866,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6160"
+    ],
     "prerequisites" : null
   },
   "ARCH-4170" : 
@@ -881,6 +884,16 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "ARCH-4222" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6222"
+    ],
     "prerequisites" : null
   },
   "ARCH-4230" : 
@@ -968,6 +981,16 @@
       "type" : "and"
     }
   },
+  "ARCH-4321" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6320"
+    ],
+    "prerequisites" : null
+  },
   "ARCH-4325" : 
   {
     "attributes" : [],
@@ -1014,6 +1037,16 @@
       "type" : "and"
     }
   },
+  "ARCH-4333" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6333"
+    ],
+    "prerequisites" : null
+  },
   "ARCH-4340" : 
   {
     "attributes" : [],
@@ -1033,6 +1066,13 @@
     }
   },
   "ARCH-4430" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "ARCH-4444" : 
   {
     "attributes" : [],
     "corequisites" : null,
@@ -2010,6 +2050,26 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "ARCH-6160" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4160"
+    ],
+    "prerequisites" : null
+  },
+  "ARCH-6222" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4222"
+    ],
+    "prerequisites" : null
+  },
   "ARCH-6310" : 
   {
     "attributes" : [],
@@ -2021,7 +2081,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4321"
+    ],
     "prerequisites" : null
   },
   "ARCH-6330" : 
@@ -2046,6 +2109,16 @@
       ],
       "type" : "and"
     }
+  },
+  "ARCH-6333" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4333"
+    ],
+    "prerequisites" : null
   },
   "ARCH-6340" : 
   {
@@ -2123,6 +2196,13 @@
     "prerequisites" : null
   },
   "ARCH-6420" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "ARCH-6444" : 
   {
     "attributes" : [],
     "corequisites" : null,
@@ -6385,7 +6465,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-2160"
+    ],
     "prerequisites" : null
   },
   "BIOL-2200" : 
