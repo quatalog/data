@@ -3263,7 +3263,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-2610"
+    ],
     "prerequisites" : null
   },
   "ARTS-2700" : 
@@ -21488,7 +21491,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6320"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -29118,7 +29124,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2610"
+    ],
     "prerequisites" : null
   },
   "GSAS-2940" : 
