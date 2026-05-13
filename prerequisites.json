@@ -30606,10 +30606,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "STSO-4962"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "IHSS-6961" : 
