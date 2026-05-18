@@ -22506,7 +22506,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECON-4320"
+      "MGMT-6961"
     ],
     "prerequisites" : null
   },
@@ -41210,7 +41210,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-6960"
+    ],
     "prerequisites" : null
   },
   "MGMT-6962" : 
