@@ -15529,10 +15529,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COMM-4288"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "COMM-4300" : 
