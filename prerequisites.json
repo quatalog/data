@@ -48176,7 +48176,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "IHSS-6960"
+    ],
     "prerequisites" : null
   },
   "STSO-4963" : 
