@@ -26487,7 +26487,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ENGR-6964",
       "ISYE-4961",
       "ISYE-6961"
     ],
@@ -26695,9 +26694,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ENGR-4964",
-      "ISYE-4961",
-      "ISYE-6961"
+      "ENGR-4963",
+      "ISYE-6900"
     ],
     "prerequisites" : null
   },
@@ -31915,7 +31913,6 @@
     "cross_listings" : 
     [
       "ENGR-4964",
-      "ENGR-6964",
       "ISYE-6961"
     ],
     "prerequisites" : null
