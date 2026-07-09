@@ -1903,12 +1903,7 @@
     [
       "ARCH-2350"
     ],
-    "prerequisites" : 
-    {
-      "course" : "ARCH 2350",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "ARCH-5310" : 
   {
