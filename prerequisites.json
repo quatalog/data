@@ -15531,8 +15531,37 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "COMM-4288"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "COMM 2520",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "COMM 2660",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "WRIT 1110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "WRIT 2110",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "COMM-4300" : 
   {
