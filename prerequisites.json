@@ -13207,6 +13207,13 @@
       "type" : "course"
     }
   },
+  "CIVL-4090" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "CIVL-4120" : 
   {
     "attributes" : [],
@@ -13506,12 +13513,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "ENGR 2530",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CIVL-4963" : 
   {
@@ -43880,7 +43882,7 @@
           "type" : "or"
         },
         {
-          "course" : "MATH 1020",
+          "course" : "MATH 2400",
           "min_grade" : "D",
           "type" : "course"
         }
