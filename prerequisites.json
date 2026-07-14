@@ -35789,6 +35789,11 @@
           "type" : "course"
         },
         {
+          "course" : "MANE 2400",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
           "nested" : 
           [
             {
