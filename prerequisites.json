@@ -15273,10 +15273,7 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COMM-2520"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "COMM-2570" : 
