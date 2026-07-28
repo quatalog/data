@@ -1623,7 +1623,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6960"
+    ],
     "prerequisites" : null
   },
   "ARCH-4961" : 
@@ -2471,7 +2474,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4960"
+    ],
     "prerequisites" : null
   },
   "ARCH-6961" : 
@@ -33842,7 +33848,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LGHT-6960"
+    ],
     "prerequisites" : null
   },
   "LGHT-4961" : 
