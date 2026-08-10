@@ -968,9 +968,20 @@
           "type" : "course"
         },
         {
-          "course" : "ARCH 2360",
-          "min_grade" : "D",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "ARCH 2360",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "ARCH 5310",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
       "type" : "and"
