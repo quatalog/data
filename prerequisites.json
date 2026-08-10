@@ -27213,7 +27213,8 @@
     "cross_listings" : 
     [
       "ENVE-6710",
-      "ERTH-4710"
+      "ERTH-4710",
+      "ERTH-6710"
     ],
     "prerequisites" : 
     {
@@ -27494,7 +27495,8 @@
     "cross_listings" : 
     [
       "ENVE-4710",
-      "ERTH-4710"
+      "ERTH-4710",
+      "ERTH-6710"
     ],
     "prerequisites" : null
   },
@@ -28545,7 +28547,8 @@
     "cross_listings" : 
     [
       "ENVE-4710",
-      "ENVE-6710"
+      "ENVE-6710",
+      "ERTH-6710"
     ],
     "prerequisites" : 
     {
@@ -28847,7 +28850,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4710",
+      "ENVE-6710",
+      "ERTH-4710"
+    ],
     "prerequisites" : null
   },
   "ERTH-6730" : 
