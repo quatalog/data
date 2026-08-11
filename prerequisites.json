@@ -19006,14 +19006,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6966"
+      "ITWS-4966"
     ],
-    "prerequisites" : 
-    {
-      "course" : "CSCI 2300",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CSCI-4967" : 
   {
@@ -19814,7 +19809,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4966"
+      "ISYE-4960",
+      "ISYE-6550"
     ],
     "prerequisites" : null
   },
@@ -24302,34 +24298,25 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6967"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
       [
+        {
+          "course" : "MATH 2010",
+          "min_grade" : "D",
+          "type" : "course"
+        },
         {
           "course" : "MATH 2400",
           "min_grade" : "D",
           "type" : "course"
         },
         {
-          "nested" : 
-          [
-            {
-              "course" : "PHYS 1200",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "PHYS 1260",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "PHYS 1200",
+          "min_grade" : "D",
+          "type" : "course"
         }
       ],
       "type" : "and"
