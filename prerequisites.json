@@ -10539,8 +10539,20 @@
     "cross_listings" : null,
     "prerequisites" : 
     {
-      "course" : "CHEM 2250",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "CHEM 1200",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 1220",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "CHEM-2961" : 
