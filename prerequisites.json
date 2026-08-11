@@ -32659,7 +32659,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-6250"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -33064,7 +33067,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-4250"
+    ],
     "prerequisites" : null
   },
   "ITWS-6300" : 
