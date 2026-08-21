@@ -35312,7 +35312,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6966"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -37320,7 +37323,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4220"
+    ],
     "prerequisites" : null
   },
   "MANE-6967" : 
