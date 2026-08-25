@@ -31510,7 +31510,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6960"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -32198,7 +32201,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4230"
+    ],
     "prerequisites" : 
     {
       "nested" : 
