@@ -11175,10 +11175,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-6750"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHEM-4760" : 
@@ -11799,10 +11796,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-4750"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHEM-6760" : 
