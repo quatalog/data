@@ -18909,86 +18909,36 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6964"
+      "CSCI-6964",
+      "ECSE-4963",
+      "ECSE-6963"
     ],
     "prerequisites" : 
     {
       "nested" : 
       [
         {
-          "course" : "CSCI 1200",
+          "course" : "CSCI 2500",
           "min_grade" : "D",
           "type" : "course"
         },
         {
-          "course" : "CSCI 2300",
+          "course" : "CSCI 2800",
           "min_grade" : "D",
           "type" : "course"
         },
         {
-          "nested" : 
-          [
-            {
-              "course" : "ECSE 2660",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "CSCI 2500",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "CSCI 2800",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "CSCI 4210",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "ECSE 2610",
+          "min_grade" : "D",
+          "type" : "course"
         },
         {
-          "nested" : 
-          [
-            {
-              "course" : "MATH 2010",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 2011",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 2012",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 2100",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "MATH 2965",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "CSCI 2210",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
+          "course" : "ECSE 4770",
+          "min_grade" : "D",
+          "type" : "course"
         }
       ],
-      "type" : "and"
+      "type" : "or"
     }
   },
   "CSCI-4965" : 
@@ -19795,7 +19745,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4964"
+      "CSCI-4620"
     ],
     "prerequisites" : null
   },
