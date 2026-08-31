@@ -11862,10 +11862,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-4960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHEM-6961" : 
@@ -39934,7 +39931,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6420"
+    ],
     "prerequisites" : 
     {
       "course" : "MGMT 2320",
