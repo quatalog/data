@@ -10914,7 +10914,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4440"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -10992,7 +10995,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4410"
+    ],
     "prerequisites" : 
     {
       "nested" : 
