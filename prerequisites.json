@@ -1653,7 +1653,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6963"
+    ],
     "prerequisites" : null
   },
   "ARCH-4964" : 
@@ -2507,7 +2510,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4963"
+    ],
     "prerequisites" : null
   },
   "ARCH-6964" : 
@@ -18553,6 +18559,84 @@
           "course" : "CSCI 2210",
           "min_grade" : "D",
           "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
+  },
+  "CSCI-4620" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6964"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 1200",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2300",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "ECSE 2660",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "CSCI 2800",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "MATH 2010",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 2011",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 2012",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 2965",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 2100",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "CSCI 2210",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         }
       ],
       "type" : "and"
