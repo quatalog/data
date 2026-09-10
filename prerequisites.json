@@ -11544,7 +11544,23 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CHEM 2950",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 4970",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "CHEM-6002" : 
   {
