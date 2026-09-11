@@ -37673,10 +37673,15 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-2010",
+      "MATH-2012"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
