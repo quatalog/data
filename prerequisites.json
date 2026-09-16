@@ -12784,7 +12784,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4660"
+    ],
     "prerequisites" : null
   },
   "CIVL-2040" : 
@@ -13201,7 +13204,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-2030"
+    ],
     "prerequisites" : 
     {
       "course" : "CIVL 2030",
@@ -13604,7 +13610,23 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CIVL 4010",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CIVL 4150",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "CIVL-6530" : 
   {
@@ -26138,7 +26160,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-6200"
+    ],
     "prerequisites" : null
   },
   "ENVE-4220" : 
@@ -26565,7 +26590,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4200"
+    ],
     "prerequisites" : null
   },
   "ENVE-6210" : 
