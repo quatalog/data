@@ -1641,7 +1641,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6963"
+    ],
     "prerequisites" : null
   },
   "ARCH-4964" : 
@@ -13018,7 +13021,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4150"
+    ],
     "prerequisites" : 
     {
       "course" : "CIVL 2630",
@@ -13128,7 +13134,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-6530"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -13380,6 +13389,7 @@
     "prerequisites" : 
     {
       "course" : "CIVL 2030",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -13554,12 +13564,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "course" : "CIVL 4440",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CIVL-6450" : 
   {
@@ -13605,8 +13610,27 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "CIVL-4530"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CIVL 2060",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CIVL 2630",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "CIVL-6540" : 
   {
@@ -25933,14 +25957,21 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ENVE-2110"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
       [
+        {
+          "course" : "MATH 2400",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CIVL 2050",
+          "min_grade" : "D",
+          "type" : "course"
+        },
         {
           "nested" : 
           [
@@ -25958,24 +25989,9 @@
               "course" : "CHEM 1120",
               "min_grade" : "D",
               "type" : "course"
-            },
-            {
-              "course" : "CHEM 1200",
-              "min_grade" : "D",
-              "type" : "course"
             }
           ],
           "type" : "or"
-        },
-        {
-          "course" : "CIVL 2050",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "MATH 2400",
-          "min_grade" : "D",
-          "type" : "course"
         }
       ],
       "type" : "and"
@@ -26466,7 +26482,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-6960"
+    ],
     "prerequisites" : null
   },
   "ENVE-4962" : 
