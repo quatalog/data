@@ -33262,9 +33262,15 @@
   },
   "LITR-4826" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LITR-4826"
+    ],
     "prerequisites" : null
   },
   "LITR-4880" : 
@@ -33352,7 +33358,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LITR-4826"
+    ],
     "prerequisites" : null
   },
   "LITR-6940" : 
@@ -49268,7 +49277,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-6410"
+    ],
     "prerequisites" : null
   },
   "WRIT-4550" : 
@@ -49327,7 +49339,12 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "WRIT 2330",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "WRIT-4961" : 
   {
@@ -49409,7 +49426,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-4410"
+    ],
     "prerequisites" : null
   },
   "WRIT-6550" : 
