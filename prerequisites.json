@@ -5325,7 +5325,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-6960",
+      "PHYS-4961",
+      "PHYS-6961"
+    ],
     "prerequisites" : null
   },
   "ASTR-4961" : 
@@ -5377,7 +5382,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4960",
+      "PHYS-4961",
+      "PHYS-6961"
+    ],
     "prerequisites" : null
   },
   "ASTR-6961" : 
@@ -7720,7 +7730,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6962"
+    ],
     "prerequisites" : null
   },
   "BIOL-4963" : 
@@ -8240,7 +8253,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4962"
+    ],
     "prerequisites" : null
   },
   "BIOL-6963" : 
@@ -9178,7 +9194,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6960"
+    ],
     "prerequisites" : null
   },
   "BMED-4961" : 
@@ -9545,7 +9564,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4960"
+    ],
     "prerequisites" : null
   },
   "BMED-6961" : 
@@ -11295,7 +11317,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6965",
+      "ERTH-4965",
+      "ERTH-6965"
+    ],
     "prerequisites" : null
   },
   "CHEM-4966" : 
@@ -11728,7 +11755,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4965",
+      "ERTH-4965",
+      "ERTH-6965"
+    ],
     "prerequisites" : null
   },
   "CHEM-6966" : 
@@ -15567,7 +15599,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6650"
+    ],
     "prerequisites" : null
   },
   "COMM-4660" : 
@@ -15638,7 +15673,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6730"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -15825,7 +15863,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-6963"
+    ],
     "prerequisites" : null
   },
   "COMM-4964" : 
@@ -16132,10 +16173,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COMM-4567"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "COMM-6570" : 
@@ -16176,7 +16214,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4650"
+    ],
     "prerequisites" : null
   },
   "COMM-6660" : 
@@ -16210,7 +16251,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4730"
+    ],
     "prerequisites" : null
   },
   "COMM-6740" : 
@@ -16305,11 +16349,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COMM-4897",
-      "STSO-4897"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "COMM-6940" : 
@@ -16374,7 +16414,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4963"
+    ],
     "prerequisites" : null
   },
   "COMM-6964" : 
