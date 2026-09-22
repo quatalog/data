@@ -43687,7 +43687,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4960",
+      "ASTR-6960",
+      "PHYS-6961"
+    ],
     "prerequisites" : null
   },
   "PHYS-4962" : 
@@ -43881,7 +43886,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4960",
+      "ASTR-6960",
+      "PHYS-4961"
+    ],
     "prerequisites" : null
   },
   "PHYS-6962" : 
