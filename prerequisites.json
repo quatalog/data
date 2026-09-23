@@ -21289,10 +21289,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-6130"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "ECON 2020",
@@ -21712,10 +21709,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-4430"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECON-6140" : 
