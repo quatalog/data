@@ -4455,7 +4455,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6880"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -4485,7 +4488,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6920"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -4926,7 +4932,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4510"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5021,7 +5030,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4880"
+    ],
     "prerequisites" : null
   },
   "ARTS-6900" : 
@@ -5035,7 +5047,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4920"
+    ],
     "prerequisites" : null
   },
   "ARTS-6940" : 
@@ -5365,7 +5380,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-6963",
+      "PHYS-4150",
+      "PHYS-6963"
+    ],
     "prerequisites" : 
     {
       "course" : "PHYS 2210",
@@ -5398,7 +5418,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-4240",
+      "PHYS-6962"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5534,7 +5558,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4150",
+      "PHYS-4150",
+      "PHYS-6963"
+    ],
     "prerequisites" : null
   },
   "ASTR-6970" : 
@@ -5621,7 +5650,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-6310"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5688,7 +5720,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-6420",
+      "BIOL-4550",
+      "BIOL-6420"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5732,7 +5769,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4600",
+      "ITWS-4600",
+      "ITWS-6600",
+      "MGMT-4600",
+      "MGMT-6600"
+    ],
     "prerequisites" : null
   },
   "BCBP-4640" : 
@@ -5754,7 +5798,14 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-6650",
+      "BIOL-4660",
+      "BIOL-6650",
+      "BMED-4670",
+      "BMED-6670"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5797,7 +5848,11 @@
       "Writing Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4710",
+      "BIOL-4710"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -5858,7 +5913,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4770",
+      "CHEM-4770"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -6126,7 +6185,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4310"
+    ],
     "prerequisites" : null
   },
   "BCBP-6345" : 
@@ -6145,7 +6207,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4550",
+      "BIOL-4550",
+      "BIOL-6420"
+    ],
     "prerequisites" : null
   },
   "BCBP-6470" : 
@@ -6185,7 +6252,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4660",
+      "BIOL-4660",
+      "BIOL-6650",
+      "BMED-4670",
+      "BMED-6670"
+    ],
     "prerequisites" : null
   },
   "BCBP-6780" : 
@@ -6748,7 +6822,10 @@
       "Culminating Exp/Capstone"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6070"
+    ],
     "prerequisites" : 
     {
       "course" : "BIOL 1010",
@@ -6813,7 +6890,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4120"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -6839,14 +6919,20 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4130"
+    ],
     "prerequisites" : null
   },
   "BIOL-4140" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6140"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -6869,7 +6955,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6150"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -7064,7 +7153,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6310"
+    ],
     "prerequisites" : 
     {
       "course" : "BIOL 2120",
@@ -7319,7 +7411,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4550",
+      "BCBP-6420",
+      "BIOL-6420"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -7446,7 +7543,14 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4660",
+      "BCBP-6650",
+      "BIOL-6650",
+      "BMED-4670",
+      "BMED-6670"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -7511,7 +7615,11 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4710",
+      "BIOL-4710"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -7644,7 +7752,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4770",
+      "CHEM-4770"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -7987,7 +8099,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4070"
+    ],
     "prerequisites" : null
   },
   "BIOL-6100" : 
@@ -8004,14 +8119,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4140"
+    ],
     "prerequisites" : null
   },
   "BIOL-6150" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4150"
+    ],
     "prerequisites" : null
   },
   "BIOL-6220" : 
@@ -8042,7 +8163,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4310"
+    ],
     "prerequisites" : null
   },
   "BIOL-6330" : 
@@ -8149,7 +8273,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4550",
+      "BCBP-6420",
+      "BIOL-4550"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -8262,7 +8391,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4660",
+      "BCBP-6650",
+      "BIOL-4660",
+      "BMED-4670",
+      "BMED-6670"
+    ],
     "prerequisites" : null
   },
   "BIOL-6660" : 
@@ -8631,7 +8767,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4010"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -8669,7 +8808,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4120"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -8695,7 +8837,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4130"
+    ],
     "prerequisites" : null
   },
   "BMED-4200" : 
@@ -8828,7 +8973,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6410"
+    ],
     "prerequisites" : null
   },
   "BMED-4420" : 
@@ -8861,7 +9009,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6440"
+    ],
     "prerequisites" : null
   },
   "BMED-4450" : 
@@ -8883,7 +9034,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6460"
+    ],
     "prerequisites" : 
     {
       "course" : "BMED 2300",
@@ -8943,7 +9097,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6480"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -8988,7 +9145,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6490"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -9218,7 +9378,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4660",
+      "BCBP-6650",
+      "BIOL-4660",
+      "BIOL-6650",
+      "BMED-6670"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -9288,7 +9455,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6810"
+    ],
     "prerequisites" : null
   },
   "BMED-4900" : 
@@ -9469,7 +9639,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4410"
+    ],
     "prerequisites" : null
   },
   "BMED-6420" : 
@@ -9483,7 +9656,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4440"
+    ],
     "prerequisites" : null
   },
   "BMED-6450" : 
@@ -9500,7 +9676,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4460"
+    ],
     "prerequisites" : null
   },
   "BMED-6470" : 
@@ -9517,14 +9696,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4480"
+    ],
     "prerequisites" : null
   },
   "BMED-6490" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4490"
+    ],
     "prerequisites" : null
   },
   "BMED-6500" : 
@@ -9632,7 +9817,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4660",
+      "BCBP-6650",
+      "BIOL-4660",
+      "BIOL-6650",
+      "BMED-4670"
+    ],
     "prerequisites" : null
   },
   "BMED-6700" : 
@@ -9665,7 +9857,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4810"
+    ],
     "prerequisites" : null
   },
   "BMED-6900" : 
@@ -11199,7 +11394,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4770",
+      "BIOL-4770"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18346,7 +18545,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4600",
+      "ITWS-4600",
+      "ITWS-6600",
+      "MGMT-4600",
+      "MGMT-6600"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -28837,7 +29043,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6400"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -32240,7 +32449,14 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4600",
+      "CSCI-4600",
+      "ITWS-6600",
+      "MGMT-4600",
+      "MGMT-6600"
+    ],
     "prerequisites" : null
   },
   "ITWS-4700" : 
@@ -32479,7 +32695,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4600",
+      "CSCI-4600",
+      "ITWS-4600",
+      "MGMT-4600",
+      "MGMT-6600"
+    ],
     "prerequisites" : null
   },
   "ITWS-6700" : 
@@ -39489,7 +39712,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4600",
+      "CSCI-4600",
+      "ITWS-4600",
+      "ITWS-6600",
+      "MGMT-6600"
+    ],
     "prerequisites" : null
   },
   "MGMT-4700" : 
@@ -40287,7 +40517,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4600",
+      "CSCI-4600",
+      "ITWS-4600",
+      "ITWS-6600",
+      "MGMT-4600"
+    ],
     "prerequisites" : null
   },
   "MGMT-6610" : 
@@ -43437,7 +43674,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4150",
+      "ASTR-6963",
+      "PHYS-6963"
+    ],
     "prerequisites" : 
     {
       "course" : "PHYS 2210",
@@ -43553,7 +43795,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4240",
+      "PHYS-6962"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -44041,14 +44287,23 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4240",
+      "PHYS-4240"
+    ],
     "prerequisites" : null
   },
   "PHYS-6963" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ASTR-4150",
+      "ASTR-6963",
+      "PHYS-4150"
+    ],
     "prerequisites" : null
   },
   "PHYS-6964" : 
