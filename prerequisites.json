@@ -386,7 +386,10 @@
     [
       "ARCH-2830"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2360"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 2370",
@@ -401,7 +404,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2370"
+    ],
     "prerequisites" : null
   },
   "ARCH-2460" : 
@@ -435,7 +441,10 @@
     [
       "ARCH-2810"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2530"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 2520",
@@ -465,7 +474,11 @@
     [
       "ARCH-2830"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2550",
+      "ARCH-5170"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 2540",
@@ -671,7 +684,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4020"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -731,7 +747,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6060"
+    ],
     "prerequisites" : null
   },
   "ARCH-4065" : 
@@ -781,7 +800,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5110"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 2150",
@@ -991,7 +1013,11 @@
     [
       "ARCH-4830"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4325",
+      "ARCH-5325"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 4320",
@@ -1003,7 +1029,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5150"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -1145,7 +1174,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5390"
+    ],
     "prerequisites" : null
   },
   "ARCH-4560" : 
@@ -1183,7 +1215,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5330"
+    ],
     "prerequisites" : null
   },
   "ARCH-4610" : 
@@ -1432,7 +1467,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6890"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 4860",
@@ -1693,7 +1731,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6969"
+    ],
     "prerequisites" : null
   },
   "ARCH-4970" : 
@@ -1808,7 +1849,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4100"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 5100",
@@ -1830,7 +1874,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4330"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 5140",
@@ -1855,7 +1902,10 @@
     [
       "ARCH-5210"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2550"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 5160",
@@ -1938,7 +1988,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4325"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 5320",
@@ -1950,7 +2003,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4590"
+    ],
     "prerequisites" : null
   },
   "ARCH-5340" : 
@@ -1984,7 +2040,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4550"
+    ],
     "prerequisites" : null
   },
   "ARCH-6055" : 
@@ -1998,7 +2057,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4060"
+    ],
     "prerequisites" : null
   },
   "ARCH-6065" : 
@@ -2398,7 +2460,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4880"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 6860",
@@ -2538,7 +2603,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4969"
+    ],
     "prerequisites" : null
   },
   "ARCH-6970" : 
@@ -2984,7 +3052,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2180"
+    ],
     "prerequisites" : null
   },
   "ARTS-2200" : 
@@ -3247,7 +3318,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2700"
+    ],
     "prerequisites" : null
   },
   "ARTS-2750" : 
@@ -3282,7 +3356,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2960"
+    ],
     "prerequisites" : null
   },
   "ARTS-2961" : 
@@ -3422,7 +3499,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6040"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -3460,7 +3540,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6050"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -3554,7 +3637,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4115"
+    ],
     "prerequisites" : 
     {
       "course" : "ARTS 2230",
@@ -3669,14 +3755,20 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6130"
+    ],
     "prerequisites" : null
   },
   "ARTS-4140" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6140"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -3772,7 +3864,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6160"
+    ],
     "prerequisites" : 
     {
       "course" : "ARTS 2020",
@@ -3797,7 +3892,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6200"
+    ],
     "prerequisites" : 
     {
       "course" : "ARTS 1200",
@@ -3853,7 +3951,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6250"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -3946,7 +4047,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6260"
+    ],
     "prerequisites" : 
     {
       "course" : "ARTS 1200",
@@ -4341,7 +4445,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-6860"
+    ],
     "prerequisites" : null
   },
   "ARTS-4880" : 
@@ -4664,7 +4771,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4040"
+    ],
     "prerequisites" : null
   },
   "ARTS-6050" : 
@@ -4673,7 +4783,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARTS-4040"
+      "ARTS-4050"
     ],
     "prerequisites" : null
   },
@@ -4715,21 +4825,30 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4130"
+    ],
     "prerequisites" : null
   },
   "ARTS-6140" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4140"
+    ],
     "prerequisites" : null
   },
   "ARTS-6160" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4160"
+    ],
     "prerequisites" : null
   },
   "ARTS-6180" : 
@@ -4746,7 +4865,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4200"
+    ],
     "prerequisites" : null
   },
   "ARTS-6210" : 
@@ -4784,7 +4906,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4250"
+    ],
     "prerequisites" : null
   },
   "ARTS-6260" : 
@@ -4886,7 +5011,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4860"
+    ],
     "prerequisites" : null
   },
   "ARTS-6880" : 
@@ -6793,10 +6921,7 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BIOL-6220"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "BIOL 4200",
@@ -7893,10 +8018,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BIOL-4220"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "BIOL-6240" : 
@@ -12982,7 +13104,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4020"
+    ],
     "prerequisites" : 
     {
       "course" : "CIVL 2670",
@@ -20778,29 +20903,16 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-6220"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
       [
         {
-          "course" : "MATH 2010",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
           "nested" : 
           [
             {
               "course" : "ECON 1200",
-              "min_grade" : "TR",
-              "type" : "course"
-            },
-            {
-              "course" : "IHSS 1200",
               "min_grade" : "D",
               "type" : "course"
             },
@@ -20808,6 +20920,43 @@
               "course" : "INQR 1200",
               "min_grade" : "D",
               "type" : "course"
+            },
+            {
+              "course" : "IHSS 1200",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "MATH 2010",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 2100",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "nested" : 
+              [
+                {
+                  "course" : "MATH 2011",
+                  "min_grade" : "D",
+                  "type" : "course"
+                },
+                {
+                  "course" : "MATH 2012",
+                  "min_grade" : "D",
+                  "type" : "course"
+                }
+              ],
+              "type" : "and"
             }
           ],
           "type" : "or"
@@ -21773,10 +21922,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-4220"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECON-6230" : 
@@ -28541,7 +28687,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4115"
+    ],
     "prerequisites" : 
     {
       "course" : "ARTS 2230",
