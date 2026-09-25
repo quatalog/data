@@ -12298,7 +12298,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6011"
+    ],
     "prerequisites" : null
   },
   "CHME-4020" : 
@@ -12418,7 +12421,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4060"
+    ],
     "prerequisites" : 
     {
       "course" : "CHME 4050",
@@ -12704,7 +12710,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6960"
+    ],
     "prerequisites" : null
   },
   "CHME-4961" : 
@@ -12790,7 +12799,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4011"
+    ],
     "prerequisites" : null
   },
   "CHME-6410" : 
@@ -12968,7 +12980,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-4960"
+    ],
     "prerequisites" : null
   },
   "CHME-6961" : 
@@ -13196,7 +13211,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-2060"
+    ],
     "prerequisites" : 
     {
       "course" : "CIVL 2050",
@@ -13222,7 +13240,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-2630"
+    ],
     "prerequisites" : 
     {
       "course" : "ENGR 2530",
@@ -13241,7 +13262,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-2670"
+    ],
     "prerequisites" : 
     {
       "course" : "ENGR 2530",
@@ -13330,7 +13354,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4080"
+    ],
     "prerequisites" : 
     {
       "course" : "CIVL 2670",
@@ -13395,7 +13422,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4240",
+      "MANE-4240"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -34917,7 +34948,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CIVL-4240",
+      "MANE-4240"
+    ],
     "prerequisites" : 
     {
       "nested" : 
