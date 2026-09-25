@@ -5643,7 +5643,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-6240",
+      "BIOL-4240",
+      "BIOL-6240"
+    ],
     "prerequisites" : null
   },
   "BCBP-4310" : 
@@ -6178,7 +6183,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4240",
+      "BIOL-4240",
+      "BIOL-6240"
+    ],
     "prerequisites" : null
   },
   "BCBP-6310" : 
@@ -7010,7 +7020,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-6220"
+    ],
     "prerequisites" : 
     {
       "course" : "BIOL 4200",
@@ -7022,7 +7035,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4240",
+      "BCBP-6240",
+      "BIOL-6240"
+    ],
     "prerequisites" : null
   },
   "BIOL-4250" : 
@@ -8139,14 +8157,22 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BIOL-4220"
+    ],
     "prerequisites" : null
   },
   "BIOL-6240" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BCBP-4240",
+      "BCBP-6240",
+      "BIOL-4240"
+    ],
     "prerequisites" : null
   },
   "BIOL-6260" : 
@@ -14196,7 +14222,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-2120"
+    ],
     "prerequisites" : null
   },
   "COGS-2340" : 
@@ -14265,7 +14294,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6210"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -14402,7 +14434,11 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4360",
+      "PSYC-4360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -14544,7 +14580,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6540"
+    ],
     "prerequisites" : null
   },
   "COGS-4550" : 
@@ -14634,7 +14673,11 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4610",
+      "PSYC-4610"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -14714,7 +14757,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6880"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -14776,7 +14822,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4960"
+    ],
     "prerequisites" : null
   },
   "COGS-4961" : 
@@ -14888,7 +14937,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4210"
+    ],
     "prerequisites" : null
   },
   "COGS-6230" : 
@@ -14997,7 +15049,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4540"
+    ],
     "prerequisites" : null
   },
   "COGS-6560" : 
@@ -15064,7 +15119,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4880"
+    ],
     "prerequisites" : null
   },
   "COGS-6940" : 
@@ -16151,8 +16209,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COMM-6897",
-      "STSO-4897"
+      "COMM-6897"
     ],
     "prerequisites" : null
   },
@@ -16704,7 +16761,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-4897"
+    ],
     "prerequisites" : null
   },
   "COMM-6940" : 
@@ -30397,7 +30457,11 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1100",
+      "STSO-1100"
+    ],
     "prerequisites" : null
   },
   "INQR-1110" : 
@@ -30509,7 +30573,11 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1220",
+      "ITWS-1220"
+    ],
     "prerequisites" : null
   },
   "INQR-1240" : 
@@ -32194,7 +32262,11 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1220",
+      "ITWS-1220"
+    ],
     "prerequisites" : null
   },
   "ITWS-2110" : 
@@ -44985,7 +45057,11 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4360",
+      "PSYC-4360"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -45305,7 +45381,11 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4610",
+      "PSYC-4610"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -45442,7 +45522,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4960"
+    ],
     "prerequisites" : 
     {
       "course" : "PSYC 1200",
@@ -46573,7 +46656,11 @@
       "HASS Inquiry"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "INQR-1100",
+      "STSO-1100"
+    ],
     "prerequisites" : null
   },
   "STSO-1110" : 
@@ -46743,7 +46830,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSO-2520"
+    ],
     "prerequisites" : null
   },
   "STSO-2610" : 
@@ -46893,7 +46983,8 @@
   {
     "attributes" : 
     [
-      "Communication Intensive"
+      "Communication Intensive",
+      "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
     "cross_listings" : null,
@@ -49975,7 +50066,10 @@
   },
   "WRIT-4750" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
