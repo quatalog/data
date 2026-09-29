@@ -14873,6 +14873,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "COGS-6420",
       "PSYC-4960"
     ],
     "prerequisites" : null
@@ -15060,7 +15061,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4960",
+      "PSYC-4960"
+    ],
     "prerequisites" : null
   },
   "COGS-6430" : 
@@ -23401,7 +23406,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6141"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 2110",
@@ -23478,7 +23486,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6210"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 2210",
@@ -23627,7 +23638,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6370"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -23813,7 +23827,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6490"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -24040,7 +24057,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6660"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -24212,7 +24232,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6700"
+    ],
     "prerequisites" : 
     {
       "course" : "ECSE 4770",
@@ -24467,6 +24490,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "CSCI-4964",
+      "CSCI-6964",
       "ECSE-6963"
     ],
     "prerequisites" : null
@@ -24650,7 +24675,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4141"
+    ],
     "prerequisites" : null
   },
   "ECSE-6150" : 
@@ -24736,7 +24764,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4210"
+    ],
     "prerequisites" : null
   },
   "ECSE-6220" : 
@@ -24862,7 +24893,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4370"
+    ],
     "prerequisites" : null
   },
   "ECSE-6400" : 
@@ -24970,7 +25004,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4490"
+    ],
     "prerequisites" : null
   },
   "ECSE-6500" : 
@@ -25112,7 +25149,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4660"
+    ],
     "prerequisites" : null
   },
   "ECSE-6670" : 
@@ -25143,7 +25183,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4780"
+    ],
     "prerequisites" : null
   },
   "ECSE-6710" : 
@@ -25347,6 +25390,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "CSCI-4964",
+      "CSCI-6964",
       "ECSE-4963"
     ],
     "prerequisites" : null
@@ -42940,7 +42985,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-4140"
+    ],
     "prerequisites" : 
     {
       "course" : "PHIL 2140",
@@ -42980,7 +43028,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "STSO-4340"
+    ],
     "prerequisites" : null
   },
   "PHIL-4310" : 
@@ -45867,7 +45918,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COGS-4960"
+      "COGS-4960",
+      "COGS-6420"
     ],
     "prerequisites" : 
     {
@@ -47508,7 +47560,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4300"
+    ],
     "prerequisites" : null
   },
   "STSO-4350" : 
