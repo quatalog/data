@@ -885,10 +885,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-6160"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-4170" : 
@@ -913,6 +910,13 @@
     [
       "ARCH-6222"
     ],
+    "prerequisites" : null
+  },
+  "ARCH-4223" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-4230" : 
@@ -1056,6 +1060,16 @@
       "type" : "and"
     }
   },
+  "ARCH-4332" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6330"
+    ],
+    "prerequisites" : null
+  },
   "ARCH-4333" : 
   {
     "attributes" : [],
@@ -1064,6 +1078,13 @@
     [
       "ARCH-6333"
     ],
+    "prerequisites" : null
+  },
+  "ARCH-4334" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-4340" : 
@@ -1099,6 +1120,13 @@
     [
       "ARCH-6444"
     ],
+    "prerequisites" : null
+  },
+  "ARCH-4445" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-4460" : 
@@ -1178,6 +1206,13 @@
     [
       "ARCH-5390"
     ],
+    "prerequisites" : null
+  },
+  "ARCH-4555" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-4560" : 
@@ -1731,10 +1766,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-6969"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-4970" : 
@@ -2114,6 +2146,13 @@
     ],
     "prerequisites" : null
   },
+  "ARCH-6223" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ARCH-6310" : 
   {
     "attributes" : [],
@@ -2132,24 +2171,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "ARCH 6310",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ARCH 6320",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "cross_listings" : 
+    [
+      "ARCH-4332"
+    ],
+    "prerequisites" : null
   },
   "ARCH-6333" : 
   {
@@ -2159,6 +2185,13 @@
     [
       "ARCH-4333"
     ],
+    "prerequisites" : null
+  },
+  "ARCH-6334" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-6340" : 
@@ -2248,6 +2281,13 @@
     ],
     "prerequisites" : null
   },
+  "ARCH-6445" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
   "ARCH-6460" : 
   {
     "attributes" : [],
@@ -2256,6 +2296,13 @@
     "prerequisites" : null
   },
   "ARCH-6470" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : null
+  },
+  "ARCH-6555" : 
   {
     "attributes" : [],
     "corequisites" : null,
@@ -2298,6 +2345,18 @@
     {
       "course" : "ARCH 6620",
       "min_grade" : "B",
+      "type" : "course"
+    }
+  },
+  "ARCH-6635" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "ARCH 6630",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -2516,7 +2575,23 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ARCH 6630",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ARCH 6750",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "ARCH-6960" : 
   {
@@ -2603,10 +2678,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-4969"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-6970" : 
@@ -4183,27 +4255,14 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARTS-4510",
-      "ARTS-6400"
+      "ARTS-6400",
+      "GSAS-4510"
     ],
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "ARTS 4540",
-          "type" : "course"
-        },
-        {
-          "course" : "COGS 4540",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 4540",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "ARTS 1020",
+      "min_grade" : "D",
+      "type" : "course"
     }
   },
   "ARTS-4520" : 
@@ -4934,6 +4993,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ARTS-4510",
       "GSAS-4510"
     ],
     "prerequisites" : 
@@ -26158,7 +26218,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-2300"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -26192,7 +26255,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-2350"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -26279,7 +26345,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-2210"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
@@ -26448,7 +26517,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-6100",
+      "ITWS-6300"
+    ],
     "prerequisites" : null
   },
   "ENGR-4200" : 
@@ -26521,7 +26594,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4555"
+    ],
     "prerequisites" : null
   },
   "ENGR-4610" : 
@@ -26710,7 +26786,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4100",
+      "ITWS-6300"
+    ],
     "prerequisites" : null
   },
   "ENGR-6120" : 
@@ -26933,7 +27013,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-2110"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -27454,7 +27537,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-6960"
+    ],
     "prerequisites" : null
   },
   "ENVE-4961" : 
@@ -27686,7 +27772,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4960"
+    ],
     "prerequisites" : null
   },
   "ENVE-6961" : 
@@ -28520,7 +28609,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4400",
+      "CSCI-6400",
+      "ERTH-6400",
+      "ITWS-4400",
+      "ITWS-6400"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 1200",
@@ -28817,7 +28913,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-6965"
+    ],
     "prerequisites" : null
   },
   "ERTH-4970" : 
@@ -28907,7 +29006,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4400",
+      "CSCI-6400",
+      "ERTH-4400",
+      "ITWS-4400",
+      "ITWS-6400"
+    ],
     "prerequisites" : null
   },
   "ERTH-6545" : 
@@ -29052,7 +29158,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-4965"
+    ],
     "prerequisites" : null
   },
   "ERTH-6970" : 
@@ -29497,6 +29606,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "ARTS-4510",
       "ARTS-6400"
     ],
     "prerequisites" : 
@@ -29638,7 +29748,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-6200"
+    ],
     "prerequisites" : null
   },
   "GSAS-4962" : 
@@ -29699,7 +29812,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4961"
+    ],
     "prerequisites" : null
   },
   "GSAS-6300" : 
@@ -31240,7 +31356,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISCI-6510"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -31401,7 +31520,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISCI-4510"
+    ],
     "prerequisites" : null
   },
   "ISCI-6940" : 
@@ -31422,7 +31544,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4961",
+      "ECSE-6961",
+      "ENGR-4961",
+      "ENGR-6961",
+      "ISCI-4961"
+    ],
     "prerequisites" : null
   },
   "ISCI-6962" : 
@@ -31485,7 +31614,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-2700"
+    ],
     "prerequisites" : 
     {
       "course" : "MATH 1020",
@@ -31812,7 +31944,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6020"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -31835,7 +31970,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6350"
+    ],
     "prerequisites" : null
   },
   "ISYE-4360" : 
@@ -31879,7 +32017,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6370"
+    ],
     "prerequisites" : null
   },
   "ISYE-4440" : 
@@ -31944,7 +32085,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4555"
+    ],
     "prerequisites" : null
   },
   "ISYE-4600" : 
@@ -32030,7 +32174,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6966",
+      "ISYE-6550"
+    ],
     "prerequisites" : null
   },
   "ISYE-4961" : 
@@ -32098,7 +32246,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4330"
+    ],
     "prerequisites" : null
   },
   "ISYE-6100" : 
@@ -32143,7 +32294,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4350"
+    ],
     "prerequisites" : null
   },
   "ISYE-6360" : 
@@ -32160,14 +32314,21 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4370"
+    ],
     "prerequisites" : null
   },
   "ISYE-6550" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6966",
+      "ISYE-4960"
+    ],
     "prerequisites" : null
   },
   "ISYE-6600" : 
@@ -32216,7 +32377,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATP-6640"
+    ],
     "prerequisites" : null
   },
   "ISYE-6780" : 
@@ -32682,7 +32846,10 @@
       "Writing Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-6800"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -32824,7 +32991,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-6370"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -32867,6 +33037,8 @@
     [
       "CSCI-4400",
       "CSCI-6400",
+      "ERTH-4400",
+      "ERTH-6400",
       "ITWS-6400"
     ],
     "prerequisites" : 
@@ -32989,7 +33161,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-6960"
+    ],
     "prerequisites" : null
   },
   "ITWS-4961" : 
@@ -33122,7 +33297,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4100",
+      "ENGR-6100"
+    ],
     "prerequisites" : null
   },
   "ITWS-6350" : 
@@ -33143,7 +33322,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-4370"
+    ],
     "prerequisites" : null
   },
   "ITWS-6400" : 
@@ -33154,6 +33336,8 @@
     [
       "CSCI-4400",
       "CSCI-6400",
+      "ERTH-4400",
+      "ERTH-6400",
       "ITWS-4400"
     ],
     "prerequisites" : 
@@ -33195,7 +33379,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-4100"
+    ],
     "prerequisites" : null
   },
   "ITWS-6940" : 
@@ -33209,7 +33396,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ITWS-4960"
+    ],
     "prerequisites" : null
   },
   "ITWS-6961" : 
@@ -33805,14 +33995,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LGHT-6760"
+    ],
     "prerequisites" : null
   },
   "LGHT-4770" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LGHT-6770"
+    ],
     "prerequisites" : null
   },
   "LGHT-4790" : 
@@ -33924,14 +34120,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LGHT-4760"
+    ],
     "prerequisites" : null
   },
   "LGHT-6770" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "LGHT-4770"
+    ],
     "prerequisites" : null
   },
   "LGHT-6780" : 
@@ -34425,7 +34627,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-1010"
+    ],
     "prerequisites" : null
   },
   "MANE-1060" : 
@@ -35120,7 +35325,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6140"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -35772,7 +35980,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6380"
+    ],
     "prerequisites" : null
   },
   "MANE-4470" : 
@@ -36620,7 +36831,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4140"
+    ],
     "prerequisites" : null
   },
   "MANE-6150" : 
@@ -36823,7 +37037,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4460"
+    ],
     "prerequisites" : null
   },
   "MANE-6390" : 
@@ -39263,7 +39480,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6770"
+    ],
     "prerequisites" : null
   },
   "MATP-6910" : 
