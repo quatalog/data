@@ -885,7 +885,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6160"
+    ],
     "prerequisites" : null
   },
   "ARCH-4170" : 
@@ -916,7 +919,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6223"
+    ],
     "prerequisites" : null
   },
   "ARCH-4230" : 
@@ -1084,7 +1090,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6334"
+    ],
     "prerequisites" : null
   },
   "ARCH-4340" : 
@@ -1126,7 +1135,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6445"
+    ],
     "prerequisites" : null
   },
   "ARCH-4460" : 
@@ -1212,7 +1224,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6555"
+    ],
     "prerequisites" : null
   },
   "ARCH-4560" : 
@@ -1414,8 +1429,16 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "ARCH-6880"
+    ],
+    "prerequisites" : 
+    {
+      "course" : "ARCH 4870",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "ARCH-4820" : 
   {
@@ -2147,7 +2170,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4223"
+    ],
     "prerequisites" : null
   },
   "ARCH-6310" : 
@@ -2188,7 +2214,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4334"
+    ],
     "prerequisites" : null
   },
   "ARCH-6340" : 
@@ -2282,7 +2311,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4445"
+    ],
     "prerequisites" : null
   },
   "ARCH-6460" : 
@@ -2303,7 +2335,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4555"
+    ],
     "prerequisites" : null
   },
   "ARCH-6610" : 
@@ -2322,7 +2357,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4830"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 6610",
@@ -2509,7 +2547,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4810"
+    ],
     "prerequisites" : null
   },
   "ARCH-6890" : 
@@ -14414,7 +14455,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4220"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -26978,7 +27022,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4961",
+      "ECSE-6961",
+      "ENGR-4961",
+      "ISCI-4961",
+      "ISCI-6961"
+    ],
     "prerequisites" : null
   },
   "ENGR-6962" : 
@@ -45663,7 +45714,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4220"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -48631,7 +48685,10 @@
       "PDII Option for Engr Majors"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4610"
+    ],
     "prerequisites" : 
     {
       "course" : "STSO 2020",
@@ -50668,7 +50725,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-2110"
+    ],
     "prerequisites" : null
   },
   "WRIT-2310" : 
@@ -50698,7 +50758,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "WRIT-2330"
+    ],
     "prerequisites" : null
   },
   "WRIT-2340" : 
