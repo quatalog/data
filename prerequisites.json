@@ -1066,16 +1066,6 @@
       "type" : "and"
     }
   },
-  "ARCH-4332" : 
-  {
-    "attributes" : [],
-    "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-6330"
-    ],
-    "prerequisites" : null
-  },
   "ARCH-4333" : 
   {
     "attributes" : [],
@@ -2194,11 +2184,24 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-4332"
-    ],
-    "prerequisites" : null
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ARCH 6310",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ARCH 6320",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "ARCH-6333" : 
   {
@@ -31146,8 +31149,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "INQR-1220",
-      "ITWS-1220"
+      "INQR-1220"
     ],
     "prerequisites" : null
   },
@@ -42489,8 +42491,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MTLE-4250",
-      "MTLE-6250"
+      "MTLE-4250"
     ],
     "prerequisites" : 
     {
@@ -42641,10 +42642,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MTLE-6470"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -42689,10 +42687,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MTLE-6520"
-    ],
+    "cross_listings" : [],
     "prerequisites" : 
     {
       "nested" : 
@@ -42924,7 +42919,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MTLE-4250",
       "MTLE-6250"
     ],
     "prerequisites" : null
@@ -42998,10 +42992,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MTLE-4470"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MTLE-6480" : 
@@ -43025,10 +43016,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MTLE-4520"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MTLE-6610" : 
@@ -48710,11 +48698,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COMM-4897",
-      "COMM-6897"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "STSO-4940" : 
