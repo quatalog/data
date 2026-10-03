@@ -25092,10 +25092,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-6610"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ECSE-6430" : 
@@ -25109,24 +25106,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6620"
+    ],
     "prerequisites" : 
     {
       "nested" : 
       [
         {
-          "course" : "ECSE 6600",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "MANE 6600",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
           "course" : "ECSE 6400",
-          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 6600",
           "type" : "course"
         }
       ],
@@ -36925,13 +36918,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CSCI-4480",
-      "ECSE-4480",
-      "ECSE-6470",
-      "MANE-4560"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-6140" : 
