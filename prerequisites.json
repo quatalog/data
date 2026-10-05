@@ -9343,6 +9343,32 @@
       "type" : "course"
     }
   },
+  "BMED-4520" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "BMED-6520"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CHEM 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "BMED 4500",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
+  },
   "BMED-4540" : 
   {
     "attributes" : [],
@@ -9859,6 +9885,16 @@
     ],
     "prerequisites" : null
   },
+  "BMED-6520" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "BMED-4520"
+    ],
+    "prerequisites" : null
+  },
   "BMED-6550" : 
   {
     "attributes" : [],
@@ -9924,10 +9960,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BMED-4650"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "BMED-6660" : 
@@ -14846,10 +14879,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COGS-6640"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -15228,10 +15258,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "COGS-4640"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -16108,7 +16135,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COMM-6567"
+      "COMM-4567"
     ],
     "prerequisites" : null
   },
@@ -22010,10 +22037,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-6380"
-    ],
+    "cross_listings" : [],
     "prerequisites" : 
     {
       "nested" : 
@@ -26809,8 +26833,31 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
-    "prerequisites" : null
+    "cross_listings" : 
+    [
+      "ECSE-4961",
+      "ECSE-6961",
+      "ENGR-6961",
+      "ISCI-4961",
+      "ISCI-6961"
+    ],
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "PHYS 1200",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "PHYS 1250",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ENGR-4962" : 
   {
@@ -43208,10 +43255,7 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "PSYC-2100"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "PHIL-2120" : 
@@ -46401,9 +46445,15 @@
   },
   "PSYC-4963" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4960"
+    ],
     "prerequisites" : null
   },
   "PSYC-4964" : 
