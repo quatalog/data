@@ -31924,10 +31924,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ISYE-6960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "ISYE 4290",
