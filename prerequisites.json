@@ -1727,10 +1727,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-6963"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-4964" : 
@@ -2360,10 +2357,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-4830"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "ARCH 6610",
@@ -2665,10 +2659,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-4963"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-6964" : 
@@ -11401,7 +11392,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ENVE-4110",
+      "ENVE-4960",
       "ERTH-4690",
       "ERTH-6690"
     ],
@@ -11411,10 +11402,17 @@
       [
         {
           "course" : "CHEM 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
-          "course" : "ERTH 1110",
+          "course" : "CHEM 1110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 1120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -15121,6 +15119,16 @@
     "cross_listings" : 
     [
       "COGS-4430"
+    ],
+    "prerequisites" : null
+  },
+  "COGS-6440" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4440"
     ],
     "prerequisites" : null
   },
@@ -27452,7 +27460,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ENVE-6960"
+      "CHEM-4690",
+      "ERTH-4690",
+      "ERTH-6690"
     ],
     "prerequisites" : null
   },
@@ -27685,10 +27695,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ENVE-4960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ENVE-6961" : 
@@ -28099,7 +28106,10 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-1200"
+    ],
     "prerequisites" : null
   },
   "ERTH-1210" : 
@@ -28343,34 +28353,7 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CHEM 1100",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "nested" : 
-          [
-            {
-              "course" : "PHYS 1100",
-              "min_grade" : "D",
-              "type" : "course"
-            },
-            {
-              "course" : "PHYS 1110",
-              "min_grade" : "D",
-              "type" : "course"
-            }
-          ],
-          "type" : "or"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "ERTH-2620" : 
   {
@@ -28680,7 +28663,7 @@
     "cross_listings" : 
     [
       "CHEM-4690",
-      "ENVE-4110",
+      "ENVE-4960",
       "ERTH-6690"
     ],
     "prerequisites" : 
@@ -28689,10 +28672,17 @@
       [
         {
           "course" : "CHEM 1100",
+          "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "CHEM 1110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CHEM 1120",
+          "min_grade" : "D",
           "type" : "course"
         }
       ],
@@ -28937,23 +28927,7 @@
     [
       "ERTH-4540"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CHEM 1100",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "ERTH 1200",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "and"
-    }
+    "prerequisites" : null
   },
   "ERTH-6560" : 
   {
@@ -28984,24 +28958,10 @@
     "cross_listings" : 
     [
       "CHEM-4690",
-      "ENVE-4110",
+      "ENVE-4960",
       "ERTH-4690"
     ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "CHEM 1100",
-          "type" : "course"
-        },
-        {
-          "course" : "ERTH 1100",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "prerequisites" : null
   },
   "ERTH-6710" : 
   {
@@ -32085,7 +32045,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ENGR-4964",
       "ISYE-6961"
     ],
     "prerequisites" : null
@@ -32337,7 +32296,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ENGR-4964",
       "ISYE-4961"
     ],
     "prerequisites" : null
@@ -34574,10 +34532,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-2010"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "MANE 1010",
@@ -37285,10 +37240,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MANE-4790"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MANE-6800" : 
@@ -39475,7 +39427,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-6760"
+    ],
     "prerequisites" : null
   },
   "MATP-6640" : 
@@ -42733,10 +42688,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MTLE-6250"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MTLE-6300" : 
@@ -43386,7 +43338,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-6440",
+      "PHIL-4440"
+    ],
     "prerequisites" : null
   },
   "PHIL-4450" : 
