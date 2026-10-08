@@ -11023,10 +11023,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-6130"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -11843,10 +11840,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-4130"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHEM-6140" : 
@@ -14924,7 +14918,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COGS-6960"
+      "COGS-6960",
+      "CSCI-4970",
+      "CSCI-6970"
     ],
     "prerequisites" : null
   },
@@ -15243,7 +15239,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COGS-4960"
+      "COGS-4960",
+      "CSCI-4970",
+      "CSCI-6970"
     ],
     "prerequisites" : null
   },
@@ -19273,7 +19271,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4960",
+      "COGS-6960",
+      "CSCI-6970"
+    ],
     "prerequisites" : null
   },
   "CSCI-4971" : 
@@ -19282,7 +19285,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6971"
+      "CSCI-6971",
+      "ECSE-4490",
+      "ECSE-6490"
     ],
     "prerequisites" : null
   },
@@ -20021,9 +20026,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-4964",
-      "ECSE-6964",
-      "ISYE-6964"
+      "COGS-4960",
+      "COGS-6960",
+      "CSCI-4970"
     ],
     "prerequisites" : null
   },
@@ -20033,7 +20038,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4968"
+      "CSCI-4971",
+      "ECSE-4490",
+      "ECSE-6490"
     ],
     "prerequisites" : null
   },
@@ -23807,6 +23814,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "CSCI-4971",
+      "CSCI-6971",
       "ECSE-6490"
     ],
     "prerequisites" : 
@@ -24508,16 +24517,8 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECSE-6180"
-    ],
-    "prerequisites" : 
-    {
-      "course" : "ECSE 2110",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "ECSE-4967" : 
   {
@@ -24645,15 +24646,25 @@
   "ECSE-6140" : 
   {
     "attributes" : [],
-    "corequisites" : 
-    [
-      "ECSE-6110"
-    ],
-    "cross_listings" : 
-    [
-      "ECSE-4966"
-    ],
-    "prerequisites" : null
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "ECSE 6110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 4110",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-6141" : 
   {
@@ -24990,6 +25001,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "CSCI-4971",
+      "CSCI-6971",
       "ECSE-4490"
     ],
     "prerequisites" : null
@@ -37769,10 +37782,7 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MATH-2100"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "MATH 1020",
@@ -44596,6 +44606,27 @@
       "nested" : 
       [
         {
+          "course" : "MATH 2400",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "MATH 2010",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 4600",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
           "nested" : 
           [
             {
@@ -44610,16 +44641,6 @@
             }
           ],
           "type" : "or"
-        },
-        {
-          "course" : "MATH 2400",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "MATH 2010",
-          "min_grade" : "D",
-          "type" : "course"
         }
       ],
       "type" : "and"
