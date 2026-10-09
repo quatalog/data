@@ -4211,15 +4211,27 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARTS-6400",
-      "GSAS-4510",
-      "GSAS-6961"
+      "ARTS-4510",
+      "ARTS-6400"
     ],
     "prerequisites" : 
     {
-      "course" : "ARTS 1020",
-      "min_grade" : "D",
-      "type" : "course"
+      "nested" : 
+      [
+        {
+          "course" : "ARTS 4540",
+          "type" : "course"
+        },
+        {
+          "course" : "COGS 4540",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 4540",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
     }
   },
   "ARTS-4520" : 
@@ -4275,10 +4287,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-6600"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-4620" : 
@@ -4947,9 +4956,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARTS-4510",
-      "GSAS-4510",
-      "GSAS-6961"
+      "GSAS-4510"
     ],
     "prerequisites" : 
     {
@@ -5015,10 +5022,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-4600"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-6640" : 
@@ -19144,7 +19148,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "MATH-4820"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -28854,6 +28861,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "CHEM-4965",
+      "CHEM-6965",
       "ERTH-6965"
     ],
     "prerequisites" : null
@@ -29069,6 +29078,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "CHEM-4965",
+      "CHEM-6965",
       "ERTH-4965"
     ],
     "prerequisites" : null
@@ -29338,10 +29349,7 @@
   },
   "GSAS-2961" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -29721,6 +29729,18 @@
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
+  },
+  "GSAS-6120" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "GSAS 6110",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "GSAS-6200" : 
   {
@@ -32283,7 +32303,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "MATP-6640"
+    ],
     "prerequisites" : null
   },
   "ISYE-6780" : 
@@ -33124,7 +33147,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "CSCI-4966"
+    ],
     "prerequisites" : null
   },
   "ITWS-4967" : 
