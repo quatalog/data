@@ -4856,7 +4856,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : 
+    [
+      "ARTS-4130"
+    ],
     "prerequisites" : null
   },
   "ARTS-6140" : 
@@ -40405,20 +40408,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MGMT-6630"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MGMT-4540" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MGMT-6260"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -40560,10 +40557,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MGMT-6510"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MGMT-4961" : 
@@ -40888,10 +40882,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MGMT-4540"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -41308,10 +41299,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MGMT-4530"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MGMT-6640" : 
@@ -42389,10 +42377,7 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MTLE-4400"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -42440,20 +42425,14 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MTLE-6962"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MTLE-4440" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MTLE-6440"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MTLE-4450" : 
@@ -42794,10 +42773,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "MTLE-4440"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MTLE-6450" : 
