@@ -978013,7 +978013,7 @@
       },
       "title" : 
       [
-        "Design For Isotope Production"
+        "Rad System Design"
       ]
     },
     "latest_term" : "202701"
@@ -999123,7 +999123,7 @@
       },
       "title" : 
       [
-        "Design For Isotope Production"
+        "Rad System Design"
       ]
     },
     "latest_term" : "202701"
@@ -1174006,8 +1174006,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 40,
-        "remaining" : 40,
+        "capacity" : 20,
+        "remaining" : 20,
         "taken" : 0
       },
       "title" : 
