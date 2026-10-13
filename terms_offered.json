@@ -2524,8 +2524,8 @@
       "seats" : 
       {
         "capacity" : 125,
-        "remaining" : 65,
-        "taken" : 60
+        "remaining" : 66,
+        "taken" : 59
       },
       "title" : 
       [
@@ -116589,60 +116589,7 @@
         "Private Music Lessons:percuss"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 1,
-        "min" : 1
-      },
-      "instructors" : 
-      [
-        "Evan Tyler Runyon",
-        "Jamecyn F. Morey",
-        "Christopher James Fisher-Lochhead",
-        "Jacqualine Lee Burk",
-        "Michael David Blostein",
-        "Akina Yura",
-        "Paul J. Quigley",
-        "Thomas J. Gerbino",
-        "Jingwen Tu",
-        "Chrysi Nanou",
-        "Norman Curtis Thibodeau",
-        "Karlinda D. Caldicott",
-        "Eric Latini",
-        "Mark Foster",
-        "Katherine Anne Skovira"
-      ],
-      "seats" : 
-      {
-        "capacity" : 188,
-        "remaining" : 188,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Music Lessons: Euphonium",
-        "Private Music Lessns: Trombone",
-        "Private Music Lessons: Bass",
-        "Private Music Lessons: Bassoon",
-        "Private Music Lessons: Flute",
-        "Private Music Lessons: Guitar",
-        "Private Music Lessons: Harp",
-        "Private Music Lessons: Oboe",
-        "Private Music Lessons: Percuss",
-        "Private Music Lessons: Piano",
-        "Private Music Lessons: Sax",
-        "Private Music Lessons: Trumpet",
-        "Private Music Lessons: Tuba",
-        "Private Music Lessons: Violin",
-        "Private Music Lessons: Voice",
-        "Private Music Lessons:clarinet",
-        "Private Music Lessons:viola"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202609"
   },
   "ARTS-2940" : 
   {
@@ -263436,6 +263383,7 @@
       },
       "instructors" : 
       [
+        "Xavier R. M. Intes",
         "Lucy T. Zhang",
         "Elizabeth Blaber",
         "Deepak Vashishth",
@@ -263446,8 +263394,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 400,
-        "remaining" : 400,
+        "capacity" : 450,
+        "remaining" : 450,
         "taken" : 0
       },
       "title" : 
@@ -289100,8 +289048,8 @@
       "seats" : 
       {
         "capacity" : 480,
-        "remaining" : 27,
-        "taken" : 453
+        "remaining" : 28,
+        "taken" : 452
       },
       "title" : 
       [
@@ -304609,8 +304557,8 @@
       "seats" : 
       {
         "capacity" : 600,
-        "remaining" : 594,
-        "taken" : 6
+        "remaining" : 593,
+        "taken" : 7
       },
       "title" : 
       [
@@ -322683,7 +322631,30 @@
         "Intro To Nanomaterials Chem"
       ]
     },
-    "latest_term" : "20250502"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "instructors" : 
+      [
+        "Amgalanbaatar Baldansuren"
+      ],
+      "seats" : 
+      {
+        "capacity" : 20,
+        "remaining" : 20,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Computational Chemistry Basics"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "CHEM-4962" : 
   {
@@ -336298,7 +336269,30 @@
         "Aspects Of Chemical Practice"
       ]
     },
-    "latest_term" : "202201"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "instructors" : 
+      [
+        "Amgalanbaatar Baldansuren"
+      ],
+      "seats" : 
+      {
+        "capacity" : 20,
+        "remaining" : 20,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Computational Chemistry Basics"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "CHEM-6962" : 
   {
@@ -419593,8 +419587,8 @@
       "seats" : 
       {
         "capacity" : 56,
-        "remaining" : 1,
-        "taken" : 55
+        "remaining" : 2,
+        "taken" : 54
       },
       "title" : 
       [
@@ -459731,7 +459725,30 @@
         "Writing For Tech Communication"
       ]
     },
-    "latest_term" : "202509"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Leah Corinne Jones"
+      ],
+      "seats" : 
+      {
+        "capacity" : 25,
+        "remaining" : 25,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Ai, Society & Culture"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "COMM-4961" : 
   {
@@ -498718,8 +498735,8 @@
       "seats" : 
       {
         "capacity" : 160,
-        "remaining" : 84,
-        "taken" : 76
+        "remaining" : 85,
+        "taken" : 75
       },
       "title" : 
       [
@@ -499825,8 +499842,8 @@
       "seats" : 
       {
         "capacity" : 50,
-        "remaining" : 14,
-        "taken" : 36
+        "remaining" : 15,
+        "taken" : 35
       },
       "title" : 
       [
@@ -516175,8 +516192,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 80,
-        "remaining" : 80,
+        "capacity" : 20,
+        "remaining" : 20,
         "taken" : 0
       },
       "title" : 
@@ -652356,8 +652373,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 30,
-        "remaining" : 30,
+        "capacity" : 40,
+        "remaining" : 40,
         "taken" : 0
       },
       "title" : 
@@ -762799,6 +762816,33 @@
     },
     "latest_term" : "200109"
   },
+  "ENVE-4690" : 
+  {
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Bin Gao"
+      ],
+      "seats" : 
+      {
+        "capacity" : 15,
+        "remaining" : 15,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Aqueous Goechemistry"
+      ]
+    },
+    "latest_term" : "202701"
+  },
   "ENVE-4710" : 
   {
     "201309" : 
@@ -768331,7 +768375,30 @@
         "Multiphase Flow Ht I"
       ]
     },
-    "latest_term" : "200009"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Bin Gao"
+      ],
+      "seats" : 
+      {
+        "capacity" : 15,
+        "remaining" : 15,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Aqueous Geochemistry"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ENVE-6700" : 
   {
@@ -842979,8 +843046,8 @@
       "seats" : 
       {
         "capacity" : 2400,
-        "remaining" : 2317,
-        "taken" : 83
+        "remaining" : 2316,
+        "taken" : 84
       },
       "title" : 
       [
@@ -871438,30 +871505,7 @@
         "Integer & Combinatorial Opt."
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "John E. Mitchell"
-      ],
-      "seats" : 
-      {
-        "capacity" : 15,
-        "remaining" : 15,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Integer & Combinatorial Opt."
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202501"
   },
   "ISYE-6770" : 
   {
@@ -923744,7 +923788,30 @@
         "American Horror Stories"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Mitchell Ryan Murray"
+      ],
+      "seats" : 
+      {
+        "capacity" : 25,
+        "remaining" : 25,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "The Graphic Novel"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "LITR-2961" : 
   {
@@ -924244,7 +924311,30 @@
         "American Horror Stories"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Mitchell Ryan Murray"
+      ],
+      "seats" : 
+      {
+        "capacity" : 25,
+        "remaining" : 25,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "American Horror Stories"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "LITR-2962" : 
   {
@@ -924490,7 +924580,30 @@
         "The Graphic Novel"
       ]
     },
-    "latest_term" : "20130503"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Mitchell Ryan Murray"
+      ],
+      "seats" : 
+      {
+        "capacity" : 25,
+        "remaining" : 25,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "American Horror Stories"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "LITR-2963" : 
   {
@@ -1012585,8 +1012698,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 120,
-        "remaining" : 120,
+        "capacity" : 60,
+        "remaining" : 60,
         "taken" : 0
       },
       "title" : 
@@ -1019748,8 +1019861,8 @@
       "seats" : 
       {
         "capacity" : 240,
-        "remaining" : 136,
-        "taken" : 104
+        "remaining" : 137,
+        "taken" : 103
       },
       "title" : 
       [
@@ -1021941,8 +1022054,8 @@
       "seats" : 
       {
         "capacity" : 605,
-        "remaining" : 23,
-        "taken" : 582
+        "remaining" : 24,
+        "taken" : 581
       },
       "title" : 
       [
@@ -1034522,13 +1034635,12 @@
       },
       "instructors" : 
       [
-        "Wing Sze E Kam",
         "Jeffrey William Banks"
       ],
       "seats" : 
       {
-        "capacity" : 80,
-        "remaining" : 80,
+        "capacity" : 40,
+        "remaining" : 40,
         "taken" : 0
       },
       "title" : 
@@ -1035222,8 +1035334,8 @@
       "seats" : 
       {
         "capacity" : 30,
-        "remaining" : 5,
-        "taken" : 25
+        "remaining" : 6,
+        "taken" : 24
       },
       "title" : 
       [
@@ -1038124,8 +1038236,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 80,
-        "remaining" : 80,
+        "capacity" : 60,
+        "remaining" : 60,
         "taken" : 0
       },
       "title" : 
@@ -1067025,30 +1067137,7 @@
         "Integer & Combinatorial Opt."
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "John E. Mitchell"
-      ],
-      "seats" : 
-      {
-        "capacity" : 25,
-        "remaining" : 25,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Integer & Combinatorial Opt."
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202501"
   },
   "MATP-6640" : 
   {
@@ -1089786,8 +1089875,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 30,
-        "remaining" : 30,
+        "capacity" : 50,
+        "remaining" : 50,
         "taken" : 0
       },
       "title" : 
@@ -1095993,8 +1096082,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 30,
-        "remaining" : 30,
+        "capacity" : 40,
+        "remaining" : 40,
         "taken" : 0
       },
       "title" : 
@@ -1102028,8 +1102117,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 30,
-        "remaining" : 30,
+        "capacity" : 45,
+        "remaining" : 45,
         "taken" : 0
       },
       "title" : 
@@ -1102958,8 +1103047,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 20,
-        "remaining" : 20,
+        "capacity" : 30,
+        "remaining" : 30,
         "taken" : 0
       },
       "title" : 
@@ -1129747,8 +1129836,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 30,
-        "remaining" : 30,
+        "capacity" : 40,
+        "remaining" : 40,
         "taken" : 0
       },
       "title" : 
@@ -1141502,8 +1141591,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 15,
-        "remaining" : 15,
+        "capacity" : 30,
+        "remaining" : 30,
         "taken" : 0
       },
       "title" : 
@@ -1299226,7 +1299315,30 @@
         "Perception & Action"
       ]
     },
-    "latest_term" : "202601"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Mahir Emrah Aktunc"
+      ],
+      "seats" : 
+      {
+        "capacity" : 25,
+        "remaining" : 25,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "History & Philosophy Of Psych"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "PSYC-4961" : 
   {
@@ -1300349,7 +1300461,30 @@
         "Category Theory & Cogtn In Ai"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Yingrui Yang"
+      ],
+      "seats" : 
+      {
+        "capacity" : 25,
+        "remaining" : 25,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Principles: Integratn Science"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "PSYC-4962" : 
   {
@@ -1307970,6 +1308105,29 @@
       "title" : 
       [
         "Intro To Robot Programming"
+      ]
+    },
+    "latest_term" : "202701"
+  },
+  "ROBT-4010" : 
+  {
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "seats" : 
+      {
+        "capacity" : 20,
+        "remaining" : 20,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Manipulator Kinematics & Dynmc"
       ]
     },
     "latest_term" : "202701"
@@ -1329659,7 +1329817,30 @@
         "Human Futures"
       ]
     },
-    "latest_term" : "202601"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Leah Corinne Jones"
+      ],
+      "seats" : 
+      {
+        "capacity" : 25,
+        "remaining" : 25,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Ai, Society, & Culture"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "STSO-4961" : 
   {
