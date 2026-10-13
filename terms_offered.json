@@ -47980,8 +47980,8 @@
       "seats" : 
       {
         "capacity" : 950,
-        "remaining" : 918,
-        "taken" : 32
+        "remaining" : 917,
+        "taken" : 33
       },
       "title" : 
       [
@@ -48262,8 +48262,8 @@
       "seats" : 
       {
         "capacity" : 835,
-        "remaining" : 808,
-        "taken" : 27
+        "remaining" : 807,
+        "taken" : 28
       },
       "title" : 
       [
@@ -263610,8 +263610,8 @@
       "seats" : 
       {
         "capacity" : 860,
-        "remaining" : 814,
-        "taken" : 46
+        "remaining" : 813,
+        "taken" : 47
       },
       "title" : 
       [
@@ -319066,8 +319066,8 @@
       "seats" : 
       {
         "capacity" : 50,
-        "remaining" : 18,
-        "taken" : 32
+        "remaining" : 17,
+        "taken" : 33
       },
       "title" : 
       [
@@ -347057,8 +347057,8 @@
       "seats" : 
       {
         "capacity" : 510,
-        "remaining" : 506,
-        "taken" : 4
+        "remaining" : 505,
+        "taken" : 5
       },
       "title" : 
       [
@@ -424959,13 +424959,15 @@
       },
       "instructors" : 
       [
+        "Christopher Robert Sims",
+        "Marjorie McShane",
         "Bram Van Heuveln"
       ],
       "seats" : 
       {
-        "capacity" : 25,
-        "remaining" : 23,
-        "taken" : 2
+        "capacity" : 125,
+        "remaining" : 121,
+        "taken" : 4
       },
       "title" : 
       [
@@ -974230,8 +974232,8 @@
       "seats" : 
       {
         "capacity" : 650,
-        "remaining" : 584,
-        "taken" : 66
+        "remaining" : 583,
+        "taken" : 67
       },
       "title" : 
       [
@@ -1307934,8 +1307936,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 50,
-        "remaining" : 16,
+        "capacity" : 0,
+        "remaining" : -34,
         "taken" : 34
       },
       "title" : 
