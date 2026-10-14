@@ -11859,10 +11859,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHEM-4140"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "CHEM-6160" : 
@@ -18763,7 +18760,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6530"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18819,7 +18819,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6550"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -19898,7 +19901,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4530"
+    ],
     "prerequisites" : null
   },
   "CSCI-6550" : 
@@ -45221,7 +45227,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHYS-4962"
+    ],
     "prerequisites" : null
   },
   "PHYS-6965" : 

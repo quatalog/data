@@ -431901,8 +431901,8 @@
       "seats" : 
       {
         "capacity" : 30,
-        "remaining" : 27,
-        "taken" : 3
+        "remaining" : 26,
+        "taken" : 4
       },
       "title" : 
       [
@@ -486959,8 +486959,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 199,
-        "remaining" : 199,
+        "capacity" : 200,
+        "remaining" : 200,
         "taken" : 0
       },
       "title" : 
@@ -514211,8 +514211,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 96,
-        "remaining" : 96,
+        "capacity" : 128,
+        "remaining" : 128,
         "taken" : 0
       },
       "title" : 
@@ -518549,8 +518549,7 @@
       },
       "title" : 
       [
-        "Ugrad Independent Study",
-        "Ugrad Research Project"
+        "Ugrad Independent Study"
       ]
     },
     "latest_term" : "202701"
@@ -541080,7 +541079,33 @@
         "Interactive Visualization"
       ]
     },
-    "latest_term" : "202401"
+    "202701" : 
+    {
+      "attributes" : 
+      [
+        "[CI]"
+      ],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Barbara Cutler"
+      ],
+      "seats" : 
+      {
+        "capacity" : 20,
+        "remaining" : 20,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Interactive Visualization"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "CSCI-6560" : 
   {
@@ -648116,7 +648141,30 @@
         "Introduction To Image Processing"
       ]
     },
-    "latest_term" : "202501"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "instructors" : 
+      [
+        "Richard J Radke"
+      ],
+      "seats" : 
+      {
+        "capacity" : 36,
+        "remaining" : 36,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Introduction To Image Processing"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ECSE-4560" : 
   {
@@ -1261283,30 +1261331,7 @@
         "Nano-optics & Photonics"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "Esther Alexandra Wertz"
-      ],
-      "seats" : 
-      {
-        "capacity" : 20,
-        "remaining" : 20,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Nano-optics & Photonics"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "PHYS-6965" : 
   {
@@ -1327679,8 +1327704,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 30,
-        "remaining" : 30,
+        "capacity" : 25,
+        "remaining" : 25,
         "taken" : 0
       },
       "title" : 
@@ -1328720,8 +1328745,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 30,
-        "remaining" : 30,
+        "capacity" : 25,
+        "remaining" : 25,
         "taken" : 0
       },
       "title" : 
