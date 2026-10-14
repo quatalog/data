@@ -24672,7 +24672,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4500"
+    ],
     "prerequisites" : null
   },
   "ECSE-4969" : 
@@ -32071,7 +32074,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4968"
+    ],
     "prerequisites" : 
     {
       "nested" : 
