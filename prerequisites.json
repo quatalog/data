@@ -12255,10 +12255,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHME-1100"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "CHME-1960" : 
@@ -12298,10 +12295,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHME-2020"
-    ],
+    "cross_listings" : [],
     "prerequisites" : 
     {
       "nested" : 
@@ -12644,10 +12638,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHME-4170"
-    ],
+    "cross_listings" : [],
     "prerequisites" : null
   },
   "CHME-4180" : 
@@ -12881,10 +12872,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CHME-6965"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHME-4966" : 
@@ -13050,12 +13038,7 @@
     [
       "CHME-4660"
     ],
-    "prerequisites" : 
-    {
-      "course" : "CHME 4030",
-      "min_grade" : "D",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "CHME-6830" : 
   {

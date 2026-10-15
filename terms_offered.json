@@ -96067,8 +96067,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 38,
-        "remaining" : 38,
+        "capacity" : 50,
+        "remaining" : 50,
         "taken" : 0
       },
       "title" : 
@@ -343681,13 +343681,12 @@
       },
       "instructors" : 
       [
-        "Nihat Baysal",
         "Pankaj Karande"
       ],
       "seats" : 
       {
-        "capacity" : 70,
-        "remaining" : 70,
+        "capacity" : 55,
+        "remaining" : 55,
         "taken" : 0
       },
       "title" : 
@@ -345101,13 +345100,12 @@
       },
       "instructors" : 
       [
-        "Ronald C. Hedden",
         "Ji Young Kim"
       ],
       "seats" : 
       {
-        "capacity" : 50,
-        "remaining" : 50,
+        "capacity" : 60,
+        "remaining" : 60,
         "taken" : 0
       },
       "title" : 
@@ -345533,30 +345531,7 @@
         "Introduction To Computational Chemical Engineering"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 3,
-        "min" : 3
-      },
-      "instructors" : 
-      [
-        "Mattheos Koffas"
-      ],
-      "seats" : 
-      {
-        "capacity" : 30,
-        "remaining" : 30,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Introduction To Computational Chemical Engineering"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202609"
   },
   "CHME-2100" : 
   {
@@ -345846,7 +345821,7 @@
       },
       "instructors" : 
       [
-        "Patrick T. Underhill"
+        "Sangwoo Lee"
       ],
       "seats" : 
       {
@@ -348760,7 +348735,7 @@
       },
       "instructors" : 
       [
-        "Corey Christopher Woodcock"
+        "Nihat Baysal"
       ],
       "seats" : 
       {
@@ -349922,12 +349897,12 @@
       },
       "instructors" : 
       [
-        "Corey Christopher Woodcock"
+        "Prashun Gorai"
       ],
       "seats" : 
       {
-        "capacity" : 15,
-        "remaining" : 15,
+        "capacity" : 20,
+        "remaining" : 20,
         "taken" : 0
       },
       "title" : 
@@ -351597,8 +351572,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 30,
-        "remaining" : 30,
+        "capacity" : 50,
+        "remaining" : 50,
         "taken" : 0
       },
       "title" : 
@@ -352442,8 +352417,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 50,
-        "remaining" : 50,
+        "capacity" : 36,
+        "remaining" : 36,
         "taken" : 0
       },
       "title" : 
@@ -353890,8 +353865,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 32,
-        "remaining" : 32,
+        "capacity" : 28,
+        "remaining" : 28,
         "taken" : 0
       },
       "title" : 
@@ -354385,8 +354360,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 24,
-        "remaining" : 24,
+        "capacity" : 12,
+        "remaining" : 12,
         "taken" : 0
       },
       "title" : 
@@ -355122,30 +355097,7 @@
         "Chromatography Separation Proc"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 3,
-        "min" : 3
-      },
-      "instructors" : 
-      [
-        "Steven Cramer"
-      ],
-      "seats" : 
-      {
-        "capacity" : 15,
-        "remaining" : 15,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Chromatography Separation Proc"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "CHME-4430" : 
   {
@@ -356739,8 +356691,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 30,
-        "remaining" : 30,
+        "capacity" : 40,
+        "remaining" : 40,
         "taken" : 0
       },
       "title" : 
@@ -357059,7 +357011,30 @@
         "Polymer Procss & Plstc Tech"
       ]
     },
-    "latest_term" : "202505"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "instructors" : 
+      [
+        "Ronald C. Hedden"
+      ],
+      "seats" : 
+      {
+        "capacity" : 15,
+        "remaining" : 15,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Polymer Procss & Plstc Tech"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "CHME-4660" : 
   {
@@ -357086,7 +357061,30 @@
         "Model Predictive Control"
       ]
     },
-    "latest_term" : "202501"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "instructors" : 
+      [
+        "B Wayne Bequette"
+      ],
+      "seats" : 
+      {
+        "capacity" : 15,
+        "remaining" : 15,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Model Predictive Control"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "CHME-4940" : 
   {
@@ -358809,30 +358807,7 @@
         "Intro To Polymer Physics"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 3,
-        "min" : 3
-      },
-      "instructors" : 
-      [
-        "Prashun Gorai"
-      ],
-      "seats" : 
-      {
-        "capacity" : 20,
-        "remaining" : 20,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Appl Ml Chemical & Matls Eng"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202609"
   },
   "CHME-4961" : 
   {
@@ -361345,7 +361320,26 @@
         "Metabolic Engineering"
       ]
     },
-    "latest_term" : "202501"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "seats" : 
+      {
+        "capacity" : 15,
+        "remaining" : 15,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Metabolic Eng & Biotechnology"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "CHME-4966" : 
   {
@@ -362846,8 +362840,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 15,
-        "remaining" : 15,
+        "capacity" : 10,
+        "remaining" : 10,
         "taken" : 0
       },
       "title" : 
@@ -364044,30 +364038,7 @@
         "Chromatographic Separation Processes"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 3,
-        "min" : 3
-      },
-      "instructors" : 
-      [
-        "Steven Cramer"
-      ],
-      "seats" : 
-      {
-        "capacity" : 15,
-        "remaining" : 15,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Chromatographic Separation Processes"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "CHME-6460" : 
   {
@@ -365085,8 +365056,7 @@
       },
       "instructors" : 
       [
-        "Georges Belfort",
-        "Corey Christopher Woodcock"
+        "Joel Plawsky"
       ],
       "seats" : 
       {
@@ -366877,7 +366847,30 @@
         "Model Predictive Control"
       ]
     },
-    "latest_term" : "202501"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "instructors" : 
+      [
+        "B Wayne Bequette"
+      ],
+      "seats" : 
+      {
+        "capacity" : 10,
+        "remaining" : 10,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Model Predictive Control"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "CHME-6830" : 
   {
@@ -368926,30 +368919,7 @@
         "Polymer Physics"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 3,
-        "min" : 3
-      },
-      "instructors" : 
-      [
-        "Prashun Gorai"
-      ],
-      "seats" : 
-      {
-        "capacity" : 20,
-        "remaining" : 20,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Appl Ml Chemical & Matls Eng"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202609"
   },
   "CHME-6961" : 
   {
@@ -721450,13 +721420,20 @@
       "instructors" : 
       [
         "Li Liu",
-        "Casey Jay Hoffman",
-        "Omar Osama El-Shafee",
-        "Tathagata Bhaduri",
-        "Rostyslav Korolov",
-        "Semih Akin",
+        "Judith A. Obiero",
+        "George Jiren Lee",
         "Daniel Chapman Lander",
-        "George Jiren Lee"
+        "Casey Jay Hoffman",
+        "Semih Akin",
+        "Susan Victoria Henry",
+        "Rostyslav Korolov",
+        "Tathagata Bhaduri",
+        "Amy Corron Youmans",
+        "Jordan L Vener",
+        "Omar Osama El-Shafee",
+        "Tracy N. Sullivan",
+        "Trisha Suzann Teig",
+        "Christine M Allard"
       ],
       "seats" : 
       {
@@ -738966,10 +738943,11 @@
       },
       "instructors" : 
       [
-        "Trisha Suzann Teig",
-        "Tracy N. Sullivan",
+        "Susan Victoria Henry",
         "Judith A. Obiero",
-        "Amy Corron Youmans"
+        "Amy Corron Youmans",
+        "Tracy N. Sullivan",
+        "Trisha Suzann Teig"
       ],
       "seats" : 
       {
@@ -817316,8 +817294,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 38,
-        "remaining" : 38,
+        "capacity" : 50,
+        "remaining" : 50,
         "taken" : 0
       },
       "title" : 
@@ -824883,14 +824861,15 @@
         "Benjamin Chia-Ming Chang",
         "Silvia Ruzanka",
         "Kathleen Ruiz",
+        "Robert Kyle Hamilton",
         "Robert F. Nideffer",
         "Nicholas J. Mizer",
         "Eric Louis Ameres"
       ],
       "seats" : 
       {
-        "capacity" : 80,
-        "remaining" : 80,
+        "capacity" : 90,
+        "remaining" : 90,
         "taken" : 0
       },
       "title" : 
@@ -825215,14 +825194,15 @@
         "Nicholas J. Mizer",
         "Maurice W Suckling",
         "Benjamin Chia-Ming Chang",
+        "Robert Kyle Hamilton",
         "Robert F. Nideffer",
         "Silvia Ruzanka",
         "Kathleen Ruiz"
       ],
       "seats" : 
       {
-        "capacity" : 90,
-        "remaining" : 90,
+        "capacity" : 100,
+        "remaining" : 100,
         "taken" : 0
       },
       "title" : 
