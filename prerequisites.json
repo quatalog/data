@@ -3470,10 +3470,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-2960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARTS-2961" : 
@@ -4211,27 +4208,15 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARTS-4510",
-      "ARTS-6400"
+      "ARTS-6400",
+      "GSAS-4510",
+      "GSAS-6961"
     ],
     "prerequisites" : 
     {
-      "nested" : 
-      [
-        {
-          "course" : "ARTS 4540",
-          "type" : "course"
-        },
-        {
-          "course" : "COGS 4540",
-          "type" : "course"
-        },
-        {
-          "course" : "CSCI 4540",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
+      "course" : "ARTS 1020",
+      "min_grade" : "D",
+      "type" : "course"
     }
   },
   "ARTS-4520" : 
@@ -4959,7 +4944,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "GSAS-4510"
+      "ARTS-4510",
+      "GSAS-4510",
+      "GSAS-6961"
     ],
     "prerequisites" : 
     {
@@ -12872,7 +12859,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHME-6965"
+    ],
     "prerequisites" : null
   },
   "CHME-4966" : 
@@ -24487,7 +24477,12 @@
       "Culminating Exp/Capstone"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ISYE-4270",
+      "MANE-4260",
+      "MTLE-4920"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -31845,7 +31840,11 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4900",
+      "MANE-4260"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -35720,7 +35719,12 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4900",
+      "ISYE-4270",
+      "MTLE-4920"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -42696,7 +42700,12 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4900",
+      "ISYE-4270",
+      "MANE-4260"
+    ],
     "prerequisites" : 
     {
       "nested" : 

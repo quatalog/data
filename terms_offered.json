@@ -5736,7 +5736,30 @@
         "Grad Final Administrative Reg"
       ]
     },
-    "latest_term" : "202601"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 0,
+        "min" : 0
+      },
+      "instructors" : 
+      [
+        "Suzanne Dunn"
+      ],
+      "seats" : 
+      {
+        "capacity" : 0,
+        "remaining" : 0,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Grad Final Administrative Reg"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ADMN-6500" : 
   {
@@ -8529,7 +8552,30 @@
         "Graduate Away Opportunity"
       ]
     },
-    "latest_term" : "202605"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 1,
+        "min" : 0
+      },
+      "instructors" : 
+      [
+        "Dorit Nevo"
+      ],
+      "seats" : 
+      {
+        "capacity" : 0,
+        "remaining" : 0,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Topics Course In Admn"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ADMN-7001" : 
   {
@@ -103779,8 +103825,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 44,
-        "remaining" : 44,
+        "capacity" : 50,
+        "remaining" : 50,
         "taken" : 0
       },
       "title" : 
@@ -118465,7 +118511,30 @@
         "Fund Of Music Composition"
       ]
     },
-    "latest_term" : "202601"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Ross A. Rice"
+      ],
+      "seats" : 
+      {
+        "capacity" : 16,
+        "remaining" : 16,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Sound Design"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ARTS-2961" : 
   {
@@ -119324,7 +119393,30 @@
         "Video Art And Social Media"
       ]
     },
-    "latest_term" : "20230502"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Ross A. Rice"
+      ],
+      "seats" : 
+      {
+        "capacity" : 9,
+        "remaining" : 9,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Sound Design"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ARTS-2962" : 
   {
@@ -120719,7 +120811,30 @@
         "Percussion Ensemble"
       ]
     },
-    "latest_term" : "202301"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Michael L. Century"
+      ],
+      "seats" : 
+      {
+        "capacity" : 40,
+        "remaining" : 40,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Experiments In Art & Technolgy"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ARTS-2964" : 
   {
@@ -131948,7 +132063,30 @@
         "Experimental Game Design"
       ]
     },
-    "latest_term" : "201709"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Silvia Ruzanka"
+      ],
+      "seats" : 
+      {
+        "capacity" : 0,
+        "remaining" : 0,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Experimental Game Design"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ARTS-4520" : 
   {
@@ -146123,7 +146261,30 @@
         "Experimental Game Design"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Silvia Ruzanka"
+      ],
+      "seats" : 
+      {
+        "capacity" : 0,
+        "remaining" : 0,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Experimental Game Design"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ARTS-6410" : 
   {
@@ -190335,6 +190496,7 @@
       "instructors" : 
       [
         "Marvin D Bentley",
+        "Benjamin Larson",
         "Mattheos Koffas",
         "Jennifer Marie Hurley",
         "Kaitlin Louise Reinl",
@@ -240550,6 +240712,7 @@
       "instructors" : 
       [
         "Brian Hans Jensen",
+        "Benjamin Larson",
         "Catherine Ann Royer",
         "Kevin Christopher Rose",
         "Richard Peter Bonocora",
@@ -361328,6 +361491,10 @@
         "max" : 3,
         "min" : 3
       },
+      "instructors" : 
+      [
+        "Mattheos Koffas"
+      ],
       "seats" : 
       {
         "capacity" : 15,
@@ -372212,7 +372379,30 @@
         "Metabolic Engineering"
       ]
     },
-    "latest_term" : "202501"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "instructors" : 
+      [
+        "Mattheos Koffas"
+      ],
+      "seats" : 
+      {
+        "capacity" : 10,
+        "remaining" : 10,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Metabolic Eng & Biotechnology"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "CHME-6966" : 
   {
@@ -410181,7 +410371,26 @@
         "Colloquium Series"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 0,
+        "min" : 0
+      },
+      "seats" : 
+      {
+        "capacity" : 0,
+        "remaining" : 0,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Colloquium Series"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "CIVL-6940" : 
   {
@@ -496110,7 +496319,31 @@
         "Undergraduate Mentor"
       ]
     },
-    "latest_term" : "202601"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 1
+      },
+      "instructors" : 
+      [
+        "Meredith Elizabeth Widman",
+        "Shianne M. Hulbert"
+      ],
+      "seats" : 
+      {
+        "capacity" : 0,
+        "remaining" : 0,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Undergraduate Mentor"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "CSCI-2961" : 
   {
@@ -514286,7 +514519,30 @@
         "Rcos Senior Project Leader"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Wesley D Turner"
+      ],
+      "seats" : 
+      {
+        "capacity" : 0,
+        "remaining" : 0,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Rcos Senior Project Leader"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "CSCI-4730" : 
   {
@@ -655309,7 +655565,38 @@
         "Multidisciplinary Capstone Design"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : 
+      [
+        "[CI]",
+        "[CulmExp]"
+      ],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "instructors" : 
+      [
+        "Prabhakar Neti",
+        "Tat-Sing Chow",
+        "Koushik Kar",
+        "Junichi Kanai",
+        "Valerie J. Masterson"
+      ],
+      "seats" : 
+      {
+        "capacity" : 0,
+        "remaining" : 0,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Multidisciplinary Capstone Design"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ECSE-4940" : 
   {
@@ -862030,7 +862317,35 @@
         "Mulitdisciplinary Capstone Design"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : 
+      [
+        "[CI]"
+      ],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "instructors" : 
+      [
+        "Rostyslav Korolov",
+        "Junichi Kanai",
+        "Valerie J. Masterson"
+      ],
+      "seats" : 
+      {
+        "capacity" : 0,
+        "remaining" : 0,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Mulitdisciplinary Capstone Design"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ISYE-4280" : 
   {
@@ -952980,7 +953295,11 @@
       },
       "instructors" : 
       [
-        "Clinton T. Ballinger"
+        "Clinton T. Ballinger",
+        "Casey Jay Hoffman",
+        "Junichi Kanai",
+        "Asish Ghosh",
+        "Valerie J. Masterson"
       ],
       "seats" : 
       {
@@ -952990,7 +953309,8 @@
       },
       "title" : 
       [
-        "Mltidis Cap Dsgn-mission Drivn"
+        "Mltidis Cap Dsgn-mission Drivn",
+        "Mulitdisciplinary Capstone Design"
       ]
     },
     "latest_term" : "202701"
@@ -969854,7 +970174,31 @@
         "Mane Laboratory Safety Program"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 0,
+        "min" : 0
+      },
+      "instructors" : 
+      [
+        "Thomas Clark Haley",
+        "Kathleen M. Stockton"
+      ],
+      "seats" : 
+      {
+        "capacity" : 0,
+        "remaining" : 0,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Mane Laboratory Safety Program"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "MANE-4900" : 
   {
@@ -1153900,7 +1154244,30 @@
         "Phd Seminar In Mgmt"
       ]
     },
-    "latest_term" : "202601"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 12,
+        "min" : 0
+      },
+      "instructors" : 
+      [
+        "Gaurav Jain"
+      ],
+      "seats" : 
+      {
+        "capacity" : 0,
+        "remaining" : 0,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Phd Seminar In Marketing"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "MGMT-6961" : 
   {
@@ -1184595,7 +1184962,35 @@
         "Multidisciplinary Capstone Design"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : 
+      [
+        "[CI]"
+      ],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "instructors" : 
+      [
+        "Rahmi Ozisik",
+        "Junichi Kanai",
+        "Valerie J. Masterson"
+      ],
+      "seats" : 
+      {
+        "capacity" : 0,
+        "remaining" : 0,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Multidisciplinary Capstone Design"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "MTLE-4940" : 
   {
@@ -1249305,7 +1249700,30 @@
         "Culminating Experience Project"
       ]
     },
-    "latest_term" : "202601"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 1,
+        "min" : 1
+      },
+      "instructors" : 
+      [
+        "Peter Persans"
+      ],
+      "seats" : 
+      {
+        "capacity" : 0,
+        "remaining" : 0,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Culminating Experience Project"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "PHYS-4940" : 
   {
