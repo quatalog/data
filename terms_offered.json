@@ -103834,33 +103834,7 @@
         "Deep Listening"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : 
-      [
-        "[CI]"
-      ],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "Stephanie D Loveless"
-      ],
-      "seats" : 
-      {
-        "capacity" : 50,
-        "remaining" : 50,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Deep Listening"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "ARTS-2200" : 
   {
@@ -136125,14 +136099,13 @@
       "instructors" : 
       [
         "Kenneth A. Ragsdale",
-        "Brian Clyne",
         "Robert Michael Whalen",
         "Robert Kyle Hamilton"
       ],
       "seats" : 
       {
-        "capacity" : 200,
-        "remaining" : 200,
+        "capacity" : 150,
+        "remaining" : 150,
         "taken" : 0
       },
       "title" : 
@@ -200884,8 +200857,8 @@
       "seats" : 
       {
         "capacity" : 300,
-        "remaining" : 286,
-        "taken" : 14
+        "remaining" : 285,
+        "taken" : 15
       },
       "title" : 
       [
@@ -216038,6 +216011,36 @@
       ]
     },
     "latest_term" : "202609"
+  },
+  "BIOL-4730" : 
+  {
+    "202701" : 
+    {
+      "attributes" : 
+      [
+        "[CI]"
+      ],
+      "credits" : 
+      {
+        "max" : 6,
+        "min" : 6
+      },
+      "instructors" : 
+      [
+        "Keith Fraser"
+      ],
+      "seats" : 
+      {
+        "capacity" : 20,
+        "remaining" : 20,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Computational Biology Adv Lab"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "BIOL-4740" : 
   {
@@ -746659,30 +746662,7 @@
         "Ugrad Independent Study"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 1
-      },
-      "instructors" : 
-      [
-        "Brian Clyne"
-      ],
-      "seats" : 
-      {
-        "capacity" : 50,
-        "remaining" : 50,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Ugrad Independent Study"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "ENGR-4941" : 
   {
@@ -912737,7 +912717,7 @@
       },
       "title" : 
       [
-        "Adv Lighting Design"
+        "Advanced Lighting Design"
       ]
     },
     "latest_term" : "202701"
