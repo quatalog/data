@@ -1755,10 +1755,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARCH-6966"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "ARCH-4967" : 
@@ -34116,10 +34113,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "LGHT-6960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "LGHT-4961" : 
@@ -45934,7 +45928,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PSYC-4410"
+    ],
     "prerequisites" : 
     {
       "nested" : 

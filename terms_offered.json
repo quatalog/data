@@ -56772,7 +56772,30 @@
         "Bldg Information Modeling"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 2,
+        "min" : 2
+      },
+      "instructors" : 
+      [
+        "Ute Christa Besenecker"
+      ],
+      "seats" : 
+      {
+        "capacity" : 10,
+        "remaining" : 10,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Approaches In Lighting Design"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ARCH-4967" : 
   {
@@ -58404,7 +58427,7 @@
       },
       "title" : 
       [
-        "Spaces Friction/mediated Event"
+        "The Formal And The Phenomenal"
       ]
     },
     "latest_term" : "202701"
@@ -81030,17 +81053,19 @@
       },
       "instructors" : 
       [
-        "Enrique Ramirez"
+        "Enrique Ramirez",
+        "Ute Christa Besenecker"
       ],
       "seats" : 
       {
-        "capacity" : 20,
-        "remaining" : 20,
+        "capacity" : 32,
+        "remaining" : 32,
         "taken" : 0
       },
       "title" : 
       [
-        "Graduate Thesis Seminar"
+        "Graduate Thesis Seminar",
+        "Graduate Thesis Smr:lighting"
       ]
     },
     "latest_term" : "202701"
@@ -88990,11 +89015,11 @@
         "Christopher S Perry",
         "Christianna Grace Bennett",
         "Alexandros Tsamis",
+        "Ute Christa Besenecker",
         "James Fleet Hower",
         "Fengqi Li",
         "Joshua William Hugo Draper",
-        "Dennis Robert Shelden",
-        "Arta Yazdanseta"
+        "Dennis Robert Shelden"
       ],
       "seats" : 
       {
@@ -92804,6 +92829,7 @@
       "instructors" : 
       [
         "Alexandros Tsamis",
+        "Ute Christa Besenecker",
         "Arta Yazdanseta",
         "Fengqi Li",
         "Jonas Braasch",
@@ -92812,8 +92838,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 100,
-        "remaining" : 100,
+        "capacity" : 110,
+        "remaining" : 110,
         "taken" : 0
       },
       "title" : 
@@ -910232,31 +910258,7 @@
         "Lighting Workshop"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "Indika Upendra Perera",
-        "Jean Paul Freyssinier"
-      ],
-      "seats" : 
-      {
-        "capacity" : 20,
-        "remaining" : 20,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Lighting Workshop"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "LGHT-4770" : 
   {
@@ -910775,30 +910777,7 @@
         "Lighting Technologies And Applications"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "Jean Paul Freyssinier"
-      ],
-      "seats" : 
-      {
-        "capacity" : 20,
-        "remaining" : 20,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Lighting Technologies And Applications"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "LGHT-4790" : 
   {
@@ -912738,7 +912717,30 @@
         "3d Printing For Lighting"
       ]
     },
-    "latest_term" : "202601"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Ute Christa Besenecker"
+      ],
+      "seats" : 
+      {
+        "capacity" : 8,
+        "remaining" : 8,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Adv Lighting Design"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "LGHT-4961" : 
   {
@@ -913969,31 +913971,7 @@
         "Lighting Workshop"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "Indika Upendra Perera",
-        "Jean Paul Freyssinier"
-      ],
-      "seats" : 
-      {
-        "capacity" : 15,
-        "remaining" : 15,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Lighting Workshop"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "LGHT-6770" : 
   {
@@ -914389,30 +914367,7 @@
         "Lighting Tech & Applications"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "Jean Paul Freyssinier"
-      ],
-      "seats" : 
-      {
-        "capacity" : 15,
-        "remaining" : 15,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Lighting Tech & Applications"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "LGHT-6780" : 
   {
@@ -918219,15 +918174,12 @@
       },
       "instructors" : 
       [
-        "Nadarajah Narendran",
-        "Ute Christa Besenecker",
-        "Indika Upendra Perera",
-        "Jean Paul Freyssinier"
+        "Ute Christa Besenecker"
       ],
       "seats" : 
       {
-        "capacity" : 90,
-        "remaining" : 90,
+        "capacity" : 25,
+        "remaining" : 25,
         "taken" : 0
       },
       "title" : 
