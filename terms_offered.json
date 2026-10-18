@@ -932236,6 +932236,7 @@
       },
       "instructors" : 
       [
+        "Trisha Suzann Teig",
         "Asish Ghosh"
       ],
       "seats" : 
@@ -949722,6 +949723,7 @@
       },
       "instructors" : 
       [
+        "Susan Victoria Henry",
         "Clinton T. Ballinger"
       ],
       "seats" : 
@@ -976887,8 +976889,8 @@
       "attributes" : [],
       "credits" : 
       {
-        "max" : 6,
-        "min" : 1
+        "max" : 3,
+        "min" : 3
       },
       "instructors" : 
       [
@@ -977352,8 +977354,8 @@
       "attributes" : [],
       "credits" : 
       {
-        "max" : 4,
-        "min" : 0
+        "max" : 3,
+        "min" : 3
       },
       "instructors" : 
       [
@@ -978417,8 +978419,8 @@
       "attributes" : [],
       "credits" : 
       {
-        "max" : 4,
-        "min" : 1
+        "max" : 3,
+        "min" : 3
       },
       "instructors" : 
       [
@@ -995843,8 +995845,8 @@
       "attributes" : [],
       "credits" : 
       {
-        "max" : 6,
-        "min" : 1
+        "max" : 3,
+        "min" : 3
       },
       "instructors" : 
       [
@@ -996817,8 +996819,8 @@
       "attributes" : [],
       "credits" : 
       {
-        "max" : 6,
-        "min" : 1
+        "max" : 3,
+        "min" : 3
       },
       "instructors" : 
       [
@@ -997675,7 +997677,7 @@
       "credits" : 
       {
         "max" : 3,
-        "min" : 1
+        "min" : 3
       },
       "instructors" : 
       [
@@ -999137,7 +999139,7 @@
       "credits" : 
       {
         "max" : 3,
-        "min" : 1
+        "min" : 3
       },
       "seats" : 
       {
@@ -999527,8 +999529,8 @@
       "attributes" : [],
       "credits" : 
       {
-        "max" : 4,
-        "min" : 1
+        "max" : 3,
+        "min" : 3
       },
       "instructors" : 
       [
@@ -999761,8 +999763,8 @@
       "attributes" : [],
       "credits" : 
       {
-        "max" : 4,
-        "min" : 1
+        "max" : 3,
+        "min" : 3
       },
       "instructors" : 
       [
@@ -1000044,8 +1000046,8 @@
       "attributes" : [],
       "credits" : 
       {
-        "max" : 4,
-        "min" : 1
+        "max" : 3,
+        "min" : 3
       },
       "instructors" : 
       [
@@ -1000326,8 +1000328,8 @@
       "attributes" : [],
       "credits" : 
       {
-        "max" : 4,
-        "min" : 1
+        "max" : 3,
+        "min" : 3
       },
       "instructors" : 
       [
