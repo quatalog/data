@@ -3412,7 +3412,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-4600",
+      "ARTS-6600"
+    ],
     "prerequisites" : null
   },
   "ARTS-2610" : 
@@ -3467,14 +3471,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2961"
+    ],
     "prerequisites" : null
   },
   "ARTS-2961" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2960"
+    ],
     "prerequisites" : null
   },
   "ARTS-2962" : 
@@ -4269,7 +4279,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2600",
+      "ARTS-6600"
+    ],
     "prerequisites" : null
   },
   "ARTS-4620" : 
@@ -5009,7 +5023,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2600",
+      "ARTS-4600"
+    ],
     "prerequisites" : null
   },
   "ARTS-6640" : 
@@ -9419,7 +9437,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-6650"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -9892,7 +9913,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "BMED-4650"
+    ],
     "prerequisites" : null
   },
   "BMED-6660" : 
@@ -10708,7 +10732,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ERTH-2140"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -11035,7 +11062,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6130"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -11153,7 +11183,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6330"
+    ],
     "prerequisites" : 
     {
       "course" : "CHEM 2260",
@@ -11394,7 +11427,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6630"
+    ],
     "prerequisites" : null
   },
   "CHEM-4640" : 
@@ -11768,7 +11804,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-6965"
+    ],
     "prerequisites" : null
   },
   "CHEM-4966" : 
@@ -11863,7 +11902,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4130"
+    ],
     "prerequisites" : null
   },
   "CHEM-6140" : 
@@ -11945,7 +11987,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4330"
+    ],
     "prerequisites" : null
   },
   "CHEM-6450" : 
@@ -12040,7 +12085,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4630"
+    ],
     "prerequisites" : null
   },
   "CHEM-6640" : 
@@ -12201,7 +12249,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4965"
+    ],
     "prerequisites" : null
   },
   "CHEM-6966" : 
@@ -14399,6 +14450,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
+      "COGS-4210",
       "COGS-6210"
     ],
     "prerequisites" : 
@@ -14490,7 +14542,11 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4330",
+      "PSYC-4330"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -15634,7 +15690,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COMM-2660"
+    ],
     "prerequisites" : null
   },
   "COMM-2750" : 
@@ -17678,7 +17737,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6050"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -17829,7 +17891,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4150"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -17884,7 +17949,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6170"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18017,7 +18085,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4220"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -18521,7 +18592,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6450"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 4430",
@@ -18536,7 +18610,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6460"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2600",
@@ -18872,7 +18949,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6570"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 4430",
@@ -19059,7 +19139,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4700",
+      "CSCI-4710"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2700",
@@ -19071,7 +19155,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4700"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2600",
@@ -19274,7 +19361,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6962"
+      "CSCI-6962",
+      "ECSE-6967"
     ],
     "prerequisites" : null
   },
@@ -19340,14 +19428,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6968"
+    ],
     "prerequisites" : null
   },
   "CSCI-4969" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-6969"
+    ],
     "prerequisites" : null
   },
   "CSCI-4970" : 
@@ -19396,7 +19490,10 @@
     [
       "CSCI-6971",
       "ECSE-4490",
-      "ECSE-6490"
+      "ECSE-6490",
+      "MANE-4963",
+      "MANE-6963",
+      "ROBT-4020"
     ],
     "prerequisites" : null
   },
@@ -19562,7 +19659,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4050"
+    ],
     "prerequisites" : 
     {
       "course" : "CSCI 2300",
@@ -19635,7 +19735,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4170"
+    ],
     "prerequisites" : null
   },
   "CSCI-6190" : 
@@ -19840,14 +19943,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4450"
+    ],
     "prerequisites" : null
   },
   "CSCI-6460" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4460"
+    ],
     "prerequisites" : null
   },
   "CSCI-6470" : 
@@ -19947,7 +20056,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4570"
+    ],
     "prerequisites" : null
   },
   "CSCI-6610" : 
@@ -20056,7 +20168,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4962"
+      "CSCI-4962",
+      "ECSE-6967"
     ],
     "prerequisites" : null
   },
@@ -20122,14 +20235,20 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4968"
+    ],
     "prerequisites" : null
   },
   "CSCI-6969" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4969"
+    ],
     "prerequisites" : null
   },
   "CSCI-6970" : 
@@ -20152,7 +20271,10 @@
     [
       "CSCI-4971",
       "ECSE-4490",
-      "ECSE-6490"
+      "ECSE-6490",
+      "MANE-4963",
+      "MANE-6963",
+      "ROBT-4020"
     ],
     "prerequisites" : null
   },
@@ -23197,7 +23319,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-2550",
+      "ROBT-2010"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -23534,7 +23660,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6170"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -23935,7 +24064,10 @@
     [
       "CSCI-4971",
       "CSCI-6971",
-      "ECSE-6490"
+      "ECSE-6490",
+      "MANE-4963",
+      "MANE-6963",
+      "ROBT-4020"
     ],
     "prerequisites" : 
     {
@@ -24645,7 +24777,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6140"
+    ],
     "prerequisites" : null
   },
   "ECSE-4967" : 
@@ -24778,7 +24913,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4966"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -24825,7 +24963,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-4170"
+    ],
     "prerequisites" : null
   },
   "ECSE-6180" : 
@@ -25141,7 +25282,10 @@
     [
       "CSCI-4971",
       "CSCI-6971",
-      "ECSE-4490"
+      "ECSE-4490",
+      "MANE-4963",
+      "MANE-6963",
+      "ROBT-4020"
     ],
     "prerequisites" : null
   },
@@ -25569,7 +25713,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4962",
+      "CSCI-6962"
+    ],
     "prerequisites" : null
   },
   "ECSE-6968" : 
@@ -25586,7 +25734,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6969"
+    ],
     "prerequisites" : null
   },
   "ECSE-6970" : 
@@ -26713,7 +26864,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4620"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -27625,7 +27779,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-6960"
+    ],
     "prerequisites" : null
   },
   "ENVE-4961" : 
@@ -27859,7 +28016,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENVE-4960"
+    ],
     "prerequisites" : null
   },
   "ENVE-6961" : 
@@ -28378,7 +28538,10 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-2540"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -29370,7 +29533,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2255"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -34912,7 +35078,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-2470",
+      "ROBT-2010"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -36395,7 +36565,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-4720"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -36818,14 +36991,25 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6962"
+    ],
     "prerequisites" : null
   },
   "MANE-4963" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4971",
+      "CSCI-6971",
+      "ECSE-4490",
+      "ECSE-6490",
+      "MANE-6963",
+      "ROBT-4020"
+    ],
     "prerequisites" : null
   },
   "MANE-4964" : 
@@ -37586,14 +37770,25 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4962"
+    ],
     "prerequisites" : null
   },
   "MANE-6963" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4971",
+      "CSCI-6971",
+      "ECSE-4490",
+      "ECSE-6490",
+      "MANE-4963",
+      "ROBT-4020"
+    ],
     "prerequisites" : null
   },
   "MANE-6964" : 
@@ -37640,7 +37835,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6969"
+    ],
     "prerequisites" : null
   },
   "MANE-6970" : 
@@ -39426,7 +39624,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
@@ -40559,7 +40757,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6260"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -41026,7 +41227,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-4540"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -42534,7 +42738,10 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-4400"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -42589,7 +42796,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6440"
+    ],
     "prerequisites" : null
   },
   "MTLE-4450" : 
@@ -42935,7 +43145,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-4440"
+    ],
     "prerequisites" : null
   },
   "MTLE-6450" : 
@@ -43405,7 +43618,10 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "PHIL-4130"
+    ],
     "prerequisites" : null
   },
   "PHIL-4140" : 
@@ -45824,7 +46040,11 @@
       "Data Intensive I"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "COGS-4330",
+      "PSYC-4330"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -46618,7 +46838,11 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-2470",
+      "MANE-2550"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -46693,7 +46917,15 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4971",
+      "CSCI-6971",
+      "ECSE-4490",
+      "ECSE-6490",
+      "MANE-4963",
+      "MANE-6963"
+    ],
     "prerequisites" : 
     {
       "nested" : 

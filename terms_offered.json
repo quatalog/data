@@ -59154,7 +59154,7 @@
       },
       "title" : 
       [
-        "Relationship Btwn Film & Arch"
+        "Time Of Cinema & 3/4 Dim Space"
       ]
     },
     "latest_term" : "202701"
@@ -106126,7 +106126,30 @@
         "Ui Art"
       ]
     },
-    "latest_term" : "202509"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Richard Henry Swope"
+      ],
+      "seats" : 
+      {
+        "capacity" : 19,
+        "remaining" : 19,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Ui Art"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ARTS-2300" : 
   {
@@ -634441,8 +634464,8 @@
       "seats" : 
       {
         "capacity" : 110,
-        "remaining" : 9,
-        "taken" : 101
+        "remaining" : 8,
+        "taken" : 102
       },
       "title" : 
       [
@@ -804533,7 +804556,7 @@
       },
       "instructors" : 
       [
-        "Bin Gao"
+        "Frank Spear"
       ],
       "seats" : 
       {
@@ -1111665,7 +1111688,7 @@
       "credits" : 
       {
         "max" : 4,
-        "min" : 1
+        "min" : 4
       },
       "instructors" : 
       [
@@ -1374359,7 +1374382,7 @@
       },
       "instructors" : 
       [
-        "Zachary T. Rutledge"
+        "Ryan P. Coughlan"
       ],
       "seats" : 
       {
@@ -1375751,7 +1375774,7 @@
       },
       "instructors" : 
       [
-        "Zachary T. Rutledge"
+        "Mikaylan Regina Diallo"
       ],
       "seats" : 
       {
