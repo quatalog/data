@@ -48308,8 +48308,8 @@
       "seats" : 
       {
         "capacity" : 835,
-        "remaining" : 807,
-        "taken" : 28
+        "remaining" : 806,
+        "taken" : 29
       },
       "title" : 
       [
@@ -354080,8 +354080,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 28,
-        "remaining" : 28,
+        "capacity" : 24,
+        "remaining" : 24,
         "taken" : 0
       },
       "title" : 
@@ -511185,7 +511185,26 @@
         "Manipulator Kinematics & Dynmc"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "seats" : 
+      {
+        "capacity" : 20,
+        "remaining" : 20,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Manipulator Kinematics & Dynmc"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "CSCI-4490" : 
   {
@@ -542547,6 +542566,10 @@
         "max" : 4,
         "min" : 4
       },
+      "instructors" : 
+      [
+        "Nicole Aretz"
+      ],
       "seats" : 
       {
         "capacity" : 10,
@@ -635514,8 +635537,8 @@
       "seats" : 
       {
         "capacity" : 1300,
-        "remaining" : 1291,
-        "taken" : 9
+        "remaining" : 1290,
+        "taken" : 10
       },
       "title" : 
       [
@@ -963837,7 +963860,26 @@
         "Manipulator Kinematics & Dynmc"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "seats" : 
+      {
+        "capacity" : 20,
+        "remaining" : 20,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Manipulator Kinematics & Dynmc"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "MANE-4610" : 
   {
@@ -1049921,6 +1049963,10 @@
         "max" : 4,
         "min" : 4
       },
+      "instructors" : 
+      [
+        "Nicole Aretz"
+      ],
       "seats" : 
       {
         "capacity" : 20,
@@ -1277674,8 +1277720,8 @@
       "seats" : 
       {
         "capacity" : 50,
-        "remaining" : 50,
-        "taken" : 0
+        "remaining" : 49,
+        "taken" : 1
       },
       "title" : 
       [

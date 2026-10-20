@@ -18633,7 +18633,8 @@
       "ECSE-4480",
       "ECSE-6470",
       "MANE-4560",
-      "MANE-6120"
+      "MANE-6120",
+      "ROBT-4010"
     ],
     "prerequisites" : 
     {
@@ -24617,7 +24618,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ISYE-4270",
       "MANE-4260",
       "MTLE-4920"
     ],
@@ -35906,7 +35906,6 @@
     "cross_listings" : 
     [
       "ECSE-4900",
-      "ISYE-4270",
       "MTLE-4920"
     ],
     "prerequisites" : 
@@ -36491,7 +36490,8 @@
       "CSCI-4480",
       "ECSE-4480",
       "ECSE-6470",
-      "MANE-6120"
+      "MANE-6120",
+      "ROBT-4010"
     ],
     "prerequisites" : 
     {
@@ -42927,7 +42927,6 @@
     "cross_listings" : 
     [
       "ECSE-4900",
-      "ISYE-4270",
       "MANE-4260"
     ],
     "prerequisites" : 
@@ -51006,10 +51005,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "WRIT-2330"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "WRIT-2340" : 
