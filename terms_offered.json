@@ -315997,7 +315997,7 @@
       },
       "instructors" : 
       [
-        "Bin Gao"
+        "Frank Spear"
       ],
       "seats" : 
       {
@@ -488689,8 +488689,8 @@
       "seats" : 
       {
         "capacity" : 192,
-        "remaining" : 38,
-        "taken" : 154
+        "remaining" : 37,
+        "taken" : 155
       },
       "title" : 
       [
@@ -545250,12 +545250,13 @@
       ],
       "seats" : 
       {
-        "capacity" : 50,
-        "remaining" : 44,
+        "capacity" : 60,
+        "remaining" : 54,
         "taken" : 6
       },
       "title" : 
       [
+        "Algorithmic Robust Statistics",
         "Experiential Intro Ai Ecology",
         "Graduate Independent Study",
         "Priv Audit In Llm Agentic Sys",
@@ -763171,7 +763172,7 @@
       },
       "instructors" : 
       [
-        "Bin Gao"
+        "Frank Spear"
       ],
       "seats" : 
       {
@@ -768728,7 +768729,7 @@
       },
       "instructors" : 
       [
-        "Bin Gao"
+        "Frank Spear"
       ],
       "seats" : 
       {

@@ -5879,7 +5879,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "BCBP-4710",
       "BIOL-4710"
     ],
     "prerequisites" : 
@@ -7659,8 +7658,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "BCBP-4710",
-      "BIOL-4710"
+      "BCBP-4710"
     ],
     "prerequisites" : 
     {
