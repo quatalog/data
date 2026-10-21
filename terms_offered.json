@@ -935757,6 +935757,7 @@
       [
         "Lucy T. Zhang",
         "John Wen",
+        "Daniel Walczyk",
         "Nikhil Koratkar",
         "Prabhat Hajela",
         "Joshua Lucas Hurst",
@@ -935764,8 +935765,6 @@
         "Kurt S Anderson",
         "Jason Edward Hicken",
         "Fudong Han",
-        "Jie Lian",
-        "Stephen James Derby",
         "Asish Ghosh",
         "Sandeep Singh",
         "Fotios Kopsaftopoulos",
@@ -935777,32 +935776,34 @@
         "M Arshad Zahangir Chowdhury",
         "Shanbin Shi",
         "Wei Ji",
-        "Brian James McDermott",
-        "Thierry Blanchet",
         "Allison Beth Hoffman",
         "Keith Robert Taylor",
+        "Li Liu",
+        "Tyler Joseph Mucci",
+        "Matthew Adam Oehlschlaeger",
         "Casey Jay Hoffman",
         "Syed Nabeel Amjad",
         "Clinton T. Ballinger",
         "Hyun Gook Kang",
         "Antoinette Maniatty",
+        "Stephen James Derby",
+        "Jie Lian",
+        "Thierry Blanchet",
+        "Brian James McDermott",
         "Michael Amitay",
         "Onkar Sahni",
         "Sarah Helen Felix",
         "Tara Gallaway Cohen",
         "Yaron Danon",
         "Franck Berol Djeumou Mbouwe",
-        "Li Liu",
-        "Tyler Joseph Mucci",
-        "Matthew Adam Oehlschlaeger",
         "Daniel Allen Lyles",
-        "Daniel Walczyk",
         "Jacob Simon Merson",
         "Diana Andra Borca Tasciuc",
         "Theodorian Borca-Tasciuc",
         "Jeffrey Phillip Morris",
         "Shankar Narayan",
         "Jacob M Neal",
+        "Kartik Josyula",
         "Robert John Niemiec",
         "Shaowu Pan",
         "Karthikeyan Panneerselvam",
@@ -974311,8 +974312,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 630,
-        "remaining" : 630,
+        "capacity" : 620,
+        "remaining" : 620,
         "taken" : 0
       },
       "title" : 
@@ -974810,8 +974811,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 640,
-        "remaining" : 640,
+        "capacity" : 620,
+        "remaining" : 620,
         "taken" : 0
       },
       "title" : 
@@ -995925,30 +995926,7 @@
         "System Id - Learning From Data"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 3,
-        "min" : 3
-      },
-      "instructors" : 
-      [
-        "Leonid Pogorelyuk"
-      ],
-      "seats" : 
-      {
-        "capacity" : 20,
-        "remaining" : 20,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Space Instrumentation"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202609"
   },
   "MANE-6962" : 
   {
@@ -1003931,8 +1003909,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 460,
-        "remaining" : 460,
+        "capacity" : 510,
+        "remaining" : 510,
         "taken" : 0
       },
       "title" : 
