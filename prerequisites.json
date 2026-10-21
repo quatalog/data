@@ -12700,7 +12700,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHME-4180" : 

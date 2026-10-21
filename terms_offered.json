@@ -487592,7 +487592,7 @@
       },
       "title" : 
       [
-        "Intro To Ai Principles & Prog"
+        "Ai Principles, Use And Impacts"
       ]
     },
     "latest_term" : "202701"
@@ -1029543,30 +1029543,7 @@
         "Intermediate Logic"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "Bram Van Heuveln"
-      ],
-      "seats" : 
-      {
-        "capacity" : 30,
-        "remaining" : 30,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Intermediate Logic"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "MATH-4150" : 
   {
@@ -1216798,30 +1216775,7 @@
         "Intermediate Logic"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "Bram Van Heuveln"
-      ],
-      "seats" : 
-      {
-        "capacity" : 25,
-        "remaining" : 25,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Intermediate Logic"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "PHIL-4220" : 
   {
