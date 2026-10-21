@@ -426569,30 +426569,7 @@
         "Pcjt Based Apprch: Ai Alignmnt"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "James A. Hendler"
-      ],
-      "seats" : 
-      {
-        "capacity" : 25,
-        "remaining" : 25,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Pcjt Based Apprch: Ai Alignmnt"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "COGS-4962" : 
   {
@@ -843392,8 +843369,8 @@
       "seats" : 
       {
         "capacity" : 2400,
-        "remaining" : 2316,
-        "taken" : 84
+        "remaining" : 2315,
+        "taken" : 85
       },
       "title" : 
       [
