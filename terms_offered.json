@@ -96139,8 +96139,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 50,
-        "remaining" : 50,
+        "capacity" : 40,
+        "remaining" : 40,
         "taken" : 0
       },
       "title" : 
@@ -125320,6 +125320,10 @@
         "max" : 4,
         "min" : 4
       },
+      "instructors" : 
+      [
+        "Silvia Ruzanka"
+      ],
       "seats" : 
       {
         "capacity" : 19,
@@ -132096,12 +132100,12 @@
       },
       "instructors" : 
       [
-        "Silvia Ruzanka"
+        "Kathleen Ruiz"
       ],
       "seats" : 
       {
-        "capacity" : 0,
-        "remaining" : 0,
+        "capacity" : 19,
+        "remaining" : 19,
         "taken" : 0
       },
       "title" : 
@@ -146316,12 +146320,12 @@
       },
       "instructors" : 
       [
-        "Silvia Ruzanka"
+        "Kathleen Ruiz"
       ],
       "seats" : 
       {
-        "capacity" : 0,
-        "remaining" : 0,
+        "capacity" : 5,
+        "remaining" : 5,
         "taken" : 0
       },
       "title" : 
@@ -817634,8 +817638,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 50,
-        "remaining" : 50,
+        "capacity" : 40,
+        "remaining" : 40,
         "taken" : 0
       },
       "title" : 
@@ -818554,7 +818558,26 @@
         "Intro To Game Design"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "seats" : 
+      {
+        "capacity" : 38,
+        "remaining" : 38,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Intro To Game Design"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "GSAS-2520" : 
   {
@@ -819638,26 +819661,7 @@
         "Designing Musical Games"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "seats" : 
-      {
-        "capacity" : 40,
-        "remaining" : 40,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Designing Musical Games"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202609"
   },
   "GSAS-2940" : 
   {
@@ -820004,7 +820008,33 @@
         "Introduction To World Building"
       ]
     },
-    "latest_term" : "20250503"
+    "202701" : 
+    {
+      "attributes" : 
+      [
+        "[CI]"
+      ],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Maurice W Suckling"
+      ],
+      "seats" : 
+      {
+        "capacity" : 19,
+        "remaining" : 19,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Games, History, & Politics"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "GSAS-2962" : 
   {
@@ -820632,7 +820662,30 @@
         "Writing For Games II"
       ]
     },
-    "latest_term" : "202601"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Maurice W Suckling"
+      ],
+      "seats" : 
+      {
+        "capacity" : 19,
+        "remaining" : 19,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Writing For Games II"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "GSAS-4260" : 
   {
@@ -820782,6 +820835,10 @@
         "max" : 4,
         "min" : 4
       },
+      "instructors" : 
+      [
+        "Nicholas J. Mizer"
+      ],
       "seats" : 
       {
         "capacity" : 19,
@@ -821395,12 +821452,12 @@
       },
       "instructors" : 
       [
-        "Silvia Ruzanka"
+        "Kathleen Ruiz"
       ],
       "seats" : 
       {
-        "capacity" : 20,
-        "remaining" : 20,
+        "capacity" : 19,
+        "remaining" : 19,
         "taken" : 0
       },
       "title" : 
@@ -823136,10 +823193,6 @@
         "max" : 4,
         "min" : 4
       },
-      "instructors" : 
-      [
-        "Maurice W Suckling"
-      ],
       "seats" : 
       {
         "capacity" : 5,
@@ -823837,8 +823890,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 10,
-        "remaining" : 10,
+        "capacity" : 0,
+        "remaining" : 0,
         "taken" : 0
       },
       "title" : 
@@ -824135,10 +824188,6 @@
         "max" : 3,
         "min" : 3
       },
-      "instructors" : 
-      [
-        "Maurice W Suckling"
-      ],
       "seats" : 
       {
         "capacity" : 15,
@@ -824423,10 +824472,6 @@
         "max" : 3,
         "min" : 3
       },
-      "instructors" : 
-      [
-        "Silvia Ruzanka"
-      ],
       "seats" : 
       {
         "capacity" : 15,
@@ -824661,7 +824706,30 @@
         "Game Studies: Theory & Praxis"
       ]
     },
-    "latest_term" : "202009"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "instructors" : 
+      [
+        "Silvia Ruzanka"
+      ],
+      "seats" : 
+      {
+        "capacity" : 19,
+        "remaining" : 19,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Graduate Game Studio"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "GSAS-6961" : 
   {
@@ -824721,7 +824789,7 @@
       },
       "instructors" : 
       [
-        "Silvia Ruzanka"
+        "Kathleen Ruiz"
       ],
       "seats" : 
       {

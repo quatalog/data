@@ -29579,7 +29579,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2610"
+    ],
     "prerequisites" : null
   },
   "GSAS-2940" : 
@@ -29605,7 +29608,10 @@
   },
   "GSAS-2961" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -29701,10 +29707,7 @@
   },
   "GSAS-4250" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
