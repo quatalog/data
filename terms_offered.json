@@ -134211,7 +134211,30 @@
         "Advanced Digital Imaging"
       ]
     },
-    "latest_term" : "202601"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Kathleen Ruiz"
+      ],
+      "seats" : 
+      {
+        "capacity" : 19,
+        "remaining" : 19,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Advanced Digital Imaging"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ARTS-4880" : 
   {
@@ -147255,7 +147278,30 @@
         "Advanced Digital Imaging"
       ]
     },
-    "latest_term" : "202601"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Kathleen Ruiz"
+      ],
+      "seats" : 
+      {
+        "capacity" : 5,
+        "remaining" : 5,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Advanced Digital Imaging"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ARTS-6880" : 
   {
@@ -157253,14 +157299,13 @@
         "Silvia Ruzanka",
         "Kathleen Ruiz",
         "Michael L. Century",
-        "Kathleen A. Galloway",
         "Matthew William Goodheart",
         "Maryanne Staniszewski"
       ],
       "seats" : 
       {
-        "capacity" : 130,
-        "remaining" : 130,
+        "capacity" : 120,
+        "remaining" : 120,
         "taken" : 0
       },
       "title" : 
@@ -630078,8 +630123,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 10,
-        "remaining" : 10,
+        "capacity" : 20,
+        "remaining" : 20,
         "taken" : 0
       },
       "title" : 
@@ -825151,7 +825196,6 @@
       },
       "instructors" : 
       [
-        "Maurice W Suckling",
         "Kathleen A. Galloway",
         "Benjamin Chia-Ming Chang",
         "Silvia Ruzanka",
@@ -825163,8 +825207,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 90,
-        "remaining" : 90,
+        "capacity" : 80,
+        "remaining" : 80,
         "taken" : 0
       },
       "title" : 
@@ -825485,7 +825529,6 @@
       [
         "Mei Si",
         "James Wilson Malazita",
-        "Kathleen A. Galloway",
         "Nicholas J. Mizer",
         "Maurice W Suckling",
         "Benjamin Chia-Ming Chang",
@@ -825496,8 +825539,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 100,
-        "remaining" : 100,
+        "capacity" : 90,
+        "remaining" : 90,
         "taken" : 0
       },
       "title" : 
@@ -850967,6 +851010,7 @@
       },
       "instructors" : 
       [
+        "Jianqiang Lu",
         "Salih Muhsin Celik"
       ],
       "seats" : 
@@ -853888,6 +853932,7 @@
       },
       "instructors" : 
       [
+        "Jianqiang Lu",
         "Salih Muhsin Celik"
       ],
       "seats" : 
@@ -932873,8 +932918,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 10,
-        "remaining" : 10,
+        "capacity" : 20,
+        "remaining" : 20,
         "taken" : 0
       },
       "title" : 
@@ -1003834,11 +1003879,11 @@
       "instructors" : 
       [
         "Lucy T. Zhang",
-        "John Wen",
         "Daniel Walczyk",
         "Ozgur Tumuklu",
         "John A Tichy",
         "Mark S Shephard",
+        "Ali Shahsavari",
         "Johnson Samuel",
         "Leonid Pogorelyuk",
         "Catalin R Picu",
@@ -1003848,17 +1003893,17 @@
         "Shankar Narayan",
         "Jeffrey Phillip Morris",
         "Jacob Simon Merson",
-        "Dominik Arthur Fritz",
-        "Samir A. Salamah",
-        "Thomas Clark Haley",
-        "Fotios Kopsaftopoulos",
         "Franck Berol Djeumou Mbouwe",
-        "Hyun Gook Kang",
         "Yaron Danon",
         "Tara Gallaway Cohen",
         "Theodorian Borca-Tasciuc",
+        "Antoinette Maniatty",
+        "Sarah Helen Felix",
+        "Hyun Gook Kang",
         "Onkar Sahni",
         "Michael Amitay",
+        "John Wen",
+        "Syed Nabeel Amjad",
         "Keith Robert Taylor",
         "Clinton T. Ballinger",
         "Amir Hirsa",
@@ -1003867,6 +1003912,10 @@
         "Wei Ji",
         "Kristen Lynn Mills",
         "Diana Andra Borca Tasciuc",
+        "Dominik Arthur Fritz",
+        "Samir A. Salamah",
+        "Thomas Clark Haley",
+        "Fotios Kopsaftopoulos",
         "Sandeep Singh",
         "Asish Ghosh",
         "Stephen James Derby",
@@ -1003881,14 +1003930,12 @@
         "Prabhat Hajela",
         "Nikhil Koratkar",
         "Matthew Adam Oehlschlaeger",
-        "Li Liu",
-        "Sarah Helen Felix",
-        "Antoinette Maniatty"
+        "Li Liu"
       ],
       "seats" : 
       {
-        "capacity" : 510,
-        "remaining" : 510,
+        "capacity" : 530,
+        "remaining" : 530,
         "taken" : 0
       },
       "title" : 
@@ -1329873,10 +1329920,19 @@
         "max" : 4,
         "min" : 1
       },
+      "instructors" : 
+      [
+        "Brandon James Costelloe-Kuehn",
+        "Abby J. Kinchy",
+        "Nancy D. Campbell",
+        "Hasan Tankut Atuk",
+        "Sara Thomas Black",
+        "Leah Corinne Jones"
+      ],
       "seats" : 
       {
-        "capacity" : 50,
-        "remaining" : 50,
+        "capacity" : 300,
+        "remaining" : 300,
         "taken" : 0
       },
       "title" : 

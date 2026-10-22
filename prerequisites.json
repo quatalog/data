@@ -19363,11 +19363,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4966",
-      "CSCI-6964",
-      "CSCI-6966",
-      "ECSE-4963",
-      "ECSE-6963"
+      "CSCI-6964"
     ],
     "prerequisites" : null
   },
@@ -19387,8 +19383,6 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4964",
-      "CSCI-6964",
       "CSCI-6966",
       "ECSE-4963",
       "ECSE-6963"
@@ -20170,11 +20164,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4964",
-      "CSCI-4966",
-      "CSCI-6966",
-      "ECSE-4963",
-      "ECSE-6963"
+      "CSCI-4964"
     ],
     "prerequisites" : null
   },
@@ -20194,9 +20184,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4964",
       "CSCI-4966",
-      "CSCI-6964",
       "ECSE-4963",
       "ECSE-6963"
     ],
@@ -24716,9 +24704,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4964",
       "CSCI-4966",
-      "CSCI-6964",
       "CSCI-6966",
       "ECSE-6963"
     ],
@@ -25170,7 +25156,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6610"
+    ],
     "prerequisites" : null
   },
   "ECSE-6430" : 
@@ -25652,9 +25641,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4964",
       "CSCI-4966",
-      "CSCI-6964",
       "CSCI-6966",
       "ECSE-4963"
     ],
@@ -37018,7 +37005,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-6966"
+    ],
     "prerequisites" : null
   },
   "MANE-4967" : 
@@ -37440,7 +37430,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECSE-6420"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -37794,7 +37787,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4966"
+    ],
     "prerequisites" : null
   },
   "MANE-6967" : 
