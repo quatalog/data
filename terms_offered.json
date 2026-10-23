@@ -111921,8 +111921,8 @@
       "seats" : 
       {
         "capacity" : 25,
-        "remaining" : 5,
-        "taken" : 20
+        "remaining" : 4,
+        "taken" : 21
       },
       "title" : 
       [
@@ -504017,7 +504017,30 @@
         "Robot Motion Planning"
       ]
     },
-    "latest_term" : "200509"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Jidong Xiao"
+      ],
+      "seats" : 
+      {
+        "capacity" : 40,
+        "remaining" : 40,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Advanced Operating Systems"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "CSCI-4310" : 
   {
@@ -843342,8 +843365,8 @@
       "seats" : 
       {
         "capacity" : 2400,
-        "remaining" : 2315,
-        "taken" : 85
+        "remaining" : 2314,
+        "taken" : 86
       },
       "title" : 
       [
