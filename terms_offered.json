@@ -132100,12 +132100,12 @@
       },
       "instructors" : 
       [
-        "Kathleen Ruiz"
+        "Silvia Ruzanka"
       ],
       "seats" : 
       {
-        "capacity" : 19,
-        "remaining" : 19,
+        "capacity" : 20,
+        "remaining" : 20,
         "taken" : 0
       },
       "title" : 
@@ -134215,30 +134215,7 @@
         "Advanced Digital Imaging"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "Kathleen Ruiz"
-      ],
-      "seats" : 
-      {
-        "capacity" : 19,
-        "remaining" : 19,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Advanced Digital Imaging"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "ARTS-4880" : 
   {
@@ -144574,30 +144551,7 @@
         "Adv Computer Music Comp & Perf"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "Robert Kyle Hamilton"
-      ],
-      "seats" : 
-      {
-        "capacity" : 19,
-        "remaining" : 19,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Adv Computer Music Comp & Perf"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "ARTS-6180" : 
   {
@@ -146320,7 +146274,7 @@
       },
       "instructors" : 
       [
-        "Kathleen Ruiz"
+        "Silvia Ruzanka"
       ],
       "seats" : 
       {
@@ -147282,30 +147236,7 @@
         "Advanced Digital Imaging"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "Kathleen Ruiz"
-      ],
-      "seats" : 
-      {
-        "capacity" : 5,
-        "remaining" : 5,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Advanced Digital Imaging"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "ARTS-6880" : 
   {
@@ -284171,7 +284102,7 @@
       },
       "instructors" : 
       [
-        "Thomas M. Abbott"
+        "Richard Green Chapman"
       ],
       "seats" : 
       {
@@ -285124,6 +285055,10 @@
         "max" : 3,
         "min" : 3
       },
+      "instructors" : 
+      [
+        "Aric W. Krause"
+      ],
       "seats" : 
       {
         "capacity" : 25,
@@ -287019,6 +286954,10 @@
         "max" : 3,
         "min" : 3
       },
+      "instructors" : 
+      [
+        "Ronnie Paul Sheffield"
+      ],
       "seats" : 
       {
         "capacity" : 30,
@@ -505376,8 +505315,8 @@
       "seats" : 
       {
         "capacity" : 50,
-        "remaining" : 2,
-        "taken" : 48
+        "remaining" : 1,
+        "taken" : 49
       },
       "title" : 
       [
@@ -723946,18 +723885,20 @@
       },
       "instructors" : 
       [
+        "Kurt S Anderson",
         "Franck Berol Djeumou Mbouwe",
         "John A Tichy"
       ],
       "seats" : 
       {
-        "capacity" : 170,
-        "remaining" : 170,
+        "capacity" : 200,
+        "remaining" : 200,
         "taken" : 0
       },
       "title" : 
       [
-        "Engineering Dynamics"
+        "Engineering Dynamics",
+        "Engineering Dynamics - Pilot"
       ]
     },
     "latest_term" : "202701"
@@ -818558,26 +818499,7 @@
         "Intro To Game Design"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "seats" : 
-      {
-        "capacity" : 38,
-        "remaining" : 38,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Intro To Game Design"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202609"
   },
   "GSAS-2520" : 
   {
@@ -820008,33 +819930,7 @@
         "Introduction To World Building"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : 
-      [
-        "[CI]"
-      ],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "Maurice W Suckling"
-      ],
-      "seats" : 
-      {
-        "capacity" : 19,
-        "remaining" : 19,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Games, History, & Politics"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "20250503"
   },
   "GSAS-2962" : 
   {
@@ -820662,30 +820558,7 @@
         "Writing For Games II"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "Maurice W Suckling"
-      ],
-      "seats" : 
-      {
-        "capacity" : 19,
-        "remaining" : 19,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Writing For Games II"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "GSAS-4260" : 
   {
@@ -820827,30 +820700,7 @@
         "Game Narrative Design"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "Nicholas J. Mizer"
-      ],
-      "seats" : 
-      {
-        "capacity" : 19,
-        "remaining" : 19,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Game Narrative Design"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "GSAS-4270" : 
   {
@@ -821452,12 +821302,12 @@
       },
       "instructors" : 
       [
-        "Kathleen Ruiz"
+        "Silvia Ruzanka"
       ],
       "seats" : 
       {
-        "capacity" : 19,
-        "remaining" : 19,
+        "capacity" : 20,
+        "remaining" : 20,
         "taken" : 0
       },
       "title" : 
@@ -823193,6 +823043,10 @@
         "max" : 4,
         "min" : 4
       },
+      "instructors" : 
+      [
+        "Maurice W Suckling"
+      ],
       "seats" : 
       {
         "capacity" : 5,
@@ -823890,8 +823744,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 0,
-        "remaining" : 0,
+        "capacity" : 10,
+        "remaining" : 10,
         "taken" : 0
       },
       "title" : 
@@ -824188,6 +824042,10 @@
         "max" : 3,
         "min" : 3
       },
+      "instructors" : 
+      [
+        "Maurice W Suckling"
+      ],
       "seats" : 
       {
         "capacity" : 15,
@@ -824472,6 +824330,10 @@
         "max" : 3,
         "min" : 3
       },
+      "instructors" : 
+      [
+        "Silvia Ruzanka"
+      ],
       "seats" : 
       {
         "capacity" : 15,
@@ -824706,30 +824568,7 @@
         "Game Studies: Theory & Praxis"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 3,
-        "min" : 3
-      },
-      "instructors" : 
-      [
-        "Silvia Ruzanka"
-      ],
-      "seats" : 
-      {
-        "capacity" : 19,
-        "remaining" : 19,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Graduate Game Studio"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202009"
   },
   "GSAS-6961" : 
   {
@@ -824789,7 +824628,7 @@
       },
       "instructors" : 
       [
-        "Kathleen Ruiz"
+        "Silvia Ruzanka"
       ],
       "seats" : 
       {
@@ -824829,7 +824668,30 @@
         "Virtual Reality"
       ]
     },
-    "latest_term" : "202001"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "instructors" : 
+      [
+        "Eric Louis Ameres"
+      ],
+      "seats" : 
+      {
+        "capacity" : 5,
+        "remaining" : 5,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Level Design"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "GSAS-6980" : 
   {
@@ -874458,6 +874320,33 @@
       ]
     },
     "latest_term" : "202609"
+  },
+  "ISYE-6968" : 
+  {
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Elliot I. Anshelevich"
+      ],
+      "seats" : 
+      {
+        "capacity" : 5,
+        "remaining" : 5,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Topics In Algorithms"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ISYE-6970" : 
   {

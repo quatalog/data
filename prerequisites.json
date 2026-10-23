@@ -3896,10 +3896,7 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ARTS-6160"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "ARTS 2020",
@@ -19405,7 +19402,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-6968"
+      "CSCI-6968",
+      "ISYE-6968"
     ],
     "prerequisites" : null
   },
@@ -20206,7 +20204,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "CSCI-4968"
+      "CSCI-4968",
+      "ISYE-6968"
     ],
     "prerequisites" : null
   },
@@ -29608,10 +29607,7 @@
   },
   "GSAS-2961" : 
   {
-    "attributes" : 
-    [
-      "Communication Intensive"
-    ],
+    "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : null
@@ -29707,7 +29703,10 @@
   },
   "GSAS-4250" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Communication Intensive"
+    ],
     "corequisites" : null,
     "cross_listings" : null,
     "prerequisites" : 
@@ -29733,7 +29732,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-6963"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -30069,7 +30071,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "GSAS-4270"
+    ],
     "prerequisites" : null
   },
   "GSAS-6980" : 
@@ -32695,6 +32700,17 @@
     [
       "ENGR-6230",
       "MANE-6963"
+    ],
+    "prerequisites" : null
+  },
+  "ISYE-6968" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "CSCI-4968",
+      "CSCI-6968"
     ],
     "prerequisites" : null
   },
