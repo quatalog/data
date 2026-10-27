@@ -42177,10 +42177,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "ECON-6960"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "MGMT-6962" : 

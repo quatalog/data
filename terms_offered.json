@@ -116685,8 +116685,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 178,
-        "remaining" : 178,
+        "capacity" : 190,
+        "remaining" : 190,
         "taken" : 0
       },
       "title" : 
@@ -1079508,12 +1079508,13 @@
       "instructors" : 
       [
         "Bill Francis",
+        "Aparna Gupta",
         "Yujie Ruan"
       ],
       "seats" : 
       {
-        "capacity" : 60,
-        "remaining" : 60,
+        "capacity" : 90,
+        "remaining" : 90,
         "taken" : 0
       },
       "title" : 
@@ -1155612,7 +1155613,30 @@
         "Phd Seminar In Econometrics"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "instructors" : 
+      [
+        "Nishtha Langer"
+      ],
+      "seats" : 
+      {
+        "capacity" : 10,
+        "remaining" : 10,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Phd Semnr: Infomation Science"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "MGMT-6962" : 
   {
@@ -1169156,7 +1169180,7 @@
       },
       "instructors" : 
       [
-        "Brian John Clark"
+        "Yihe Yu"
       ],
       "seats" : 
       {
