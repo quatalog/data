@@ -3473,7 +3473,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARTS-2961"
+      "ARTS-2961",
+      "GSAS-2960",
+      "GSAS-2961"
     ],
     "prerequisites" : null
   },
@@ -3483,7 +3485,9 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ARTS-2960"
+      "ARTS-2960",
+      "GSAS-2960",
+      "GSAS-2961"
     ],
     "prerequisites" : null
   },
@@ -19342,14 +19346,35 @@
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2300",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2600",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "CSCI-4961" : 
   {
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CSCI 2200",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "CSCI-4962" : 
   {
@@ -19360,7 +19385,34 @@
       "CSCI-6962",
       "ECSE-6967"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2300",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "CSCI 4100",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "CSCI 4160",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "CSCI-4963" : 
   {
@@ -19370,7 +19422,28 @@
     [
       "CSCI-6963"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 4100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 4160",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 4390",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "CSCI-4964" : 
   {
@@ -19380,7 +19453,23 @@
     [
       "CSCI-6964"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 4150",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 4390",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "CSCI-4965" : 
   {
@@ -19390,7 +19479,12 @@
     [
       "CSCI-6965"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CSCI 4020",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "CSCI-4966" : 
   {
@@ -19402,7 +19496,33 @@
       "ECSE-4963",
       "ECSE-6963"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2500",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2800",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 2610",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 4770",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "CSCI-4967" : 
   {
@@ -19412,7 +19532,12 @@
     [
       "CSCI-6967"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "CSCI 2300",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "CSCI-4968" : 
   {
@@ -19423,7 +19548,23 @@
       "CSCI-6968",
       "ISYE-6968"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 4020",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2300",
+          "min_grade" : "A-",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "CSCI-4969" : 
   {
@@ -19433,7 +19574,28 @@
     [
       "CSCI-6969"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 4100",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 4160",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 4390",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "CSCI-4970" : 
   {
@@ -19486,7 +19648,23 @@
       "MANE-6963",
       "ROBT-4020"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATH 2010",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 2012",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "CSCI-4972" : 
   {
@@ -20109,7 +20287,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MATH-6860"
+    ],
     "prerequisites" : null
   },
   "CSCI-6900" : 
@@ -24725,7 +24906,33 @@
       "CSCI-6966",
       "ECSE-6963"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "CSCI 2500",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 2800",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 2610",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "ECSE 4770",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "ECSE-4964" : 
   {
@@ -29620,14 +29827,24 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2960",
+      "ARTS-2961",
+      "GSAS-2961"
+    ],
     "prerequisites" : null
   },
   "GSAS-2961" : 
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARTS-2960",
+      "ARTS-2961",
+      "GSAS-2960"
+    ],
     "prerequisites" : null
   },
   "GSAS-2962" : 

@@ -96139,8 +96139,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 40,
-        "remaining" : 40,
+        "capacity" : 25,
+        "remaining" : 25,
         "taken" : 0
       },
       "title" : 
@@ -116658,7 +116658,58 @@
         "Private Music Lessons:percuss"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 1,
+        "min" : 1
+      },
+      "instructors" : 
+      [
+        "Evan Tyler Runyon",
+        "Jamecyn F. Morey",
+        "Christopher James Fisher-Lochhead",
+        "Jacqualine Lee Burk",
+        "Michael David Blostein",
+        "Akina Yura",
+        "Thomas J. Gerbino",
+        "Jingwen Tu",
+        "Chrysi Nanou",
+        "Norman Curtis Thibodeau",
+        "Karlinda D. Caldicott",
+        "Eric Latini",
+        "Mark Foster",
+        "Katherine Anne Skovira"
+      ],
+      "seats" : 
+      {
+        "capacity" : 178,
+        "remaining" : 178,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Music Lessons: Euphonium",
+        "Private Music Lessns: Trombone",
+        "Private Music Lessons: Bass",
+        "Private Music Lessons: Bassoon",
+        "Private Music Lessons: Flute",
+        "Private Music Lessons: Harp",
+        "Private Music Lessons: Oboe",
+        "Private Music Lessons: Percuss",
+        "Private Music Lessons: Piano",
+        "Private Music Lessons: Sax",
+        "Private Music Lessons: Trumpet",
+        "Private Music Lessons: Tuba",
+        "Private Music Lessons: Violin",
+        "Private Music Lessons: Voice",
+        "Private Music Lessons:clarinet",
+        "Private Music Lessons:viola"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ARTS-2940" : 
   {
@@ -125320,10 +125371,6 @@
         "max" : 4,
         "min" : 4
       },
-      "instructors" : 
-      [
-        "Silvia Ruzanka"
-      ],
       "seats" : 
       {
         "capacity" : 19,
@@ -315989,8 +316036,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 15,
-        "remaining" : 15,
+        "capacity" : 24,
+        "remaining" : 24,
         "taken" : 0
       },
       "title" : 
@@ -542757,30 +542804,7 @@
         "Finite Element Analysis"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : [],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "instructors" : 
-      [
-        "Fengyan Li"
-      ],
-      "seats" : 
-      {
-        "capacity" : 20,
-        "remaining" : 20,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "Finite Element Analysis"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "CSCI-6900" : 
   {
@@ -545239,8 +545263,8 @@
       "seats" : 
       {
         "capacity" : 60,
-        "remaining" : 54,
-        "taken" : 6
+        "remaining" : 53,
+        "taken" : 7
       },
       "title" : 
       [
@@ -763166,8 +763190,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 15,
-        "remaining" : 15,
+        "capacity" : 24,
+        "remaining" : 24,
         "taken" : 0
       },
       "title" : 
@@ -768723,8 +768747,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 15,
-        "remaining" : 15,
+        "capacity" : 24,
+        "remaining" : 24,
         "taken" : 0
       },
       "title" : 
@@ -798235,8 +798259,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 15,
-        "remaining" : 15,
+        "capacity" : 24,
+        "remaining" : 24,
         "taken" : 0
       },
       "title" : 
@@ -804552,8 +804576,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 15,
-        "remaining" : 15,
+        "capacity" : 24,
+        "remaining" : 24,
         "taken" : 0
       },
       "title" : 
@@ -817602,8 +817626,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 40,
-        "remaining" : 40,
+        "capacity" : 25,
+        "remaining" : 25,
         "taken" : 0
       },
       "title" : 
@@ -819871,8 +819895,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 19,
-        "remaining" : 19,
+        "capacity" : 16,
+        "remaining" : 16,
         "taken" : 0
       },
       "title" : 
@@ -819953,7 +819977,30 @@
         "Introduction To World Building"
       ]
     },
-    "latest_term" : "20250503"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Ross A. Rice"
+      ],
+      "seats" : 
+      {
+        "capacity" : 9,
+        "remaining" : 9,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Sound Design"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "GSAS-2962" : 
   {
@@ -823072,8 +823119,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 5,
-        "remaining" : 5,
+        "capacity" : 10,
+        "remaining" : 10,
         "taken" : 0
       },
       "title" : 
@@ -1277657,8 +1277704,8 @@
       "seats" : 
       {
         "capacity" : 50,
-        "remaining" : 49,
-        "taken" : 1
+        "remaining" : 48,
+        "taken" : 2
       },
       "title" : 
       [
