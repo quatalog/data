@@ -10376,7 +10376,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ENGR-1600",
+      "ISCI-1600",
+      "PHYS-1600"
+    ],
     "prerequisites" : null
   },
   "CHEM-1900" : 
@@ -26314,7 +26319,12 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-1600",
+      "ISCI-1600",
+      "PHYS-1600"
+    ],
     "prerequisites" : null
   },
   "ENGR-1700" : 
@@ -31734,7 +31744,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-1600",
+      "ENGR-1600",
+      "PHYS-1600"
+    ],
     "prerequisites" : null
   },
   "ISCI-1960" : 
@@ -44638,7 +44653,12 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-1600",
+      "ENGR-1600",
+      "ISCI-1600"
+    ],
     "prerequisites" : null
   },
   "PHYS-1940" : 
