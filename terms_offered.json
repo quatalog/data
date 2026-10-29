@@ -136173,13 +136173,14 @@
       "instructors" : 
       [
         "Kenneth A. Ragsdale",
+        "Nathan Scott Meltz",
         "Robert Michael Whalen",
         "Robert Kyle Hamilton"
       ],
       "seats" : 
       {
-        "capacity" : 150,
-        "remaining" : 150,
+        "capacity" : 200,
+        "remaining" : 200,
         "taken" : 0
       },
       "title" : 
@@ -723942,8 +723943,8 @@
       "seats" : 
       {
         "capacity" : 200,
-        "remaining" : 199,
-        "taken" : 1
+        "remaining" : 198,
+        "taken" : 2
       },
       "title" : 
       [
@@ -727075,8 +727076,8 @@
       "seats" : 
       {
         "capacity" : 180,
-        "remaining" : 180,
-        "taken" : 0
+        "remaining" : 179,
+        "taken" : 1
       },
       "title" : 
       [
@@ -733424,8 +733425,8 @@
       "seats" : 
       {
         "capacity" : 340,
-        "remaining" : 339,
-        "taken" : 1
+        "remaining" : 338,
+        "taken" : 2
       },
       "title" : 
       [
@@ -962256,8 +962257,8 @@
       "seats" : 
       {
         "capacity" : 180,
-        "remaining" : 179,
-        "taken" : 1
+        "remaining" : 178,
+        "taken" : 2
       },
       "title" : 
       [
@@ -967187,8 +967188,8 @@
       "seats" : 
       {
         "capacity" : 115,
-        "remaining" : 113,
-        "taken" : 2
+        "remaining" : 112,
+        "taken" : 3
       },
       "title" : 
       [
@@ -1382575,8 +1382576,8 @@
       "seats" : 
       {
         "capacity" : 25,
-        "remaining" : 16,
-        "taken" : 9
+        "remaining" : 15,
+        "taken" : 10
       },
       "title" : 
       [
