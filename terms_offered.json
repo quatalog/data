@@ -843416,8 +843416,8 @@
       "seats" : 
       {
         "capacity" : 2400,
-        "remaining" : 2314,
-        "taken" : 86
+        "remaining" : 2313,
+        "taken" : 87
       },
       "title" : 
       [
@@ -845049,30 +845049,7 @@
         "It And Society"
       ]
     },
-    "202701" : 
-    {
-      "attributes" : 
-      [
-        "[CI]",
-        "[HInq]"
-      ],
-      "credits" : 
-      {
-        "max" : 4,
-        "min" : 4
-      },
-      "seats" : 
-      {
-        "capacity" : 100,
-        "remaining" : 100,
-        "taken" : 0
-      },
-      "title" : 
-      [
-        "It And Society"
-      ]
-    },
-    "latest_term" : "202701"
+    "latest_term" : "202601"
   },
   "INQR-1240" : 
   {
@@ -1387649,8 +1387626,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 30,
-        "remaining" : 30,
+        "capacity" : 15,
+        "remaining" : 15,
         "taken" : 0
       },
       "title" : 

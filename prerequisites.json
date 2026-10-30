@@ -31496,7 +31496,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "INQR-1220"
+      "INQR-1220",
+      "ITWS-1220"
     ],
     "prerequisites" : null
   },
