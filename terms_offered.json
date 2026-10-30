@@ -423290,8 +423290,8 @@
       "seats" : 
       {
         "capacity" : 15,
-        "remaining" : 9,
-        "taken" : 6
+        "remaining" : 8,
+        "taken" : 7
       },
       "title" : 
       [
@@ -589571,13 +589571,12 @@
       },
       "instructors" : 
       [
-        "Jason Ung Huh",
-        "Prakrati Thakur"
+        "Jason Ung Huh"
       ],
       "seats" : 
       {
-        "capacity" : 60,
-        "remaining" : 60,
+        "capacity" : 30,
+        "remaining" : 30,
         "taken" : 0
       },
       "title" : 
@@ -593641,8 +593640,8 @@
       "seats" : 
       {
         "capacity" : 200,
-        "remaining" : 200,
-        "taken" : 0
+        "remaining" : 199,
+        "taken" : 1
       },
       "title" : 
       [
@@ -602172,13 +602171,12 @@
       },
       "instructors" : 
       [
-        "Jorge Andres Rivero",
-        "Prakrati Thakur"
+        "Jorge Andres Rivero"
       ],
       "seats" : 
       {
-        "capacity" : 50,
-        "remaining" : 49,
+        "capacity" : 25,
+        "remaining" : 24,
         "taken" : 1
       },
       "title" : 
@@ -653871,8 +653869,8 @@
       "seats" : 
       {
         "capacity" : 36,
-        "remaining" : 0,
-        "taken" : 36
+        "remaining" : -1,
+        "taken" : 37
       },
       "title" : 
       [
@@ -716340,8 +716338,8 @@
       "seats" : 
       {
         "capacity" : 225,
-        "remaining" : 225,
-        "taken" : 0
+        "remaining" : 224,
+        "taken" : 1
       },
       "title" : 
       [
@@ -739311,8 +739309,8 @@
       "seats" : 
       {
         "capacity" : 358,
-        "remaining" : 358,
-        "taken" : 0
+        "remaining" : 357,
+        "taken" : 1
       },
       "title" : 
       [
@@ -868408,8 +868406,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 20,
-        "remaining" : 20,
+        "capacity" : 45,
+        "remaining" : 45,
         "taken" : 0
       },
       "title" : 
@@ -930805,9 +930803,9 @@
       ],
       "seats" : 
       {
-        "capacity" : 240,
-        "remaining" : 240,
-        "taken" : 0
+        "capacity" : 195,
+        "remaining" : 194,
+        "taken" : 1
       },
       "title" : 
       [
@@ -933331,8 +933329,8 @@
       "seats" : 
       {
         "capacity" : 180,
-        "remaining" : 179,
-        "taken" : 1
+        "remaining" : 178,
+        "taken" : 2
       },
       "title" : 
       [
@@ -978581,7 +978579,30 @@
         "Robotics II"
       ]
     },
-    "latest_term" : "202601"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "instructors" : 
+      [
+        "Nima Ahmadi"
+      ],
+      "seats" : 
+      {
+        "capacity" : 45,
+        "remaining" : 45,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Design Of Experiments"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "MANE-5000" : 
   {
@@ -995957,7 +995978,30 @@
         "System Id - Learning From Data"
       ]
     },
-    "latest_term" : "202609"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 3,
+        "min" : 3
+      },
+      "instructors" : 
+      [
+        "Nima Ahmadi"
+      ],
+      "seats" : 
+      {
+        "capacity" : 45,
+        "remaining" : 45,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Design Of Experiments"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "MANE-6962" : 
   {
@@ -1061813,13 +1061857,14 @@
       "instructors" : 
       [
         "Yangyang Xu",
+        "Peter R Kramer",
         "Fabian Maximilian Faulstich",
         "Donald W Schwendeman",
         "Yuri V Lvov",
         "Andrew James Horning",
         "Jeffrey William Banks",
+        "Shaowu Pan",
         "William Douglas Henshaw",
-        "Peter R Kramer",
         "Fengyan Li",
         "John E. Mitchell",
         "Mark H Holmes",
@@ -1061829,8 +1061874,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 160,
-        "remaining" : 160,
+        "capacity" : 170,
+        "remaining" : 170,
         "taken" : 0
       },
       "title" : 
