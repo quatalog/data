@@ -48026,8 +48026,8 @@
       "seats" : 
       {
         "capacity" : 950,
-        "remaining" : 917,
-        "taken" : 33
+        "remaining" : 915,
+        "taken" : 35
       },
       "title" : 
       [
@@ -196473,8 +196473,8 @@
       "seats" : 
       {
         "capacity" : 160,
-        "remaining" : 159,
-        "taken" : 1
+        "remaining" : 158,
+        "taken" : 2
       },
       "title" : 
       [
@@ -196778,8 +196778,8 @@
       "seats" : 
       {
         "capacity" : 154,
-        "remaining" : 153,
-        "taken" : 1
+        "remaining" : 152,
+        "taken" : 2
       },
       "title" : 
       [
@@ -635551,8 +635551,8 @@
       "seats" : 
       {
         "capacity" : 1300,
-        "remaining" : 1290,
-        "taken" : 10
+        "remaining" : 1289,
+        "taken" : 11
       },
       "title" : 
       [
@@ -708773,8 +708773,8 @@
       "seats" : 
       {
         "capacity" : 90,
-        "remaining" : 90,
-        "taken" : 0
+        "remaining" : 89,
+        "taken" : 1
       },
       "title" : 
       [
@@ -712755,8 +712755,8 @@
       "seats" : 
       {
         "capacity" : 264,
-        "remaining" : 263,
-        "taken" : 1
+        "remaining" : 262,
+        "taken" : 2
       },
       "title" : 
       [
@@ -1020082,8 +1020082,8 @@
       "seats" : 
       {
         "capacity" : 480,
-        "remaining" : 477,
-        "taken" : 3
+        "remaining" : 476,
+        "taken" : 4
       },
       "title" : 
       [
@@ -1244653,6 +1244653,52 @@
     },
     "latest_term" : "202701"
   },
+  "PHYS-4171" : 
+  {
+    "202609" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 2,
+        "min" : 2
+      },
+      "instructors" : 
+      [
+        "Peter Persans"
+      ],
+      "seats" : 
+      {
+        "capacity" : 5,
+        "remaining" : 5,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Physics Teaching Practicum"
+      ]
+    },
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 2,
+        "min" : 2
+      },
+      "seats" : 
+      {
+        "capacity" : 10,
+        "remaining" : 10,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "Physics Teaching Practicum"
+      ]
+    },
+    "latest_term" : "202701"
+  },
   "PHYS-4210" : 
   {
     "199901" : 
@@ -1326379,8 +1326425,8 @@
       "seats" : 
       {
         "capacity" : 100,
-        "remaining" : 100,
-        "taken" : 0
+        "remaining" : 99,
+        "taken" : 1
       },
       "title" : 
       [

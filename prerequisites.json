@@ -45150,6 +45150,18 @@
     "cross_listings" : null,
     "prerequisites" : null
   },
+  "PHYS-4171" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : null,
+    "prerequisites" : 
+    {
+      "course" : "PHYS 4170",
+      "min_grade" : "D",
+      "type" : "course"
+    }
+  },
   "PHYS-4210" : 
   {
     "attributes" : [],
