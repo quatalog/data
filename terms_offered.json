@@ -97871,8 +97871,8 @@
       "seats" : 
       {
         "capacity" : 40,
-        "remaining" : 40,
-        "taken" : 0
+        "remaining" : 39,
+        "taken" : 1
       },
       "title" : 
       [
