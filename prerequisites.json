@@ -7202,7 +7202,7 @@
     "prerequisites" : 
     {
       "course" : "BIOL 2120",
-      "min_grade" : null,
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -9305,9 +9305,20 @@
       "nested" : 
       [
         {
-          "course" : "CHEM 1100",
-          "min_grade" : "D",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "CHEM 1100",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "CHEM 1110",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         },
         {
           "course" : "BMED 4500",
@@ -16164,7 +16175,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COMM-4567"
+      "COMM-4567",
+      "COMM-6567"
     ],
     "prerequisites" : null
   },
@@ -22339,15 +22351,39 @@
       "Data Intensive II"
     ],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ECON-4570"
+    ],
     "prerequisites" : 
     {
       "nested" : 
       [
         {
-          "course" : "MATH 2010",
-          "min_grade" : "D",
-          "type" : "course"
+          "nested" : 
+          [
+            {
+              "course" : "MATH 2010",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 2011",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 2012",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "MATH 2100",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
         },
         {
           "nested" : 
@@ -35809,6 +35845,7 @@
     "prerequisites" : 
     {
       "course" : "MANE 4070",
+      "min_grade" : "D",
       "type" : "course"
     }
   },
@@ -37327,11 +37364,7 @@
     [
       "MANE-4130"
     ],
-    "prerequisites" : 
-    {
-      "course" : "MANE 4070",
-      "type" : "course"
-    }
+    "prerequisites" : null
   },
   "MANE-6080" : 
   {
@@ -43044,7 +43077,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MTLE-6960"
+    ],
     "prerequisites" : null
   },
   "MTLE-4440" : 
@@ -43513,11 +43549,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "ECSE-4960",
-      "ECSE-6960",
-      "MTLE-4960",
-      "PHYS-4961",
-      "PHYS-6961"
+      "MTLE-4430"
     ],
     "prerequisites" : null
   },
