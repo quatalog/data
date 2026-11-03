@@ -43339,7 +43339,7 @@
     "prerequisites" : 
     {
       "course" : "MTLE 2100",
-      "min_grade" : null,
+      "min_grade" : "D",
       "type" : "course"
     }
   },
