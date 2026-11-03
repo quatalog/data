@@ -16176,7 +16176,8 @@
     "cross_listings" : 
     [
       "COMM-4567",
-      "COMM-6567"
+      "COMM-6567",
+      "GSAS-4567"
     ],
     "prerequisites" : null
   },
@@ -16808,7 +16809,8 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "COMM-4567"
+      "COMM-4567",
+      "GSAS-4567"
     ],
     "prerequisites" : null
   },
@@ -30187,6 +30189,17 @@
       "type" : "or"
     }
   },
+  "GSAS-4567" : 
+  {
+    "attributes" : [],
+    "corequisites" : null,
+    "cross_listings" : 
+    [
+      "COMM-4567",
+      "COMM-6567"
+    ],
+    "prerequisites" : null
+  },
   "GSAS-4940" : 
   {
     "attributes" : [],
@@ -37256,14 +37269,35 @@
     [
       "MANE-6960"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MANE 4480",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "MANE-4961" : 
   {
     "attributes" : [],
     "corequisites" : null,
     "cross_listings" : null,
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MANE 2110",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "CSCI 1100",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "MANE-4962" : 
   {
@@ -37273,7 +37307,12 @@
     [
       "MANE-6962"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "course" : "MANE 2720",
+      "min_grade" : "D",
+      "type" : "course"
+    }
   },
   "MANE-4963" : 
   {
@@ -37288,7 +37327,28 @@
       "MANE-6963",
       "ROBT-4020"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MATH 2010",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 2012",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MATH 2100",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "MANE-4964" : 
   {
@@ -37300,7 +37360,45 @@
       "ISYE-6620",
       "MANE-6964"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "nested" : 
+          [
+            {
+              "course" : "ENGR 2600",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "MATP 4600",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        },
+        {
+          "nested" : 
+          [
+            {
+              "course" : "MANE 2110",
+              "min_grade" : "D",
+              "type" : "course"
+            },
+            {
+              "course" : "CSCI 1100",
+              "min_grade" : "D",
+              "type" : "course"
+            }
+          ],
+          "type" : "or"
+        }
+      ],
+      "type" : "and"
+    }
   },
   "MANE-4965" : 
   {
@@ -37320,7 +37418,23 @@
     [
       "MANE-6966"
     ],
-    "prerequisites" : null
+    "prerequisites" : 
+    {
+      "nested" : 
+      [
+        {
+          "course" : "MANE 4350",
+          "min_grade" : "D",
+          "type" : "course"
+        },
+        {
+          "course" : "MANE 4470",
+          "min_grade" : "D",
+          "type" : "course"
+        }
+      ],
+      "type" : "or"
+    }
   },
   "MANE-4967" : 
   {
@@ -38119,7 +38233,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MGMT-6968"
+    ],
     "prerequisites" : null
   },
   "MANE-6969" : 
@@ -42295,7 +42412,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MGMT-4968"
+      "MANE-6968"
     ],
     "prerequisites" : null
   },
