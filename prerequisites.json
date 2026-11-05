@@ -19506,7 +19506,7 @@
           "type" : "course"
         }
       ],
-      "type" : "and"
+      "type" : "or"
     }
   },
   "CSCI-4965" : 
