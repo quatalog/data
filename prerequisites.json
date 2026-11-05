@@ -388,7 +388,8 @@
     ],
     "cross_listings" : 
     [
-      "ARCH-2360"
+      "ARCH-2360",
+      "ARCH-5310"
     ],
     "prerequisites" : 
     {
@@ -595,7 +596,10 @@
       "ARCH-2360",
       "ARCH-2550"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-5210"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -1464,7 +1468,10 @@
     [
       "ARCH-4325"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-6620"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 4820",
@@ -1966,7 +1973,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2830"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 5200",
@@ -1994,7 +2004,10 @@
     [
       "ARCH-5210"
     ],
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-2360"
+    ],
     "prerequisites" : null
   },
   "ARCH-5320" : 
@@ -2357,7 +2370,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "ARCH-4830"
+    ],
     "prerequisites" : 
     {
       "course" : "ARCH 6610",
@@ -11927,7 +11943,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "CHEM-4140"
+    ],
     "prerequisites" : null
   },
   "CHEM-6160" : 
