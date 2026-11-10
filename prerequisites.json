@@ -13367,10 +13367,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CIVL-4660"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CIVL-2040" : 
@@ -13806,10 +13803,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "CIVL-2030"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "course" : "CIVL 2030",
