@@ -3485,7 +3485,10 @@
   },
   "ARTS-2960" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -3497,7 +3500,10 @@
   },
   "ARTS-2961" : 
   {
-    "attributes" : [],
+    "attributes" : 
+    [
+      "Data Intensive I"
+    ],
     "corequisites" : null,
     "cross_listings" : 
     [
@@ -12391,7 +12397,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
