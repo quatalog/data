@@ -17658,17 +17658,12 @@
       "nested" : 
       [
         {
-          "course" : "CSCI 1200",
+          "course" : "CSCI 1100",
           "min_grade" : "D",
           "type" : "course"
         },
         {
           "course" : "MATH 1020",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "MATH 2100",
           "min_grade" : "D",
           "type" : "course"
         }
