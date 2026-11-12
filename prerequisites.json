@@ -12357,7 +12357,7 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : [],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "CHME-1960" : 
@@ -44750,10 +44750,7 @@
       "Introductory Level Course"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "PHYS-1200"
-    ],
+    "cross_listings" : null,
     "prerequisites" : 
     {
       "nested" : 
