@@ -8935,10 +8935,7 @@
       "Communication Intensive"
     ],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BIOL-4130"
-    ],
+    "cross_listings" : null,
     "prerequisites" : null
   },
   "BMED-4200" : 

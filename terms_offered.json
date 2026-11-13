@@ -1774,8 +1774,8 @@
       "seats" : 
       {
         "capacity" : 3000,
-        "remaining" : 2365,
-        "taken" : 635
+        "remaining" : 2351,
+        "taken" : 649
       },
       "title" : 
       [
@@ -16104,8 +16104,8 @@
       "seats" : 
       {
         "capacity" : 96,
-        "remaining" : 39,
-        "taken" : 57
+        "remaining" : 38,
+        "taken" : 58
       },
       "title" : 
       [
@@ -18783,8 +18783,8 @@
       "seats" : 
       {
         "capacity" : 122,
-        "remaining" : 64,
-        "taken" : 58
+        "remaining" : 63,
+        "taken" : 59
       },
       "title" : 
       [
@@ -21412,8 +21412,8 @@
       "seats" : 
       {
         "capacity" : 124,
-        "remaining" : 68,
-        "taken" : 56
+        "remaining" : 67,
+        "taken" : 57
       },
       "title" : 
       [
@@ -26643,8 +26643,8 @@
       "seats" : 
       {
         "capacity" : 106,
-        "remaining" : 49,
-        "taken" : 57
+        "remaining" : 48,
+        "taken" : 58
       },
       "title" : 
       [
@@ -26716,8 +26716,8 @@
       "seats" : 
       {
         "capacity" : 20,
-        "remaining" : 11,
-        "taken" : 9
+        "remaining" : 10,
+        "taken" : 10
       },
       "title" : 
       [
@@ -35735,8 +35735,8 @@
       "seats" : 
       {
         "capacity" : 6,
-        "remaining" : 3,
-        "taken" : 3
+        "remaining" : 2,
+        "taken" : 4
       },
       "title" : 
       [
@@ -66303,7 +66303,7 @@
       },
       "instructors" : 
       [
-        "Yael Erel"
+        "Adam Hassan Dayem"
       ],
       "seats" : 
       {
@@ -96160,8 +96160,8 @@
       "seats" : 
       {
         "capacity" : 25,
-        "remaining" : 8,
-        "taken" : 17
+        "remaining" : 7,
+        "taken" : 18
       },
       "title" : 
       [
@@ -97964,8 +97964,8 @@
       "seats" : 
       {
         "capacity" : 25,
-        "remaining" : 0,
-        "taken" : 25
+        "remaining" : -1,
+        "taken" : 26
       },
       "title" : 
       [
@@ -103108,8 +103108,8 @@
       "seats" : 
       {
         "capacity" : 25,
-        "remaining" : 12,
-        "taken" : 13
+        "remaining" : 11,
+        "taken" : 14
       },
       "title" : 
       [
@@ -107316,8 +107316,8 @@
       "seats" : 
       {
         "capacity" : 85,
-        "remaining" : 14,
-        "taken" : 71
+        "remaining" : 13,
+        "taken" : 72
       },
       "title" : 
       [
@@ -116707,8 +116707,8 @@
       "seats" : 
       {
         "capacity" : 195,
-        "remaining" : 141,
-        "taken" : 54
+        "remaining" : 140,
+        "taken" : 55
       },
       "title" : 
       [
@@ -129669,8 +129669,8 @@
       "seats" : 
       {
         "capacity" : 20,
-        "remaining" : 8,
-        "taken" : 12
+        "remaining" : 7,
+        "taken" : 13
       },
       "title" : 
       [
@@ -146877,8 +146877,8 @@
       "seats" : 
       {
         "capacity" : 5,
-        "remaining" : 1,
-        "taken" : 4
+        "remaining" : 2,
+        "taken" : 3
       },
       "title" : 
       [
@@ -157311,8 +157311,8 @@
       "seats" : 
       {
         "capacity" : 120,
-        "remaining" : 118,
-        "taken" : 2
+        "remaining" : 117,
+        "taken" : 3
       },
       "title" : 
       [
@@ -193051,8 +193051,8 @@
       "seats" : 
       {
         "capacity" : 240,
-        "remaining" : 88,
-        "taken" : 152
+        "remaining" : 87,
+        "taken" : 153
       },
       "title" : 
       [
@@ -194033,8 +194033,8 @@
       "seats" : 
       {
         "capacity" : 256,
-        "remaining" : 106,
-        "taken" : 150
+        "remaining" : 105,
+        "taken" : 151
       },
       "title" : 
       [
@@ -196496,8 +196496,8 @@
       "seats" : 
       {
         "capacity" : 160,
-        "remaining" : 74,
-        "taken" : 86
+        "remaining" : 73,
+        "taken" : 87
       },
       "title" : 
       [
@@ -196801,8 +196801,8 @@
       "seats" : 
       {
         "capacity" : 154,
-        "remaining" : 72,
-        "taken" : 82
+        "remaining" : 71,
+        "taken" : 83
       },
       "title" : 
       [
@@ -218644,8 +218644,8 @@
       "seats" : 
       {
         "capacity" : 40,
-        "remaining" : 36,
-        "taken" : 4
+        "remaining" : 37,
+        "taken" : 3
       },
       "title" : 
       [
@@ -219198,8 +219198,8 @@
       "seats" : 
       {
         "capacity" : 40,
-        "remaining" : 8,
-        "taken" : 32
+        "remaining" : 6,
+        "taken" : 34
       },
       "title" : 
       [
@@ -248968,8 +248968,8 @@
       "seats" : 
       {
         "capacity" : 50,
-        "remaining" : 10,
-        "taken" : 40
+        "remaining" : 9,
+        "taken" : 41
       },
       "title" : 
       [
@@ -255065,8 +255065,8 @@
       "seats" : 
       {
         "capacity" : 40,
-        "remaining" : 15,
-        "taken" : 25
+        "remaining" : 14,
+        "taken" : 26
       },
       "title" : 
       [
@@ -286630,8 +286630,8 @@
       "seats" : 
       {
         "capacity" : 30,
-        "remaining" : 25,
-        "taken" : 5
+        "remaining" : 24,
+        "taken" : 6
       },
       "title" : 
       [
@@ -289348,8 +289348,8 @@
       "seats" : 
       {
         "capacity" : 180,
-        "remaining" : 59,
-        "taken" : 121
+        "remaining" : 56,
+        "taken" : 124
       },
       "title" : 
       [
@@ -291025,8 +291025,8 @@
       "seats" : 
       {
         "capacity" : 150,
-        "remaining" : 82,
-        "taken" : 68
+        "remaining" : 80,
+        "taken" : 70
       },
       "title" : 
       [
@@ -292390,8 +292390,8 @@
       "seats" : 
       {
         "capacity" : 25,
-        "remaining" : 4,
-        "taken" : 21
+        "remaining" : 1,
+        "taken" : 24
       },
       "title" : 
       [
@@ -327583,8 +327583,8 @@
       "seats" : 
       {
         "capacity" : 25,
-        "remaining" : 15,
-        "taken" : 10
+        "remaining" : 14,
+        "taken" : 11
       },
       "title" : 
       [
@@ -329369,8 +329369,8 @@
       "seats" : 
       {
         "capacity" : 20,
-        "remaining" : 9,
-        "taken" : 11
+        "remaining" : 8,
+        "taken" : 12
       },
       "title" : 
       [
@@ -330413,8 +330413,8 @@
       "seats" : 
       {
         "capacity" : 20,
-        "remaining" : 14,
-        "taken" : 6
+        "remaining" : 13,
+        "taken" : 7
       },
       "title" : 
       [
@@ -333277,8 +333277,8 @@
       "seats" : 
       {
         "capacity" : 20,
-        "remaining" : 10,
-        "taken" : 10
+        "remaining" : 7,
+        "taken" : 13
       },
       "title" : 
       [
@@ -335414,8 +335414,8 @@
       "seats" : 
       {
         "capacity" : 12,
-        "remaining" : 9,
-        "taken" : 3
+        "remaining" : 8,
+        "taken" : 4
       },
       "title" : 
       [
@@ -343420,8 +343420,8 @@
       "seats" : 
       {
         "capacity" : 150,
-        "remaining" : 136,
-        "taken" : 14
+        "remaining" : 131,
+        "taken" : 19
       },
       "title" : 
       [
@@ -358794,8 +358794,8 @@
       "seats" : 
       {
         "capacity" : 700,
-        "remaining" : 699,
-        "taken" : 1
+        "remaining" : 698,
+        "taken" : 2
       },
       "title" : 
       [
@@ -380564,8 +380564,8 @@
       "seats" : 
       {
         "capacity" : 75,
-        "remaining" : 9,
-        "taken" : 66
+        "remaining" : 6,
+        "taken" : 69
       },
       "title" : 
       [
@@ -381032,8 +381032,8 @@
       "seats" : 
       {
         "capacity" : 100,
-        "remaining" : 38,
-        "taken" : 62
+        "remaining" : 39,
+        "taken" : 61
       },
       "title" : 
       [
@@ -381923,8 +381923,8 @@
       "seats" : 
       {
         "capacity" : 80,
-        "remaining" : 4,
-        "taken" : 76
+        "remaining" : 3,
+        "taken" : 77
       },
       "title" : 
       [
@@ -385268,8 +385268,8 @@
       "seats" : 
       {
         "capacity" : 200,
-        "remaining" : 199,
-        "taken" : 1
+        "remaining" : 197,
+        "taken" : 3
       },
       "title" : 
       [
@@ -391946,8 +391946,8 @@
       "seats" : 
       {
         "capacity" : 60,
-        "remaining" : 15,
-        "taken" : 45
+        "remaining" : 14,
+        "taken" : 46
       },
       "title" : 
       [
@@ -393578,8 +393578,8 @@
       "seats" : 
       {
         "capacity" : 10,
-        "remaining" : 3,
-        "taken" : 7
+        "remaining" : 2,
+        "taken" : 8
       },
       "title" : 
       [
@@ -404079,8 +404079,8 @@
       "seats" : 
       {
         "capacity" : 10,
-        "remaining" : 4,
-        "taken" : 6
+        "remaining" : 3,
+        "taken" : 7
       },
       "title" : 
       [
@@ -420405,8 +420405,8 @@
       "seats" : 
       {
         "capacity" : 35,
-        "remaining" : 10,
-        "taken" : 25
+        "remaining" : 9,
+        "taken" : 26
       },
       "title" : 
       [
@@ -431626,8 +431626,8 @@
       "seats" : 
       {
         "capacity" : 80,
-        "remaining" : 70,
-        "taken" : 10
+        "remaining" : 69,
+        "taken" : 11
       },
       "title" : 
       [
@@ -487375,8 +487375,8 @@
       "seats" : 
       {
         "capacity" : 200,
-        "remaining" : 31,
-        "taken" : 169
+        "remaining" : 24,
+        "taken" : 176
       },
       "title" : 
       [
@@ -487571,8 +487571,8 @@
       "seats" : 
       {
         "capacity" : 128,
-        "remaining" : 113,
-        "taken" : 15
+        "remaining" : 112,
+        "taken" : 16
       },
       "title" : 
       [
@@ -488896,9 +488896,9 @@
       ],
       "seats" : 
       {
-        "capacity" : 60,
-        "remaining" : 0,
-        "taken" : 60
+        "capacity" : 84,
+        "remaining" : 18,
+        "taken" : 66
       },
       "title" : 
       [
@@ -494524,8 +494524,8 @@
       "seats" : 
       {
         "capacity" : 196,
-        "remaining" : 156,
-        "taken" : 40
+        "remaining" : 155,
+        "taken" : 41
       },
       "title" : 
       [
@@ -494626,8 +494626,8 @@
       "seats" : 
       {
         "capacity" : 100,
-        "remaining" : 51,
-        "taken" : 49
+        "remaining" : 49,
+        "taken" : 51
       },
       "title" : 
       [
@@ -497062,8 +497062,8 @@
       "seats" : 
       {
         "capacity" : 25,
-        "remaining" : 23,
-        "taken" : 2
+        "remaining" : 22,
+        "taken" : 3
       },
       "title" : 
       [
@@ -514670,8 +514670,8 @@
       "seats" : 
       {
         "capacity" : 128,
-        "remaining" : 38,
-        "taken" : 90
+        "remaining" : 37,
+        "taken" : 91
       },
       "title" : 
       [
@@ -530123,8 +530123,8 @@
       "seats" : 
       {
         "capacity" : 15,
-        "remaining" : 7,
-        "taken" : 8
+        "remaining" : 6,
+        "taken" : 9
       },
       "title" : 
       [
@@ -565860,8 +565860,8 @@
       "seats" : 
       {
         "capacity" : 350,
-        "remaining" : 313,
-        "taken" : 37
+        "remaining" : 311,
+        "taken" : 39
       },
       "title" : 
       [
@@ -588081,8 +588081,8 @@
       "seats" : 
       {
         "capacity" : 180,
-        "remaining" : 6,
-        "taken" : 174
+        "remaining" : 5,
+        "taken" : 175
       },
       "title" : 
       [
@@ -589555,8 +589555,8 @@
       "seats" : 
       {
         "capacity" : 120,
-        "remaining" : 5,
-        "taken" : 115
+        "remaining" : 2,
+        "taken" : 118
       },
       "title" : 
       [
@@ -599672,8 +599672,8 @@
       "seats" : 
       {
         "capacity" : 19,
-        "remaining" : 3,
-        "taken" : 16
+        "remaining" : 1,
+        "taken" : 18
       },
       "title" : 
       [
@@ -601011,8 +601011,8 @@
       "seats" : 
       {
         "capacity" : 25,
-        "remaining" : 11,
-        "taken" : 14
+        "remaining" : 10,
+        "taken" : 15
       },
       "title" : 
       [
@@ -622555,8 +622555,8 @@
       "seats" : 
       {
         "capacity" : 120,
-        "remaining" : 10,
-        "taken" : 110
+        "remaining" : 9,
+        "taken" : 111
       },
       "title" : 
       [
@@ -628256,8 +628256,8 @@
       "seats" : 
       {
         "capacity" : 75,
-        "remaining" : 7,
-        "taken" : 68
+        "remaining" : 6,
+        "taken" : 69
       },
       "title" : 
       [
@@ -630283,8 +630283,8 @@
       "seats" : 
       {
         "capacity" : 110,
-        "remaining" : 31,
-        "taken" : 79
+        "remaining" : 30,
+        "taken" : 80
       },
       "title" : 
       [
@@ -634697,8 +634697,8 @@
       "seats" : 
       {
         "capacity" : 110,
-        "remaining" : 4,
-        "taken" : 106
+        "remaining" : 2,
+        "taken" : 108
       },
       "title" : 
       [
@@ -637888,8 +637888,8 @@
       "seats" : 
       {
         "capacity" : 36,
-        "remaining" : 14,
-        "taken" : 22
+        "remaining" : 13,
+        "taken" : 23
       },
       "title" : 
       [
@@ -637961,8 +637961,8 @@
       "seats" : 
       {
         "capacity" : 30,
-        "remaining" : 10,
-        "taken" : 20
+        "remaining" : 11,
+        "taken" : 19
       },
       "title" : 
       [
@@ -640502,8 +640502,8 @@
       "seats" : 
       {
         "capacity" : 18,
-        "remaining" : 0,
-        "taken" : 18
+        "remaining" : -2,
+        "taken" : 20
       },
       "title" : 
       [
@@ -640767,8 +640767,8 @@
       "seats" : 
       {
         "capacity" : 15,
-        "remaining" : 1,
-        "taken" : 14
+        "remaining" : 0,
+        "taken" : 15
       },
       "title" : 
       [
@@ -642075,8 +642075,8 @@
       "seats" : 
       {
         "capacity" : 35,
-        "remaining" : 0,
-        "taken" : 35
+        "remaining" : -1,
+        "taken" : 36
       },
       "title" : 
       [
@@ -648644,8 +648644,8 @@
       "seats" : 
       {
         "capacity" : 36,
-        "remaining" : 17,
-        "taken" : 19
+        "remaining" : 16,
+        "taken" : 20
       },
       "title" : 
       [
@@ -655850,8 +655850,8 @@
       "seats" : 
       {
         "capacity" : 100,
-        "remaining" : 32,
-        "taken" : 68
+        "remaining" : 31,
+        "taken" : 69
       },
       "title" : 
       [
@@ -679832,8 +679832,8 @@
       "seats" : 
       {
         "capacity" : 115,
-        "remaining" : 68,
-        "taken" : 47
+        "remaining" : 66,
+        "taken" : 49
       },
       "title" : 
       [
@@ -684428,8 +684428,8 @@
       "seats" : 
       {
         "capacity" : 15,
-        "remaining" : 12,
-        "taken" : 3
+        "remaining" : 11,
+        "taken" : 4
       },
       "title" : 
       [
@@ -687110,8 +687110,8 @@
       "seats" : 
       {
         "capacity" : 20,
-        "remaining" : 17,
-        "taken" : 3
+        "remaining" : 16,
+        "taken" : 4
       },
       "title" : 
       [
@@ -698675,8 +698675,8 @@
       "seats" : 
       {
         "capacity" : 373,
-        "remaining" : 340,
-        "taken" : 33
+        "remaining" : 338,
+        "taken" : 35
       },
       "title" : 
       [
@@ -708968,8 +708968,8 @@
       "seats" : 
       {
         "capacity" : 90,
-        "remaining" : 27,
-        "taken" : 63
+        "remaining" : 25,
+        "taken" : 65
       },
       "title" : 
       [
@@ -711052,8 +711052,8 @@
       "seats" : 
       {
         "capacity" : 280,
-        "remaining" : 93,
-        "taken" : 187
+        "remaining" : 91,
+        "taken" : 189
       },
       "title" : 
       [
@@ -712949,9 +712949,9 @@
       ],
       "seats" : 
       {
-        "capacity" : 264,
-        "remaining" : 1,
-        "taken" : 263
+        "capacity" : 288,
+        "remaining" : 12,
+        "taken" : 276
       },
       "title" : 
       [
@@ -714184,8 +714184,8 @@
       "seats" : 
       {
         "capacity" : 205,
-        "remaining" : 56,
-        "taken" : 149
+        "remaining" : 51,
+        "taken" : 154
       },
       "title" : 
       [
@@ -716533,8 +716533,8 @@
       "seats" : 
       {
         "capacity" : 225,
-        "remaining" : 11,
-        "taken" : 214
+        "remaining" : 12,
+        "taken" : 213
       },
       "title" : 
       [
@@ -717259,8 +717259,8 @@
       "seats" : 
       {
         "capacity" : 250,
-        "remaining" : 224,
-        "taken" : 26
+        "remaining" : 222,
+        "taken" : 28
       },
       "title" : 
       [
@@ -721988,8 +721988,8 @@
       "seats" : 
       {
         "capacity" : 305,
-        "remaining" : 22,
-        "taken" : 283
+        "remaining" : 19,
+        "taken" : 286
       },
       "title" : 
       [
@@ -724136,8 +724136,8 @@
       "seats" : 
       {
         "capacity" : 230,
-        "remaining" : 27,
-        "taken" : 203
+        "remaining" : 25,
+        "taken" : 205
       },
       "title" : 
       [
@@ -727269,8 +727269,8 @@
       "seats" : 
       {
         "capacity" : 195,
-        "remaining" : 6,
-        "taken" : 189
+        "remaining" : 4,
+        "taken" : 191
       },
       "title" : 
       [
@@ -729109,8 +729109,8 @@
       "seats" : 
       {
         "capacity" : 120,
-        "remaining" : 60,
-        "taken" : 60
+        "remaining" : 37,
+        "taken" : 83
       },
       "title" : 
       [
@@ -731384,8 +731384,8 @@
       "seats" : 
       {
         "capacity" : 60,
-        "remaining" : 3,
-        "taken" : 57
+        "remaining" : 2,
+        "taken" : 58
       },
       "title" : 
       [
@@ -733618,8 +733618,8 @@
       "seats" : 
       {
         "capacity" : 340,
-        "remaining" : 55,
-        "taken" : 285
+        "remaining" : 54,
+        "taken" : 286
       },
       "title" : 
       [
@@ -734807,8 +734807,8 @@
       "seats" : 
       {
         "capacity" : 20,
-        "remaining" : 1,
-        "taken" : 19
+        "remaining" : 0,
+        "taken" : 20
       },
       "title" : 
       [
@@ -770394,7 +770394,30 @@
         "Readings In Enve"
       ]
     },
-    "latest_term" : "202301"
+    "202701" : 
+    {
+      "attributes" : [],
+      "credits" : 
+      {
+        "max" : 9,
+        "min" : 1
+      },
+      "instructors" : 
+      [
+        "Marianne C. Nyman"
+      ],
+      "seats" : 
+      {
+        "capacity" : 10,
+        "remaining" : 9,
+        "taken" : 1
+      },
+      "title" : 
+      [
+        "Environmental Chemodynamics"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ENVE-6960" : 
   {
@@ -789454,8 +789477,8 @@
       "seats" : 
       {
         "capacity" : 120,
-        "remaining" : 42,
-        "taken" : 78
+        "remaining" : 41,
+        "taken" : 79
       },
       "title" : 
       [
@@ -789761,8 +789784,8 @@
       "seats" : 
       {
         "capacity" : 96,
-        "remaining" : 43,
-        "taken" : 53
+        "remaining" : 42,
+        "taken" : 54
       },
       "title" : 
       [
@@ -818394,8 +818417,8 @@
       "seats" : 
       {
         "capacity" : 100,
-        "remaining" : 24,
-        "taken" : 76
+        "remaining" : 18,
+        "taken" : 82
       },
       "title" : 
       [
@@ -819684,8 +819707,8 @@
       "seats" : 
       {
         "capacity" : 50,
-        "remaining" : 8,
-        "taken" : 42
+        "remaining" : 2,
+        "taken" : 48
       },
       "title" : 
       [
@@ -824851,8 +824874,8 @@
       "seats" : 
       {
         "capacity" : 10,
-        "remaining" : 8,
-        "taken" : 2
+        "remaining" : 7,
+        "taken" : 3
       },
       "title" : 
       [
@@ -826392,8 +826415,8 @@
       "seats" : 
       {
         "capacity" : 24,
-        "remaining" : 13,
-        "taken" : 11
+        "remaining" : 12,
+        "taken" : 12
       },
       "title" : 
       [
@@ -843661,8 +843684,8 @@
       "seats" : 
       {
         "capacity" : 2400,
-        "remaining" : 2309,
-        "taken" : 91
+        "remaining" : 2308,
+        "taken" : 92
       },
       "title" : 
       [
@@ -844397,8 +844420,8 @@
       "seats" : 
       {
         "capacity" : 25,
-        "remaining" : 14,
-        "taken" : 11
+        "remaining" : 12,
+        "taken" : 13
       },
       "title" : 
       [
@@ -845149,8 +845172,8 @@
       "seats" : 
       {
         "capacity" : 660,
-        "remaining" : 425,
-        "taken" : 235
+        "remaining" : 421,
+        "taken" : 239
       },
       "title" : 
       [
@@ -863595,8 +863618,8 @@
       "seats" : 
       {
         "capacity" : 45,
-        "remaining" : 41,
-        "taken" : 4
+        "remaining" : 40,
+        "taken" : 5
       },
       "title" : 
       [
@@ -885143,8 +885166,8 @@
       "seats" : 
       {
         "capacity" : 40,
-        "remaining" : -1,
-        "taken" : 41
+        "remaining" : -2,
+        "taken" : 42
       },
       "title" : 
       [
@@ -929653,8 +929676,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 280,
-        "remaining" : 80,
+        "capacity" : 220,
+        "remaining" : 20,
         "taken" : 200
       },
       "title" : 
@@ -929912,8 +929935,8 @@
       "seats" : 
       {
         "capacity" : 300,
-        "remaining" : 103,
-        "taken" : 197
+        "remaining" : 100,
+        "taken" : 200
       },
       "title" : 
       [
@@ -930472,8 +930495,8 @@
       "seats" : 
       {
         "capacity" : 150,
-        "remaining" : 91,
-        "taken" : 59
+        "remaining" : 90,
+        "taken" : 60
       },
       "title" : 
       [
@@ -931075,8 +931098,8 @@
       "seats" : 
       {
         "capacity" : 195,
-        "remaining" : 32,
-        "taken" : 163
+        "remaining" : 27,
+        "taken" : 168
       },
       "title" : 
       [
@@ -933600,8 +933623,8 @@
       "seats" : 
       {
         "capacity" : 180,
-        "remaining" : 1,
-        "taken" : 179
+        "remaining" : 0,
+        "taken" : 180
       },
       "title" : 
       [
@@ -944314,8 +944337,8 @@
       "seats" : 
       {
         "capacity" : 150,
-        "remaining" : 76,
-        "taken" : 74
+        "remaining" : 75,
+        "taken" : 75
       },
       "title" : 
       [
@@ -945235,8 +945258,8 @@
       "seats" : 
       {
         "capacity" : 150,
-        "remaining" : 75,
-        "taken" : 75
+        "remaining" : 74,
+        "taken" : 76
       },
       "title" : 
       [
@@ -946636,8 +946659,8 @@
       "seats" : 
       {
         "capacity" : 100,
-        "remaining" : 91,
-        "taken" : 9
+        "remaining" : 90,
+        "taken" : 10
       },
       "title" : 
       [
@@ -953608,8 +953631,8 @@
       "seats" : 
       {
         "capacity" : 126,
-        "remaining" : 65,
-        "taken" : 61
+        "remaining" : 64,
+        "taken" : 62
       },
       "title" : 
       [
@@ -1013536,8 +1013559,8 @@
       "seats" : 
       {
         "capacity" : 60,
-        "remaining" : 48,
-        "taken" : 12
+        "remaining" : 47,
+        "taken" : 13
       },
       "title" : 
       [
@@ -1015537,8 +1015560,8 @@
       "seats" : 
       {
         "capacity" : 600,
-        "remaining" : 139,
-        "taken" : 461
+        "remaining" : 124,
+        "taken" : 476
       },
       "title" : 
       [
@@ -1020473,8 +1020496,8 @@
       "seats" : 
       {
         "capacity" : 480,
-        "remaining" : 92,
-        "taken" : 388
+        "remaining" : 91,
+        "taken" : 389
       },
       "title" : 
       [
@@ -1020722,8 +1020745,8 @@
       "seats" : 
       {
         "capacity" : 100,
-        "remaining" : 20,
-        "taken" : 80
+        "remaining" : 19,
+        "taken" : 81
       },
       "title" : 
       [
@@ -1022917,8 +1022940,8 @@
       "seats" : 
       {
         "capacity" : 480,
-        "remaining" : 31,
-        "taken" : 449
+        "remaining" : 28,
+        "taken" : 452
       },
       "title" : 
       [
@@ -1026206,8 +1026229,8 @@
       "seats" : 
       {
         "capacity" : 30,
-        "remaining" : 26,
-        "taken" : 4
+        "remaining" : 25,
+        "taken" : 5
       },
       "title" : 
       [
@@ -1026555,8 +1026578,8 @@
       "seats" : 
       {
         "capacity" : 50,
-        "remaining" : 24,
-        "taken" : 26
+        "remaining" : 22,
+        "taken" : 28
       },
       "title" : 
       [
@@ -1029467,8 +1029490,8 @@
       "seats" : 
       {
         "capacity" : 80,
-        "remaining" : 6,
-        "taken" : 74
+        "remaining" : 4,
+        "taken" : 76
       },
       "title" : 
       [
@@ -1048681,7 +1048704,7 @@
       "credits" : 
       {
         "max" : 4,
-        "min" : 1
+        "min" : 4
       },
       "instructors" : 
       [
@@ -1048690,8 +1048713,8 @@
       "seats" : 
       {
         "capacity" : 20,
-        "remaining" : 10,
-        "taken" : 10
+        "remaining" : 11,
+        "taken" : 9
       },
       "title" : 
       [
@@ -1065170,8 +1065193,8 @@
       "seats" : 
       {
         "capacity" : 50,
-        "remaining" : 0,
-        "taken" : 50
+        "remaining" : 1,
+        "taken" : 49
       },
       "title" : 
       [
@@ -1104473,8 +1104496,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 45,
-        "remaining" : 7,
+        "capacity" : 95,
+        "remaining" : 57,
         "taken" : 38
       },
       "title" : 
@@ -1140675,8 +1140698,8 @@
       "seats" : 
       {
         "capacity" : 25,
-        "remaining" : 2,
-        "taken" : 23
+        "remaining" : 5,
+        "taken" : 20
       },
       "title" : 
       [
@@ -1145908,8 +1145931,8 @@
       "seats" : 
       {
         "capacity" : 50,
-        "remaining" : 33,
-        "taken" : 17
+        "remaining" : 34,
+        "taken" : 16
       },
       "title" : 
       [
@@ -1161121,8 +1161144,8 @@
       "seats" : 
       {
         "capacity" : 15,
-        "remaining" : 13,
-        "taken" : 2
+        "remaining" : 12,
+        "taken" : 3
       },
       "title" : 
       [
@@ -1182473,8 +1182496,8 @@
       "seats" : 
       {
         "capacity" : 30,
-        "remaining" : 15,
-        "taken" : 15
+        "remaining" : 14,
+        "taken" : 16
       },
       "title" : 
       [
@@ -1207109,8 +1207132,8 @@
       "seats" : 
       {
         "capacity" : 140,
-        "remaining" : 130,
-        "taken" : 10
+        "remaining" : 129,
+        "taken" : 11
       },
       "title" : 
       [
@@ -1211934,8 +1211957,8 @@
       "seats" : 
       {
         "capacity" : 150,
-        "remaining" : 66,
-        "taken" : 84
+        "remaining" : 65,
+        "taken" : 85
       },
       "title" : 
       [
@@ -1227861,8 +1227884,8 @@
       "seats" : 
       {
         "capacity" : 105,
-        "remaining" : 37,
-        "taken" : 68
+        "remaining" : 33,
+        "taken" : 72
       },
       "title" : 
       [
@@ -1230127,8 +1230150,8 @@
       "seats" : 
       {
         "capacity" : 464,
-        "remaining" : 255,
-        "taken" : 209
+        "remaining" : 247,
+        "taken" : 217
       },
       "title" : 
       [
@@ -1230742,8 +1230765,8 @@
       "seats" : 
       {
         "capacity" : 48,
-        "remaining" : 33,
-        "taken" : 15
+        "remaining" : 32,
+        "taken" : 16
       },
       "title" : 
       [
@@ -1232874,9 +1232897,9 @@
       ],
       "seats" : 
       {
-        "capacity" : 366,
-        "remaining" : 0,
-        "taken" : 366
+        "capacity" : 414,
+        "remaining" : 23,
+        "taken" : 391
       },
       "title" : 
       [
@@ -1234158,8 +1234181,8 @@
       "seats" : 
       {
         "capacity" : 25,
-        "remaining" : 8,
-        "taken" : 17
+        "remaining" : 9,
+        "taken" : 16
       },
       "title" : 
       [
@@ -1246923,8 +1246946,8 @@
       "seats" : 
       {
         "capacity" : 60,
-        "remaining" : 8,
-        "taken" : 52
+        "remaining" : 6,
+        "taken" : 54
       },
       "title" : 
       [
@@ -1249858,8 +1249881,8 @@
       "seats" : 
       {
         "capacity" : 20,
-        "remaining" : 10,
-        "taken" : 10
+        "remaining" : 11,
+        "taken" : 9
       },
       "title" : 
       [
@@ -1271333,8 +1271356,8 @@
       "seats" : 
       {
         "capacity" : 300,
-        "remaining" : 109,
-        "taken" : 191
+        "remaining" : 107,
+        "taken" : 193
       },
       "title" : 
       [
@@ -1284322,8 +1284345,8 @@
       "seats" : 
       {
         "capacity" : 60,
-        "remaining" : 0,
-        "taken" : 60
+        "remaining" : 1,
+        "taken" : 59
       },
       "title" : 
       [
@@ -1288764,8 +1288787,8 @@
       "seats" : 
       {
         "capacity" : 70,
-        "remaining" : 14,
-        "taken" : 56
+        "remaining" : 13,
+        "taken" : 57
       },
       "title" : 
       [
@@ -1290885,8 +1290908,8 @@
       "seats" : 
       {
         "capacity" : 25,
-        "remaining" : 4,
-        "taken" : 21
+        "remaining" : 3,
+        "taken" : 22
       },
       "title" : 
       [
@@ -1295750,8 +1295773,8 @@
       "seats" : 
       {
         "capacity" : 150,
-        "remaining" : 21,
-        "taken" : 129
+        "remaining" : 18,
+        "taken" : 132
       },
       "title" : 
       [
@@ -1325911,8 +1325934,8 @@
       "seats" : 
       {
         "capacity" : 30,
-        "remaining" : 17,
-        "taken" : 13
+        "remaining" : 18,
+        "taken" : 12
       },
       "title" : 
       [
@@ -1326285,8 +1326308,8 @@
       "seats" : 
       {
         "capacity" : 100,
-        "remaining" : 26,
-        "taken" : 74
+        "remaining" : 25,
+        "taken" : 75
       },
       "title" : 
       [
@@ -1327780,8 +1327803,8 @@
       "seats" : 
       {
         "capacity" : 385,
-        "remaining" : 34,
-        "taken" : 351
+        "remaining" : 28,
+        "taken" : 357
       },
       "title" : 
       [
@@ -1329115,8 +1329138,8 @@
       "seats" : 
       {
         "capacity" : 25,
-        "remaining" : 1,
-        "taken" : 24
+        "remaining" : 0,
+        "taken" : 25
       },
       "title" : 
       [
@@ -1369132,8 +1369155,8 @@
       "seats" : 
       {
         "capacity" : 60,
-        "remaining" : 32,
-        "taken" : 28
+        "remaining" : 31,
+        "taken" : 29
       },
       "title" : 
       [
@@ -1396777,8 +1396800,8 @@
       "seats" : 
       {
         "capacity" : 25,
-        "remaining" : 13,
-        "taken" : 12
+        "remaining" : 14,
+        "taken" : 11
       },
       "title" : 
       [
@@ -1400582,8 +1400605,8 @@
       "seats" : 
       {
         "capacity" : 50,
-        "remaining" : 3,
-        "taken" : 47
+        "remaining" : 1,
+        "taken" : 49
       },
       "title" : 
       [
@@ -1402207,8 +1402230,8 @@
       "seats" : 
       {
         "capacity" : 25,
-        "remaining" : -1,
-        "taken" : 26
+        "remaining" : 0,
+        "taken" : 25
       },
       "title" : 
       [
