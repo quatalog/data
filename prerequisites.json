@@ -8906,27 +8906,8 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : 
-    [
-      "BIOL-4120"
-    ],
-    "prerequisites" : 
-    {
-      "nested" : 
-      [
-        {
-          "course" : "BIOL 4110",
-          "min_grade" : "D",
-          "type" : "course"
-        },
-        {
-          "course" : "BMED 4110",
-          "min_grade" : "D",
-          "type" : "course"
-        }
-      ],
-      "type" : "or"
-    }
+    "cross_listings" : null,
+    "prerequisites" : null
   },
   "BMED-4130" : 
   {
