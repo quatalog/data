@@ -36337,7 +36337,10 @@
   {
     "attributes" : [],
     "corequisites" : null,
-    "cross_listings" : null,
+    "cross_listings" : 
+    [
+      "MANE-4965"
+    ],
     "prerequisites" : 
     {
       "nested" : 
@@ -37419,7 +37422,7 @@
     "corequisites" : null,
     "cross_listings" : 
     [
-      "MANE-6965"
+      "MANE-4330"
     ],
     "prerequisites" : null
   },
