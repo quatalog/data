@@ -213105,8 +213105,8 @@
       "seats" : 
       {
         "capacity" : 100,
-        "remaining" : 9,
-        "taken" : 91
+        "remaining" : 8,
+        "taken" : 92
       },
       "title" : 
       [
@@ -297551,8 +297551,8 @@
       "seats" : 
       {
         "capacity" : 100,
-        "remaining" : 17,
-        "taken" : 83
+        "remaining" : 16,
+        "taken" : 84
       },
       "title" : 
       [
@@ -299864,8 +299864,8 @@
       "seats" : 
       {
         "capacity" : 190,
-        "remaining" : 46,
-        "taken" : 144
+        "remaining" : 45,
+        "taken" : 145
       },
       "title" : 
       [
@@ -388709,8 +388709,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 40,
-        "remaining" : 0,
+        "capacity" : 50,
+        "remaining" : 10,
         "taken" : 40
       },
       "title" : 
@@ -717257,6 +717257,11 @@
       },
       "instructors" : 
       [
+        "Pingkun Yan",
+        "Yinan Wang",
+        "Yunfeng Shi",
+        "Richard J Radke",
+        "Prashun Gorai",
         "Ali Tajer"
       ],
       "seats" : 
@@ -1121438,8 +1121443,8 @@
       "seats" : 
       {
         "capacity" : 50,
-        "remaining" : 15,
-        "taken" : 35
+        "remaining" : 14,
+        "taken" : 36
       },
       "title" : 
       [
@@ -1178606,8 +1178611,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 25,
-        "remaining" : 0,
+        "capacity" : 40,
+        "remaining" : 15,
         "taken" : 25
       },
       "title" : 
@@ -1182453,8 +1182458,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 20,
-        "remaining" : 3,
+        "capacity" : 30,
+        "remaining" : 13,
         "taken" : 17
       },
       "title" : 
@@ -1182572,8 +1182577,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 30,
-        "remaining" : 15,
+        "capacity" : 40,
+        "remaining" : 25,
         "taken" : 15
       },
       "title" : 
@@ -1192162,8 +1192167,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 30,
-        "remaining" : 15,
+        "capacity" : 40,
+        "remaining" : 25,
         "taken" : 15
       },
       "title" : 
@@ -1196980,8 +1196985,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 20,
-        "remaining" : 17,
+        "capacity" : 30,
+        "remaining" : 27,
         "taken" : 3
       },
       "title" : 
@@ -1271432,8 +1271437,8 @@
       "seats" : 
       {
         "capacity" : 300,
-        "remaining" : 87,
-        "taken" : 213
+        "remaining" : 86,
+        "taken" : 214
       },
       "title" : 
       [
