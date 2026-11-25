@@ -739511,8 +739511,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 358,
-        "remaining" : 3,
+        "capacity" : 384,
+        "remaining" : 29,
         "taken" : 355
       },
       "title" : 
@@ -741927,8 +741927,8 @@
       ],
       "seats" : 
       {
-        "capacity" : 35,
-        "remaining" : 7,
+        "capacity" : 30,
+        "remaining" : 2,
         "taken" : 28
       },
       "title" : 
@@ -884435,7 +884435,34 @@
         "It And Society"
       ]
     },
-    "latest_term" : "202601"
+    "202701" : 
+    {
+      "attributes" : 
+      [
+        "[CI]",
+        "[HInq]"
+      ],
+      "credits" : 
+      {
+        "max" : 4,
+        "min" : 4
+      },
+      "instructors" : 
+      [
+        "Katherine Anne Tyrol"
+      ],
+      "seats" : 
+      {
+        "capacity" : 50,
+        "remaining" : 50,
+        "taken" : 0
+      },
+      "title" : 
+      [
+        "It And Society"
+      ]
+    },
+    "latest_term" : "202701"
   },
   "ITWS-2110" : 
   {
@@ -1326391,8 +1326418,8 @@
       "seats" : 
       {
         "capacity" : 100,
-        "remaining" : 16,
-        "taken" : 84
+        "remaining" : 15,
+        "taken" : 85
       },
       "title" : 
       [
